@@ -1532,6 +1532,10 @@ http://pgplex.net:8080/ColorsBangla/index.fmp4.m3u8?token=edd564d26eb471f2819687
 http://pgplex.net:8080/StarJalshaMovies/index.fmp4.m3u8?token=2b98743108badd9987366a60ebd3d5dd6f196304-cb1a0e19a2d68c194a192d51833da080-1707657221-1707646421
 #EXTINF:-1 tvg-id="" tvg-name="Zee Bangla Cinema" tvg-logo="https://p1.hiclipart.com/preview/532/28/6/cinema-logo-zee-bangla-cinema-zee-cinema-bengali-language-zee-entertainment-enterprises-film-orange-text-png-clipart.jpg" group-title="TV Channels",Zee Bangla Cinema
 http://pgplex.net:8080/ZeeBanglaCinema/index.fmp4.m3u8?token=9aac594286e2e665e6c99fb0a0d301142aa87600-63c77821240fd95c0648f3e3e169c3e2-1707657262-1707646462
+#EXTINF:-1 tvg-id="" tvg-name="Sony Tv" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET%20LOGO.png" group-title="TV Channels",Sony Tv
+http://pgplex.net:8080/SonyTVHD/index.fmp4.m3u8?token=e7066191762ff13e822868cc34e2c55fcfb13783-af75116d3adca974e602727139a65821-1707672859-1707662059
+#EXTINF:-1 tvg-id="" tvg-name="Colors" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="TV Channels",Colors
+http://pgplex.net:8080/ColorsHD/index.fmp4.m3u8?token=f39009c21b221a3d3d9b19f5d2d36a0a0e874149-2713a25191130ce0e2d4b5feb16c97a2-1707672986-1707662186
 #EXTINF:-1 tvg-id="" tvg-name="& Picture" tvg-logo="https://logowik.com/content/uploads/images/pictures-hd4628.logowik.com.webp" group-title="TV Channels",& Picture
 http://pgplex.net:8080/AndPicturesHD/index.fmp4.m3u8?token=afa4e9a1c0002d8735958c5fa02e762414d7b383-a60f3bf71034bdb9d59fa17870b3ff98-1707657027-1707646227
 #EXTINF:-1 tvg-id="" tvg-name="Zee Action" tvg-logo="https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/2b43c88f-23c6-4168-9f77-f1065775df0a/0db00d16-5710-4f11-9911-4cecb50d1518.jpg" group-title="TV Channels",Zee Action
@@ -1542,7 +1546,15 @@ http://pgplex.net:8080/ChannelI/index.fmp4.m3u8?token=775b84e355609420ed2e87a67d
 http://pgplex.net:8080/GaziTVHD/index.fmp4.m3u8?token=5022146eea4a1cd791d78ca218ef5d7a9cd86933-747a0378d968bd3a27577b9b6bf63010-1707656859-1707646059
 #EXTINF:-1 tvg-id="" tvg-name="Somoy Tv" tvg-logo="https://www.somoynews.tv/_nuxt/img/somoy-logo-big-2.8c0bf75.png" group-title="TV Channels",Somoy Tv
 http://pgplex.net:8080/SomoyTv/index.fmp4.m3u8?token=d14f80aad0e5e053a385a1eb846e905303626706-048abc7b0082c6cf15a0a3f5fc159219-1707656916-1707646116
+#EXTINF:-1 tvg-id="" tvg-name="Independent" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/800px-Independent_Television_Logo.svg.png" group-title="TV Channels",Independent
+http://pgplex.net:8080/IndependentTV/index.fmp4.m3u8?token=5f0645ec347a39c5e73c2fcedd91968b8248c123-e50347cecc7ed9a7bb988129853a3472-1707673110-1707662310
+#EXTINF:-1 tvg-id="" tvg-name="Jamuna Tv" tvg-logo="https://jamunagroup.com.bd/company-images/1662487622-mdshamimislam.png" group-title="TV Channels",Jamuna Tv
+http://pgplex.net:8080/JamunaTV/index.fmp4.m3u8?token=78498a14e3b8f1cf221e117906ca9d30ece23cce-acb44520e97bdbb0853485864ae46f80-1707673249-1707662449
+#EXTINF:-1 tvg-id="" tvg-name="Nandan Tv" tvg-logo="https://play-lh.googleusercontent.com/NFY7IIuJrsa9S3t2zkOCwn4yiwVAxBRauvwQlpjlmsrIOvBhhkj9oT50-qqhpPPKbgQ" group-title="TV Channels",Nandan Tv
+http://pgplex.net:8080/NandanTV/index.fmp4.m3u8?token=df81b685e22ad5d30005d47085bb84e18e34e336-20d32cbb6fe5d7da19e3eb48c78f6b09-1707673355-1707662555
 #EXTINF:-1 tvg-id="" tvg-name="9xm" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/9xm_red.svg/revision/latest?cb=20210508163434" group-title="TV Channels",9xm
 http://pgplex.net:8080/9XM/index.fmp4.m3u8?token=e0ff107486d10273e6eb3367e2622dd14f9c724e-48c06755618a6bc9d7910f954b53b3fb-1707657334-1707646534
 #EXTINF:-1 tvg-id="" tvg-name="Tsports" tvg-logo="https://www.tsports.com/img/logo/tsports-1200x630px.png" group-title="TV Channels",Tsports
 http://pgplex.net:8080/TSportsHD/index.fmp4.m3u8?token=094a1e63732d20a11d244a0564c045a8f4e81231-1aac9a2750e5344bd161104ae268fcfd-1707657450-1707646650
+#EXTINF:-1 tvg-id="" tvg-name="Sports 18" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Sports18_logo.svg/1200px-Sports18_logo.svg.png" group-title="TV Channels",Sports 18
+http://pgplex.net:8080/Sports18HD/index.fmp4.m3u8?token=ec44c74660fa951b8b957559100c0a2ecd3a31e3-f7cc5d0655ce62f444fa65edbe673a14-1707673584-1707662784
