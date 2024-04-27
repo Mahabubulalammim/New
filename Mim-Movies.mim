@@ -1477,43 +1477,131 @@ http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282023%29/The%20Vaccine%20War%
 http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282023%29/Tiger%203%20%282023%29%201080p/Tiger%203%20%282023%29%20Hindi%201080p%20AMZN%20WEBRip%20x264%20DD5.1%20ESub%20-%20mkvCinemas.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Yaariyan 2" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282023%29/Yaariyan%202%20%282023%29%201080p/a_AL_.jpg" group-title="Hindi Movies",Yaariyan 2
 http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282023%29/Yaariyan%202%20%282023%29%201080p/Yaariyan%202%20%282023%29%20Hindi%201080p%20JC%20WEBRip%20x264%20DD5.1%20ESub%20-%20mkvCinemas.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Article 370" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282024%29/Article%20370%20%282024%29%201080p/a_AL_.jpg" group-title="Hindi Movies",Article 370
+http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282024%29/Article%20370%20%282024%29%201080p/Article%20370%20%282024%29%20Hindi%201080p%20NF%20WEBRip%20x265%20HEVC%2010bit%20DD5.1%20ESub%20-%20mkvCinemas.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fighter" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282024%29/Fighter%20%282024%29%201080p/a_AL_.jpg" group-title="Hindi Movies",Fighter
+http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282024%29/Fighter%20%282024%29%201080p/Fighter%20%282024%29%20Hindi%201080p%20NF%20WEBRip%20x265%20HEVC%2010bit%20DD5.1%20ESub%20-%20mkvCinemas.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Merry Christmas" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282024%29/Merry%20Christmas%20%282024%29%201080p/a_AL_.jpg" group-title="Hindi Movies",Merry Christmas
+http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282024%29/Merry%20Christmas%20%282024%29%201080p/Merry%20Christmas%20%282024%29%20Hindi%201080p%20NF%20WEBRip%20x264%20DD5.1%20ESub%20-%20mkvCinemas.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Murder Mubarak" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282024%29/Murder%20Mubarak%20%282024%29%201080p/a_AL_.jpg" group-title="Hindi Movies",Murder Mubarak
+http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282024%29/Murder%20Mubarak%20%282024%29%201080p/Murder%20Mubarak%20%282024%29%20Hindi%201080p%20NF%20WEBRip%20x265%20HEVC%2010bit%20DD5.1%20MSubs%20-%20mkvCinemas.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Teri Baaton Mein Aisa Uljha Jiya" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282024%29/Teri%20Baaton%20Mein%20Aisa%20Uljha%20Jiya%20%282024%29%201080p/a_AL_.jpg" group-title="Hindi Movies",Teri Baaton Mein Aisa Uljha Jiya
+http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282024%29/Teri%20Baaton%20Mein%20Aisa%20Uljha%20Jiya%20%282024%29%201080p/Teri%20Baaton%20Mein%20Aisa%20Uljha%20Jiya%20%282024%29%20Hindi%201080p%20AMZN%20WEBRip%20x265%20HEVC%2010bit%20DD5.1%20MSubs%20-%20mkvCinemas.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yodha" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282024%29/Yodha%20%282024%29%201080p/a_AL_.jpg" group-title="Hindi Movies",Yodha
+http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282024%29/Yodha%20%282024%29%201080p/Yodha%20%282024%29%20Hindi%201080p%20AMZN%20WEBRip%20x264%20DD5.1%20ESub%20-%20mkvCinemas.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Crakk-Jeetega" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282024%29/Crakk-Jeetega...%20Toh%20Jiyegaa%20%282024%29%201080p/a_AL_.jpg" group-title="Hindi Movies",Crakk-Jeetega
+http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282024%29/Crakk-Jeetega...%20Toh%20Jiyegaa%20%282024%29%201080p/Crakk%20%282024%29%20Hindi%201080p%20DSNP%20WEBRip%20x264%20DD5.1%20ESub%20-%20mkvCinemas.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bade Miyan Chote Miyan(Hall Print)" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282024%29/Bade%20Miyan%20Chote%20Miyan%20%282024%29%201080p%20HDTS/a_AL_.jpg" group-title="Hindi Movies",Bade Miyan Chote Miyan(Hall Print)
+http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282024%29/Bade%20Miyan%20Chote%20Miyan%20%282024%29%201080p%20HDTS/Bade%20Miyan%20Chote%20Miyan%20%282024%29%20Hindi%201080p%20HDTS%20x264%20AAC%20-%20CineVood.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Crew(Hall Print)" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282024%29/Crew%20%282024%29%201080p%20HDTS/a_AL_.jpg" group-title="Hindi Movies",Crew(Hall Print)
+http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282024%29/Crew%20%282024%29%201080p%20HDTS/Crew%20%282024%29%20Hindi%201080p%20HDTS%20x264%20AAC%20-%20CineVood.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Maidaan(Hall Print)" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282024%29/Maidaan%20%282024%29%201080p%20HDTS/a_AL_.jpg" group-title="Hindi Movies",Maidaan(Hall Print)
+http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282024%29/Maidaan%20%282024%29%201080p%20HDTS/Maidaan%20%282024%29%20Hindi%201080p%20HDTS%20x264%20AAC%20-%20CineVood.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shaitaan(Hall Print)" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282024%29/Shaitaan%20%282024%29%201080p%20HDTS/a_AL_.jpg" group-title="Hindi Movies",Shaitaan(Hall Print)
+http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282024%29/Shaitaan%20%282024%29%201080p%20HDTS/Shaitan%20%282024%29%20Hindi%201080p%20HDTS%20V2%20x264%20AAC%20-%20HDHub4u.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Avatar" tvg-logo="" group-title="Hindi Movies",Avatar
 
-#EXTINF:-1 tvg-id="" tvg-name="Avatar" tvg-logo="" group-title="Hindi Movies",Avatar
 
-#EXTINF:-1 tvg-id="" tvg-name="Avatar" tvg-logo="" group-title="Hindi Movies",Avatar
 
-#EXTINF:-1 tvg-id="" tvg-name="Avatar" tvg-logo="" group-title="Hindi Movies",Avatar
 
-#EXTINF:-1 tvg-id="" tvg-name="Avatar" tvg-logo="" group-title="Hindi Movies",Avatar
 
-#EXTINF:-1 tvg-id="" tvg-name="Avatar" tvg-logo="" group-title="Hindi Movies",Avatar
 
-#EXTINF:-1 tvg-id="" tvg-name="Avatar" tvg-logo="" group-title="Hindi Movies",Avatar
+#EXTINF:-1 tvg-id="" tvg-name="Arundhati" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282009%29%20%26%20Before/Arundhati%20%282009%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="SouthIndian Movies",Arundhati
+http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282009%29%20%26%20Before/Arundhati%20%282009%29%201080p%20%5BDual%20Audio%5D/Arundhati%20%282009%29%20UNCUT%201080p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BTelugu%205.1%5D%20-DMV.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Arya" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282009%29%20%26%20Before/Arya%20%282004%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="SouthIndian Movies",Arya
+http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282009%29%20%26%20Before/Arya%20%282004%29%201080p%20%5BDual%20Audio%5D/Arya%20%282004%29%20UNCUT%201080p%20DVDRip%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BTelugu%202.0%5D%20-BJMB.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Arya 2" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282009%29%20%26%20Before/Arya%202%20%282009%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="SouthIndian Movies",Arya 2
+http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282009%29%20%26%20Before/Arya%202%20%282009%29%201080p%20%5BDual%20Audio%5D/Arya%202%20%282009%29%20UNCUT%201080p%20AMZN%20WEBRip%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BTelugu%202.0%5D%20-BollyF.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Billa" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282009%29%20%26%20Before/Billa%20%282009%29%201080p%20%28Hindi%20Dubbed%29/a_AL_.jpg" group-title="SouthIndian Movies",Billa
+http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282009%29%20%26%20Before/Billa%20%282009%29%201080p%20%28Hindi%20Dubbed%29/Billa%20%282009%29%20Hindi%20Dubbed%201080p%20MX%20WEBRip%20x264%20AAC%20-%20mkvCinemas.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chandramukhi" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282009%29%20%26%20Before/Chandramukhi%20%282005%29%20720p%20%5BDual%20Audio%5D/a_V1_.jpg" group-title="SouthIndian Movies",Chandramukhi
+http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282009%29%20%26%20Before/Chandramukhi%20%282005%29%20720p%20%5BDual%20Audio%5D/Chandramukhi%20%282005%29%20720p%20BRRip%20x264%20%5BDual%20Audio%5D%5BHindi%202.0%2BTamil%205.1%5D.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chatrapathi" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282009%29%20%26%20Before/Chatrapathi%20%282005%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="SouthIndian Movies",Chatrapathi
+http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282009%29%20%26%20Before/Chatrapathi%20%282005%29%201080p%20%5BDual%20Audio%5D/Chatrapathi%20%282005%29%20UNCUT%201080p%20WEBRip%20x264%20%5BDual%20Audio%5D%5BHindi%202.0%2BTelugu%202.0%5D%20-BFlix.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Don No 1" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282009%29%20%26%20Before/Don%20%282007%29%201080p%20%28Hindi%20Dubbed%29/a_AL_.jpg" group-title="SouthIndian Movies",Don No 1
+http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282009%29%20%26%20Before/Don%20%282007%29%201080p%20%28Hindi%20Dubbed%29/Don%20%282007%29%20Hindi%20Dubbed%201080p%20WEBRip%20x264%20AAC%202.0%20-%20mkvCinemas.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ghajini" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282009%29%20%26%20Before/Ghajini%20%282005%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="SouthIndian Movies",Ghajini
+http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282009%29%20%26%20Before/Ghajini%20%282005%29%201080p%20%5BDual%20Audio%5D/Ghajini%20%282005%29%20UNCUT%201080p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BTamil%202.0%5D%20-DMV.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Indian" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282009%29%20%26%20Before/Indian%20%281996%29%201080p%20%28Hindi%20Dubbed%29/a_AL_.jpg" group-title="SouthIndian Movies",Indian
+http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282009%29%20%26%20Before/Indian%20%281996%29%201080p%20%28Hindi%20Dubbed%29/Hindustani%20a.k.a%20Indian%20%281996%29%20Hindi%20Dubbed%201080p%20WEBRip%20x264%20DD2.0%20ESub%20-%20mkvCinemas.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sivaji-The Super Hero" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282009%29%20%26%20Before/Kanthaswamy%20%282009%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="SouthIndian Movies",Sivaji-The Super Hero
+http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282009%29%20%26%20Before/Kanthaswamy%20%282009%29%201080p%20%5BDual%20Audio%5D/Kanthaswamy%20%282009%29%20UNCUT%201080p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%20DD2.0%2BTamil%202.0%5D%20-DMV.mkv
+#EXTINF:-1 tvg-id="" tvg-name="King No 1" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282009%29%20%26%20Before/King%20%282008%29%20720p%20%5BDual%20Audio%5D/aYDL.jpg" group-title="SouthIndian Movies",King No 1
+http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282009%29%20%26%20Before/King%20%282008%29%20720p%20%5BDual%20Audio%5D/King%20%282008%29%20720p%20UNCUT%20BluRay%20x264%20Eng%20Subs%20%5BDual%20Audio%5D%20%5BHindi%20DD%202.0%20-%20Telugu%20DD%205.1%5D.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Magadheera" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282009%29%20%26%20Before/Magadheera%20%282009%29%201080p%20%5BDual%20Audio%5D/a03.jpg" group-title="SouthIndian Movies",Magadheera
+http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282009%29%20%26%20Before/Magadheera%20%282009%29%201080p%20%5BDual%20Audio%5D/Magadheera%20%282009%29%20UNCUT%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BTelugu%205.1%5D%20-mkvC.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samba" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282009%29%20%26%20Before/Mawali%20Rajkumar%20aka%20Samba%20%282004%29%20720p%20%28Hindi%20Dubbed%29/a88.jpg" group-title="SouthIndian Movies",Samba
+http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282009%29%20%26%20Before/Mawali%20Rajkumar%20aka%20Samba%20%282004%29%20720p%20%28Hindi%20Dubbed%29/Mawali%20Rajkumar%20aka%20Samba%202004%20Hindi%20Dubbed%20720p%20AAC%20x264%20Jr%20NTR%2C%20Prakash%20Raj-%5BSOLID%20GOLD%5D.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Muni" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282009%29%20%26%20Before/Muni%20%282007%29%20720p%20%5BDual%20Audio%5D/aed.jpg" group-title="SouthIndian Movies",Muni
+http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282009%29%20%26%20Before/Muni%20%282007%29%20720p%20%5BDual%20Audio%5D/Muni%20%282007%29%20720p%20HDTVRip%20x264%20%5BDual%20Audio%5D%20%5BHindi%202.0%20-%20Tamil%202.0%5D.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Okkadu" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282009%29%20%26%20Before/Okkadu%20%282003%29%20720p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="SouthIndian Movies",Okkadu
+http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282009%29%20%26%20Before/Okkadu%20%282003%29%20720p%20%5BDual%20Audio%5D/Okkadu%20%282003%29%20Hindi%20Dubbed%201080p%20WEBRip%20x264%20AAC%202.0%20ESub%20-%20mkvCinemas.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Parugu" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282009%29%20%26%20Before/Parugu%20%282008%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="SouthIndian Movies",Parugu
+http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282009%29%20%26%20Before/Parugu%20%282008%29%201080p%20%5BDual%20Audio%5D/Parugu%20%282008%29%20UNCUT%201080p%20WEBRip%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BTelugu%205.1%5D%20-DMV.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pokiri" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282009%29%20%26%20Before/Pokiri%20%282006%29%20720p%20%5BDual%20Audio%5D/a%282006%29.jpg" group-title="SouthIndian Movies",Pokiri
+http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282009%29%20%26%20Before/Pokiri%20%282006%29%20720p%20%5BDual%20Audio%5D/Pokiri%20%282006%29%20720p%20UNCUT%20HDRip%20ESubs%20%5BDual%20Audio%5D%5BHindi%20DD2.0%2BTelugu%20DD5.1%5D.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sivaji The Boss" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282009%29%20%26%20Before/Sivaji%20%282007%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="SouthIndian Movies",Sivaji The Boss
+http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282009%29%20%26%20Before/Sivaji%20%282007%29%201080p%20%5BDual%20Audio%5D/Sivaji%20The%20Boss%20%282007%29%20UNCUT%201080p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BTamil%205.1%5D%20-DMV.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Brindaavanam" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282010%29/Brindaavanam%20%282010%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="SouthIndian Movies",Brindaavanam
+http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282010%29/Brindaavanam%20%282010%29%201080p%20%5BDual%20Audio%5D/Brindavanam%20%282010%29%20UNCUT%201080p%20WEBRip%20x264%20%5BDual%20Audio%5D%5BHindi%20DD2.0%2BTelugu%202.0%5D%20-DMV.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Darling" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282010%29/Darling%20%282010%29%20720p%20%5BDual%20Audio%5D/aV1_.jpg" group-title="SouthIndian Movies",Darling
+http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282010%29/Darling%20%282010%29%20720p%20%5BDual%20Audio%5D/Darling%20%282010%29%20UNCUT%20720p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%20DD2.0%2BTelugu%202.0%5D%20-DMV.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Khaleja" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282010%29/Khaleja%20%282010%29%20720p%20%5BDual%20Audio%5D/a%282010%29.jpg" group-title="SouthIndian Movies",Khaleja
+http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282010%29/Khaleja%20%282010%29%20720p%20%5BDual%20Audio%5D/Khaleja%20%282010%29%20720p%20UNCUT%20HDRip%20ESubs%20%5BDual%20Audio%5D%5BHindi%20DD2.0%2BTelugu%20DD5.1%5D.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chandramukhi 2" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282010%29/Nagavalli%20%282010%29%20%5BDual%20Audio%5D/a-1.jpg" group-title="SouthIndian Movies",Chandramukhi 2
+http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282010%29/Nagavalli%20%282010%29%20%5BDual%20Audio%5D/Nagavalli%20Dvd%20Rip%202010.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Avatar" tvg-logo="" group-title="SouthIndian Movies",Avatar
 
-#EXTINF:-1 tvg-id="" tvg-name="Avatar" tvg-logo="" group-title="Hindi Movies",Avatar
+#EXTINF:-1 tvg-id="" tvg-name="Avatar" tvg-logo="" group-title="SouthIndian Movies",Avatar
 
-#EXTINF:-1 tvg-id="" tvg-name="Avatar" tvg-logo="" group-title="Hindi Movies",Avatar
+#EXTINF:-1 tvg-id="" tvg-name="Avatar" tvg-logo="" group-title="SouthIndian Movies",Avatar
 
-#EXTINF:-1 tvg-id="" tvg-name="Avatar" tvg-logo="" group-title="Hindi Movies",Avatar
+#EXTINF:-1 tvg-id="" tvg-name="Avatar" tvg-logo="" group-title="SouthIndian Movies",Avatar
 
-#EXTINF:-1 tvg-id="" tvg-name="Avatar" tvg-logo="" group-title="Hindi Movies",Avatar
+#EXTINF:-1 tvg-id="" tvg-name="Avatar" tvg-logo="" group-title="SouthIndian Movies",Avatar
 
-#EXTINF:-1 tvg-id="" tvg-name="Avatar" tvg-logo="" group-title="Hindi Movies",Avatar
+#EXTINF:-1 tvg-id="" tvg-name="Avatar" tvg-logo="" group-title="SouthIndian Movies",Avatar
 
-#EXTINF:-1 tvg-id="" tvg-name="Avatar" tvg-logo="" group-title="Hindi Movies",Avatar
+#EXTINF:-1 tvg-id="" tvg-name="Avatar" tvg-logo="" group-title="SouthIndian Movies",Avatar
 
-#EXTINF:-1 tvg-id="" tvg-name="Avatar" tvg-logo="" group-title="Hindi Movies",Avatar
+#EXTINF:-1 tvg-id="" tvg-name="Avatar" tvg-logo="" group-title="SouthIndian Movies",Avatar
 
-#EXTINF:-1 tvg-id="" tvg-name="Avatar" tvg-logo="" group-title="Hindi Movies",Avatar
+#EXTINF:-1 tvg-id="" tvg-name="Avatar" tvg-logo="" group-title="SouthIndian Movies",Avatar
 
-#EXTINF:-1 tvg-id="" tvg-name="Avatar" tvg-logo="" group-title="Hindi Movies",Avatar
+#EXTINF:-1 tvg-id="" tvg-name="Avatar" tvg-logo="" group-title="SouthIndian Movies",Avatar
 
-#EXTINF:-1 tvg-id="" tvg-name="Avatar" tvg-logo="" group-title="Hindi Movies",Avatar
+#EXTINF:-1 tvg-id="" tvg-name="Avatar" tvg-logo="" group-title="SouthIndian Movies",Avatar
 
-#EXTINF:-1 tvg-id="" tvg-name="Avatar" tvg-logo="" group-title="Hindi Movies",Avatar
+#EXTINF:-1 tvg-id="" tvg-name="Avatar" tvg-logo="" group-title="SouthIndian Movies",Avatar
 
-#EXTINF:-1 tvg-id="" tvg-name="Avatar" tvg-logo="" group-title="Hindi Movies",Avatar
+#EXTINF:-1 tvg-id="" tvg-name="Avatar" tvg-logo="" group-title="SouthIndian Movies",Avatar
+
+#EXTINF:-1 tvg-id="" tvg-name="Avatar" tvg-logo="" group-title="SouthIndian Movies",Avatar
+
+#EXTINF:-1 tvg-id="" tvg-name="Avatar" tvg-logo="" group-title="SouthIndian Movies",Avatar
+
+#EXTINF:-1 tvg-id="" tvg-name="Avatar" tvg-logo="" group-title="SouthIndian Movies",Avatar
+
+#EXTINF:-1 tvg-id="" tvg-name="Avatar" tvg-logo="" group-title="SouthIndian Movies",Avatar
+
+#EXTINF:-1 tvg-id="" tvg-name="Avatar" tvg-logo="" group-title="SouthIndian Movies",Avatar
+
+#EXTINF:-1 tvg-id="" tvg-name="Avatar" tvg-logo="" group-title="SouthIndian Movies",Avatar
+
+#EXTINF:-1 tvg-id="" tvg-name="Avatar" tvg-logo="" group-title="SouthIndian Movies",Avatar
+
+#EXTINF:-1 tvg-id="" tvg-name="Avatar" tvg-logo="" group-title="SouthIndian Movies",Avatar
+
+#EXTINF:-1 tvg-id="" tvg-name="Avatar" tvg-logo="" group-title="SouthIndian Movies",Avatar
+
+#EXTINF:-1 tvg-id="" tvg-name="Avatar" tvg-logo="" group-title="SouthIndian Movies",Avatar
+
+#EXTINF:-1 tvg-id="" tvg-name="Avatar" tvg-logo="" group-title="SouthIndian Movies",Avatar
+
+#EXTINF:-1 tvg-id="" tvg-name="Avatar" tvg-logo="" group-title="SouthIndian Movies",Avatar
+
+#EXTINF:-1 tvg-id="" tvg-name="Avatar" tvg-logo="" group-title="SouthIndian Movies",Avatar
+
 
 
 
