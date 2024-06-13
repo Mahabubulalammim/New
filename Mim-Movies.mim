@@ -1493,7 +1493,7 @@ http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282024%29/Yodha%20%282024%29%2
 http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282024%29/Crakk-Jeetega...%20Toh%20Jiyegaa%20%282024%29%201080p/Crakk%20%282024%29%20Hindi%201080p%20DSNP%20WEBRip%20x264%20DD5.1%20ESub%20-%20mkvCinemas.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Crew" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282024%29/Crew%20%282024%29%201080p/a_AL_.jpg" group-title="Hindi Movies",Crew
 http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282024%29/Crew%20%282024%29%201080p/Crew%20%282024%29%20Hindi%201080p%20NF%20WEBRip%20x264%20DD5.1%20MSubs%20-%20mkvCinemas.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Maidaan" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282024%29/Maidaan%20%282024%29%201080p%20HDTS/a_AL_.jpg" group-title="Hindi Movies",Maidaan
+#EXTINF:-1 tvg-id="" tvg-name="Maidaan" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282024%29/Maidaan%20%282024%29%201080p/a_AL_.jpg" group-title="Hindi Movies",Maidaan
 http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282024%29/Maidaan%20%282024%29%201080p/Maidaan%20%282024%29%20Hindi%201080p%20AMZN%20WEBRip%20x264%20DD%205.1%20ESub%20-%20mkvCinemas.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Shaitaan" tvg-logo="  http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282024%29/Shaitaan%20%282024%29%201080p/a_AL_.jpg " group-title="Hindi Movies",Shaitaan
 http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282024%29/Shaitaan%20%282024%29%201080p/Shaitaan%20%282024%29%20Hindi%201080p%20NF%20WEBRip%20x264%20DD5.1%20MSubs%20-%20mkvCinemas.mkv
@@ -1503,8 +1503,15 @@ http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282023%29/Laapataa%20Ladies%20
 http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282024%29/Bade%20Miyan%20Chote%20Miyan%20%282024%29%201080p/Bade%20Miyan%20Chote%20Miyan%20%282024%29%20Hindi%201080p%20NF%20WEBRip%20x265%20HEVC%2010bit%20DD5.1%20ESub%20-%20mkvCinemas.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Ganapath" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282023%29/Ganapath%20%282023%29%20720p%20HDTV/a_AL_.jpg" group-title="Hindi Movies",Ganapath
 http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282023%29/Ganapath%20%282023%29%20720p%20HDTV/Ganapath%20%282023%29%20Hindi%20720p%20HDTV%20x264%20AAC%20-%20mkvCinemas.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr & Mrs Mahi" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282024%29/Mr.%20%26%20Mrs.%20Mahi%20%282024%29%201080p%20HDTS/a_AL_.jpg" group-title="Hindi Movies",Mr & Mrs Mahi
+http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282024%29/Mr.%20%26%20Mrs.%20Mahi%20%282024%29%201080p%20HDTS/Mr%20%26%20Mrs%20Mahi%20%282024%29%20Hindi%201080p%20HDTS%20x264%20AAC%20-%20CineVood.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Munjya" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282024%29/Munjya%20%282024%29%201080p%20HDTS/a_AL_.jpg" group-title="Hindi Movies",Munjya
+http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282024%29/Munjya%20%282024%29%201080p%20HDTS/Munjya%20%282024%29%20Hindi%201080p%20HDTS%20x264%20AAC%20-%20CineVood.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Avatar" tvg-logo="" group-title="Hindi Movies",Avatar
 
+#EXTINF:-1 tvg-id="" tvg-name="Avatar" tvg-logo="" group-title="Hindi Movies",Avatar
+
+#EXTINF:-1 tvg-id="" tvg-name="Avatar" tvg-logo="" group-title="Hindi Movies",Avatar
 
 
 
