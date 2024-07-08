@@ -1882,8 +1882,8 @@ http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282024
 
 #EXTINF:-1 tvg-id="" tvg-name="Avatar" tvg-logo="" group-title="SouthIndian Movies",Avatar
 
-#EXTINF:-1 tvg-id="" tvg-name="Avatar" tvg-logo="" group-title="SouthIndian Movies",Avatar
-
+#EXTINF:-1 tvg-id="" tvg-name="Avatar" tvg-logo="http://172.16.50.7/DHAKA-FLIX-7/3D%20Movies/Avatar%20%282009%29%201080p%20%5B3D%5D/new.jpg" group-title="SouthIndian Movies",Avatar
+http://172.16.50.7/DHAKA-FLIX-7/3D%20Movies/Avatar%20%282009%29%201080p%20%5B3D%5D/Avatar%20%282009%29%201080p%20%5B3D%5D.mp4
 
 
 
