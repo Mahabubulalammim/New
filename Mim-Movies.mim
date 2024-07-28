@@ -1933,7 +1933,11 @@ http://172.16.50.12/DHAKA-FLIX-12/TV-WEB-Series/TV%20Series%20%E2%99%A6%20%20M%2
 
 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png/revision/latest/scale-to-width-down/250?cb=20240315124524" group-title="Live TV",Star Jalsha
+http://cdn.bdix.xyz:8080/play/3A-9eBuQwRgxqjPWakgPglGUzlDh7FJsgAx7yphsJi0/ts
+#EXTINF:-1 tvg-id="" tvg-name="Zee Bangla" tvg-logo="https://smartads.in/resources/assets/uploads/product_group/television/zee-bangla-hd-logo.webp" group-title="Live TV",Zee Bangla 
+http://cdn.bdix.xyz:8080/play/3A-9eBuQwRgxqjPWakgPgtwJer5Qqgf3blAxd6V--tA/ts
+#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha" tvg-logo="" group-title="Live TV",Star Jalsha
 
 
 
