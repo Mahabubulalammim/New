@@ -1933,7 +1933,7 @@ http://172.16.50.12/DHAKA-FLIX-12/TV-WEB-Series/TV%20Series%20%E2%99%A6%20%20M%2
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Btv World" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/BTV_World_Logo.png" group-title="Live TV",Btv World
-https://edge01.iptv.digijadoo.net/live/btv_world/chunks.m3u8?expires=1723349669&md5=jCa5eWoglY7yIe2j-iweCw&user=52c59f345b2f42c2879e33c29b347ddd
+https://edge01.iptv.digijadoo.net/live/btv_world/playlist.m3u8?md5=pNICaZyYG4IdEK60zh_thA&expires=1723351947&user=52c59f345b2f42c2879e33c29b347ddd
 #EXTINF:-1 tvg-id="" tvg-name="ATN Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThFvDYe3XVqLCsdNRaTzvfI8VO6FKxhIQfKw&s" group-title="Live TV",ATN Bangla
 https://edge01.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8?expires=1723349766&md5=BFX9odODE-8u5MjplIpIPw&user=52c59f345b2f42c2879e33c29b347ddd
 #EXTINF:-1 tvg-id="" tvg-name="ATN NEWS" tvg-logo="https://seeklogo.com/images/A/atn-news-logo-6A3E3EC072-seeklogo.com.png" group-title="Live TV",ATN NEWS
