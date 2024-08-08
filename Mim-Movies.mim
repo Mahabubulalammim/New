@@ -1932,11 +1932,61 @@ http://172.16.50.12/DHAKA-FLIX-12/TV-WEB-Series/TV%20Series%20%E2%99%A6%20%20M%2
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="Btv World" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/BTV_World_Logo.png" group-title="Live TV",Btv World
+https://edge01.iptv.digijadoo.net/live/btv_world/chunks.m3u8?expires=1723349669&md5=jCa5eWoglY7yIe2j-iweCw&user=52c59f345b2f42c2879e33c29b347ddd
+#EXTINF:-1 tvg-id="" tvg-name="ATN Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThFvDYe3XVqLCsdNRaTzvfI8VO6FKxhIQfKw&s" group-title="Live TV",ATN Bangla
+https://edge01.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8?expires=1723349766&md5=BFX9odODE-8u5MjplIpIPw&user=52c59f345b2f42c2879e33c29b347ddd
+#EXTINF:-1 tvg-id="" tvg-name="ATN NEWS" tvg-logo="https://seeklogo.com/images/A/atn-news-logo-6A3E3EC072-seeklogo.com.png" group-title="Live TV",ATN NEWS
+https://edge01.iptv.digijadoo.net/live/atn_news/chunks.m3u8?expires=1723349847&md5=t6Ya67YScEpTvPs44_fBwQ&user=52c59f345b2f42c2879e33c29b347ddd
+#EXTINF:-1 tvg-id="" tvg-name="Channel I" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png" group-title="Live TV",Channel I
+https://edge01.iptv.digijadoo.net/live/channel_i/chunks.m3u8?expires=1723349947&md5=S9I5y2y7qdlBWaAlxLTv6g&user=52c59f345b2f42c2879e33c29b347ddd
+#EXTINF:-1 tvg-id="" tvg-name="Asian TV" tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/2/20/Asian_TV_Logo.png/revision/latest/thumbnail/width/360/height/360?cb=20240218193308" group-title="Live TV",Asian TV
+https://edge01.iptv.digijadoo.net/live/asian_tv/chunks.m3u8?expires=1723350085&md5=EatUgFPWPNIEF9t9pOQpOA&user=52c59f345b2f42c2879e33c29b347ddd
+#EXTINF:-1 tvg-id="" tvg-name="Boishakhi Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/1160px-Boishakhi_TV_logo.svg.png" group-title="Live TV",Boishakhi Tv
+https://edge01.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8?expires=1723350179&md5=nbHcr6LfaqKafF0N3Og1rA&user=52c59f345b2f42c2879e33c29b347ddd
+#EXTINF:-1 tvg-id="" tvg-name="Bangla Tv" tvg-logo="https://seeklogo.com/images/B/bangla-tv-logo-6B727D20B2-seeklogo.com.png" group-title="Live TV",Bangla Tv
+https://edge01.iptv.digijadoo.net/live/bangla_tv/chunks.m3u8?expires=1723350253&md5=OVqahtMhfVkviqT45JlSEA&user=52c59f345b2f42c2879e33c29b347ddd
+#EXTINF:-1 tvg-id="" tvg-name="Bijoy Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbd5o1UTcZggrzKnUtDX9IFQ9czWdwo_vVzw&s" group-title="Live TV",Bijoy Tv
+https://edge01.iptv.digijadoo.net/live/bijoy_tv/chunks.m3u8?expires=1723350315&md5=Av7772qlvlrDa_R5Xk22hA&user=52c59f345b2f42c2879e33c29b347ddd
+#EXTINF:-1 tvg-id="" tvg-name="Channel 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/1200px-Channel24logo.svg.png" group-title="Live TV",Channel 24
+https://edge01.iptv.digijadoo.net/live/channel_24/chunks.m3u8?expires=1723350395&md5=27Y7WvxZVmBPWpSd6aQ48A&user=52c59f345b2f42c2879e33c29b347ddd
+#EXTINF:-1 tvg-id="" tvg-name="Independent Tv" tvg-logo="https://e7.pngegg.com/pngimages/820/350/png-clipart-bangladesh-independent-television-television-channel-independent-international-tv-independent-television-authority-television-text-thumbnail.png" group-title="Live TV",Independent Tv
+https://edge01.iptv.digijadoo.net/live/independent_tv/chunks.m3u8?expires=1723350469&md5=lBPEdozhw490O4NUV7vHnQ&user=52c59f345b2f42c2879e33c29b347ddd
+#EXTINF:-1 tvg-id="" tvg-name="DBC News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" group-title="Live TV",DBC News
+https://edge01.iptv.digijadoo.net/live/dbc_news/chunks.m3u8?expires=1723350537&md5=NmNqjJuexxJgHeXWxjPAVQ&user=52c59f345b2f42c2879e33c29b347ddd
+#EXTINF:-1 tvg-id="" tvg-name="GTv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Live TV",GTv
+https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/chunks.m3u8?expires=1723350602&md5=F_jeJZZQC0dOEmCwowFBSg&user=52c59f345b2f42c2879e33c29b347ddd
+#EXTINF:-1 tvg-id="" tvg-name="Jamuna Tv" tvg-logo="https://jamunagroup.com.bd/company-images/1662487622-mdshamimislam.png" group-title="Live TV",Jamuna Tv
+https://edge01.iptv.digijadoo.net/live/jamuna_tv/chunks.m3u8?expires=1723350650&md5=b6Iy-e8nhi9Rtphs7FcgTw&user=52c59f345b2f42c2879e33c29b347ddd
+#EXTINF:-1 tvg-id="" tvg-name="Ntv" tvg-logo="https://seeklogo.com/images/N/ntv-channel-logo-D930884934-seeklogo.com.png" group-title="Live TV",Ntv
+https://edge01.iptv.digijadoo.net/live/ntv/chunks.m3u8?expires=1723350708&md5=2QVvcJXJ8AxmQcmDR_Wuxg&user=52c59f345b2f42c2879e33c29b347ddd
+#EXTINF:-1 tvg-id="" tvg-name="Maasranga tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" group-title="Live TV",Maasranga tv
+https://edge01.iptv.digijadoo.net/live/maasranga/chunks.m3u8?expires=1723350755&md5=QXuTh-wf3yU9SA-PCqh1gA&user=52c59f345b2f42c2879e33c29b347ddd
+#EXTINF:-1 tvg-id="" tvg-name="Ekushey Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4k8ITktKIOWih_drMpHPmqWbZhmCzC01LiQ&s" group-title="Live TV",Ekushey Tv
+https://edge01.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8?expires=1723350838&md5=ozB7i2h-bRS5rVw7Llg9jg&user=52c59f345b2f42c2879e33c29b347ddd
+#EXTINF:-1 tvg-id="" tvg-name="Desh Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Desh_tv_logo.jpg" group-title="Live TV",Desh Tv
+https://edge01.iptv.digijadoo.net/live/desh_tv/chunks.m3u8?expires=1723350911&md5=jWyuL4DXyLmeEFxjRXm7jQ&user=52c59f345b2f42c2879e33c29b347ddd
+#EXTINF:-1 tvg-id="" tvg-name="Duranta" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="Live TV",Duranta
+https://edge01.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8?expires=1723350960&md5=H-KFyyQ6igFbhgQV8HsPAg&user=52c59f345b2f42c2879e33c29b347ddd
+#EXTINF:-1 tvg-id="" tvg-name="Somoy Tv" tvg-logo="https://cdn.dribbble.com/users/2222834/screenshots/19237533/media/92a87e3a2ef917f0b19bf9b65793f4e5.png" group-title="Live TV",Somoy Tv
+https://edge01.iptv.digijadoo.net/live/somoy_news/chunks.m3u8?expires=1723351025&md5=zSjm6gnLZV7IwtqDX3_0Ug&user=52c59f345b2f42c2879e33c29b347ddd
+#EXTINF:-1 tvg-id="" tvg-name="SA Tv" tvg-logo="https://lh4.googleusercontent.com/proxy/BaedKVqG_knFgxkWSPqSy7v7qmxs7siwVmGBnNuVp3ok4I-p2Am1gOCnCtFfdNLt1K6EhOXfsgkvCXT2MxMOOSjQKoSXJ0A5-XaLo6XXLzRjdv49-sEGXTMZmIWQ1fZU5o0eCeGIgsnIMuqgQIUfvKputP7ZA9jptlU7JZ_pbyJAwA81WPD9tcXeqIW1_-TJWaikRmsRKuAj0IkLD4Xz" group-title="Live TV",SA Tv
+https://edge01.iptv.digijadoo.net/live/sa_tv/chunks.m3u8?expires=1723351083&md5=RpY_WwYPw-F4oPIfpCIvaA&user=52c59f345b2f42c2879e33c29b347ddd
+#EXTINF:-1 tvg-id="" tvg-name="Rtv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/1200px-Rtv_bangladesh.svg.png" group-title="Live TV",Rtv
+https://edge01.iptv.digijadoo.net/live/rtv/chunks.m3u8?expires=1723351145&md5=tBAK_k4-vhPXkctv5eibfA&user=52c59f345b2f42c2879e33c29b347ddd
+#EXTINF:-1 tvg-id="" tvg-name="Nagorik Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/24/Nagorik_TV_Logo.png" group-title="Live TV",Nagorik Tv
+https://edge01.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8?expires=1723351217&md5=RbdJF41Lf7aolNCOn7NYRw&user=52c59f345b2f42c2879e33c29b347ddd
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cinema" tvg-logo="https://w7.pngwing.com/pngs/878/103/png-transparent-zee-cinema-television-channel-zee-tv-zee-entertainment-enterprises-cinema-logo-television-text-bollywood.png" group-title="Live TV",Zee Cinema
+https://edge01.iptv.digijadoo.net/live/zee_cinema_hd/chunks.m3u8?expires=1723351386&md5=RTfKpHq7XjkK4jwWtde92Q&user=52c59f345b2f42c2879e33c29b347ddd
 #EXTINF:-1 tvg-id="" tvg-name="Star Jalsha" tvg-logo="" group-title="Live TV",Star Jalsha
-http://cdn.bdix.xyz:8080/play/3A-9eBuQwRgxqjPWakgPglGUzlDh7FJsgAx7yphsJi0/ts
-#EXTINF:-1 tvg-id="" tvg-name="Zee Bangla" tvg-logo="" group-title="Live TV",Zee Bangla 
-http://cdn.bdix.xyz:8080/play/3A-9eBuQwRgxqjPWakgPgtwJer5Qqgf3blAxd6V--tA/ts
+
 #EXTINF:-1 tvg-id="" tvg-name="Star Jalsha" tvg-logo="" group-title="Live TV",Star Jalsha
+
+#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha" tvg-logo="" group-title="Live TV",Star Jalsha
+
+#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha" tvg-logo="" group-title="Live TV",Star Jalsha
+
+
 
 
 
