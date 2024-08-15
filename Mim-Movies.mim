@@ -1932,59 +1932,109 @@ http://172.16.50.12/DHAKA-FLIX-12/TV-WEB-Series/TV%20Series%20%E2%99%A6%20%20M%2
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Btv World" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/BTV_World_Logo.png" group-title="Live TV",Btv World
-https://edge01.iptv.digijadoo.net/live/btv_world/playlist.m3u8?md5=pNICaZyYG4IdEK60zh_thA&expires=1723351947&user=52c59f345b2f42c2879e33c29b347ddd
-#EXTINF:-1 tvg-id="" tvg-name="ATN Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThFvDYe3XVqLCsdNRaTzvfI8VO6FKxhIQfKw&s" group-title="Live TV",ATN Bangla
-https://edge01.iptv.digijadoo.net/live/atn_bangla/playlist.m3u8?md5=XXYfY9WM49S7DNwsoiBfMA&expires=1723352138&user=52c59f345b2f42c2879e33c29b347ddd
-#EXTINF:-1 tvg-id="" tvg-name="ATN NEWS" tvg-logo="https://seeklogo.com/images/A/atn-news-logo-6A3E3EC072-seeklogo.com.png" group-title="Live TV",ATN NEWS
-https://edge01.iptv.digijadoo.net/live/atn_news/playlist.m3u8?md5=CGFj91l-IRo3aVLTz-aieA&expires=1723352167&user=52c59f345b2f42c2879e33c29b347ddd
-#EXTINF:-1 tvg-id="" tvg-name="Channel I" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png" group-title="Live TV",Channel I
-https://edge01.iptv.digijadoo.net/live/channel_i/playlist.m3u8?md5=jH26aYmyxPg0L88bLKaiiw&expires=1723352258&user=52c59f345b2f42c2879e33c29b347ddd
-#EXTINF:-1 tvg-id="" tvg-name="Asian TV" tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/2/20/Asian_TV_Logo.png/revision/latest/thumbnail/width/360/height/360?cb=20240218193308" group-title="Live TV",Asian TV
-https://edge01.iptv.digijadoo.net/live/asian_tv/playlist.m3u8?md5=XX22WJ4Fz-yHmGaSq5J12A&expires=1723352342&user=52c59f345b2f42c2879e33c29b347ddd
-#EXTINF:-1 tvg-id="" tvg-name="Boishakhi Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/1160px-Boishakhi_TV_logo.svg.png" group-title="Live TV",Boishakhi Tv
-https://edge01.iptv.digijadoo.net/live/boishakhi_tv/playlist.m3u8?md5=gZ4YVm5OfRAGagOLywoPkw&expires=1723352582&user=52c59f345b2f42c2879e33c29b347ddd
-#EXTINF:-1 tvg-id="" tvg-name="Bangla Tv" tvg-logo="https://seeklogo.com/images/B/bangla-tv-logo-6B727D20B2-seeklogo.com.png" group-title="Live TV",Bangla Tv
-https://edge01.iptv.digijadoo.net/live/bangla_tv/chunks.m3u8?expires=1723350253&md5=OVqahtMhfVkviqT45JlSEA&user=52c59f345b2f42c2879e33c29b347ddd
-#EXTINF:-1 tvg-id="" tvg-name="Bijoy Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbd5o1UTcZggrzKnUtDX9IFQ9czWdwo_vVzw&s" group-title="Live TV",Bijoy Tv
-https://edge01.iptv.digijadoo.net/live/bijoy_tv/playlist.m3u8?md5=PljQfoeQ319QNveoHMN-Kg&expires=1723352794&user=52c59f345b2f42c2879e33c29b347ddd
-#EXTINF:-1 tvg-id="" tvg-name="Channel 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/1200px-Channel24logo.svg.png" group-title="Live TV",Channel 24
-https://edge01.iptv.digijadoo.net/live/channel_24/playlist.m3u8?md5=tyQgaG25au82m8CsXLlJFA&expires=1723352880&user=52c59f345b2f42c2879e33c29b347ddd
-#EXTINF:-1 tvg-id="" tvg-name="Independent Tv" tvg-logo="https://e7.pngegg.com/pngimages/820/350/png-clipart-bangladesh-independent-television-television-channel-independent-international-tv-independent-television-authority-television-text-thumbnail.png" group-title="Live TV",Independent Tv
-https://edge01.iptv.digijadoo.net/live/independent_tv/playlist.m3u8?md5=bfdtIlyN1IkK6nIyL6qfPw&expires=1723352915&user=52c59f345b2f42c2879e33c29b347ddd
-#EXTINF:-1 tvg-id="" tvg-name="DBC News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" group-title="Live TV",DBC News
-https://edge01.iptv.digijadoo.net/live/dbc_news/playlist.m3u8?md5=TFkd2r1GuvHxqPBnADDjOA&expires=1723352991&user=52c59f345b2f42c2879e33c29b347ddd
-#EXTINF:-1 tvg-id="" tvg-name="GTv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Live TV",GTv
-https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=5eRw5KHA5HCmy1Ujhgtl-A&expires=1723353035&user=52c59f345b2f42c2879e33c29b347ddd
-#EXTINF:-1 tvg-id="" tvg-name="Jamuna Tv" tvg-logo="https://jamunagroup.com.bd/company-images/1662487622-mdshamimislam.png" group-title="Live TV",Jamuna Tv
-https://edge01.iptv.digijadoo.net/live/jamuna_tv/playlist.m3u8?md5=ge9OPHY1PBmiItKSto4uRg&expires=1723353074&user=52c59f345b2f42c2879e33c29b347ddd
-#EXTINF:-1 tvg-id="" tvg-name="Ntv" tvg-logo="https://seeklogo.com/images/N/ntv-channel-logo-D930884934-seeklogo.com.png" group-title="Live TV",Ntv
-https://edge01.iptv.digijadoo.net/live/ntv/playlist.m3u8?md5=QE-N_xlzDb7i5sWzMwqH2A&expires=1723353105&user=52c59f345b2f42c2879e33c29b347ddd
-#EXTINF:-1 tvg-id="" tvg-name="Maasranga tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" group-title="Live TV",Maasranga tv
-https://edge01.iptv.digijadoo.net/live/maasranga/playlist.m3u8?md5=NPjiQOUS-VhkX_JKO690JQ&expires=1723353133&user=52c59f345b2f42c2879e33c29b347ddd
-#EXTINF:-1 tvg-id="" tvg-name="Ekushey Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4k8ITktKIOWih_drMpHPmqWbZhmCzC01LiQ&s" group-title="Live TV",Ekushey Tv
-https://edge01.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8?expires=1723350838&md5=ozB7i2h-bRS5rVw7Llg9jg&user=52c59f345b2f42c2879e33c29b347dddhttps://edge01.iptv.digijadoo.net/live/ekushey_tv/playlist.m3u8?md5=JvqSWN2LAOOgEnsyVRH4MA&expires=1723353202&user=52c59f345b2f42c2879e33c29b347ddd
-#EXTINF:-1 tvg-id="" tvg-name="Desh Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Desh_tv_logo.jpg" group-title="Live TV",Desh Tv
-https://edge01.iptv.digijadoo.net/live/desh_tv/playlist.m3u8?md5=s0NPFJopkTUdjFsmaHzJMw&expires=1723353273&user=52c59f345b2f42c2879e33c29b347ddd
-#EXTINF:-1 tvg-id="" tvg-name="Duranta" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="Live TV",Duranta
-https://edge01.iptv.digijadoo.net/live/duronto_tv/playlist.m3u8?md5=tM7zXe4RSWl2GPBLy4nlwg&expires=1723353320&user=52c59f345b2f42c2879e33c29b347ddd
-#EXTINF:-1 tvg-id="" tvg-name="Somoy Tv" tvg-logo="https://cdn.dribbble.com/users/2222834/screenshots/19237533/media/92a87e3a2ef917f0b19bf9b65793f4e5.png" group-title="Live TV",Somoy Tv
-https://edge01.iptv.digijadoo.net/live/somoy_news/playlist.m3u8?md5=casVPP3BpCUmIHy6uyjPEw&expires=1723353354&user=52c59f345b2f42c2879e33c29b347ddd
-#EXTINF:-1 tvg-id="" tvg-name="SA Tv" tvg-logo="https://lh4.googleusercontent.com/proxy/BaedKVqG_knFgxkWSPqSy7v7qmxs7siwVmGBnNuVp3ok4I-p2Am1gOCnCtFfdNLt1K6EhOXfsgkvCXT2MxMOOSjQKoSXJ0A5-XaLo6XXLzRjdv49-sEGXTMZmIWQ1fZU5o0eCeGIgsnIMuqgQIUfvKputP7ZA9jptlU7JZ_pbyJAwA81WPD9tcXeqIW1_-TJWaikRmsRKuAj0IkLD4Xz" group-title="Live TV",SA Tv
-https://edge01.iptv.digijadoo.net/live/sa_tv/playlist.m3u8?md5=Qelhp_Sq4skuFbMe4Ab44Q&expires=1723353384&user=52c59f345b2f42c2879e33c29b347ddd
-#EXTINF:-1 tvg-id="" tvg-name="Rtv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/1200px-Rtv_bangladesh.svg.png" group-title="Live TV",Rtv
-https://edge01.iptv.digijadoo.net/live/rtv/playlist.m3u8?md5=hBYm5FByjEwPlukMDIKdOA&expires=1723353419&user=52c59f345b2f42c2879e33c29b347ddd
-#EXTINF:-1 tvg-id="" tvg-name="Nagorik Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/24/Nagorik_TV_Logo.png" group-title="Live TV",Nagorik Tv
-https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=ITmfQ7FVX2Rpka10Oz77Ug&expires=1723353455&user=52c59f345b2f42c2879e33c29b347ddd
-#EXTINF:-1 tvg-id="" tvg-name="Zee Cinema" tvg-logo="https://w7.pngwing.com/pngs/878/103/png-transparent-zee-cinema-television-channel-zee-tv-zee-entertainment-enterprises-cinema-logo-television-text-bollywood.png" group-title="Live TV",Zee Cinema
-https://edge01.iptv.digijadoo.net/live/zee_cinema_hd/playlist.m3u8?md5=gdAUXtTn-ofQAmHUG4oqGw&expires=1723353483&user=52c59f345b2f42c2879e33c29b347ddd
-#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha" tvg-logo="" group-title="Live TV",Star Jalsha
 
-#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha" tvg-logo="" group-title="Live TV",Star Jalsha
 
-#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha" tvg-logo="" group-title="Live TV",Star Jalsha
+#EXTINF:-1 tvg-id="" tvg-name="24 Time Story " tvg-logo="https://m.media-amazon.com/images/M/MV5BOTIxZTQwN2QtOTVmNS00ZDRiLTlhOGEtZGQ1MmJlZDQzODk0XkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_.jpg" group-title="4k Movies",24 Time Story 
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/24%20%282016%29%20%284K%29%20Hindi%20Dubbed/Time%20Story%2024%20%282016%29%20-%204K%20UHD.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGViM2M4NmUtMmNkNy00MTQ5LTk5MDYtNmNhODAzODkwOTJlXkEyXkFqcGdeQXVyMTY1NDY4NTIw._V1_.jpg" group-title="4k Movies",Animal
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/Animal%20%282023%29%202160p%20%284K%29%20Hindi/Animal%20%282023%29%20Hindi%20NF%20WEB-DL%202160p.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Balupu" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTA4ZmU5YmYtN2JjZC00MTNjLTgwYmYtNmQ4NGRlMjExZTBjXkEyXkFqcGdeQXVyNjE3Mzg5Njk@._V1_.jpg" group-title="4k Movies",Balupu
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/Balupu%20%282013%29%20%284K%29%20Hindi%20Dubbed/Balupu%20%282013%29%20-%204K%20UHD%20Hindi%20Dubbed.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bengal Tiger" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjUyYzVjMDEtZGY5Mi00MzJhLWJkZWItYTFlYTMyMzY5MDNiXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_.jpg" group-title="4k Movies",Bengal Tiger
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/Bengal%20Tiger%20%282015%29%20%284K%29%20Hindi%20Dubbed/Bengal%20Tiger%20%282015%29%20-%204K%20UHD.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bhagavanth Kesari" tvg-logo="https://resizing.flixster.com/Hf4DZO9kgyRXazZXm4QBYUOKLN0=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzE1MDE1ZDcwLTc2ZDctNGQ3YS05ODRkLWJlYzIwMjNhN2ViYS5qcGc=" group-title="4k Movies",Bhagavanth Kesari
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/Bhagavanth%20Kesari%20%282023%29%20%284K%29%202160p%20Hindi/Bhagavanth.Kesari.Hindi.2023.2160p.WEB-DL.DDP5.1.H.265.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bholaa" tvg-logo="https://cdn.123telugu.com/content/wp-content/uploads/2023/01/Bholaa.jpg" group-title="4k Movies",Bholaa
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/Bholaa%20%282023%29%202160p%20%284K%29%20Hindi/Bholaa%20%282023%29%202160p%20WEB-DL%20Hindi%20DDP5.1%20H264.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bol Bachchan" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWNhNmJiNTctZWJlZi00ZGIzLTgyYTktYmJmNTlmZTA3NDIzXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg" group-title="4k Movies",Bol Bachchan
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/Bol%20Bachchan%20%282012%29%20%284K%29%20Hindi/Bol%20Bachchan%20%282012%29%20-%204K%20UHD.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Brahmastra Part One Shiva" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDlhMjZlY2YtZTA1MC00MzQwLTg2ZGUtNWVjNzczOGMwOWZjXkEyXkFqcGdeQXVyMTYyNjAzOTUx._V1_FMjpg_UX1000_.jpg" group-title="4k Movies",Brahmastra Part One Shiva
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/Brahmastra%20Part%20One%20Shiva%20%282022%29%20%284K%29%20Hindi/Brahmastra%20Part%20One%20Shiva%202022%20Hindi%20WEB-DL%204K%20UHD%20HEVC.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Captain Miller" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/Captain_Miller_film_poster.jpg" group-title="4k Movies",Captain Miller
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/Captain%20Miller%20%282024%29%202160p%20%284K%29%20Hindi/Captain.Miller.2024.2160p.Hindi%20.WEB-DL.Hindi.DDP5.1.H.265.mkv
+#EXTINF:-1 tvg-id="" tvg-name="StChandu Champion" tvg-logo="https://preview.redd.it/2nd-poster-of-chandu-champion-is-out-now-v0-eecradi7aq0d1.jpeg?auto=webp&s=78d2e16cfacfb1eac2c80e5506cf9f7d97b7f160" group-title="4k Movies",Chandu Champion
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/Chandu%20Champion%20%282024%29%202160p%20%284K%29%20Hindi/Chandu.Champion.2024.4K-2160p.HEVC.AMZN.WEB-DL.Hindi.DDP.5.1.ESub.x265.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Crew" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTZjNDhkMTAtNDhhMC00ZmY1LTk4YjAtZWFkNjc5OTlkYTQwXkEyXkFqcGdeQXVyODgzMzg2MDg@._V1_.jpg" group-title="4k Movies",Crew
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/Crew%20%282024%29%20Hindi%202160p%20%284K%29/Crew.2024.2160p.NF.WEB-DL.DDP5.1.SDR.H265.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dhamaka" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzUyOWU2M2MtMDU1Yy00M2E1LTg3OTktMGRjYTE2MjkzYzUwXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg" group-title="4k Movies",Dhamaka
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/Dhamaka%20%282022%29%20%284K%29%20%5BDual%20Audio%5D/Dhamaka.2022.2160p.NF.WEB-DL.Hindi.DD2.0.Telugu.DDP5.1.H.265.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dhoom 3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f1/Dhoom_3_Film_Poster.jpg" group-title="4k Movies",Dhoom 3
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/Dhoom%203%20%282013%29%20Hindi%202160p%20%284K%29/Dhoom%203%20%282013%29%20-%204K%20UHD%20BluRay.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Drishyam 2" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmY2ZDUxNzUtYWZlYy00MThhLWI5NjktZDhjZTU3MDY5YTM3XkEyXkFqcGdeQXVyNTYxMDgzODI@._V1_.jpg" group-title="4k Movies",Drishyam 2
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/Drishyam%202%20%282022%29%202160p%20%284K%29%20Hindi/Drishyam%202%20%282022%29%202160p%20AMZN%20WEB-DL%20DDP5.1%20HEVC.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dunki" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzQ0NDRhNmItYzllYS00NDdlLTk0YTctZDQ5YmFkYjdkNDcyXkEyXkFqcGdeQXVyNTYwMzA0MTM@._V1_FMjpg_UX1000_.jpg" group-title="4k Movies",Dunki
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/Dunki%20%282023%29%20Hindi%202160p%20%5B4K%5D/Dunki.2023.2160p.SDR.NF.WEB-DL.DDP5.1.H.265.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Family Star" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWI2MTBmZmQtMzM5Ny00MDBmLWEzYWMtMzFkMjgzN2UwOTE1XkEyXkFqcGdeQXVyMTQ3Mzk2MDg4._V1_FMjpg_UX1000_.jpg" group-title="4k Movies",Family Star
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/Family%20Star%20%282024%29%20Hindi%202160p%20%284K%29/The.Family.Star.2024.2160p.JC.WEB-DL.DDP5.1.H.265.Esub.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fighter" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjkwN2Q5Y2QtMmE2MC00NzlkLTg2NzQtYjVjYjVmNjE2ZTNiXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX1000_.jpg" group-title="4k Movies",Fighter
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/Fighter%20%282024%29%202160p%20%284K%29%20Hindi/Fighter%20%282024%29%202160p%2010bit%20%5B60FPS%5D%20WEBRIP.x265.Hindi.DDP.5.1.Esub.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gadar 2" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWY1YTVmNmItMGFjZS00N2RhLWI0YjgtMDZlOWFhZWI1Y2YzXkEyXkFqcGdeQXVyMTYzMTU3Njgx._V1_.jpg" group-title="4k Movies",Gadar 2
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/Gadar%202%20%282023%29%20%284K%29%20Hindi/Gadar.2.2023.2160p.WEB-DL.DD%2B5.1.H.265.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hanuman" tvg-logo="https://i.pinimg.com/736x/aa/92/13/aa92130b5dcbb96bd933c40ae7d798e2.jpg" group-title="4k Movies",Hanuman
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/Hanuman%20%282024%29%202160p%20%284K%29%20Hindi/Hanuman%20%282024%29%20Hindi%20%20WEB-DL%20-%204K%20SDR%20-%20ESub.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jai Lava Kusa" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTk5NzI0Y2ItNmJiNC00MGVmLTllZTQtMDBjZjNhOGY0NGFiXkEyXkFqcGdeQXVyODM1NTI2NDI@._V1_.jpg" group-title="4k Movies",Jai Lava Kusa
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/Jai%20Lava%20Kusa%20%282017%29%20%284K%29%20Hindi%20Dubbed/Jai%20Lava%20Kusa%20%282017%29%20-%204K%20UHD.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jailer" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzFkNmZkMTctYjRhMS00ODZiLWFlNjQtZmZmN2IzMDJlNmVkXkEyXkFqcGdeQXVyMTY1MzAyNjU4._V1_.jpg" group-title="4k Movies",Jailer
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/Jailer%20%282023%29%202160p%20%284K%29%20Hindi-Tamil/Jailer.2023.2160p.CBR.AMZN.WEB-DL.DDP5.1.H.265.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jawan" tvg-logo="https://static.toiimg.com/thumb/imgsize-23456,msid-103060645,width-600,resizemode-4/103060645.jpg" group-title="4k Movies",Jawan
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/Jawan%20%282023%29%20Hindi%202160p%20%284K%29/Jawan.Extended.Cut.2023.Hindi.2160p.NF.WEB-DL.DD%2B5.1.H.265.mkv
+#EXTINF:-1 tvg-id="" tvg-name="KGF Chapter 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjY1MmM2N2ItYjc1NS00Yjc1LTkxYmQtNGJiMjYwMTlmNDE5XkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_.jpg" group-title="4k Movies",KGF Chapter 1
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/K.G.F%20-%20Chapter%201%20%282019%29%20Hindi%20UHD%20%284K%29%202160p/K.G.F%20-%20Chapter%201%20%282019%29%20Hindi%20-%20UHD%20%284K%29%20-%202160p%20-%20HEVC%20-%20WEB-DL%20-%20%28DD%2B5.1%20-%20640Kbps%29%20-%2020.2GB%20-%20Esub.mkv
+#EXTINF:-1 tvg-id="" tvg-name="KGF Chapter 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/K.G.F_Chapter_2.jpg" group-title="4k Movies",KGF Chapter 2
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/K.G.F%20Chapter%202%20%282022%29%20-%204K/K.G.F%20Chapter%202%20%282022%29%20-%204K%20UHD.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kabzaa" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDFmNmE2OTYtYmUxOC00ZjE0LWE4ZWEtNzdiMjYxMjIwMzBhXkEyXkFqcGdeQXVyODA4MDA0Mjg@._V1_.jpg" group-title="4k Movies",Kabzaa
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/Kabzaa%20%282023%29%20%284K%29%20%5BDual%20Audio%5D/Kabzaa.2023.2160p.WEB-DL.DDP5.1.HEV.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kick" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTUyMTg0MTA1OF5BMl5BanBnXkFtZTgwMDg2MjMwMjE@._V1_.jpg" group-title="4k Movies",Kick
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/Kick%20%282014%29%20-%204K/Kick%20%282014%29%20-%204K.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kill" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeKq4efH_4GAjBE_YtJaY7Cfx-4-qwg7vHBA&s" group-title="4k Movies",Kill
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/Kill%20%282024%29%20Hindi%202160p%20%20%5B4K%5D/Kill.2024.2160p.AMZN.WEB-DL.DDP5.1.H.265.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kisi Ka Bhai Kisi ki Jaan" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjk0ZjlhNDctMzAwZC00ZTAyLTliZTItOTRiNjMzNTAxODY3XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg" group-title="4k Movies",Kisi Ka Bhai Kisi ki Jaan
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/Kisi%20Ka%20Bhai%20Kisi%20Ki%20Jaan%20%282023%29%20%284K%29%20Hindi/Kisi.Ka.Bhai.Kisi.Ki.Jaan.2023.2160p.WEB-DL.DD%2B5.1.H.265.ESub.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Krack" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzExZTk0ZjctOGY2Yy00YmVhLWJiNWYtNDcyYjEzMTJhOWU3XkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_.jpg" group-title="4k Movies",Krack
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/Krack%20%282021%29%20Hindi%20%284K%29/Krack.2021.Hindi.2160p.AHA.WEB-DL.Org.TV-DL.DDP2.0.x264.ESub.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Leo" tvg-logo="https://static.moviecrow.com/gallery/20230921/221109-Leo%20Vijay%20Sanjay%20Dutt%20Poster.jpg" group-title="4k Movies",Leo
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/Leo%20%282023%29%202160p%20%284K%29%20Hindi/LEO.2023.4K-2160p.SDR.10Bit.HEVC.WEB-DL.Hindi-Tamil.DDP5.1.ESub.x265.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Maharaja" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWJmMmUwZjAtYTM1Ni00ZDY3LWE0ZGItOWQ1ZTYxMTlkZDc1XkEyXkFqcGc@._V1_.jpg" group-title="4k Movies",Maharaja
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/Maharaja%20%282024%29%202160p%20%284K%29%20%5BDual%20Audio%5D/Maharaja.2024.2160p.NF.WEB-DL.DUAL.DDP5.1.H.265.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pathaan" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGI3NzQ5NTctZWQ4Ni00ZGJkLTg5N2UtYTBjNzcyN2EyOTM0XkEyXkFqcGdeQXVyOTI3MzI4MzA@._V1_.jpg" group-title="4k Movies",Pathaan
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/Pathaan%20%282023%29%202160%20%284K%29%20Hindi/Pathaan.2023.2160p..WEB-DL.DDP5.1.HEVC-.mkv
+#EXTINF:-1 tvg-id="" tvg-name="PK" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYzOTE2NjkxN15BMl5BanBnXkFtZTgwMDgzMTg0MzE@._V1_.jpg" group-title="4k Movies",PK
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/PK%20%282014%29%20-%204K/PK%20%282014%29%20-%204K%20UHD.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Premalu" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/88dcec185852421.656ae6cd212da.jpg" group-title="4k Movies",Premalu
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/Premalu%20%282024%29%202160p%20%20%5BDual%20Audio%5D/Premalu%20%282024%29%20Dual%20Audio%20Hindi%20ORG%20DSNP%202160p.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pushpa The Rise Part 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD9MTNJhmdiEk_mSH7xKRfV1SrXEh0NpV61w&s" group-title="4k Movies",Pushpa The Rise Part 1
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/Pushpa%20The%20Rise%20-%20Part%201%20%282021%29%20Hindi%20%284K%29%202160p/Pushpa.the.Rise.2021.Hindi.2160p.AMZN.WEB-DL.DDP5.1.HEVC-Telly.mkv
+#EXTINF:-1 tvg-id="" tvg-name="RRR" tvg-logo="https://m.media-amazon.com/images/M/MV5BODUwNDNjYzctODUxNy00ZTA2LWIyYTEtMDc5Y2E5ZjBmNTMzXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg" group-title="4k Movies",RRR
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/RRR%204K/RRR.2022.2160p.WEB-DL.DDP5.1.Atmos.HEVC.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Runway 34" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2YzNjU4MTYtMzY5OS00ODg0LTkxMTUtNjg0YjRkYzI5ZWJjXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg" group-title="4k Movies",Runway 34
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/Runway%2034%20%282022%29%20Hindi%20%284K%29%202160p/Runway.34.2022.2160p.AMZN.WEB-DL.DDP5.1.HEVC.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Saaho" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzU0ZmFkMWUtZDc4MC00OWVmLWI0MjEtZWZjMzRkZWE4MjgyXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_.jpg" group-title="4k Movies",Saaho
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/Saaho%202019%204K/Saaho%202019%202160p.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Salaar Part 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWYwMWU2N2QtMjExOC00OWY1LTllYzEtYWZjYzZlY2IwMzVhXkEyXkFqcGdeQXVyNjE0ODgwMDA@._V1_.jpg" group-title="4k Movies",Salaar Part 1
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/Salaar%20%282023%29%202160p%20%284K%29%20Hindi%20Dubbed/Salaar.Part.1.Ceasefire.2023.Hindi.2160p.WEB-DL.DDP5.1.H.265.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sultan" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDk2MWNhNDgtNjI3ZS00MmQ3LThmYzEtM2VlYjM4M2UyY2IwXkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_.jpg" group-title="4k Movies",Sultan
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/Sultan%20%282016%29%20Hindi%20%204K/Sultan%204k.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Teri Baaton Mein Aisa Uljha Jiya" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/Teri_Baaton_Mein_Aisa_Uljha_Jiya_film_poster.jpg" group-title="4k Movies",Teri Baaton Mein Aisa Uljha Jiya
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/Teri%20Baaton%20Mein%20Aisa%20Uljha%20Jiya%20%282024%29%202160p%20%284K%29%20Hindi/Teri.Baaton.Mein.Aisa.Uljha.Jiya.2024.2160p.AMZN.WEB-DL.DDP5.1.H.265.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tiger 3" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzQwMGZlYTUtODUwNi00ZjQxLWEzODAtZGU3Zjc0MmNhMzhkXkEyXkFqcGdeQXVyNTkzNDQ4ODc@._V1_FMjpg_UX1000_.jpg" group-title="4k Movies",Tiger 3
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/Tiger%203%20%282023%29%20Hindi%202160p%20%284K%29/Tiger.3.2023.2160p.AMZN.WEB-DL.DDP5.1.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yodha" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDdlODdmODItZDAxNi00MjExLWFjOGItMGY3MzFjYzU4NDM3XkEyXkFqcGdeQXVyMTUzNTgzNzM0._V1_FMjpg_UX1000_.jpg" group-title="4k Movies",Yodha
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/Yodha%20%282024%29%202160p%20%284K%29/Yodha.2024.2160p.Hindi.WEB-DL.DDP5.1.H.265.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha" tvg-logo="" group-title="4k Movies",Star Jalsha
 
-#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha" tvg-logo="" group-title="Live TV",Star Jalsha
+#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha" tvg-logo="" group-title="4k Movies",Star Jalsha
+
+#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha" tvg-logo="" group-title="4k Movies",Star Jalsha
+
+#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha" tvg-logo="" group-title="4k Movies",Star Jalsha
+
+#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha" tvg-logo="" group-title="4k Movies",Star Jalsha
+
+#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha" tvg-logo="" group-title="4k Movies",Star Jalsha
+
+#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha" tvg-logo="" group-title="4k Movies",Star Jalsha
+
+
 
 
 
