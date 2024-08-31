@@ -2218,6 +2218,8 @@ http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/Yodha%20%282024%29%202
 http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI%20DUBBED/%282017%29/Baahubali%202%20The%20Conclusion%20%282017%29%20BluRay%201080p/Baahubali%202%20-%20The%20Conclusion%202017%20%204k.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Ala Vaikunthapurramuloo" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmRkMGMzYTUtM2E2My00YjZlLWFmZjItMDA5M2EwNjNiZTNjXkEyXkFqcGdeQXVyNDY5MTUyNjU@._V1_.jpg" group-title="4k Movies",Ala Vaikunthapurramuloo
 http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI%20DUBBED/%282020%29/Ala%20Vaikunthapurramuloo%20%282020%29%20Hindi%20Dubbed%204K/Ala.Vaikunthapurramloo.2020.2160p.SUNNXT.WEB-DL.%5BOrg.HIN.DDP2.0%2BTEL.DDP5.1.Atmos%5D.HEVC-ShiNobi.mkv
+#EXTINF:-1 tvg-id="" tvg-name="kalki AD 2898" tvg-logo="https://images.app.goo.gl/Gn8QAJA97ho2zkAU8" group-title="4k Movies",kalki AD 2898
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/Kalki%202898%20AD%20%282024%29%202160p%20%5B4K%5D%20%5BHindi%20Dubbed%5D/Kalki.2898.AD.Hindi.2024.2160p.NF.WEB-DL.DDP5.1.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Iron Man" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTczNTI2ODUwOF5BMl5BanBnXkFtZTcwMTU0NTIzMw@@._V1_FMjpg_UX1000_.jpg" group-title="4k Movies",Iron Man
 http://server2.ftpbd.net/FTP-2/English%20Movies/English%20Movies%20-4K/4K%20Film%20Series/Marvel%27s%20Avengers%20MCU%20Movies%20%282008-2022%29%202160p%20%5BDual%20Audio%5D/Iron%20Man%20%282008%29%202160p%20UHD%20HDR%20REMASTERED%2010bit%20Bluray%20x265%20HEVC%20%5BOrg%20DDP%205.1%20Hindi%20%20Dolby%20TrueHD%20Atmos%207.1%20English%5D%20MSubs.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Iron Man 2" tvg-logo="https://i.pinimg.com/originals/f0/9f/79/f09f793b5cc11cde8f9b1a6faa9a69d7.jpg" group-title="4k Movies",Iron Man 2
@@ -2234,8 +2236,6 @@ http://server2.ftpbd.net/FTP-2/English%20Movies/English%20Movies%20-4K/4K%20Film
 http://server2.ftpbd.net/FTP-2/English%20Movies/English%20Movies%20-4K/4K%20Film%20Series/Marvel%27s%20Avengers%20MCU%20Movies%20%282008-2022%29%202160p%20%5BDual%20Audio%5D/Avengers%20%20Endgame%20%282019%29%202160p%20UHD%20HDR%20%7B60FPS%7D%20BluRay%2010bit%20HEVC%20%5BOrg%20DSNP%20Hindi%20DD%205.1Ch%20192Kbps%20%20English%20AAC%207.1%5D%20ESubs.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Spiderman no way home" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFSc1RahIO7el3g27kdH6q0fMYZSsxA03YPA&s" group-title="4k Movies",Spiderman no way home
 http://server2.ftpbd.net/FTP-2/English%20Movies/English%20Movies%20-4K/%282021%29/Spider-Man%20No%20Way%20Home%20%282021%29%20%5B2160p%5D%20%5B4K%5D%20BluRay/Spider-Man.No.Way.Home.2021.2160p.4K.BluRay.x265.10bit.AAC5.1-%5BYTS.MX%5D.mkv
-#EXTINF:-1 tvg-id="" tvg-name="kalki AD 2898" tvg-logo="https://images.app.goo.gl/Gn8QAJA97ho2zkAU8" group-title="4k Movies",kalki AD 2898
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/Kalki%202898%20AD%20%282024%29%202160p%20%5B4K%5D%20%5BHindi%20Dubbed%5D/Kalki.2898.AD.Hindi.2024.2160p.NF.WEB-DL.DDP5.1.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Star Jalsha" tvg-logo="" group-title="4k Movies",Star Jalsha
 
 #EXTINF:-1 tvg-id="" tvg-name="Star Jalsha" tvg-logo="" group-title="4k Movies",Star Jalsha
