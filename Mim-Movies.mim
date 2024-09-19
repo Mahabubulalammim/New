@@ -2291,8 +2291,17 @@ http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/Yodha%20%282024%29%202
 http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI%20DUBBED/%282017%29/Baahubali%202%20The%20Conclusion%20%282017%29%20BluRay%201080p/Baahubali%202%20-%20The%20Conclusion%202017%20%204k.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Ala Vaikunthapurramuloo" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmRkMGMzYTUtM2E2My00YjZlLWFmZjItMDA5M2EwNjNiZTNjXkEyXkFqcGdeQXVyNDY5MTUyNjU@._V1_.jpg" group-title="4k Movies",Ala Vaikunthapurramuloo
 http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI%20DUBBED/%282020%29/Ala%20Vaikunthapurramuloo%20%282020%29%20Hindi%20Dubbed%204K/Ala.Vaikunthapurramloo.2020.2160p.SUNNXT.WEB-DL.%5BOrg.HIN.DDP2.0%2BTEL.DDP5.1.Atmos%5D.HEVC-ShiNobi.mkv
-#EXTINF:-1 tvg-id="" tvg-name="kalki AD 2898" tvg-logo="https://images.app.goo.gl/Gn8QAJA97ho2zkAU8" group-title="4k Movies",kalki AD 2898
+#EXTINF:-1 tvg-id="" tvg-name="kalki AD 2898" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM3ZGUwYTEtZTI5NS00ZmMyLTk2YmQtMWU4YjlhZTI3NjRjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="4k Movies",kalki AD 2898
 http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/Kalki%202898%20AD%20%282024%29%202160p%20%5B4K%5D%20%5BHindi%20Dubbed%5D/Kalki.2898.AD.Hindi.2024.2160p.NF.WEB-DL.DDP5.1.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Raavan 4k" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjc0ZTRjM2EtMTU5ZC00ZDNlLWFjMjEtZmUxMTE1N2JhZGI1XkEyXkFqcGdeQXVyMTIzNDQ1NTM2._V1_.jpg" group-title="4k Movies",Raavan 4k
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282022%29/Raavan%20%282022%29%204K/Raavan%20%282022%29%20-%204K%20UHD.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha" tvg-logo="" group-title="4k Movies",Star Jalsha
+
+#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha" tvg-logo="" group-title="4k Movies",Star Jalsha
+
+#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha" tvg-logo="" group-title="4k Movies",Star Jalsha
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Iron Man" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTczNTI2ODUwOF5BMl5BanBnXkFtZTcwMTU0NTIzMw@@._V1_FMjpg_UX1000_.jpg" group-title="4k Movies",Iron Man
 http://server2.ftpbd.net/FTP-2/English%20Movies/English%20Movies%20-4K/4K%20Film%20Series/Marvel%27s%20Avengers%20MCU%20Movies%20%282008-2022%29%202160p%20%5BDual%20Audio%5D/Iron%20Man%20%282008%29%202160p%20UHD%20HDR%20REMASTERED%2010bit%20Bluray%20x265%20HEVC%20%5BOrg%20DDP%205.1%20Hindi%20%20Dolby%20TrueHD%20Atmos%207.1%20English%5D%20MSubs.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Iron Man 2" tvg-logo="https://i.pinimg.com/originals/f0/9f/79/f09f793b5cc11cde8f9b1a6faa9a69d7.jpg" group-title="4k Movies",Iron Man 2
@@ -2313,7 +2322,7 @@ http://server2.ftpbd.net/FTP-2/English%20Movies/English%20Movies%20-4K/%282021%2
 
 #EXTINF:-1 tvg-id="" tvg-name="Star Jalsha" tvg-logo="" group-title="4k Movies",Star Jalsha
 
-#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha" tvg-logo="" group-title="4ha
+#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha" tvg-logo="" group-title="4k Movies",Star Jalsha
 
 #EXTINF:-1 tvg-id="" tvg-name="Star Jalsha" tvg-logo="" group-title="4k Movies",Star Jalsha
 
@@ -2530,6 +2539,102 @@ http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Mov
 http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282019%29/Ahaa%20Re%20%282019%29%20%201080P%20WEB-DL/Ahaa%20Re%202019%20%201080P%20WEB-DL%20%20H264%20AAC.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adda" tvg-logo="https://m.media-amazon.com/images/M/MV5BODZjZGY5M2QtYjg3OS00ZWM2LTkzMzAtZTI5N2EwMDkxMDFlXkEyXkFqcGc@._V1_.jpg" group-title="Kalkata Bangla Movies",Adda
 http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282019%29/Adda%20%282019%29%20Bengali%201080p/Adda.2019.1080p.AMZN.WEB-DL.DD%2B2.0.H264-Dusictv.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Atithi" tvg-logo="https://timesofindia.indiatimes.com/photo/69338454.cms" group-title="Kalkata Bangla Movies",Atithi
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282019%29/Atithi%20%282019%29%20Bengali%201080p/Atithi%20%282019%29%20Bengali%201080p%20Untouched%20WEB-DL%20AVC%20AAC%20%5BBonsaiHD%5D.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Baccha Shoshur" tvg-logo="https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/baccha-shoshur-et00093493-05-01-2019-02-59-31.jpg" group-title="Kalkata Bangla Movies",Baccha Shoshur
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282019%29/Baccha%20shoshur%20%282019%29%201080p/Baccha%20shoshur%20%5B2019%5D%20Beng.%20Movie%201080p%20Webdl%20x%20264%20AVC%20AAC%20%5BCinemaghar%5D%20-%20xclusive%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bhootchakra Pvt. Ltd" tvg-logo="https://static.toiimg.com/thumb/msid-101506440,width-1280,height-720,imgsize-77722,resizemode-6,overlay-toi_sw,pt-32,y_pad-40/photo.jpg" group-title="Kalkata Bangla Movies",Bhootchakra Pvt. Ltd
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282019%29/Bhootchakra%20Pvt.%20Ltd.%20%282019%29%20Bengali%201080p%20WEB-DL/Bhootchakra.Pvt.Ltd.2019.1080p.WEB-DL.AAC2.0.H.264.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bibaho Obhijaan" tvg-logo="https://www.adgully.com/img/800/201905/bengali-movie.jpg" group-title="Kalkata Bangla Movies",Bibaho Obhijaan
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282019%29/Bibaho%20Obhijaan%20%282019%29%20Bengali%201080p/Bibaho%20Obhijaan%202019%20Bengali%201080p%20WEB-DL%20x264%20AAC%20%7B%20TaRa%20%7D.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bijoya" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTFlNDBlZDYtZTBlZS00NTkwLWExMzctMjZkZDM1MmJlZjNhXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg" group-title="Kalkata Bangla Movies",Bijoya
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282019%29/Bijoya%20%282019%29%20Bengali%201080p%20WEB-DL/Bijoya%20%5B2019%5D%20Bengali%201080p%20WEB-DL%20x264%20AAC%20%5BTeam%20DRSD%5D.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Durgeshgorer Guptodhon" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTFmMGQ4OTktZmZmYi00OTI4LTlhZjEtYTVjODdmOTJlNWQyXkEyXkFqcGdeQXVyMzQ5MzkwMDY@._V1_FMjpg_UX1000_.jpg" group-title="Kalkata Bangla Movies",Durgeshgorer Guptodhon
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282019%29/Durgeshgorer%20Guptodhon%20%282019%29%20Bengali%201080p%20HoiChoi/Durgeshgorer%20Guptodhon%20%282019%29%20Bengali%201080p%20WEB-DL%20HoiChoi%20AAC%20x264%20%5BTeam%20DRSD%5D.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Googly" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTc3MmYyZjUtNGIxYS00OGJkLWFmNjEtZDFkM2YyZDRiMzNiXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX1000_.jpg" group-title="Kalkata Bangla Movies",Googly
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282019%29/Googly%20%282019%29%201080p%20Bengali%20WEB-DL/Googly%20%282019%29%20Bengali%20WEB-DL%201080p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jaanbaaz" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/1400/90246495648787.5e9c8cfdbfadf.jpg" group-title="Kalkata Bangla Movies",Jaanbaaz
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282019%29/Jaanbaaz%20%282019%29%201080p/JaanBaaz%202019.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gumnaami" tvg-logo="https://legacy.asset.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/images/2022/01/22/1642876030506_1280x72_16x9Images.jpg" group-title="Kalkata Bangla Movies",Gumnaami
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282019%29/Gumnaami%20%282019%29%20Bengali%201080p%20WEB-DL/Gumnaami.2019.1080p.WEB-DL.AAC.x264-BonsaiHD.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jamai Badal" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTU1ZTI0NDgtMmIzNi00NjZiLWExZmItZjBkYjEzMDAzZGIzXkEyXkFqcGc@._V1_.jpg" group-title="Kalkata Bangla Movies",Jamai Badal
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282019%29/Jamai%20Badal%20%282019%29%20Bengali%201080p/Jamai%20Badal%20%282019%29%20Bengali%201080p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ke Tumi Nandini" tvg-logo="https://media.themoviedb.org/t/p/w500/sZg2Famj8TuHaW0zhAfw7ybZqZP.jpg" group-title="Kalkata Bangla Movies",Ke Tumi Nandini
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282019%29/Ke%20Tumi%20Nandini%20%282019%29%20Bengali%201080p/Ke%20Tumi%20Nandini%20%282019%29%20Bengali.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kidnap" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzFhMzcxNjMtNzg5YS00ZWJjLTk3ODgtNTNmM2UzM2E0ZjFlXkEyXkFqcGdeQXVyMTA5MDM0ODE5._V1_.jpg" group-title="Kalkata Bangla Movies",Kidnap
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282019%29/Kidnap%20%282019%29%20Bangla%201080p/Kidnap%20%282019%29%20Bangla%201080p%20HD%20WEB%20DL.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mon Jaane Na" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlbIjQ6DTBEopoOSwUIR_spz2Mj2Pe30H1bg&s" group-title="Kalkata Bangla Movies",Mon Jaane Na
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282019%29/Mon%20Jaane%20Na%20%282019%29%201080p/Mon%20Jaane%20Na.2019.1080p.WEB-DL.AVC.AAC.DDR.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Panther" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTE1MDdmZmMtZjE4OS00NzMxLTkwODktNDYwNGQ2ZTcyYTQ3XkEyXkFqcGdeQXVyODk1NjE0OTk@._V1_.jpg" group-title="Kalkata Bangla Movies",Panther
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282019%29/Panther%20%282019%29%201080p/Panther.2019.1080p.Zee5.WEB-DL.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Parineeta" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQ2ODcwNjUtNGYwMy00ZjgyLWE3YmYtN2IxYzZkMmUzMGJkXkEyXkFqcGdeQXVyMTA1MTQ5NjUw._V1_FMjpg_UX1000_.jpg" group-title="Kalkata Bangla Movies",Parineeta
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282019%29/Parineeta%20%282019%29%20Bengali%201080p/Parineeta.2019.1080p.WEB-DL.AAC.x264.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Password" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjJhZDY5ZDEtNjI5OS00MGMxLWFiYTUtMGRkYWVkNzRjOTFjXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg" group-title="Kalkata Bangla Movies",Password
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282019%29/Password%20%282019%29%20Bengali%20720p%20WEB-DL/Password%20%282019%29%20Bengali%20720p%20WEB-DL%20x264%20AAC%201.2GB%283kmovies.com%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Robibaar" tvg-logo="https://legacy.asset.viewlift.com/7fa0ea9a-9799-4417-99f5-cbb5343c551d/images/2023/07/1/1688186577653_1652514548359_robibar_1098x1626_3x4images_3x4Images.jpg" group-title="Kalkata Bangla Movies",Robibaar
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282019%29/Robibaar%20%282019%29%20Bengali%201080p/Robibaar%20%282019%29%20Bengali%20Original%201080p%20WEBRip%20%E2%AD%901.5%20GB%E2%AD%90%20AAC%20DD-2.0%20x264.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Shesh Theke Shuru" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzI1OTQ3MTItMTczYy00NjI1LTg4ZDgtM2Y5OGUzNGE1ZDY2XkEyXkFqcGdeQXVyODA2NjU0NjY@._V1_.jpg" group-title="Kalkata Bangla Movies",Shesh Theke Shuru
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282019%29/Shesh%20Theke%20Shuru%20%282019%29%20Bengali%201080p/Shesh%20Theke%20Shuru%20%5B2019%5D%20Bengali%20Movie%201080p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aparichito" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWRjZjc0NjUtMDdmZC00YzNhLTljMjUtMzliZmE2ZWU4NjkyXkEyXkFqcGc@._V1_.jpg" group-title="Kalkata Bangla Movies",Aparichito
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282020%29/Aparichito%20%282020%29%201080p/Aparichito%20%282020%29%20Bengali%201080p%20WEB-DL%20%20H264%20AAC.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Asur " tvg-logo="https://media.themoviedb.org/t/p/w500/hJn71rU1VXNJpAMiWwvSxxaFU00.jpg" group-title="Kalkata Bangla Movies",Asur 
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282020%29/Asur%20%282020%29%20Bengali%201080p/Asur.2020.1080p.Zee5.WEB-DL.AAC.x264.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cheeni" tvg-logo="https://static.toiimg.com/thumb/79774678.cms?width=170&height=240&imgsize=64906" group-title="Kalkata Bangla Movies",Cheeni
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282020%29/Cheeni%20%282020%29%20Bengali%20WEB-DL%201080p/Cheeni%20%282020%29%20Bengali%20Untouched%20TRUE%20WEB-DL.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dracula Sir" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTQzMDEwMjEtMGM4ZC00ZmFhLWE3MTAtNmE3ZGNhNmE1NTJhXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg" group-title="Kalkata Bangla Movies",Dracula Sir
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282020%29/Dracula%20Sir%20%282020%29%20Bengali%201080p/Dracula%20Sir%20%282020%29%20Bengali%201080p%20UNTOUCHED%20HoiChoi%20WEB-DL%20x264%20AAC%20ESubs%201.9GB%20-%20MOVCR%20ExClusive.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rowkto Rawhoshyo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiOnnk7mCLwcX6AMxEYwcXflK4cPXvwmGq8A&s" group-title="Kalkata Bangla Movies",Rowkto Rawhoshyo
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282020%29/Rawkto%20Rawhoshyo%20%282020%29%20Bengali%201080P%20WEBRiP/Rawkto%20Rawhoshyo%202020%20Bengali%201080P%20WEBRiP%20x265%20HEVC%20AAC%202.0%20%20%5Bshadow%5D.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Switzerland" tvg-logo="https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-250,h-390/et00300015-zkvebjbfll-portrait.jpg" group-title="Kalkata Bangla Movies",Switzerland
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282020%29/Switzerland%20%282020%29%20Bengali%201080P%20AMZN%20WEBDL/Switzerland%202020%20Bengali%201080P%20AMZN%20WEBDL%20DDP2.0%20HEVC%20H265%20ESUB.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ajob Premer Golpo" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTIzOGI3NDgtYzlhYy00NWJiLTg4MDctMjU5YmY1OGFlN2JmXkEyXkFqcGdeQXVyOTc5MjUzNjg@._V1_FMjpg_UX1000_.jpg" group-title="Kalkata Bangla Movies",Ajob Premer Golpo
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282021%29/Ajob%20Premer%20Golpo%20%282021%29%201080p%20WEB-DL/Ajob%20Premer%20Golpo%202021%201080p%20ZEE5%20WEB-DL%20AAC%202.0%20H264%20-%20GreenCODE.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Baazi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bc/Baazi_film_poster.jpg" group-title="Kalkata Bangla Movies",Baazi
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282021%29/Baazi%20%282021%29%201080p%20WEB-DL/Baazi.2021.1080p.WEB-DL.AAC2.0.H.264.mp4
+#EXTINF:-1 tvg-id="" tvg-name="FIR" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTQyMjVlMDYtYWI2NC00YWM2LWEyMGYtNTg0YzBiMmQzOTczXkEyXkFqcGc@._V1_.jpg" group-title="Kalkata Bangla Movies",FIR
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282021%29/F.I.R.NO.339.07.06%20%282021%29%201080p%20ZEE5%20WEB-DL/F.I.R.NO.339.07.06.2021.1080p.ZEE5.WEB-DL.AAC.2.0.H264.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Golondaaj" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ca/Golondaaj.jpg" group-title="Kalkata Bangla Movies",Golondaaj
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282021%29/Golondaaj%20%282021%29%20Bengali%201080P%20WEB-DL/Golondaaj%202021%20Bengali%201080P%20WEB-DL%20H264%20AAC%202.0%20-%5BHasan%5D.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Magic" tvg-logo="https://static.toiimg.com/thumb/msid-80665326,width-400,resizemode-4/80665326.jpg" group-title="Kalkata Bangla Movies",Magic
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282021%29/Magic%20%282021%29%20Bengali%201080p%20WEB-DL/Magic%20%282021%29%20Bengali%20WEB-DL%201080p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SOS Kalkata" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGNhZGU0NWYtNThlZC00YzdmLWI0MmItMzZmN2Y1MzYwMjliXkEyXkFqcGc@._V1_.jpg" group-title="Kalkata Bangla Movies",SOS Kalkata
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282021%29/SOS%20Kolkata%20%282021%29%20Bengali%201080P%20ZEE5%20WEB-DL/SOS%20Kolkata%202021%20Bengali%201080P%20ZEE5%20WEB-DL%20H264%20AAC%202.0%20-%20%5BHasan%5D.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tonic" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2Q4MTcwOWUtMDkzNC00ZTA4LTg2Y2ItNTBiMGQ5MjYxMmRkXkEyXkFqcGdeQXVyMTE0NTYxMTg0._V1_.jpg" group-title="Kalkata Bangla Movies",Tonic
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282021%29/Tonic%20%282021%29%20Bengali%20%201080p%20WEB-DL/Tonic.2021.1080p.WEB-DL.AAC.2.0.H.264-NEW1ON.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Baba Baby O" tvg-logo="https://static.toiimg.com/photo/79987758.cms" group-title="Kalkata Bangla Movies",Baba Baby O
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282022%29/Baba%20Baby%20O%20%282022%29%201080p%20WEBRip/Baba.Baby.O.2022.1080p.AMZN.WebRip.DDP.2.0.H.264.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haami 2" tvg-logo="https://filmfreeway-production-storage-01-connector.filmfreeway.com/press_kits/posters/002/354/691/original/9584ef2013-poster.jpg?1683628475" group-title="Kalkata Bangla Movies",Haami 2
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282022%29/Haami%202%20%282022%29%20Bengali%201080p%20WEB-DL/Haami%202%20%282022%29-Bengali%20%201080p%20WEB-DL.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kishmish" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTUyMmQ3MDYtNTVkNC00ZDQzLThiYTgtMzJiNDExMmUwNjlhXkEyXkFqcGdeQXVyMTMyMzMwMjky._V1_FMjpg_UX1000_.jpg" group-title="Kalkata Bangla Movies",Kishmish
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282022%29/Kishmish%20%282022%29%20Bengali%201080p%20WEBRip/Kishmish.2022.1080p.WEBRip.DD2.0.H.264.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mini" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjgyZTY5ZmUtYjA4Yy00MGJmLWI1ZWYtYjFhNDgxNzQ1MTk0XkEyXkFqcGc@._V1_.jpg" group-title="Kalkata Bangla Movies",Mini
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282022%29/Mini%20%282022%29%20Bengali%201080p%20WEB-DL/Mini.2022.1080p.WEB-DL.Bengali.AAC2.0.H.264.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Projapati" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Projapoti_film_poster.jpg/220px-Projapoti_film_poster.jpg" group-title="Kalkata Bangla Movies",Projapati
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282022%29/Projapati%20%282022%29%20Bengali%201080p%20WEB-DL/Projapoti.2022.1080p..WEB-DL.AAC2.0.H.264.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Raavan" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTA5ZjZkOWItZmExZS00NjNjLWIwNGMtNTg0NTkwMmRhZTFhXkEyXkFqcGc@._V1_.jpg" group-title="Kalkata Bangla Movies",Raavan
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282022%29/Raavan%20%282022%29%20Bengali%201080p%20WEB-DL/Raavan.2022.1080p.WEB-DL.Bengali.AAC2.0.H.264.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Toke Chhara Bachbo Naa" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTk1MzBjNGItNGE3MC00NjQ5LWI1ZmQtNmE0OWQzODU4YWFlXkEyXkFqcGc@._V1_.jpg" group-title="Kalkata Bangla Movies",Toke Chhara Bachbo Naa
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282022%29/Toke%20Chhara%20Banchbo%20Na%20%282022%29%20Bengali%201080p%20HDRip/Toke%20Chhara%20Banchbo%20Naa%201080p%20HDRip%20Bengali%20AAC%20x264.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Abar Bibaho Obhijaan" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2I0MzdjZjMtMjllOC00NTlkLTg5ZmYtNjZiNmEzODQxOTkzXkEyXkFqcGc@._V1_.jpg" group-title="Kalkata Bangla Movies",Abar Bibaho Obhijaan
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282023%29/Abar%20Bibaho%20Obhijaan%20%282023%29%20Bengali%201080p%20WEB-DL/Abar%20Bibaho%20Obhijaan%20%282023%29%20Bengali%20WEB-DL%201080p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ardhangini" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzRlODM4ZGMtN2RmYi00MzQwLTlmZDUtNjE2N2QxNzZmNGMxXkEyXkFqcGc@._V1_.jpg" group-title="Kalkata Bangla Movies",Ardhangini
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282023%29/Ardhangini%20%282023%29%20Bengali%201080p%20WEBRip/Ardhangini.2023.1080p.WEBRip.Bengali.x264.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bagha Jatin" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Bagha_Jatin_%282023_film%29_movie_poster.jpeg" group-title="Kalkata Bangla Movies",Bagha Jatin
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282023%29/Bagha%20Jatin%20%282023%29%20Bengali%201080p%20WEB-DL/Bgha%20jAtin%202023%20Bengali%20ORG%201080p%20WEB-DL%20x264.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cheeni 2" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjc1NzQ3NTktODg2ZS00NzAwLWJlZDktYWM1Y2U2N2RkYjExXkEyXkFqcGc@._V1_.jpg" group-title="Kalkata Bangla Movies",Cheeni 2
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282023%29/Cheeni%202%20%282023%29%20Bengali%201080p%20WEB-DL/Cheeni%202%20%282023%29%20Bengali%20WEB-DL%201080p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Daal Baati Churma" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWQ1NGM4MGEtNDQ1YS00ZWZkLThlZWEtY2M5NTk4MDcyNzUyXkEyXkFqcGdeQXVyOTc5MjUzNjg@._V1_.jpg" group-title="Kalkata Bangla Movies",Daal Baati Churma
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282023%29/Daal%20Baati%20Churma%20%282023%29%20Bengali%201080p%20HDTVRip/Daal.Baati.Churma.2023.1080p.HDTvRip.Bengali.x264.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jongole Mitin Mashi" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmEyYTYxMGQtNWZmNi00ZTQ1LThlMjQtYmU2OTVhZGQ5NGUyXkEyXkFqcGdeQXVyOTc5MjUzNjg@._V1_.jpg" group-title="Kalkata Bangla Movies",Jongole Mitin Mashi
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282023%29/Jongole%20Mitin%20Mashi%20%282023%29%20Bengali%201080p%20WEB-DL/Jongole%20Mitin%20Mashi%202023%20Bengali%20ORG%201080p%20WEB-DL%20x264.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Raktabeej" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzdiMGI1YjktNjVhNC00YTUzLTk4MDgtMTRhN2VhMDA3MTQyXkEyXkFqcGdeQXVyOTc5MjUzNjg@._V1_QL75_UY281_CR5,0,190,281_.jpg" group-title="Kalkata Bangla Movies",Raktabeej
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282023%29/Raktabeej%20%282023%29%20Bengali%201080p%20WEB-DL/Raktabeej.2023.1080p.WeB-DL.Bengali.x264.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Love Marriage" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTFhYmQ5NWQtZjI1Yi00YzBhLWEzZTAtNzI0ZDJjOTk0OTkzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Kalkata Bangla Movies",Love Marriage
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282023%29/Love%20Marriage%20%282023%29%20Bengali%201080p%20WEBRip/Love.Marriage.2023.1080p.WEBRip.Bengali.x264.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pariah" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjUzYzkwMmQtYTM0MS00ZTdkLWI0OTYtOTcwYWJjZjU3ODAxXkEyXkFqcGdeQXVyMTU4OTc2NjMx._V1_.jpg" group-title="Kalkata Bangla Movies",Pariah
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282024%29/Pariah%20Volume%201%20%282024%29%20Bengali%201080p%20WEB-DL/Pariah%20Volume%201%20%282024%29%20.1080p.WEB-DL.AAC2.0.H.264.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d1/Boomerang_Release_Poster_%283%29.jpeg" group-title="Kalkata Bangla Movies",Boomerang
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282024%29/Boomerang%20%282024%29%20Bengali%201080p%20HDTS/Boomerang%20%282024%29%201080p%20HDTS%20AAC.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Star Jalsha" tvg-logo="" group-title="Kalkata Bangla Movies",Star Jalsha
 
 #EXTINF:-1 tvg-id="" tvg-name="Star Jalsha" tvg-logo="" group-title="Kalkata Bangla Movies",Star Jalsha
@@ -2556,25 +2661,8 @@ http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Mov
 
 #EXTINF:-1 tvg-id="" tvg-name="Star Jalsha" tvg-logo="" group-title="Kalkata Bangla Movies",Star Jalsha
 
-#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha" tvg-logo="" group-title="Kalkata Bangla Movies",Star Jalsha
 
-#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha" tvg-logo="" group-title="Kalkata Bangla Movies",Star Jalsha
 
-#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha" tvg-logo="" group-title="Kalkata Bangla Movies",Star Jalsha
-
-#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha" tvg-logo="" group-title="Kalkata Bangla Movies",Star Jalsha
-
-#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha" tvg-logo="" group-title="Kalkata Bangla Movies",Star Jalsha
-
-#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha" tvg-logo="" group-title="Kalkata Bangla Movies",Star Jalsha
-
-#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha" tvg-logo="" group-title="Kalkata Bangla Movies",Star Jalsha
-
-#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha" tvg-logo="" group-title="Kalkata Bangla Movies",Star Jalsha
-
-#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha" tvg-logo="" group-title="Kalkata Bangla Movies",Star Jalsha
-
-#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha" tvg-logo="" group-title="Kalkata Bangla Movies",Star Jalsha
 
 
 
