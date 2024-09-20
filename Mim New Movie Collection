@@ -1,5 +1,172 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Md.Mahabubul Alam Mim" tvg-logo="https://i.ibb.co/8YJPCnv/FB-IMG-1676125032376.jpg",Md.Mahabubul Alam Mim
+#EXTINF:0,tvg-logo="https://i.ibb.co/8YJPCnv/FB-IMG-1676125032376.jpg",Md.Mahabubul Alam Mim
 https://drive.google.com/file/d/1klrntX1ueTiHqk0lbJ5yoQoQ9u9H4c5K/view
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/8YJPCnv/FB-IMG-1676125032376.jpg" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="Mr.India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxRGKfPcitJ5wqmOvuTGkkGGOs8L-f23XznQ&s" group-title="Hindi Movies",Mr.India
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/1990%20%20%26%20Before/Mr.%20India%20%281987%29%201080p%20BluRay/Mr..India.1987.1080p.BluRay.x264.AAC5.1-%5BYTS.MX%5D.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maine Pyar Kiya" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjY0YTc5MjEtMjgwNi00MTRmLThmNGEtNzgwYWM0ZTM2NGJlXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Maine Pyar Kiya
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/1990%20%20%26%20Before/Maine%20Pyar%20Kiya%20%281989%29%20Hindi%201080p%20BluRay/Maine%20Pyar%20Kiya%201989%20BluRay%201080p%20Hindi%20DD%205.1%20x264%20ESub.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sholay" tvg-logo="https://m.media-amazon.com/images/I/61NhAcNBC+L._AC_UF894,1000_QL80_.jpg" group-title="Hindi Movies",Sholay
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/1990%20%20%26%20Before/Sholay%20-%201975%20-%201080p/Sholay.1975.1080p.WEBRip.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Saajan" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQ5MjUxNjE1NF5BMl5BanBnXkFtZTcwMTIyNDE0MQ@@._V1_.jpg" group-title="Hindi Movies",Saajan
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/1991%20-%202000/1991/Saajan%20%281991%29%201080p%20WEB-DL/Saajan.1991.1080p.EroS.WeB.DL.AAC.AVC.DTOne.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Phool Aur Kaante" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2VhMTRlMzUtNWY5Zi00NGViLWEyNzMtNTM1NWYyNzFkZjc3XkEyXkFqcGdeQXVyNjc5Mjg4Nzc@._V1_.jpg" group-title="Hindi Movies",Phool Aur Kaante
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/1991%20-%202000/1991/Phool%20Aur%20Kaante%20%281991%29%20720p%20WEB-HD/Phool%20Aur%20Kaante%20%281991%29%20Hindi%20-%20720p%20WEB-HD%20-%20x264%20-%20AC3%202.0.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chamatkar" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTAxOGM2ZDktYjM3Ni00OWM4LWI0MmItZDFhOGVlYzk3OGNiXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Chamatkar
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/1991%20-%202000/1992/Chamatkar%20%281992%29%201080p%20WEBRip/Chamatkar%20%281992%29%201080p%20WEBRip.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Beta" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTQyYzEwZGQtZjM3Ny00ZDMyLTg5YTEtYWQxMTliZTUxNTY4XkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_.jpg" group-title="Hindi Movies",Beta
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/1991%20-%202000/1992/Beta%20%281992%29%201080p%20WEB-DL/Beta.1992.1080p.WEB-DL.AVC.AAC.DDR.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jo Jeeta Wohi Sikandar" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTRkMTFhMzMtOWViMi00NzBhLTg2Y2QtMjBkMDQxNzRiZWI5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Jo Jeeta Wohi Sikandar
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/1991%20-%202000/1992/Jo%20Jeeta%20Wohi%20Sikandar%20%281992%29%201080p%20WEB-DL/Jo%20Jeeta%20Wohi%20Sikandar%201992%201080p%20WEB-DL%20x264%20Hindi%20AAC2.0.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Darr" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTczYzgzNmUtZDBkOC00Mjg5LThmOWQtYjYzNjFjNzlhYmEyXkEyXkFqcGdeQXVyNTkzNDQ4ODc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Darr
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/1991%20-%202000/1993/Darr%20%281993%29%20Hindi%201080p%20BluRay/Darr%201993%20Hindi%201080p%20BluRay%20x264%20AAC%205.1%20ESub%20-%20MoviePirate%20-%20Telly.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Andaz Apna Apna" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTgyMDY1NDAxNl5BMl5BanBnXkFtZTgwMzE4NTA5NTE@._V1_.jpg" group-title="Hindi Movies",Andaz Apna Apna
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/1991%20-%202000/1994/Andaz%20Apna%20Apna%20%281994%29%201080p%20BluRay/Andaz.Apna.Apna.1994.1080p.BluRay.x264.AAC5.1-%5BYTS.MX%5D.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hum Aapke Hain Koun" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjc0ODAwMmItMmQwMy00MmRmLThjOGYtZGEwYjQ2ZjcyYzA3XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg" group-title="Hindi Movies",Hum Aapke Hain Koun
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/1991%20-%202000/1994/Hum%20Aapke%20Hain%20Koun..%20%281994%29%201080p%20BluRay/Hum.Aapke.Hain.Koun...1994.1080p.BluRay.x264.AAC5.1-%5BYTS.MX%5D.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kabhi Haan Kabhi Naa" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDM2NWNhZTQtYjZlNS00MWNmLWIyN2EtNjQ5MDg5ZWMzNTgyXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Kabhi Haan Kabhi Naa
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/1991%20-%202000/1994/Kabhi%20Haan%20Kabhi%20Naa%20%281994%29%201080p%20WEBRip/Kabhi.Haan.Kabhi.Naa.1994.1080p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+#EXTINF:-1 tvg-id="" tvg-name="DDLJ" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTA3YzRiZGMtYWEzZS00NzY5LThhMWMtY2I1YTJhYjhmNGE4XkEyXkFqcGdeQXVyNTkzNDQ4ODc@._V1_.jpg" group-title="Hindi Movies",DDLJ
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/1991%20-%202000/1995/Dilwale%20Dulhania%20Le%20Jayenge%20%281995%29%201080p%20BluRay/Dilwale.Dulhania.Le.Jayenge.1995.1080p.BluRay.x264.AAC5.1-%5BYTS.MX%5D.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Raja Hindustani" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDU4MTVkZDMtNGY1My00OTlkLWI1ZmEtNzllYzc2NGQ2OTkxXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Raja Hindustani
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/1991%20-%202000/1996/Raja%20Hindustani%20%281996%29%20720p%20HDRip/Raja%20Hindustani%20%281996%29%20Hindi%20720p%20HDRip%20x264%20DD2.0%20ESub-Ranvijay.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pardes" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Pardes_1997_poster.jpg" group-title="Hindi Movies",Pardes
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/1991%20-%202000/1997/Pardes%20%281997%29%20Hindi%20720p%20WEBRip/Pardes%20%281997%29%20Hindi%20720p%20WEBRip%20AVC%20AAC%20ESub-SunGeorge.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kuch Kuch Hota Hai" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmQ0ZjliZTgtMjQ3NC00N2NiLTkxNjktY2VkOTQ2N2QyODNkXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Kuch Kuch Hota Hai
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/1991%20-%202000/1998/Kuch%20Kuch%20Hota%20Hai%20%281998%29%201080p%20BluRay/Kuch.Kuch.Hota.Hai.1998.1080p.BluRay.x264.AAC5.1-%5BYTS.MX%5D.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Qayamat Se Qayamat Tak" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2Y1MGEyMjktNTVhYi00NGFhLTkzYmEtY2I4NjAwNmI2YzU5XkEyXkFqcGdeQXVyODg0ODg1Mjg@._V1_.jpg" group-title="Hindi Movies",Qayamat Se Qayamat Tak
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/1991%20-%202000/1998/Qayamat%20Se%20Qayamat%20Tak%20%281988%29%20Hindi%201080p%20WEBRip/Qayamat%20Se%20Qayamat%20Tak%201988%20WebRip%201080p%20Hindi%20AAC%202.0%20x264.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Soldier" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTcyMTc1OTczMV5BMl5BanBnXkFtZTcwNzE2ODgzMQ@@._V1_.jpg" group-title="Hindi Movies",Soldier
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/1991%20-%202000/1998/Soldier%20%281998%29%20720p/Soldier.1998.720p.Untouched.Webhd.x264-NBY.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Baadshah" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWUxNzBhNTEtNzNmYi00NjE1LWI4ZTMtYThmZTQ4MWZjZGYwXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpg" group-title="Hindi Movies",Baadshah
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/1991%20-%202000/1999/Baadshah%20%281999%29%20720p%20BluRay/Baadshah.1999.REPACK.720p.BluRay.x264.AAC-%5BYTS.MX%5D.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hum Dil De Chuke Sanam" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY0MDQ3MTMyNV5BMl5BanBnXkFtZTcwNzM4NzkyMQ@@._V1_.jpg" group-title="Hindi Movies",Hum Dil De Chuke Sanam
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/1991%20-%202000/1999/Hum%20Dil%20De%20Chuke%20Sanam%20%281999%29%20Hindi%201080p%20WEBRip/Hum%20Dil%20De%20Chuke%20Sanam%201999%20WebRip%20Hindi%201080p%20x264%20AAC%202.0.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sooryavansham" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQ5Mjk5MzA4M15BMl5BanBnXkFtZTcwODQzODcyMQ@@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Sooryavansham
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/1991%20-%202000/1999/Sooryavansham%20%281999%29%20Hindi/Sooryavansham%20%E2%80%93%201080p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chal Mere Bhai" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2M4YWJhNmQtZjBmMy00NmRiLThkZmUtNTZhMDQ1MGRkMzQ3XkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Chal Mere Bhai
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/1991%20-%202000/2000/Chal%20Mere%20Bhai%20%282000%29%20Hindi%201080p/Chal%20Mere%20Bhai%202000%20WebRip%20Hindi%201080p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dhadkan" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTQ0NGNiZTItMGYzMi00ODFiLWJkMzUtZTZjOTBjODk1ZDU0XkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Dhadkan
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/1991%20-%202000/2000/Dhadkan%20-%202000%20-%20Hindi%201080p/Dhadkan.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hera Pheri" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDZmMGEwMjQtNjFlNi00ZGIxLTlkZjItNmU3Mzg4Y2E0ZjUzXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Hera Pheri
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/1991%20-%202000/2000/Hera%20Pheri%20%282000%29%20HINDI%201080p%20WEBRip/Hera.Pheri.2000.HINDI.1080p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kahin Pyaar Na Ho Jaaye" tvg-logo="https://image.tmdb.org/t/p/original/cb8oOM20UYi0BrmBKvRe9ZHOyKr.jpg" group-title="Hindi Movies",Kahin Pyaar Na Ho Jaaye
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/1991%20-%202000/2000/Kahin%20Pyaar%20Na%20Ho%20Jaaye%20%282000%29%20720p%20HDRip/Kahin%20Pyaar%20Na%20Ho%20Jaaye%202000%20Hindi%20720p%20HDRip%20x264%20AC3%20-%20Hon3y.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kaho Naa Pyaar Hai" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDUzNGRhMDAtYjk1Yy00OWFjLTgzNTYtYzFkYjcxMzhkYTQwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Kaho Naa Pyaar Hai
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/1991%20-%202000/2000/Kaho%20Naa%20Pyaar%20Hai%20%282000%29%20720p/Kaho%20Naa%20Pyaar%20Hai%20%282000%29%20720p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mohabbatein" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzU5ZGJiYzQtYjA2Yi00MmNmLTlmZmYtZTcxZjBhZGM1NDcxXkEyXkFqcGdeQXVyNTkzNDQ4ODc@._V1_.jpg" group-title="Hindi Movies",Mohabbatein
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/1991%20-%202000/2000/Mohabbatein%20%282000%29%201080p/Mohabbatein%202000%201080p%20BluRay%20x264%20Hindi%20AAC%20-%20Ozlem.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Asoka" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjk3OTZmYWUtMDYwMy00Y2ZmLWEzMDYtOTg3YjQzNDNkM2E1XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Asoka
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2001/Asoka%20%282001%29%20720p%20WEBRip/Asoka.2001.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chori Chori Chupke Chupke" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWU3YzY4OGMtNTYwMi00OTVmLWFlMzUtNmM2M2M3NmUyZTM1XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Chori Chori Chupke Chupke
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2001/Chori%20Chori%20Chupke%20Chupke%20%282001%29%20%20720p/Chori%20Chori%20Chupke%20Chupke%202001%20Hindi%20720p%20WEB-DL.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dil To Pagal Hai" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWQ5ZjgyMmEtMWUwNi00YmJjLTljOWUtNDlkNjNlMDU2NDJjXkEyXkFqcGdeQXVyNTkzNDQ4ODc@._V1_.jpg" group-title="Hindi Movies",Dil To Pagal Hai
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2001/Dil%20To%20Pagal%20Hai%20%281997%29%20BluRay%201080P/Dil%20To%20Pagal%20Hai%20%281997%29%20BluRay%201080P.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gadar Ek Prem Katha" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTgxMzAwZTMtMTY5Yi00NWVmLTk1OGItNjAwYTAzOGU2OWNiXkEyXkFqcGdeQXVyMTYzMTU3Njgx._V1_.jpg" group-title="Hindi Movies",Gadar Ek Prem Katha
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2001/Gadar%20Ek%20Prem%20Katha%20%282001%29%201080p%20WEBRip/Gadar.Ek.Prem.Katha.2001.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kabhi Khushi Kabhie Gham" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTQ5Nzc3NzAtMzZlMS00ZWJjLWIxMGMtNDU4ZTQ1NmNjMjc5XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg" group-title="Hindi Movies",Kabhi Khushi Kabhie Gham
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2001/Kabhi%20Khushi%20Kabhie%20Gham...%20%282001%29%201080p%20BluRay/Kabhi.Khushi.Kabhie.Gham....2001.1080p.BluRay.x264.AAC5.1-%5BYTS.MX%5D.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kyo kii..Main Jhuth Nahin Bolta" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2ZjN2E2YTgtOTMyMC00OGQ5LWE4NzAtYmJjMDdmOTJmZmNiXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Kyo kii..Main Jhuth Nahin Bolta
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2001/Kyo%20Kii...%20Main%20Jhuth%20Nahin%20Bolta%20%282001%29%201080p%20WEBRip/Kyo.Kii....Main.Jhuth.Nahin.Bolta.2001.1080p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lagaan " tvg-logo="https://m.media-amazon.com/images/M/MV5BNDYxNWUzZmYtOGQxMC00MTdkLTkxOTctYzkyOGIwNWQxZjhmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Lagaan 
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2001/Lagaan%20Once%20Upon%20A%20Time%20In%20India%20%282001%29%201080p%20WEBRip/Lagaan.Once.Upon.A.Time.In.India.2001.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nayak The Real Hero" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWQ0NDBmMjYtMDg4MS00OWNiLWFkZmUtZjVhZDg5NjA2MzIxXkEyXkFqcGdeQXVyODMyODMxNDY@._V1_.jpg" group-title="Hindi Movies",Nayak The Real Hero
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2001/Nayak%20The%20Real%20Hero%20%282001%29%20WEB-DL/Nayak_%20The%20Real%20Hero%20Full%20Movie%204K%20-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Style" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTZhODBhMWYtZTAzYy00ZmRmLTk4MTMtM2NlNjg4ODdiNWMxXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Style
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2001/Style%20%282001%29%20Hindi%20WebRip%20720p/Style%202001%20Hindi%20WebRip%20720p%20x264%20AAC%20-%20mkvCinemas.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rehnaa Hai Terre Dil Mein" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGI3ODkyN2YtMzAwMS00ZTdkLWJhYTItZDVlNDA2NmVkZTg0XkEyXkFqcGdeQXVyOTIzODUxMjk@._V1_.jpg" group-title="Hindi Movies",Rehnaa Hai Terre Dil Mein
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2001/Rehnaa%20Hai%20Terre%20Dil%20Mein%20%282001%29%201080p/Rehnaa.Hai.Terre.Dil.Mein.2001.1080p.AMZN.WEB-DL.DDP2.0.H.264-KamiKaze.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Awara Pagal Deewana" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzU4MTdhZGUtYWE4Mi00ZGE3LTgxMjgtNGJiMGUwMmY1MzA5XkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Awara Pagal Deewana
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2002/Awara%20Paagal%20Deewana%20%28720P%29%20%28With%20English%20Subtitle%29/Awara%20Paagal%20Deewana%202002%20DvDrip%20x264%20AC3%205.1...Hon3y.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chor Machaaye Shor" tvg-logo="https://stat4.bollywoodhungama.in/wp-content/uploads/2020/05/68-8-306x393.jpg" group-title="Hindi Movies",Chor Machaaye Shor
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2002/Chor%20Machaaye%20Shor%20%282002%29%201080p%20Hindi/Chor%20Machaaye%20Shor%20%282002%29-1080p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Devdas" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2QxMGM4Y2QtMGFmMy00ZjZkLWExMWQtNTY1Yjc0MDFjZjY0XkEyXkFqcGdeQXVyNTE0MDc0NTM@._V1_.jpg" group-title="Hindi Movies",Devdas
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2002/Devdas%20%282002%29%20BluRay%201080p/Devdas.2002.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jaani Dushman" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjc5MTljZmEtODE1Mi00MDdhLTk0MjMtODkyYmU0NzM5YWJlXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Jaani Dushman
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2002/Jaani%20Dushman%20Ek%20Anokhi%20Kahani/Jaani%20Dushman%20Ek%20Anokhi%20Kahani.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mujhse Dosti Karoge" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGY5NWMwNWUtYjA0Ni00YTY5LWI4ZWUtYjUyYjM0OTY0NmZjXkEyXkFqcGdeQXVyNTkzNDQ4ODc@._V1_.jpg" group-title="Hindi Movies",Mujhse Dosti Karoge
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2002/Mujhse%20Dosti%20Karoge%21%20%282002%29%201080p%20WEBHDRip/Mujhse%20Dosti%20Karoge%21%20%282002%29%201080p%20WEBHDRip%20x264%20AC3%205.1%20%28Upmix%29%20DrC.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Raaz(Horror)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWE2NGY3MWItZDkyMS00NTRlLTgwYTMtMTA0NDljNWE1MGE4XkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Raaz(Horror)
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2002/Raaz%20%282002%29%201080p%20WEB-D/Raaz.2002.Hindi.1080p.WEB-DL.x264.AAC.5.1-Cinemkv.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Baghban" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA2NTEyODY4Ml5BMl5BanBnXkFtZTcwOTk2ODgzMQ@@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Baghban
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2003/Baghban%20%282003%29%201080p%20BluRay/Baghban%202003%20Hindi%201080p%20BluRay%20x264%20AAC%205.1.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chalte Chalte" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzU4MjI2MjctMzExMC00NTAxLWFjZWMtODk2YzVjMzhkZmU2XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg" group-title="Hindi Movies",Chalte Chalte
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2003/Chalte%20Chalte%20%282003%29%201080p%20BluRay/Chalte.Chalte.2003.1080p.BluRay.x264.AAC5.1-%5BYTS.MX%5D.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ishq Vishk" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTE5ZGE2MDUtMmI2Mi00MTdkLTlmMTktOTQzOTUwYmNiNGY1XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Ishq Vishk
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2003/Ishq%20Vishk%20%282003%29%201080p%20WEB-DL/Ishq%20Vishk%20%282003%29%20Hindi%201080p%20WEB-DL%20x264%20AAC%20%7B%20TaRa%20%7D.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jism" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjg0YmE2ODItOWU2MC00YWM4LTg5ZDgtZjIxODkyMTVjZWJlXkEyXkFqcGdeQXVyNjQ2MjQ4MzQ@._V1_.jpg" group-title="Hindi Movies",Jism
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2003/Jism%20%282003%29%20720p%20DvDRip/Jism%202003%20Hindi%20720p%20DvDRip%20CharmeLeon%20Silver%20RG.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kal Ho Naa Ho" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTkxNzU2MDczOV5BMl5BanBnXkFtZTcwNTU5NTk5Mw@@._V1_.jpg" group-title="Hindi Movies",Kal Ho Naa Ho
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2003/Kal%20Ho%20Naa%20Ho%20%282003%29%201080p%20BluRay/Kal.Ho.Naa.Ho.2003.1080p.BluRay.x264.AAC5.1-%5BYTS.MX%5D.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Koi..Mil Gaya" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGM4ZjFkZjktMTEwMS00NWNmLWI1NTAtYTAwYWNhNzAxMjA2XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg" group-title="Hindi Movies",Koi..Mil Gaya
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2003/Koi...%20Mil%20Gaya%20%282003%29%201080p%20WEBRip/Koi....Mil.Gaya.2003.1080p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Main Prem Ki Diwani Hoon" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI5NjM0NjUyN15BMl5BanBnXkFtZTgwMTk4MzEzNzE@._V1_.jpg" group-title="Hindi Movies",Main Prem Ki Diwani Hoon
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2003/Main%20Prem%20Ki%20Diwani%20Hoon%20%282003%29%20720p%20HDRip/Main%20Prem%20Ki%20Diwani%20Hoon%202003%20Hindi%20720p%20HDRip%20x264%20AAC%20-%20Masti.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Munna Bhai MBBS" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTNhYTgyYTAtYWE5My00NDk1LTg3MGYtMTJmYjNhMzY2OTQ4XkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Munna Bhai MBBS
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2003/Munna%20Bhai%20M.B.B.S.%20%282003%29%201080p%20BluRay/Munna.Bhai.M.B.B.S..2003.1080p.BluRay.x264.AAC-%5BYTS.MX%5D.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tere Naam" tvg-logo="https://stat4.bollywoodhungama.in/wp-content/uploads/2016/03/Tere-Naam.jpg" group-title="Hindi Movies",Tere Naam
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2003/Tere%20Naam%202003%20BluRay%201080p%20HDMA/Tere%20Naam%202003%20BluRay%20Hindi%201080p%20DTS%20HDMA%205.1%20x264%20ESub%20-%20mkvCinemas%20%5BTelly%5D.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dhoom" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTk3MDNhODEtMWYyMC00NmVjLTg3NzgtNjI1MzA4ZmVhMjE2XkEyXkFqcGdeQXVyNTkzNDQ4ODc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Dhoom
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2004/Dhoom%20%282004%29%201080p%20BluRay/Dhoom.2004.1080p.BluRay.x264.AAC5.1-%5BYTS.MX%5D.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ab Tumhare Hawale Watan Saathiyo" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGNkYTA0ZDctNWNiNy00NzNmLTlkZmMtMTkyNmZkNmZlYjVmXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Ab Tumhare Hawale Watan Saathiyo
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2004/Ab%20Tumhare%20Hawale%20Watan%20Saathiyo%20%282004%29%20720p/Ab%20Tumhare%20Hawale%20Watan%20Saathiyo%202004%20Hindi%20720p%20WEBRip%20x264%20AAC-SunGeorge.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lakshya" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM5MzQwNTk4OF5BMl5BanBnXkFtZTgwMDc2MTYzNjE@._V1_.jpg" group-title="Hindi Movies",Lakshya
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2004/Lakshya%20%282004%29%201080p%20WEBRip/Lakshya.2004.1080p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Main Hoon Na" tvg-logo="https://m.media-amazon.com/images/M/MV5BODVkNjU4NGMtODMwNi00ZWU4LWI3ZmYtNjgxNzIyNjY5MmI1XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg" group-title="Hindi Movies",Main Hoon Na
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2004/Main%20Hoon%20Na%20%282004%29%201080p%20BluRay/Main%20Hoon%20Na%202004%20BluRay%201080p%20Hindi%20DD%205.1%20x264.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Masti" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY0OTUwMDAyOV5BMl5BanBnXkFtZTcwMzY2ODgzMQ@@._V1_.jpg" group-title="Hindi Movies",Masti
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2004/Masti%20%282004%29%201080p%20WEBRip/Masti%202004%20WebRip%201080p%20Hindi%20DD%205.1%20x264%20ESub%20-.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mujhse Shaadi Karogi" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzkwMjJlMTctY2UyMi00YTZlLWJkYmYtNmY2NDkwZGI5NDMxXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Mujhse Shaadi Karogi
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2004/Mujhse%20Shaadi%20Karogi%20%282004%291080p%20BluRay/Mujhse%20Shaadi%20Karogi%202004%201080p%20BluRay%20DD%205.1%20ESub.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Murder" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzZmZmM2M2YtODdiYS00NzlhLWIzYmEtZTJjMzIyMWE2ZGJiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpg" group-title="Hindi Movies",Murder
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2004/Murder%20%282004%29%20Hindi%201080p%20Bluray/Murder%202004%20Hindi%201080p%20WEB%20DL%20x264%20AAC%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rudraksh" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzA0ZjkxNWItNjY3Ni00MGZlLThkYmUtMjdkNzdmOWEzZDU1XkEyXkFqcGdeQXVyMzYyODU2NTU@._V1_.jpg" group-title="Hindi Movies",Rudraksh
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2004/Rudraksh%20%282004%29%201080p%20WEBRip/Rudraksh.2004.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Veer-Zaara" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTk2MzkzOTY0MF5BMl5BanBnXkFtZTgwNzY3NTYyNTM@._V1_.jpg" group-title="Hindi Movies",Veer-Zaara
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2004/Veer-Zaara%20%282004%29%20BluRay%201080p/Veer-Zaara.2004.1080p.BluRay.x264.AAC5.1-%5BYTS.MX%5D.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aitraaz" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/Aitraaz.jpg/220px-Aitraaz.jpg" group-title="Hindi Movies",Aitraaz
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2004/Aitraaz%20%282004%29%20720p%20HDRip/Aitraaz.2004.Hindi.720p.HDRip.x264.AAC.-.Hon3yHD.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bunty Aur Bubli" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGQ1MjI3YjEtYzFlMC00NTFhLTllZGUtZWMzMTBiOGQxMjRkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Bunty Aur Bubli
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2005/Bunty%20Aur%20Babli%20%282005%29%201080p%20WEBRip/Bunty.Aur.Babli.2005.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
