@@ -143,8 +143,6 @@ http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2005/Vaah%21%20Life%20Ho%20Toh%20A
 http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2006/Bhagam%20Bhag%20%282006%29%201080p%20BluRay/Bhagam%20Bhag%20%282006%29%20Hindi%201080p%20BluRay%20x265%20HEVC%20DD5.1%20ESub%20-TombDoc.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Dhoom 2" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTAyYmYxOTktNjNmZS00ZTZlLWI2YjUtM2RlZTlkM2ZiZjdhXkEyXkFqcGdeQXVyNTkzNDQ4ODc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Dhoom 2
 http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2006/Dhoom%202%20%282006%29%201080p%20WEBRip/Dhoom.2.2006.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Don" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzAyMWE0MjgtMDVjNS00ZDMyLWE4NjQtNWU2ZDgyYTlmMjdjXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_.jpg" group-title="Hindi Movies",Don
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2006/Don%20%282006%29%201080p%20BluRay/Don.2006.1080p.BluRay.x264.AAC5.1-%5BYTS.MX%5D.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Fanaa" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzhkNTYzMzktNmZlZi00YmU4LTlmYjgtZTJmYWJjZWI5ZGRkXkEyXkFqcGdeQXVyNTkzNDQ4ODc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Fanaa
 http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2006/Fanaa%20%282006%29%20%201080p%20BluRay/Fanaa%202006%201080p%20BluRay%20x264%20Hindi%20AAC%20-%20Ozlem.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Gangstar" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDE0NmFhNzQtMGJmYS00NDFhLWJhNzYtNTc4YjU5ZDM2OGUzXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_.jpg" group-title="Hindi Movies",Gangstar
@@ -291,6 +289,380 @@ http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2010/Robot%20%282010%29%201080p%20
 http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2010/Tees%20Maar%20Khan%20%282010%29/Tees.Maar.Khan.2010.1080p.NF.WEB-DL.DDP5.1.x264-Telly.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Veer" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2E1MjAxYWQtODQwYS00ODliLWFiMGQtNTgyODYyMmQyNzExXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Veer
 http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2010/Veer%20%282010%29%20720p/Veer%20%282010%29%20720p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="7 Khoon Maaf" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYxMzA5MTI3MF5BMl5BanBnXkFtZTcwMDE3NDc1NA@@._V1_.jpg" group-title="Hindi Movies",7 Khoon Maaf
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2011/7%20Khoon%20Maaf%20%282011%29%20720p/7%20Khoon%20Maaf%202011%20Hindi%20HDRip%20720p%20x264%20AC3...Hon3y.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Buddha Hoga tera baap" tvg-logo="https://stat5.bollywoodhungama.in/wp-content/uploads/2016/03/Bbuddah...Hoga-Terra-Baap.jpg" group-title="Hindi Movies",Buddha Hoga tera baap
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2011/Bbuddah%20Hoga%20Terra%20Baap%20%282011%29%20720p/Bbuddah...%20Hoga%20Terra%20Baap%20%282011%29%20720p%20HDRip%20x264%20-%20RDLinks.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bodyguard" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTMyOTkzMzg4Ml5BMl5BanBnXkFtZTcwNTkxNzQzNg@@._V1_.jpg" group-title="Hindi Movies",Bodyguard
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2011/Bodyguard%20%282011%29%201080p%20BluRay/Bodyguard.2011.1080p.BluRay.x264.AAC5.1-%5BYTS.MX%5D.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chillar party" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY0NzgxNjIxOV5BMl5BanBnXkFtZTcwMjIxMjc4NQ@@._V1_.jpg" group-title="Hindi Movies",Chillar party
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2011/Chillar%20Party%20%282011%29%20720p/Chillar.Party.2011.720p.NF.WEB-DL.x264.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Desi Boyz" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f5/11nov_desiboyz-poster01.jpg" group-title="Hindi Movies",Desi Boyz
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2011/Desi%20Boyz%20%282011%29%20720p%20BluRay/Desi%20Boyz%202011%20Hindi%20720p%20Blu-Ray%20x264%20AAC%205.1%20ESub-HDSector.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dil to Baccha Hai Ji" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGJlNDI3OWQtNjBhOS00OGIyLTgxMWItNTBiOGZjZGZjZjM3XkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Dil to Baccha Hai Ji
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2011/Dil%20Toh%20Baccha%20Hai%20Ji%20%282011%29%20Hindi%20WEBRip/Dil%20Toh%20Baccha%20Hai%20Ji%202011%20WebRip%201080p%20Hindi%20DD%202.0%20x264%20ESub.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Don" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzAyMWE0MjgtMDVjNS00ZDMyLWE4NjQtNWU2ZDgyYTlmMjdjXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_.jpg" group-title="Hindi Movies",Don
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2006/Don%20%282006%29%201080p%20BluRay/Don.2006.1080p.BluRay.x264.AAC5.1-%5BYTS.MX%5D.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Don 2" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzNiYWYxNWYtZDYzMC00MzA0LTkzY2UtNDAwNDhiYmVjNmEwXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Don 2
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2011/Don%202%20%282011%29%201080p%20WEBRip/Don.2.2011.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dum Maaro Dum" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWU5OGI4NzUtNzhjZC00ZWJlLTlmNjQtMTk1Mjk4YTQ0ZTQ2XkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Dum Maaro Dum
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2011/Dum%20Maaro%20Dum%20%282011%29%20Hindi%201080p%20WEBRip/Dum%20Maaro%20Dum%202011%20WebRip%201080p%20Hindi%20AAC%202.0%20x264.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ekk Dewaana Tha" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDBjOWY1NTQtMmU0MS00NGQ3LTk0YWEtNmI0YTJiZjg0Y2Y5XkEyXkFqcGdeQXVyMjY1MjkzMjE@._V1_.jpg" group-title="Hindi Movies",Ekk Dewaana Tha
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2012/Ekk%20Deewana%20Tha%20%282012%29%201080p%20WEBRip/Ekk%20Deewana%20Tha%202012%20WebRip%201080p%20Hindi%20DD%205.1%20x264%20ESub.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Force" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTk4MTA0NDkzOV5BMl5BanBnXkFtZTcwNzY3MDg1Ng@@._V1_.jpg" group-title="Hindi Movies",Force
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2011/Force%20%282011%29%20Hindi%20720p/Force%20%282011%29%20Hindi%20DvD-Rip%20720p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hunted(horror)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDUyYzk0MWQtYzY5ZS00YmNiLThmODYtNjg1MGJkNjIzMTNlXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Hunted(horror)
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2011/Haunted%203D%20%282011%29%20720p%20Hindi/Haunted%203D%20%282011%29%20HDRip%20720p%20Hindi%20H.264%20ACC.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ladies vs ricky bahl" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzgwM2RjODMtOTIzNS00NzczLThmNzQtNGIxNGQ2MmZkZDk3XkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Ladies vs ricky bahl
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2011/Ladies%20vs%20Ricky%20Bahl%20%282011%29%20720p/Ladies%20vs%20Ricky%20Bahl%202011%20Hindi%20720p%20BRRip%20x264%20AAC%205.1...Hon3y.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mausam" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzM0NWMyMGItMmNiYS00MmNkLWEyZTAtYWNjY2UwY2Q2NTJjXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Mausam
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2011/Mausam%20%282011%29%20720p/Mausam%202011%20Hindi%20720p%20DvDRip%20CharmeLeon%20SilverRG.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mere Brother ki dulhan" tvg-logo="https://m.media-amazon.com/images/M/MV5BODE2Njk4MTU4NV5BMl5BanBnXkFtZTcwNjU4OTc1Ng@@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Mere Brother ki dulhan
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2011/Mere%20Brother%20Ki%20Dulhan%202011%20Hindi%201080p/Mere%20Brother%20Ki%20Dulhan%202011%20Hindi%201080p%20BluRay%20HEVC%20x265%20AC3-TeamTelly.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monica" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmIzMjFmNDAtNTg1OS00MmMwLTllNGUtODBmYTFkYTBiM2EzXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Monica
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2011/Monica%20%282011%29%201080p%20WEBRip/Monica.2011.1080p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mujhse Fraaaandship karoge" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmNkNWIxODYtZGRiYi00NzFiLWFlZDMtNDk1Yjg0NDVjYTcwXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Mujhse Fraaaandship karoge
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2011/Mujhse%20Fraaandship%20Karoge%20%282011%29%20720p/Mujhse%20Fraaandship%20Karoge%202011%20Hindi%20720p%20DvDRip%20CharmeLeon%20SilverRG.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Murder 2" tvg-logo="https://m.media-amazon.com/images/M/MV5BODBiNTk1NjUtZDY3NC00YjUwLTgxNmItMjExZjcyNDdkZjQ1XkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_.jpg" group-title="Hindi Movies",Murder 2
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2011/Murder%202%20%282011%29%201080p%20BluRay/Murder.2.2011.1080p.BluRay.x264.AAC5.1-%5BYTS.MX%5D.mp4
+#EXTINF:-1 tvg-id="" tvg-name="patiala House" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTg2MWM3M2EtYzNlZS00MjA4LWIxNTktNjc3NDI0YzE1Zjc1XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpg" group-title="Hindi Movies",patiala House
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2011/Patiala%20House%20%282011%29%20720p/Patiala%20House%202011%20720p%20BRRip%20CharmeLeon%20SilverRG.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pyaar ka Panchnama" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWEzM2I5OGYtODI1NS00OWJlLWIxY2MtM2MyMTlmZjMwM2I4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Pyaar ka Panchnama
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2011/Pyaar%20Ka%20Punchnama%20%282011%29%20720p/Pyaar%20Ka%20Punchnama%202011%20Hindi%20720p%20BRRip%20CharmeLeon%20Silver%20RG.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ra.One" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/58/Ra.Oneposter.jpg" group-title="Hindi Movies",Ra.One
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2011/Ra%20One%20%282011%29/Ra.One%202011%20BluRay%201080p%20Hindi%20DD%205.1%20x264%20-%20mkvCinemas%20%5BTelly%5D.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ready" tvg-logo="https://m.media-amazon.com/images/M/MV5BODU5ZDA2NWUtNDdkMi00YWQ2LWI0MzktYzM0NzRlZjg0ZjY2XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Ready
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2011/Ready%20%282011%29%20720p/Ready%20%282011%29%20720p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rockstar" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTc3NzAxMjg4M15BMl5BanBnXkFtZTcwMDc2ODQwNw@@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Rockstar
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2011/Rockstar%20%282011%29%201080p%20BluRay/Rockstar%202014%201080p%20BluRay%20DD%205.1%20x264%20%5BMW%5D.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tenu weds Manu" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGQ2ZWM5NTgtNDU4OS00NWY3LWFjOTUtMmQ3OTM3ZjY5NjQ1XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg" group-title="Hindi Movies",Tenu weds Manu
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2011/Tanu%20Weds%20Manu%20%282011%29%201080p%20BluRay/Tanu.Weds.Manu.2011.1080p.BluRay.x264.AAC5.1-%5BYTS.MX%5D.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Thank You" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzA1OTQxM2QtM2MxZC00ZGE3LTg1MzMtNDkzYTVkYzhhZTAwXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg" group-title="Hindi Movies",Thank You
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2011/Thank%20You%20%282011%29%20720p/Thank%20You%202011%20Hindi%20720p%20Blu-Ray%20x264%20AAC%205.1%20ESub-HDSector.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Dirty Picture" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDI0OTlhYmEtNzQ3MS00OTI0LTk4NWUtN2YxNTgyYmY0YmNhXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",The Dirty Picture
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2011/The%20Dirty%20Picture%20%282011%29%201080p%20BluRay/The.Dirty.Picture.2011.BLURAY.1080p.BluRay.x264.AAC5.1-%5BYTS.MX%5D.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Yamla Pagla Dewaana" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjE1OTEzNDg1MF5BMl5BanBnXkFtZTcwNTYyOTM5NA@@._V1_.jpg" group-title="Hindi Movies",Yamla Pagla Dewaana
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2011/Yamla%20Pagla%20Deewana%20%282011%29%20720p/Yamla%20Pagla%20Deewana%20%282011%29%20720p%20BluRay%20HEVC%20700MB%20ESubs%20-%20Downloadhub.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Zindagi na Milegi Dobara" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGFmMjM5OWMtZTRiNC00ODhlLThlYTItYTcyZDMyYmMyYjFjXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Zindagi na Milegi Dobara
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2011/Zindagi%20Na%20Milegi%20Dobara%20%282011%29%201080p/Zindagi%20Na%20Milegi%20Dobara%202011%20Hindi%201080p%20Blu-Ray%20x264%20DD%205.1%20ESub-Masti.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agent Vinod" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI4MjkwMTA0N15BMl5BanBnXkFtZTcwMjA0MTc0Nw@@._V1_.jpg" group-title="Hindi Movies",Agent Vinod
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2012/Agent%20Vinod%20%282012%29%20720p/Agent%20Vinod%202012%20Hindi%20HDRip%20720p%20x264%20AC3...Hon3y.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agneepath" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzI4Mzg3NTEtMDFhMy00ZTUxLWJiYTItYTM2NGU4MWVmMDAyXkEyXkFqcGdeQXVyNDkxMzY0Mjk@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Agneepath
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2012/Agneepath%20%282012%29%20BluRay/Agneepath%202012%20Hindi%201080p%20BluRay%20x264%20DD%205.1%20MSubs%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Barfi" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQzMTEyODY2Ml5BMl5BanBnXkFtZTgwMjA0MDUyMjE@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Barfi
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2012/Barfi%20%20-%202012%20-%20720p/Barfi%202012%20BRRip%20720p%20x264%20AAC%20-%20ViZNU%20%5BP2PDL%5D.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bol Bachchan" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWNhNmJiNTctZWJlZi00ZGIzLTgyYTktYmJmNTlmZTA3NDIzXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg" group-title="Hindi Movies",Bol Bachchan
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2012/Bol%20Bachchan%20%282012%29%20Hindi%201080p%20BluRay/Bol%20Bachchan%202012%20BluRay%201080p%20Hindi%20DD%205.1%20x264%20ESub.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cocktail" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjYyY2U2MjUtNTdkYS00ZjM5LTllNTUtYWFkZGVhYWU1YjEzL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_.jpg" group-title="Hindi Movies",Cocktail
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2012/Cocktail%20%282012%29%20BluRay%201080p/Cocktail.2012.1080p.BluRay.x264-%5BYTS.AM%5D.mp4
+#EXTINF:-1 tvg-id="" tvg-name="English Vinglish" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjQ5YWVmYmYtOWFiZC00NGMxLWEwODctZDM2MWI4YWViN2E5XkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_.jpg" group-title="Hindi Movies",English Vinglish
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2012/English%20Vinglish%20%282012%29%201080p%20BluRay/English.Vinglish.2012.BLURAY.1080p.BluRay.x264.AAC5.1-%5BYTS.MX%5D.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gangs Of Wasseypur part 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj18c8ePhBuAFHSqm4jFwnOC2rGVzxVNSfSw&s" group-title="Hindi Movies",Gangs Of Wasseypur part 1
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2012/Gangs%20of%20Wasseypur%20%282012%29%20Part%201%20Hindi%201080p%20BluRay/Gangs%20of%20Wasseypur%202012%20Part%201%20Hindi%201080p%20Blu-Ray%20x264%20DD%205.1.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gangs Of Wasseypur part 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/58/Gangs_of_wasseypur_II.jpg" group-title="Hindi Movies",Gangs Of Wasseypur part 2
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2012/Gangs%20of%20Wasseypur%20%282012%29%20Part%202%20Hindi%201080p%20BluRay/Gangs%20of%20Wasseypur%202012%20Part%202%20Hindi%201080p%20Blu-Ray%20x264%20DD%205.1.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hate Story" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a2/Hate_Story_Film_Poster.jpg" group-title="Hindi Movies",Hate Story
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2012/Hate%20Story%20-%202012%20-%20720p/Hate%20Story%202012%20Hindi%20HDrip%20720p%20...AmirFarooqi.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Heroine" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJhZWQxZGQtOTliNi00NTE4LTk0NWMtMjM3MTJlZTA1NDM0XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpg" group-title="Hindi Movies",Heroine
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2012/Heroine%20%282012%29%20720p%20BluRay/Heroine%202012%20Hindi%20720p%20Blu-Ray%20x264%20AAC%205.1%20ESub-HDSector.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ishaqzaade" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWYyMmFiNDQtNDdlNy00NTAyLWExMDctOTE1OTk2MjYwNzUyXkEyXkFqcGdeQXVyNjc5Mjg4Nzc@._V1_.jpg" group-title="Hindi Movies",Ishaqzaade
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2012/Ishaqzaade%20%282012%29%201080p/Ishaqzaade%202012%20Hindi%201080p%20Blu-Ray%20x264%20DD%205.1%20MSubs-Masti.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jab Tak Hai Jaan" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTUyMzM5OTM5NF5BMl5BanBnXkFtZTcwNTIwMjA3OA@@._V1_.jpg" group-title="Hindi Movies",Jab Tak Hai Jaan
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2012/Jab%20Tak%20Hai%20Jaan%20%282012%29%20-%20720p/Jab%20Tak%20Hai%20Jaan%20%282012%29%20BRRip%20X264%20720P%20ESubs%201.2GB%20%5BTeam%20Jaffa%5D.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jannat 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/63/Jannat_2_official_poster.jpg" group-title="Hindi Movies",Jannat 2
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2012/Jannat%202%20%282012%29%20720p/Jannat%202%20%282012%29%20720p%20DVDRiP%20x264%20AAC-AMEET6233%20%28T.M.R.G%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jism 2" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDdmNTdiOWQtOTBjMy00Y2Q4LThlOTgtYmU4NjBjMGM0YTZlXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Jism 2
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2012/Jism%202%20%20-%202012%20-%20720p/Jism%202%20%20-%202012%20-%20720p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jodi Breakers" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDRlYTY4NWItZTI4Yi00MWQ3LWFhYWMtYTIxZWYyM2JiMzFlXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Jodi Breakers
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2012/Jodi%20Breakers%20%282012%29%20720p/Jodi%20Breakers%202012%20Hindi%20720p%20Dvdrip...AmirFarooqi.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Joker " tvg-logo="https://m.media-amazon.com/images/M/MV5BMjE0NjIxODMxN15BMl5BanBnXkFtZTcwMjM5MDcxOA@@._V1_.jpg" group-title="Hindi Movies",Joker 
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2012/Joker%20%282012%29%20720p/Joker%202012%20Hindi%20HDRip%20720p%20x264%20AC3...Hon3y.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kahaani" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNFNiIrN5tIw2BTQNgdyjYjrmpqaSA0y25PQ&s" group-title="Hindi Movies",Kahaani
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2012/Kahaani%20-%202012%20-%20Hindi%201080p%20BluRay/Kahaani%202012%20Hindi%201080p%20BluRay%20x264%20AC3%205.1%20ESub.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Khiladi 786" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTE2OWJiZTMtNTc4ZC00MWU1LTgzZTgtY2Q4ZmY3Y2ZiMmM5XkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Khiladi 786
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2012/Khiladi%20786%20%282012%29%20BluRay%201080p/Khiladi%20786%20%282012%29%20BluRay%201080p%20HEVC%2010Bit%20AAC%205.1%20ESub%20-%20%5BMusafirboy%5D.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kya super Cool Hain Hum" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTY3MTI5OTItNGRhNi00YTlmLWJjYzgtNjNhZDJhNmRjZjY4XkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Kya super Cool Hain Hum
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2012/Kya%20Super%20Kool%20Hain%20Hum%20-%202012%20-%20720p/Movie/Kya%20Super%20Kool%20Hain%20Hum%202012%20Hindi%20DvdScr%20720p%20x264%20...Hon3y.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OMG" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTg1MjE2YTQtMmE3ZC00NGQ2LWJiMWYtZmIxNTYzZjJmYTkwXkEyXkFqcGdeQXVyODMyODMxNDY@._V1_.jpg" group-title="Hindi Movies",OMG
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2012/OMG%20Oh%20My%20God%20-%202012%20-%20720p/OMG%20Oh%20My%20God%202012%20Hindi%20720p%20DvDRip%20CharmeLeon%20Silver%20RG.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Players" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5b/Players_2012_poster.jpg" group-title="Hindi Movies",Players
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2012/Players%20-%202012%20-%20720p/Players%20-%202012%20-%20720p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Raaz 3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/95/Raaz_3d_movie_poster.jpg" group-title="Hindi Movies",Raaz 3
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2012/Raaz%203%20%282012%29%201080p%20WEB-DL/Raaz.3.2012.1080p.GPLAY.WEB-DL.DDP5.1.H.264-voodoo.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rowdy Rathore" tvg-logo="https://m.media-amazon.com/images/M/MV5BODAyMzQyNWItYzg3YS00YTRjLWIwODAtNTc3MWE1MTgyNGNkXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Rowdy Rathore
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2012/Rowdy%20Rathore%20%282012%29%20Hindi%201080p%20BluRay/Rowdy%20Rathore%202012%20BluRay%201080p%20Hindi%20DD%205.1%20x264%20ESub.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Son Of Sardar" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTkzMDA2MzQ0MV5BMl5BanBnXkFtZTcwMjEwOTM3OA@@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Son Of Sardar
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2012/Son%20of%20Sardaar%20%282012%29%20Hindi%201080p%20BluRay/Son%20of%20Sardaar%202012%20BluRay%201080p%20Hindi%20DD%205.1%20x264%20ESub.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tere Naal Love Ho Gaya" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjE2NjcxMTcyMV5BMl5BanBnXkFtZTcwMzczNjcyNw@@._V1_.jpg" group-title="Hindi Movies",Tere Naal Love Ho Gaya
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2012/Tere%20Naal%20Love%20Ho%20Gaya%20%282012%29%201080p%20WEBRip/Tere.Naal.Love.Ho.Gaya.2012.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vicky Donor" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQwMTcyMjY3OV5BMl5BanBnXkFtZTcwNjU0MjY2Nw@@._V1_.jpg" group-title="Hindi Movies",Vicky Donor
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2012/Vicky%20Donor%20%282012%29%201080p%20BluRay/Vicky.Donor.2012.1080p.BluRay.x264.AAC5.1-%5BYTS.MX%5D.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Talaash" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTg5NzI3NzQzNl5BMl5BanBnXkFtZTcwMjM3MDU2OA@@._V1_.jpg" group-title="Hindi Movies",Talaash
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2012/Talaash%20%282012%29/Talaash%20%282012%29%201080p/Talaash%20%282012%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="3G" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTkwODMzMDI3MF5BMl5BanBnXkFtZTcwMjc0MDQwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",3G
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2013/3G%20%282013%29%20720p/3G%20-%20A%20Killer%20Connection%202013%20Hindi%20720p%20HDrip%20x264...Hon3y.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aashiqui2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/Aashiqui_2_%28Poster%29.jpg" group-title="Hindi Movies",Aashiqui2
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2013/Aashiqui%202%20-%202013%20-%20Hindi%201080p%20BluRay/Aashiqui.2.2013.Hindi.1080p.BluRay.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ABCD" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU3NTk0NjE5Nl5BMl5BanBnXkFtZTcwMTU2ODMwOQ@@._V1_.jpg" group-title="Hindi Movies",ABCD
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2013/ABCD%20%28Any%20Body%20Can%20Dance%29%20%282013%29/ABCD%20%28Any%20Body%20Can%20Dance%29%20%282013%20-%20Hindi%29%20DVDRip%20-%20x264%20-%20ESubs%20-%20%5B395MB%5D%20-%20eXclusive%20-%20%5Baravind017%5D--%7Ba2zRG%7D.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BA Pass" tvg-logo="https://stat5.bollywoodhungama.in/wp-content/uploads/2016/03/74637410.jpg" group-title="Hindi Movies",BA Pass
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2013/B%20A%20Pass%20%282013%29%20Hindi%20720p%20BluRay%20x264%20AAC/B.A.%20Pass%20%282013%29%20Hindi%20720p%20BluRay%20x264%20AAC%205.1%20ESubs.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Besharam" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDU3MDQ2NTYtYjExOS00OWViLWExMGUtMTg0OTk3OTg0NTY1XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg" group-title="Hindi Movies",Besharam
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2013/Besharam%20%282013%29%201080p%20BluRay/Besharam.2013.1080p.BluRay.x264.AAC5.1-%5BYTS.MX%5D.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bhaag Milkha Bhaag" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzqWAY45VsQvMS99HAdzfrIjsG4HndNyfNqw&s" group-title="Hindi Movies",Bhaag Milkha Bhaag
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2013/Bhaag%20Milkha%20Bhaag%20%282013%29%20Hindi%201080p%20BluRay/Bhaag%20Milkha%20Bhaag%202013%20BluRay%201080p%20Hindi%20DD%205.1%20x264%20ESub.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Boss" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWVmZDFjY2MtNzY0OC00NDgzLTg5OTEtMDFlYjgwYTljZmUxXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Boss
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2013/Boss%20%282013%29%20Hindi%20720p%20DvDRip%20x264/Boss%202013%20Hindi%20720p%20DvDRip%20x264%20AAC...Hon3y.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bullet Raja" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz-isnMmDkm0aqj-k_VWRd55W48exnGw_Jpg&s" group-title="Hindi Movies",Bullet Raja
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2013/Bullet%20Raja%20%282013%29%201080p/Bullet.Raja.2013.1080p.BluRay.x264.6CH.ShAaNiG.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chennai Express" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGYyNDQxOTEtOTIxYS00M2M3LWFmMzEtNWRmNmIyZTlhOWY1XkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_.jpg" group-title="Hindi Movies",Chennai Express
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2013/Chennai%20Express%20%282013%29%201080p%20BluRay/Chennai.Express.2013.1080p.BluRay.x264.AAC5.1-%5BYTS.MX%5D.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dhoom 3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f1/Dhoom_3_Film_Poster.jpg" group-title="Hindi Movies",Dhoom 3
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2013/Dhoom%203%20%282013%29%201080p%20BluRay/Dhoom.3.2013.1080p.BluRay.x264.AAC5.1-%5BYTS.MX%5D.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Go Goa Gone" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjAzNzI5MTQxOV5BMl5BanBnXkFtZTcwNTQ0MDE1OQ@@._V1_.jpg" group-title="Hindi Movies",Go Goa Gone
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2013/Go%20Goa%20Gone%20%282013%29%201080p%20WEBRip/Go.Goa.Gone.2013.1080p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Himmatwala" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM4MTYwNDA0NF5BMl5BanBnXkFtZTcwNjE0MjQyOQ@@._V1_.jpg" group-title="Hindi Movies",Himmatwala
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2013/Himmatwala%20%282013%29%20Hindi/Himmatwala%20%20%201080p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="I Me Aur Main" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTdjNmYyMTgtZmU3My00ODAxLTk3YzUtNDViMzk5YzdkMTBkXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg" group-title="Hindi Movies",I Me Aur Main
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2013/I%2C%20Me%20Aur%20Main%20-%202013%20-%20Hindi%201080p/I%2C%20Me%20Aur%20Main%202013%20Hindi%201080p%20Hotstar%20WEB-DL.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jackpot" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjg1NDIzOTktYzI3Ny00ZjY5LTk3MTAtMDljOTkwMWMzZGEwXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg" group-title="Hindi Movies",Jackpot
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2013/Jackpot%20%282013%29%201080p%20WEBRip/Jackpot.2013.1080p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
+#EXTINF:-1 tvg-id="" tvg-name="John Day" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmE1YzZiOTgtMmY2NS00NGEzLThhYWUtZDRmNDRkMjdiN2IyXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpg" group-title="Hindi Movies",John Day
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2013/John%20Day%20%282013%29%20720p/John%20Day%282013%29Hindi%20720p%20DVDRip%20x264%20ESubs%20Team%20DDH~RG.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jolly LLB" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUe4xMyiWuSjTE4tV2c_RMeJsW-kpAFb6UUA&s" group-title="Hindi Movies",Jolly LLB
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2013/Jolly%20LLB%20%282013%29%201080p%20BluRay/Jolly.LLB.2013.1080p.BluRay.x264.AAC5.1-%5BYTS.MX%5D.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Krrish 3" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI0MzU3MTM1Ml5BMl5BanBnXkFtZTgwOTk2MjQ0MDE@._V1_.jpg" group-title="Hindi Movies",Krrish 3
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2013/Krrish%203%20%282013%29/Krrish%203%202013%20BluRay%201080p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lootera" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBLJLMHXP3IrukGfL676J9c7q-He6D-aEgtw&s" group-title="Hindi Movies",Lootera
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2013/Lootera%20%282013%29%201080p%20WEBRip/Lootera%202013%20WebRip%201080p%20Hindi%20DD%202.0%20x264.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mardras cafe" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTg1MzU5ODM4Nl5BMl5BanBnXkFtZTcwOTQ3MTM5OQ@@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Mardras cafe
+http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2013/Madras%20Cafe%20%282013%29%201080p%20BluRay/Madras.Cafe.2013.BLURAY.1080p.BluRay.x264.AAC5.1-%5BYTS.MX%5D.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
