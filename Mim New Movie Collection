@@ -1705,14 +1705,16 @@ http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/FIFA%20World%20Cup%20Fi
 
 
 
-
-
+#EXTINF:-1 tvg-id="" tvg-name="Star Plus Hd" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f3/StarPlus_HD_2011.png/revision/latest/scale-to-width-down/250?cb=20240318193605" group-title="Live Tv",Star Plus Hd
+https://cdn2.ihub.live/StarPlus/tracks-v1a1/mono.m3u8?token=23b513f097ca31b84dfa1acb1d1efbc7c6986985-87d7999452ece11812aa5a3e8dd5ba18-1728883505-1728872705
 #EXTINF:-1 tvg-id="" tvg-name="Colors HD" tvg-logo="https://images.app.goo.gl/FT3cxeM4i9S23d9M7" group-title="Live Tv",Colors HD
 https://colorsscreen.com/live.php?id=144&extension=.m3u8|Referer=https://colorsscreen.com/
 #EXTINF:-1 tvg-id="" tvg-name="Colors HD 2" tvg-logo="https://images.app.goo.gl/FT3cxeM4i9S23d9M7" group-title="Live Tv",Colors HD 2
 https://fifabangladesh.live/VHOD/go.php?id=Colors_HD_voot_MOB
-#EXTINF:-1 tvg-id="" tvg-name="Colors HD 3" tvg-logo="https://images.app.goo.gl/FT3cxeM4i9S23d9M7" group-title="Live Tv",Colors HD 3
+#EXTINF:-1 tvg-id="" tvg-name="Colors HD 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Colors_HD.svg/revision/latest/scale-to-width-down/250?cb=20210207143514" group-title="Live Tv",Colors HD 3
 https://cdn2.ihub.live/Colors/tracks-v1a1/mono.m3u8?token=bc840f3e9263549305e80a296c168d68220488d9-e39cc2b0f3078b11aa84dfb7770a1deb-1728881629-1728870829
+#EXTINF:-1 tvg-id="" tvg-name="Sony Tv Hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Live Tv",Sony Tv Hd
+https://ottbangla.com/themes/chunklist.m3u8?load=215218dc50b20e9ce79d8642721f2e2b6cf8e2f25b4033ab389a34ca296c3f266101d225e6c4f57aa8eae3aca9a45e151471314de3cef0d6956c0ad3d30a35cfb8183e255717892c64f992b20989750a03c4f455b24a4e60ecc435764c0a8bda15b913ac00b9dc123aac127fbe07a1e9f37f45919804012b1dd6a2a87470bf589427544f84b3f98e788c310ed1d41dd5fa4501bd8bb6e4bc60598e1a19af134b7ea5147f020eeaa90a04c48e05094cdfb893753ab36afd2d2af00f5db10d51e9dc2b04aab9ba0dacacca74f83b5bc17614f45e7399a0a8a9628babf862a4cb7c2a1041f1f273f4e3490d50d7ba950a319031dea22e18c8ffb2510f8e0562e57a4a419a696566334f24cc2a68dad93445dd1b10f7bcd38ef2d7f03cc5166701b32d3a2a1348d883a41af43188a50f5affb8f2fec7e9e8edc69685faf602b81e06b1b44030f9e8ecb6fae0210deed482fef27b3f9bbe973e8308a5fedea51d48494bf5adcbbefff29aed0507dc4269ddf9&token=
 #EXTINF:-1 tvg-id="" tvg-name="Star Jalsa" tvg-logo="https://e7.pngegg.com/pngimages/101/964/png-clipart-star-jalsha-jalsha-movies-star-india-television-channel-television-show-jalsha-movies-television-angle.png" group-title="Live Tv",Star Jalsa
 https://cdn2.ihub.live/StarJalsha/tracks-v1a1/mono.m3u8?token=f498041527a62d1e938ce0404456c66730e908b6-7fc912fd6718de7a06af9c3a7f449d1f-1728881436-1728870636
 #EXTINF:-1 tvg-id="" tvg-name="Zee Bangla Hd" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/3/3d/Zee_Bangla_HD_2D_logo_%282017-present%29.png/revision/latest?cb=20210901025604" group-title="Live Tv",Zee Bangla Hd
