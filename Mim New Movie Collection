@@ -1713,11 +1713,39 @@ https://colorsscreen.com/live.php?id=144&extension=.m3u8|Referer=https://colorss
 https://fifabangladesh.live/VHOD/go.php?id=Colors_HD_voot_MOB
 #EXTINF:-1 tvg-id="" tvg-name="Colors HD 3" tvg-logo="https://images.app.goo.gl/FT3cxeM4i9S23d9M7" group-title="Live Tv",Colors HD 3
 https://cdn2.ihub.live/Colors/tracks-v1a1/mono.m3u8?token=bc840f3e9263549305e80a296c168d68220488d9-e39cc2b0f3078b11aa84dfb7770a1deb-1728881629-1728870829
-#EXTINF:-1 tvg-id="" tvg-name="Star Jalsa" tvg-logo="" group-title="Live Tv",Star Jalsa
+#EXTINF:-1 tvg-id="" tvg-name="Star Jalsa" tvg-logo="https://e7.pngegg.com/pngimages/101/964/png-clipart-star-jalsha-jalsha-movies-star-india-television-channel-television-show-jalsha-movies-television-angle.png" group-title="Live Tv",Star Jalsa
 https://cdn2.ihub.live/StarJalsha/tracks-v1a1/mono.m3u8?token=f498041527a62d1e938ce0404456c66730e908b6-7fc912fd6718de7a06af9c3a7f449d1f-1728881436-1728870636
-#EXTINF:-1 tvg-id="" tvg-name="Jalsa Movies Hd" tvg-logo="" group-title="Live Tv",Jalsa Movies Hd
+#EXTINF:-1 tvg-id="" tvg-name="Zee Bangla Hd" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/3/3d/Zee_Bangla_HD_2D_logo_%282017-present%29.png/revision/latest?cb=20210901025604" group-title="Live Tv",Zee Bangla Hd
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Colors Bangla" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/00/Colors_Bangla_HD_prelaunch_%282016%29.png/revision/latest?cb=20210507224847" group-title="Live Tv",Colors Bangla
+https://cdn2.ihub.live/ColorsBanglaHD/tracks-v1a1/mono.m3u8?token=db4a7fef02cdc8cb674e9baf80392762cfa632bc-c541e5206acde1ee583cf24a7dc8425c-1728881965-1728871165
+#EXTINF:-1 tvg-id="" tvg-name="Sun Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sun_Bangla.png" group-title="Live Tv",Sun Bangla
+https://ottbangla.com/themes/astra/live.php?id=1669&extension=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Aath" tvg-logo="https://download.logo.wine/logo/Sony_Aath/Sony_Aath-Logo.wine.png" group-title="Live Tv",Sony Aath
+https://ottbangla.com/themes/master.m3u8?id=1000009255
+#EXTINF:-1 tvg-id="" tvg-name="Enterr 10 Bangla" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kI4JClRCHEh9PH1YHLAm7kULM1u9UUStnre_vqyPnRFgM=s900-c-k-c0x00ffffff-no-rj" group-title="Live Tv",Enterr 10 Bangla
+https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jalsa Movies Hd" tvg-logo="https://w7.pngwing.com/pngs/535/809/png-transparent-jalsha-movies-star-jalsha-television-show-star-india-sitarhd-purple-television-logo.png" group-title="Live Tv",Jalsa Movies Hd
 https://cdn2.ihub.live/StarJalshaMovies/tracks-v1a1/mono.m3u8?token=ff3989a14deb79f384f0d832b61b45b1b6373d31-d54d6777a6d473e2a499dc9db8c41b02-1728881552-1728870752
+#EXTINF:-1 tvg-id="" tvg-name="Zee Bangla Cinema" tvg-logo="https://p1.hiclipart.com/preview/532/28/6/cinema-logo-zee-bangla-cinema-zee-cinema-bengali-language-zee-entertainment-enterprises-film-orange-text-png-clipart.jpg" group-title="Live Tv",Zee Bangla Cinema
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglacinema1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sangeet Bangla" tvg-logo="https://mediaworldwide-in.mwpsites-a.net/wp-content/uploads/2017/05/sangeet-bangla-logo.png" group-title="Live Tv",Sangeet Bangla
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jalsa Movies Hd" tvg-logo="" group-title="Live Tv",Jalsa Movies Hd
 
+#EXTINF:-1 tvg-id="" tvg-name="Jalsa Movies Hd" tvg-logo="" group-title="Live Tv",Jalsa Movies Hd
+
+#EXTINF:-1 tvg-id="" tvg-name="Jalsa Movies Hd" tvg-logo="" group-title="Live Tv",Jalsa Movies Hd
+
+#EXTINF:-1 tvg-id="" tvg-name="Jalsa Movies Hd" tvg-logo="" group-title="Live Tv",Jalsa Movies Hd
+
+#EXTINF:-1 tvg-id="" tvg-name="Jalsa Movies Hd" tvg-logo="" group-title="Live Tv",Jalsa Movies Hd
+
+#EXTINF:-1 tvg-id="" tvg-name="Jalsa Movies Hd" tvg-logo="" group-title="Live Tv",Jalsa Movies Hd
+
+#EXTINF:-1 tvg-id="" tvg-name="Jalsa Movies Hd" tvg-logo="" group-title="Live Tv",Jalsa Movies Hd
+
+#EXTINF:-1 tvg-id="" tvg-name="Jalsa Movies Hd" tvg-logo="" group-title="Live Tv",Jalsa Movies Hd
 
 
 
