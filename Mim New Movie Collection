@@ -1711,10 +1711,15 @@ http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/FIFA%20World%20Cup%20Fi
 https://colorsscreen.com/live.php?id=144&extension=.m3u8|Referer=https://colorsscreen.com/
 #EXTINF:-1 tvg-id="" tvg-name="Colors HD 2" tvg-logo="https://images.app.goo.gl/FT3cxeM4i9S23d9M7" group-title="Live Tv",Colors HD 2
 https://fifabangladesh.live/VHOD/go.php?id=Colors_HD_voot_MOB
+#EXTINF:-1 tvg-id="" tvg-name="Colors HD 3" tvg-logo="https://images.app.goo.gl/FT3cxeM4i9S23d9M7" group-title="Live Tv",Colors HD 3
+https://cdn2.ihub.live/Colors/tracks-v1a1/mono.m3u8?token=bc840f3e9263549305e80a296c168d68220488d9-e39cc2b0f3078b11aa84dfb7770a1deb-1728881629-1728870829
 #EXTINF:-1 tvg-id="" tvg-name="Star Jalsa" tvg-logo="" group-title="Live Tv",Star Jalsa
 https://cdn2.ihub.live/StarJalsha/tracks-v1a1/mono.m3u8?token=f498041527a62d1e938ce0404456c66730e908b6-7fc912fd6718de7a06af9c3a7f449d1f-1728881436-1728870636
 #EXTINF:-1 tvg-id="" tvg-name="Jalsa Movies Hd" tvg-logo="" group-title="Live Tv",Jalsa Movies Hd
 https://cdn2.ihub.live/StarJalshaMovies/tracks-v1a1/mono.m3u8?token=ff3989a14deb79f384f0d832b61b45b1b6373d31-d54d6777a6d473e2a499dc9db8c41b02-1728881552-1728870752
+
+
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Bigg Boss E1" tvg-logo="" group-title="Bigg Boss",Bigg Boss E1
