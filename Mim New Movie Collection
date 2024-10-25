@@ -2298,41 +2298,8 @@ http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/FIFA%20World%20Cup%20Fi
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Star Plus Hd" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f3/StarPlus_HD_2011.png/revision/latest/scale-to-width-down/250?cb=20240318193605" group-title="Live Tv",Star Plus Hd
-https://cdn2.ihub.live/StarPlus/tracks-v1a1/mono.m3u8?token=23b513f097ca31b84dfa1acb1d1efbc7c6986985-87d7999452ece11812aa5a3e8dd5ba18-1728883505-1728872705
-#EXTINF:-1 tvg-id="" tvg-name="Colors HD" tvg-logo="https://images.app.goo.gl/FT3cxeM4i9S23d9M7" group-title="Live Tv",Colors HD
-https://colorsscreen.com/live.php?id=144&extension=.m3u8|Referer=https://colorsscreen.com/
-#EXTINF:-1 tvg-id="" tvg-name="Colors HD 2" tvg-logo="https://images.app.goo.gl/FT3cxeM4i9S23d9M7" group-title="Live Tv",Colors HD 2
-https://fifabangladesh.live/VHOD/go.php?id=Colors_HD_voot_MOB
-#EXTINF:-1 tvg-id="" tvg-name="Colors HD 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Colors_HD.svg/revision/latest/scale-to-width-down/250?cb=20210207143514" group-title="Live Tv",Colors HD 3
-https://cdn2.ihub.live/Colors/index.m3u8?token=4c072ffea98e5fce32c996d8cdce5744be9b3914-b83f6119fb04776f8859c64e2d5de6fb-1728931647-1728920847
-#EXTINF:-1 tvg-id="" tvg-name="Sony Tv Hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Live Tv",Sony Tv Hd
-https://ottbangla.com/themes/chunklist.m3u8?load=215218dc50b20e9ce79d8642721f2e2b6cf8e2f25b4033ab389a34ca296c3f266101d225e6c4f57aa8eae3aca9a45e151471314de3cef0d6956c0ad3d30a35cfb8183e255717892c64f992b20989750a03c4f455b24a4e60ecc435764c0a8bda15b913ac00b9dc123aac127fbe07a1e9f37f45919804012b1dd6a2a87470bf589427544f84b3f98e788c310ed1d41dd5fa4501bd8bb6e4bc60598e1a19af134b7ea5147f020eeaa90a04c48e05094cdfb893753ab36afd2d2af00f5db10d51e9dc2b04aab9ba0dacacca74f83b5bc17614f45e7399a0a8a9628babf862a4cb7c2a1041f1f273f4e3490d50d7ba950a319031dea22e18c8ffb2510f8e0562e57a4a419a696566334f24cc2a68dad93445dd1b10f7bcd38ef2d7f03cc5166701b32d3a2a1348d883a41af43188a50f5affb8f2fec7e9e8edc69685faf602b81e06b1b44030f9e8ecb6fae0210deed482fef27b3f9bbe973e8308a5fedea51d48494bf5adcbbefff29aed0507dc4269ddf9&token=
-#EXTINF:-1 tvg-id="" tvg-name="Star Jalsa" tvg-logo="https://e7.pngegg.com/pngimages/101/964/png-clipart-star-jalsha-jalsha-movies-star-india-television-channel-television-show-jalsha-movies-television-angle.png" group-title="Live Tv",Star Jalsa
-https://cdn2.ihub.live/StarJalsha/tracks-v1a1/mono.m3u8?token=0b27d49f6b95af5e6dd165626bd089c46b7dbd2d-84457eb082cf25c451d6fd6e6f91b65c-1729241869-1729231069
-#EXTINF:-1 tvg-id="" tvg-name="Zee Bangla Hd" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/3/3d/Zee_Bangla_HD_2D_logo_%282017-present%29.png/revision/latest?cb=20210901025604" group-title="Live Tv",Zee Bangla Hd
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Colors Bangla" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/00/Colors_Bangla_HD_prelaunch_%282016%29.png/revision/latest?cb=20210507224847" group-title="Live Tv",Colors Bangla
-https://cdn2.ihub.live/ColorsBanglaHD/tracks-v1a1/mono.m3u8?token=db4a7fef02cdc8cb674e9baf80392762cfa632bc-c541e5206acde1ee583cf24a7dc8425c-1728881965-1728871165
-#EXTINF:-1 tvg-id="" tvg-name="Sun Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sun_Bangla.png" group-title="Live Tv",Sun Bangla
-https://ottbangla.com/themes/astra/live.php?chunks=fde70923a5f003591dbf855be5c8b32896a837e7d73a963acface3ba870abed3f977847f7a6e8156db57cf4dfc9c6576a711b4b4f8484862f3b8731f321a25f913860bf300d553868b13002a15cd6f3c0d5db9e8305920f9f7003cf5dbf0b81c1d831ef6a83c8d0f2d3b93952c7642f1c546ced2968380f4686502ca946a1036e08eb599fc9af10b457817d599b9d2b37bafe136a84e9eb3bd1f9e35dc1b0e2429b5dbf2a0334281f7f30a4b432b695c0b0463ccff88d262114c05f80cbc513ecd6a5aab62e679419be44e5c6c91739d26e552540aa1688b9dfa6c95e551112abcdf653500e389697b7fb79cb573bd20&vtoken=
-#EXTINF:-1 tvg-id="" tvg-name="Sony Aath" tvg-logo="https://download.logo.wine/logo/Sony_Aath/Sony_Aath-Logo.wine.png" group-title="Live Tv",Sony Aath
-https://ottbangla.com/themes/chunklist.m3u8?load=215218dc50b20e9ce79d8642721f2e2b6cf8e2f25b4033ab389a34ca296c3f26b315c93319e1b5570a6eaf72be322b964bb553d8ac22d9b6e6ca6c483ef02ebcaacbb6f8d344e186ffe8d45aa7c1f5d6c537dc8ba6742e5a87fb8291ecfd52b9fb722deeca2d38eb70a639eb1533bf41746c733a2f9881f4358e56f89b317ca9ed7ca576e47bebe88e01f34decfcedb9e31db0b2bc3e89e70f6bb128236b0fa7de33e760e0b96e368d29bccf781e2f4eadaf1224a06f5d539f08dee6258b9585e592240e480458b611cea1f8176df132f38623ca8637232f783cd8a0b3ff1077328835c09b168e6fcc527b0d8dd36c29b8b11f96612546a5680c145aec7537f6138d69080999f0c72822436745d2145034a4ed5e47ec169f439ca13cf67ca6d10b382a3c7f3bbe680c39d96139953ffeec03113f1dd82075b69493dc87ee66b5580e3121fb972de2750712f2aeb89507aedbf03690444d5b41f1d033888f40b0966b0486f69e3f049e63d10b48a41b87&token=
-#EXTINF:-1 tvg-id="" tvg-name="Enterr 10 Bangla" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kI4JClRCHEh9PH1YHLAm7kULM1u9UUStnre_vqyPnRFgM=s900-c-k-c0x00ffffff-no-rj" group-title="Live Tv",Enterr 10 Bangla
-https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/cb543d1e786c648e93d43660cef344a9f9591fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7553db80148b61299bce8c37683f03409a5e5afba358b1ebb05b41de64f3e21e559d2611e49f43c8814aa6d1865a9b5ed227f1409b9aa5dad014d086f31d93738aa19d71581fbba43bf9eb5cb8dd96683d99622034713f8482a08e85b81b253938d9ecc2be1f9f59aedb64e9c856ca52ad1fcef9593c8a70b50ba0243f4ce9620b5385d752606884eda181fa0ffedc0cf48fe6c77a7095f75b2d09992d9015223694f2dc07c4ed21d6e773cbe4325d0fc99f13cfc6f29bb9e4c40abd35dacbf1af3840656a104dd30ef5d43e8d69955380fa3e0d100d48a4915084a1dc5d3b6d06c6a356c61c16bc94dad08e406b8430550aa853d85d047ec57b392fb263aacc4e19e34c3d8c3b39f44f26c013acca4bdb939bb45675e5a484289948e0ba0ddef378d94e344b0dbef76c12057b74deea691a233ba461e1c0c1f578190a8fa694acd832d866eef580d4ed21f1ef6214d01a5ba87ea035639b59f0/192/426x240_512000/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Jalsa Movies Hd" tvg-logo="https://w7.pngwing.com/pngs/535/809/png-transparent-jalsha-movies-star-jalsha-television-show-star-india-sitarhd-purple-television-logo.png" group-title="Live Tv",Jalsa Movies Hd
-https://cdn2.ihub.live/StarJalshaMovies/tracks-v1a1/mono.m3u8?token=05732a4b8e067fee409e36baf6988241b3ccb256-abd12851263332f13f3d42cebccbed67-1729241735-1729230935
-#EXTINF:-1 tvg-id="" tvg-name="Zee Bangla Cinema" tvg-logo="https://p1.hiclipart.com/preview/532/28/6/cinema-logo-zee-bangla-cinema-zee-cinema-bengali-language-zee-entertainment-enterprises-film-orange-text-png-clipart.jpg" group-title="Live Tv",Zee Bangla Cinema
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglacinema1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sangeet Bangla" tvg-logo="https://mediaworldwide-in.mwpsites-a.net/wp-content/uploads/2017/05/sangeet-bangla-logo.png" group-title="Live Tv",Sangeet Bangla
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Zee Cinema Hd" tvg-logo="https://w7.pngwing.com/pngs/878/103/png-transparent-zee-cinema-television-channel-zee-tv-zee-entertainment-enterprises-cinema-logo-television-text-bollywood-thumbnail.png" group-title="Live Tv",Zee Cinema Hd
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony Max Hd" tvg-logo="" group-title="Live Tv",Sony Max Hd
-https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/set_max_hd_576/set_max_hd_576.m3u8?bitrate=1000000&channel=set_max_hd_576&gp_id
-#EXTINF:-1 tvg-id="" tvg-name="Jalsa Movies Hd" tvg-logo="" group-title="Live Tv",Jalsa Movies Hd
-
-#EXTINF:-1 tvg-id="" tvg-name="Jalsa Movies Hd" tvg-logo="" group-title="Live Tv",Jalsa Movies Hd
+EXTINF:-1 ,Ekhon TV
+https://www.youtube.com/@ekhontv/live
 
 #EXTINF:-1 tvg-id="" tvg-name="Jalsa Movies Hd" tvg-logo="" group-title="Live Tv",Jalsa Movies Hd
 
