@@ -2311,10 +2311,12 @@ http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/FIFA%20World%20Cup%20Fi
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Jalsa Movies Hd" tvg-logo="" group-title="Live Tv",Jalsa Movies Hd
-https://www.youtube.com/@ekhontv/live
-#EXTINF:-1 tvg-id="" tvg-name="Jalsa Movies Hd" tvg-logo="" group-title="Live Tv",Jalsa Movies Hd
-
+#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha hd" tvg-logo="" group-title="Live Tv",Star Jalsha hd
+http://103.205.133.71/StarJalshaFHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha" tvg-logo="" group-title="Live Tv",Star Jalsha 
+http://103.205.133.71/StarJalshaFHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Colors" tvg-logo="" group-title="Live Tv",Colors
+http://103.205.133.71/colorshd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Jalsa Movies Hd" tvg-logo="" group-title="Live Tv",Jalsa Movies Hd
 
 #EXTINF:-1 tvg-id="" tvg-name="Jalsa Movies Hd" tvg-logo="" group-title="Live Tv",Jalsa Movies Hd
