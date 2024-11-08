@@ -1522,7 +1522,6 @@ http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/2012/Thupakki%20%20%28201
 #EXTINF:-1 tvg-id="" tvg-name="Salaar Part 1" tvg-logo="" group-title="Southindian Hindi Dubbed Movies",Salaar Part 1
 http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI%20DUBBED/%282023%29/Salaar%20%282023%29%201080p%20WEB-DL%20%5BHindi%20Dubbed%5D/Salaar.Part.1.Ceasefire.2023.1080p.WEB-DL.Hindi.DDP5.1.H.264.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Southindian Hindi Dubbed Movies",
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Southindian Hindi Dubbed Movies",
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Southindian Hindi Dubbed Movies",
@@ -1541,7 +1540,7 @@ http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI%20DUBBED/%282023%29
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Southindian Hindi Dubbed Movies",
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Southindian Hindi Dubbed Movies",
+#EXTIN:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Southindian Hindi Dubbed Movies",
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Southindian Hindi Dubbed Movies",
 
