@@ -41,8 +41,8 @@ http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2000-2007/Bhool%20Bhulaiyaa%2
 http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2022/Bhool%20Bhulaiyaa%202%20(2022)/Bhool.Bhulaiyaa.2.2022.WEBRip-2160p.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Bhool Bhulaiyaa 3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/Bhool_Bhulaiyaa_3_poster.jpg/220px-Bhool_Bhulaiyaa_3_poster.jpg" group-title="Hindi Movies",Bhool Bhulaiyaa 3
 http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/_HQ%20S-Print/Bhool%20Bhulaiyaa%203%20(2024)/Bhool-Bhulaiyaa-3-2024-Hindi-HDTC-1080p.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
-
+#EXTINF:-1 tvg-id="" tvg-name="Padman" tvg-logo="" group-title="Hindi Movies",Padman
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2018/Padman%20(2018)/Padman%20(2018)%20WEBDL-720p.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
