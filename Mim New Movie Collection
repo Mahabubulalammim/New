@@ -3,118 +3,44 @@
 https://drive.google.com/file/d/1klrntX1ueTiHqk0lbJ5yoQoQ9u9H4c5K/view
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Article-370" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRFScjcSvXy_PzLqvas6X8aGgtK-UVu2iEyQ&s" group-title="Hindi Movies",Article-370
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2024/Article-370-2024-Hindi-1080p-WEBRip/Article-370-2024-Hindi-1080p-WEBRip-ESub.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adbhut (Horror)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4oghDWhhCLdNG1ez98-AD7vDDrmdjgTEzvw&s" group-title="Hindi Movies",Adbhut (Horror)
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2024/Adbhut-%282024%29-Hindi-1080p-HDTVRip/Adbhut%202024%20Hindi%20%28ORG%205.1%291080p%20HDTV%20x264.mp4
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Ae Watan Mere Watan" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDZlMTNjZmItYzljOS00MWNmLTk2ZGMtOTNjN2E0NWI5NGI1XkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Ae Watan Mere Watan
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2024/Ae-Watan-Mere-Watan-2024-Hindi-1080p-WEBRip/Ae-Watan-Mere-Watan-2024-Hindi-1080p-WEBRip-ESub.mp4
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2024/Ae%20Watan%20Mere%20Watan%20(2024)/Ae%20Watan%20Mere%20Watan%20(2024)%20WEBRip-1080p.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Adbhut(Horror)" tvg-logo="https://akm-img-a-in.tosshub.com/indiatoday/images/story/202408/adbhut--featuring-nawazuddin--will-release-on-september-15-235251652-1x1.jpg?VersionId=E4Br2SdhI8WTdwMUHOy4YnPxIVQDItZV" group-title="Hindi Movies",Adbhut(Horror)
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2024/Adbhut%20(2024)/Adbhut%20(2024)%20HDTV-1080p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ajab Gajab Dhamal" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjg1NGUzNzctMjUzYi00NGRmLTk3ODAtZDY1MTA2YWE1NzcxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Ajab Gajab Dhamal
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2024/Ajab%20Gajab%20Dhamal%20(2024)/Ajab%20Gajab%20Dhamal%20(2024)%20-Hindi%20AMZN%20WEB-DL%201080p.mkv
+#EXTINF:-1 tvg-id="" tvg-name="All India Rank" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2Q1NWY4NjItYmI4Ny00OWM4LWJlOTktY2NkNTk0YTQ2YTczXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",All India Rank
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2024/All%20India%20Rank%20(2024)/All%20India%20Rank%20(2023)%20Hindi%20WEB-DL%201080p-1337xHD.Vip.mkv.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Amar Prem Ki Prem Kahani" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjYyMDJiM2YtMTAxMC00NjE2LTgyYjgtYWZlM2I5MTliYjU4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Amar Prem Ki Prem Kahani
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2024/Amar-Prem-Ki-Prem-Kahani-2024%29-Hindi-1080p-WEBRip/Amar-Prem-Ki-Prem-Kahani-2024%29-Hindi-1080p-WEBRip-ESub.mkv
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2024/Amar%20Prem%20Ki%20Prem%20Kahani%20(2024)/Amar%20Prem%20Ki%20Prem%20Kahani%20(2024)%20WEBDL-1080p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amar Singh Chamkila" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTg2NWUyYzUtZGVkMi00YWJmLTg2M2EtMjkxMDY5YmRhODRmXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Amar Singh Chamkila
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2024/Amar%20Singh%20Chamkila%20(2024)/Amar%20Singh%20Chamkila%20(2024)%20WEBDL-1080p.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Angithee 3" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjBmNWRhNTQtOGJmYy00MzhkLTkyMDUtZTQ4NGQ3NTJkZWNmXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Angithee 3
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2024/Angithee%203%20(2024)/Angithee%203%20(2024)%20WEBDL-1080p.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Article 370" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjZhMzNkMzctNmQwOS00MmM0LWE2NGEtMmZhODZhZTI5ZTE3XkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Article 370
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2024/Article%20370%20(2024)/Article%20370%20(2024)%20WEBDL-1080p.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Auron Mein Kahan Dum Tha" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTMwZTQxNzMtNTI1OC00OGQwLWEzNmEtMmY3ZmFhZDVjNjA4XkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Auron Mein Kahan Dum Tha
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2024/Auron-Mein-Kahan-Dum-Tha-2024-Hindi-1080p-WEBRip/Auron-Mein-Kahan-Dum-Tha-2024-Hindi-1080p-WEBRip-x264-ESub.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bad Newz" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzI5YTkyODQtZWRmZC00MGMzLTg2YTUtNmZiODdmYWM4NWNmXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Bad Newz
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2024/Bad-Newz-2024-Hindi-1080p-WEBRip/Bad-Newz-2024-Hindi-1080p-WEBRip.mp4
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2024/Auron%20Mein%20Kahan%20Dum%20Tha%20(2024)/Auron%20Mein%20Kahan%20Dum%20Tha%20(2024)%20WEBRip-1080p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bad Newz" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWZhMWM3ZGMtNGY0OC00OTY2LWIyYzgtMGY0Zjg5NjhhYTM5XkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Bad Newz
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2024/Bad%20Newz%20(2024)/Bad%20Newz%20(2024)%20WEBRip-1080p.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Bade Miyan Chote Miyan" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDE4Yzc3YTctODE5My00Mjg3LWI0ZDktZjM4MmVkMTQ3ZmNmXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Bade Miyan Chote Miyan
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2024/Bade-Miyan-Chote-Miyan-%282024%29-Hindi-1080p-WEBRip/Bade%20Miyan%20Chote%20Miyan%202024%20WebRip%201080p%20Hindi%20DD%205.1%20x264%20ESub.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bastar The Naxal Story" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJhNzMxNzYtNmI5OC00MjQ0LWE1MzYtODMxYjI1NGZiMTQ2XkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Bastar The Naxal Story
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2024/Bastar-The-Naxal-Story-2024-Hindi-1080p-WEBRip/Bastar-The-Naxal-Story-2024-Hindi-1080p-WEBRip-x264-ESub.mp4
-#EXTINF:-1 tvg-id="" tvg-name="https://m.media-amazon.com/images/M/MV5BZjEzZGYyMzQtYjA2My00YzUyLWJhYTYtYmViM2NhOTNhMGZjXkEyXkFqcGc@._V1_.jpg" tvg-logo="" group-title="Hindi Movies",Bhaiyya Ji
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2024/Bhaiyya-Ji-2024-Hindi-1080p-WEBDL/Bhaiyya-Ji-2024-Hindi-1080p-WEBDL-x264-ESubs.mp4
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2024/Bade%20Miyan%20Chote%20Miyan%20(2024)/Bade%20Miyan%20Chote%20Miyan%202024%20WebRip%201080p%20Hindi%20DD%205.1%20x264%20ESub.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bastar The Naxal Story" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWU5NWQ3OTgtYWFhNS00NmU0LTk2ZDUtYmI0ZDI5NmI2ZDY4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Bastar The Naxal Story
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2024/Bastar%20The%20Naxal%20Story%20(2024)/Bastar%20The%20Naxal%20Story%20(2024)%20WEBDL-1080p.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bhaiyya Ji" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjEzZGYyMzQtYjA2My00YzUyLWJhYTYtYmViM2NhOTNhMGZjXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Bhaiyya Ji
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2024/Bhaiyya%20Ji%20(2024)/Bhaiyya%20Ji%202024%20Hindi%20(ORG%205.1)%201080p%20WEB-DL%20x264%20ESubs.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Bhakshak" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjJjODljMDMtZjFiMy00NTM4LThhMjctYWFjYzZkMmMzZTcyXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Bhakshak
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2024/Bhakshak-2024-Hindi-1080p-WEBDL/Bhakshak-2024-Hindi-1080p-WEBDL-ESub-x264.mp4
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2024/Bhakshak%20(2024)%20/Bhakshak.2024.1080p.Hindi.WEB-DL.5.1.ESub.x264.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Blackout" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWIwMDc1ZGEtN2I3MC00Yzg1LWE0MmQtNGE2ZTM2MTUyOTM1XkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Blackout
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2024/Blackout%20(2024)/Blackout%20(2024)%20WEBDL-1080p.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Bhool Bhulaiyaa" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDQ3OWE4YzgtNWU3Ni00MzI2LWJmNDYtMWE1YjkxZTA3NGU3XkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Bhool Bhulaiyaa
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2007/Bhool-Bhulaiyaa-%282007%29-1080p-BluRay/Bhool.Bhulaiyaa.2007.1080p.BluRay.x264.AAC5.1-%5BYTS.MX%5D.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bhool Bhulaiyaa 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/23/Bhool_Bhulaiyaa_2_film_poster.jpg" group-title="Hindi Movies",Bhool Bhulaiyaa 2
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2022/Bhool-Bhulaiyaa-2-%282022%29-1080p-WEBRip/Bhool.Bhulaiyaa.2.2022.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bhool Bhulaiyaa 3 (Hall Print)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/Bhool_Bhulaiyaa_3_poster.jpg/220px-Bhool_Bhulaiyaa_3_poster.jpg" group-title="Hindi Movies",Bhool Bhulaiyaa 3 (Hall Print)
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2024/Bhool-Bhulaiyaa-3-2024/Bhool-Bhulaiyaa-3-2024-Hindi-HDTC-1080p.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Blackout" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjIzODZjYTItNDkwNS00NjkxLWIwOTQtOGYxNzRkOGQyODcyXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Blackout
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2024/Blackout-2024/Blackout-2024-WebRip-1080p-Hindi.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Break The Silence" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWYyZDIwNmMtZDZjZS00OWVmLWI2MGQtNDliYzQ1MDg3MmRmXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Break The Silence
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2024/Break-the-Silence-2024-Hindi-1080p-WEBRip/Break-the-Silence-2024-Hindi-1080p-WEBRip-x264-ESub.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Chandu Champion" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjIwODhkZDYtZGI1OS00ZGMyLTk2ZjgtZDY1NTc1OWM2MmEyXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Chandu Champion
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2024/Chandu-Champion-2024-Hindi-1080p-WEBDL/Chandu-Champion-2024-Hindi-1080p-WEBDL-x264-ESubs.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chakk Jeetega" tvg-logo="https://m.media-amazon.com/images/M/MV5BODFmOTM1OTgtMzU5MC00ZjY5LTk0NTctMjNhMmRiMjViZjNiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Chakk Jeetega
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2024/Crakk-Jeetega-Toh-Jiyegaa-2024-Hindi-1080p-WEBDL/Crakk-Jeetega-Toh-Jiyegaa-2024-Hindi-1080p-WEBDL.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Crew" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGRmYjBmOWQtMmY1NS00Njk3LWFkYWYtZWY3ODQ0N2U2NTBhXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Crew
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2024/Crew-2024-Hindi-1080p-WEBRip/Crew-2024-Hindi-1080p-WEBRip-x264-MSubs.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CTRL" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGI5MjMzODQtMDlhMi00MWU0LTk0MzAtZmY4ZmU4NzU1MmY5XkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",CTRL
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2024/CTRL-2024-Hindi-1080p-WEBRip/CTRL-2024-Hindi-1080p-WEBRip.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dange" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjg0ZTRmNzktMzE2Zi00ZWMxLThlZDktZTlkMzdmMjMzZTMyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Dange
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2024/Dange-2024-Hindi-1080p-WEBDL/Dange-2024-Hindi-1080p-WEBDL.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dashmi(Hall Print)" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzdjMTlkMDYtNzA2Mi00MDYwLTg2ZjQtNDc2YmVjMjAxOTg3XkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Dashmi(Hall Print)
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2024/Dashmi-%282024%29-Hindi-1080p-HDTS/Dashmi%202024%20Hindi%20HDTS%201080p%20x264%20AAC.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dedh Bigha Zameen" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTk3NzUxOTItOWFkMC00YTQxLWIzNDktNTA2ZTRjMzE1NmFiXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Dedh Bigha Zameen
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2024/Dedh-Bigha-Zameen-2024-Hindi-1080p-WEBRip/Dedh-Bigha-Zameen-2024-Hindi-1080p-WEBRip.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Do Aur Do Pyaar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG8Ow20oxrGHsYhgt_m41zlUTafJDfdznedQ&s" group-title="Hindi Movies",Do Aur Do Pyaar
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2024/Do-Aur-Do-Pyaar-2024-Hindi-1080p-WEBRip/Do-Aur-Do-Pyaar-2024-Hindi-1080p-WEBRip.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Do Patti" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjRmMzA2MWYtZGEyMS00YjY4LWJiOTEtNjU1NWMyYTRjM2M3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Do Patti
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2024/Do-Patti-2024/Do-Patti-2024-WebRip-1080p-Hindi.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Fighter" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmJiYzZhOTktNGIzNy00YjljLWI3ZDgtZGU2YWMzNGQ1YjQ5XkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Fighter
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2024/Fighter-2024-Hindi-1080p-WEBRip/Fighter-2024-Hindi-1080p-WEBRip-x264-ESub.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ghudachadi" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTJlZmQ5Y2YtNjZjOC00N2UyLTliY2YtNjEzZmUzZTBmNjdlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Ghudachadi
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2024/Ghudchadi-2024-Hindi-1080p-WEBRip/Ghudchadi-2024-Hindi-1080p-WEBRip-x264-ESub.mp4
-#EXTINF:-1 tvg-id="" tvg-name="House Of Lies" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDBlNWQxMTAtZmJjMi00MGY0LTg5NDYtNmIxMmRjNzNiMjhkXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",House Of Lies
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2024/House-of-Lies-2024-Hindi-1080p-WEBDL/House-of-Lies-2024-Hindi-1080p-WEBDL.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Jigra(Hall Print)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmJhMTc5NDEtN2NkOC00Njc3LWJiMzgtZjhjZWNhZDhmZTE0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Jigra(Hall Print)
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2024/Jigra-%282024%29-Hindi-1080p-HDTS/Jigra%202024%20Hindi%20HDTS%201080p%20x264%20AAC.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Kaagaz 2" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzgyMDliMWItN2JiOS00NmJhLTkyNDMtOWRhYjU0NjIzMjAzXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Kaagaz 2
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2024/Kaagaz-2-2024-Hindi-1080p-WEBRip/Kaagaz-2-2024-Hindi-1080p-WEBRip-x264-ESub.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Khel Khel Mein" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTc3MzA0OTAtYzZhZS00OTQ5LTgwNmUtMWIzNzBkZGNlODUxXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Khel Khel Mein
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2024/Khel-Khel-Mein-2024-Hindi-1080p-WEBRip/Khel-Khel-Mein-2024-Hindi-1080p-WEBRip.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Maidaan" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmJhYjcxZDUtZTIyNS00MGUxLTllNzQtYWQyZTJjMzg2NzY2XkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Maidaan
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2024/Maidaan-2024-Hindi-1080p-WEBRip/Maidaan-2024-Hindi-1080p-WEBRip-x264-ESub.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Main Atal Hoon" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWIxNDk4NDktYjNkMy00Mjk1LTg4MzUtYTEzOWE0MDg1MmU0XkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Main Atal Hoon
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2024/Main-Atal-Hoon-2024-Hindi-1080p-WEBRip/Main-Atal-Hoon-2024-Hindi-1080p-WEBRip-x264-ESub.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Merry Christmas" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzI3YTZkMzUtZTI2Mi00NTQzLTg1Y2ItNTczYjgyMWVlNDg5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Merry Christmas
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2024/Merry-Christmas-2024-Hindi-1080p-WEBRip/Merry-Christmas-2024-Hindi-1080p-WEBRip-x264-ESub.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mr & Mrs Mahi" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDk5OTcwZTEtMjllNC00OWI5LWI2ZGYtZGVmYzkwNWE2MWY1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Mr & Mrs Mahi
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2024/Mr-%26-Mrs-Mahi-2024-Hindi-1080p-WEBRip/Mr-%26-Mrs-Mahi-2024-Hindi-1080p-WEBRip-x264-ESub.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Munjya" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Munjya_2024.jpg" group-title="Hindi Movies",Munjya
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2024/Munjya-2024-Hindi-1080p-WEBRip/Munjya-2024-Hindi-1080p-WEBRip-x264-ESub.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Murder Mubarak" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmVmZGVmYmYtNTIwOC00NjY0LWE3MWItYTRmNTQxZjU2OTA1XkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Murder Mubarak
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2024/Murder-Mubarak-2024-Hindi-1080p-WEBRip/Murder-Mubarak-2024-Hindi-1080p-WEBRip-x264-MSubs.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Haseen Dillruba" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDg0NGU2ZjgtM2M0YS00NWM2LTkwNjAtYWY5YTY0N2IzYWUwXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Haseen Dillruba
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2021/Haseen-Dillruba-%282021%29-1080p-WEBRip/Haseen.Dillruba.2021.1080p.NF.WEB-DL.Hindi.DD%2B5.1.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Phir Aayi Haseen Dillruba" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmM5Zjc2ZmMtOWIwMy00OWY4LTkzZmQtODA5NTVlNDFlNGZlXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Phir Aayi Haseen Dillruba
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2024/Phir-Aayi-Hasseen-Dillruba-2024-Hindi-1080p-WEBRip/Phir-Aayi-Hasseen-Dillruba-2024-Hindi-1080p-WEBRip-x264-ESub.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rautu Ka Raaz" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDY1ZGE5YTgtMTM1MC00NmUwLWE5MzUtMDdiM2U4NTg0NjliXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Rautu Ka Raaz
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2024/Rautu-Ka-Raaz-2024-Hindi-1080p-WEBDL/Rautu-Ka-Raaz-2024-Hindi-1080p-WEBDL.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ruslaan" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjllMzZjOGYtOTNmNy00YzU4LThmNjItNThjN2RmNWIyODI1XkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Ruslaan
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2024/Ruslaan-2024-Hindi-1080p-WEBRip/Ruslaan-2024-Hindi-1080p-WEBRip-x264.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sarfira" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjMwNjQ1MWItMjIzZS00YTg5LThlMjItMTA0NmVkYTUyYWY3XkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Sarfira
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2024/Sarfira-2024-Hindi-1080p-WEBRip/Sarfira-2024-Hindi-1080p-WEBRip-x264x-Esubs.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sector 36" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGE0YWU1MmEtN2FhMS00NzBlLWE3MTgtMWZkYjdmNDg5ZTFiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Sector 36
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2024/Sector-36-2024-Hindi-1080p-WEBRip/Sector-36-2024-Hindi-1080p-WEBRip-x264-MSubs.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Shaitaan" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmVmMWI5ZGEtM2NkYS00NDcyLWI4ODgtNmFiMTI3MTFmYmRlXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Shaitaan
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2024/Shaitaan-2024-Hindi-1080p-WEBRip/Shaitaan-2024-Hindi-1080p-WEBRip-x264-ESub.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Singham" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTA2NTAyNTMyMDdeQTJeQWpwZ15BbWU3MDEyMTY1ODU@._V1_.jpg" group-title="Hindi Movies",Singham
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2011/Singham-%282011%29-Hindi/Singham%20%282011%29%20Hindi%201080p.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Singham Returns" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjBjMjViNjMtYThhYi00YzQ5LTg3ODAtMTE1NTdlMTYzM2U4XkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Singham Returns
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2014/Singham-Returns-%282014%29-Hindi-1080p/Singham%20Returns%20%282014%29%20Hindi%201080p.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Singham Again(Hall Print)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjQwZWQ2ODktM2ZmOS00Y2JmLThhN2UtNTg1NTg5NDc2OTdjXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Singham Again(Hall Print)
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2024/Singham-Again-2024/Singham-Again-2024-Hindi-HQ-HDTC-1080p.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Srikanth" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjUzODg4YWEtMmVmMC00MTI0LWE0Y2EtOTQ3Y2NhM2Y1MzAxXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Srikanth
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2024/Srikanth-2024-Hindi-1080p-WEBRip/Srikanth-2024-Hindi-1080p-WEBRip-x264-ESub.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Stree" tvg-logo="https://m.media-amazon.com/images/M/MV5BODhiZjI1MDMtZjFjOS00NjZiLWI5N2YtZTM2NWIxNmE3MjMzXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Stree
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2018/Stree-%282018%29-WEBRip-1080p/Stree.2018.1080p.WEBRip.x264-%5BYTS.AM%5D.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Stree 2" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTA1NmUxYzItZmVmNy00YmQxLTk4Y2UtZjVkMWUwMWQ5N2IxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Stree 2
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2024/Stree-2-2024-Hindi-1080p-WEBRip/Stree-2-2024-Hindi-1080p-WEBRip-x264-ESub.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Teri Baaton Mein Aisa Uljha Jiya" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/Teri_Baaton_Mein_Aisa_Uljha_Jiya_film_poster.jpg" group-title="Hindi Movies",Teri Baaton Mein Aisa Uljha Jiya
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2024/Teri-Baaton-Mein-Aisa-Uljha-Jiya-2024-Hindi-1080p-WEBRip/Teri-Baaton-Mein-Aisa-Uljha-Jiya-2024-Hindi-1080p-WEBRip-x264-MSubs.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ulajh" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmJiYTQ4NWYtNDFmYS00NjJlLWJhZDItMGY4OWJiMDE0N2UyXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Ulajh
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2024/Ulajh-2024-Hindi-1080p-WEBRip/Ulajh-2024-Hindi-1080p-WEBRip-x264-ESub.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Vedaa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7a9nbCwgixxxN0cHnWVEuxEQ3jBC9isjouA&s" group-title="Hindi Movies",Vedaa
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2024/Vedaa-2024-Hindi-1080p-WEBDL/Vedaa-2024-Hindi-1080p-WEBDL-H264.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Vicky Vidya Ka Woh Wala Video(Hall Print)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDk0MGZmZjYtZDAzZS00Yjg4LWFkZjItYjU5N2IxODRlYmRhXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Vicky Vidya Ka Woh Wala Video(Hall Print)
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2024/Vicky-Vidya-Ka-Woh-Wala-Video-2024-Hindi-1080p-HDTC/Vicky-Vidya-Ka-Woh-Wala-Video-2024-HDTC-1080p-Hindi.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Yodha" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjAyYjZmMjQtNGZlNi00ZGQ0LTkxNTUtNWQ2YzA3MWJjYjc2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Yodha
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2024/Yodha-2024-Hindi-1080p-WEBDL/Yodha-2024-Hindi-1080p-WEBDL-x264-ESubs.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Yudhra" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTRlYmZjMTUtY2RmOS00Y2NmLTkzNDktMjc0MDM0YTk0ZjY2XkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Yudhra
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2024/Yudhra-2024/Yudhra-2024-Hindi-1080p-WEBDL.mkv
-#EXTINF:-1 tvg-id="" tvg-name="kill" tvg-logo="" group-title="Hindi Movies",kill
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K-Movies/Kill-%282024%29-Hindi-2160p-%5B4K%5D/Kill.2024.2160p.AMZN.WEB-DL.DDP5.1.H.265_h264.mp4
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2000-2007/Bhool%20Bhulaiyaa%20(2007)/Bhool.Bhulaiyaa.2007.Bluray-1080p.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bhool Bhulaiyaa 2" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTZhY2NjMGItODAyOS00MGVlLTk5ZDYtNzBjMjQ3ZDdkYmZmXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Bhool Bhulaiyaa 2
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2022/Bhool%20Bhulaiyaa%202%20(2022)/Bhool.Bhulaiyaa.2.2022.WEBRip-2160p.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bhool Bhulaiyaa 3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/Bhool_Bhulaiyaa_3_poster.jpg/220px-Bhool_Bhulaiyaa_3_poster.jpg" group-title="Hindi Movies",Bhool Bhulaiyaa 3
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/_HQ%20S-Print/Bhool%20Bhulaiyaa%203%20(2024)/Bhool-Bhulaiyaa-3-2024-Hindi-HDTC-1080p.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
@@ -205,131 +131,12 @@ http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K-Movies/Kill-%282024%29-Hindi-21
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
-
 
 
 
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Aavesham" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzM3OTcyNDQtNjAwNi00YTg4LWIyNTEtNjMzY2E2MWY2MGU1XkEyXkFqcGc@._V1_.jpg" group-title="Southindian Hindi Dubbed Movies",Aavesham
-http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI-DUBBED/%282024%29/Aavesham-2024/Aavesham-2024-WebRip-1080p-Hindi.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Abraham Ozler" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzRjNWVlNjEtNjZiMC00NjZlLTljZjEtN2FkMDcxYWRmZGYzXkEyXkFqcGc@._V1_.jpg" group-title="Southindian Hindi Dubbed Movies",Abraham Ozler
-http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI-DUBBED/%282024%29/Abraham-Ozler-2024/Abraham-Ozler-2024-1080p-WEBRip-Hindi.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Aranmanai" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmE1YTU2OGMtZDA3MC00MmYzLWJlODMtOGU0YmM0NDViMTRhXkEyXkFqcGc@._V1_.jpg" group-title="Southindian Hindi Dubbed Movies",Aranmanai
-http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI-DUBBED/%282014%29/Aranmanai-%282014%29-720p-%5BDual-Audio%5D/Aranmanai%20%282014%29%20720p%20UNCUT%20HDRip%20x264%20Eng%20Subs%20%5BDual%20Audio%5D%20%5BHindi%20DD%202.0%20-%20Tamil%202.0%5D.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Aranmanai 2" tvg-logo="http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI-DUBBED/%282016%29/Aranmanai-2-%282016%29-720p-%5BDual-Audio%5D/a5sz.jpg" group-title="Southindian Hindi Dubbed Movies",Aranmanai 2
-http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI-DUBBED/%282016%29/Aranmanai-2-%282016%29-720p-%5BDual-Audio%5D/Aranmanai%202%20%282016%29%20720p%20UNCUT%20HDRip%20x264%20%5BDual%20Audio%5D%20%5BHindi%20DD%202.0%20-%20Tamil%202.0%5D.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Aranmanai 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2aNbkIuwJSc_s1C0CWOkLBi-3vnYz7GK_Ww&s" group-title="Southindian Hindi Dubbed Movies",Aranmanai 3
-http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI-DUBBED/%282021%29/Aranmanai-3-%282021%29-Dual-Audio-1080p-WEB-DL/Aranmanai%203%20Dual%201080p.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Aranmanai 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWaZUF-vuy6SzAGbRF9nOdAxk2wzbcD5gvqA&s" group-title="Southindian Hindi Dubbed Movies",Aranmanai 4
-http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI-DUBBED/%282024%29/Aranmanai-4-2024/Aranmanai-4-2024-1080p-WEBRip-Hindi.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bhimaa" tvg-logo="https://i.pinimg.com/736x/89/b2/c9/89b2c99aebc4610ddeb43b2c12cd3eb8.jpg" group-title="Southindian Hindi Dubbed Movies",Bhimaa
-http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI-DUBBED/%282024%29/Bhimaa-2024-1080p/Bhimaa-2024-1080p-WEBRip-Hindi.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Captain Miller" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/Captain_Miller_film_poster.jpg/220px-Captain_Miller_film_poster.jpg" group-title="Southindian Hindi Dubbed Movies",Captain Miller
-http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI-DUBBED/%282024%29/Captain-Miller-2024/Captain-Miller-2024-1080p-WEBRip-Hindi.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DeAr" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGJkM2RjN2UtMjUxMi00YzczLTlhMDEtNDRlNjgxZGE5ZDQ4XkEyXkFqcGc@._V1_.jpg" group-title="Southindian Hindi Dubbed Movies",DeAr
-http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI-DUBBED/%282024%29/DeAr-2024-1080p/DeAr-2024-1080p-WEBRip-Hindi-x264.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Demonte Colony 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsg6lUtjm4MeOj8RDmiWNEFkhyQEzeERXV7w&s" group-title="Southindian Hindi Dubbed Movies",Demonte Colony 2
-http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI-DUBBED/%282024%29/Demonte-Colony-2-2024/Demonte-Colony-2-2024-1080p-WEBDL-Hindi-HQ-Dub.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Devara Part 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJWz1aRa1i61escmSNCQgMMWvpYxN3uFveAA&s" group-title="Southindian Hindi Dubbed Movies",Devara Part 1
-http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI-DUBBED/%282024%29/Devara-Part-1-2024/Devara-Part-1-2024-WebRip-UNCUT-1080p-Hindi-Cam-Telugu.mkv
-#EXTINF:-1 tvg-id="" tvg-name="iSmart Shankar" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzI0OWVlMzAtY2FhNy00Zjk5LWEwNGEtMjgwMmM2YjRkOGE0XkEyXkFqcGc@._V1_.jpg" group-title="Southindian Hindi Dubbed Movies",iSmart Shankar
-http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI-DUBBED/%282019%29/iSmart-Shankar-%282019%29-Hindi-720p/iSmart%20Shankar%20%282019%29%20Hindi%20720p%20WEB-DL%20AAC%20x264%20-%20Shadow.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Double Ismart" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDdiMWQyMzYtOTI1ZS00NGYyLWEzYWUtYmRiZDYxNDhlMzM0XkEyXkFqcGc@._V1_.jpg" group-title="Southindian Hindi Dubbed Movies",Double Ismart
-http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI-DUBBED/%282024%29/Double-Ismart-2024/Double-Ismart-2024-1080p-WEBRip-Hindi-Telugu.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Eagle" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZcMHfs669rz7_HLZZrf53HVVc9_23GxZtZg&s" group-title="Southindian Hindi Dubbed Movies",Eagle
-http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI-DUBBED/%282024%29/Eagle-2024/Eagle-2024-1080p-WEBDL-Hindi-Line.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Guntur Kaaram" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-5BV2OUo3eWdAwPtoiikByy6XQqBe06xBjQ&s" group-title="Southindian Hindi Dubbed Movies",Guntur Kaaram
-http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI-DUBBED/%282024%29/Guntur-Kaaram-2024/Guntur-Kaaram-2024-1080p-WEBDL-Hindi.mp4
-#EXTINF:-1 tvg-id="" tvg-name="HanuMan" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTRmZmJkNDEtOGUwZC00YjVkLWI0ZDktOGZiZTBiOTQxYzZmXkEyXkFqcGc@._V1_.jpg" group-title="Southindian Hindi Dubbed Movies",HanuMan
-http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI-DUBBED/%282024%29/Hanu-Man-2024/Hanu-Man-2024-1080p-WEBDL-Hindi.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Indian 2" tvg-logo="" group-title="Southindian Hindi Dubbed Movies",Indian 2
-http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI-DUBBED/%282024%29/Indian-2-2024/Indian-2-2024-1080p-WEBRip-Hindi.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Kalki 2898 AD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuQmSW17wrGcXbADd0fd4IB_2ja-RxYelcmQ&s" group-title="Southindian Hindi Dubbed Movies",Kalki 2898 AD
-http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI-DUBBED/%282024%29/Kalki-2898-AD-2024/Kalki-2898-AD-2024-1080p-WEB-DL-Hindi.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Maharaja" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGEyOGVjYWYtY2Q3Yi00NzBhLWI2YWUtMGZhZWIwMmMxZDkzXkEyXkFqcGc@._V1_.jpg" group-title="Southindian Hindi Dubbed Movies",Maharaja
-http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI-DUBBED/%282024%29/Maharaja-2024/Maharaja-2024-1080p-WEBRip-Hindi.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Manjummel Boys" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Manjummel_Boys_poster.jpg" group-title="Southindian Hindi Dubbed Movies",Manjummel Boys
-http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI-DUBBED/%282024%29/Manjummel-Boys-2024/Manjummel-Boys-2024-1080p-WEBRip-Hindi-Malayalam.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Martin(Hall Print)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDQ3N2QxZTctYWQwYi00OWNiLWEwMGUtNWM2NGY3MmQ5NmM2XkEyXkFqcGc@._V1_.jpg" group-title="Southindian Hindi Dubbed Movies",Martin(Hall Print)
-http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI-DUBBED/%282024%29/Martin-2024/Martin-2024-HDTC-1080p-Hindi-Kannada.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mr Bachchan" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDBlMTEyMjQtZTVmMC00NWZhLWE3MmMtYTZlZTg1MTQ2MzVkXkEyXkFqcGc@._V1_.jpg" group-title="Southindian Hindi Dubbed Movies",Mr Bachchan
-http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI-DUBBED/%282024%29/Mr-Bachchan-2024/Mr-Bachchan-2024-WebRip-1080p-Hindi-HQ-Telugu.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Naa Saami Ranga" tvg-logo="https://m.media-amazon.com/images/M/MV5BODQ0ZjZmMjctYmU1Yy00MmVlLTk3ZjYtMWRhMGE4NTg0ODQ5XkEyXkFqcGc@._V1_.jpg" group-title="Southindian Hindi Dubbed Movies",Naa Saami Ranga
-http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI-DUBBED/%282024%29/Naa-Saami-Ranga-2024/Naa-Saami-Ranga-2024-1080p-WEBDL-Hindi.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ooru Peru Bhairavakona" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGIxZTE1NTUtNmEyYS00NjEwLTg2ZjAtMWMxYjNiMWNlNzJiXkEyXkFqcGc@._V1_.jpg" group-title="Southindian Hindi Dubbed Movies",Ooru Peru Bhairavakona
-http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI-DUBBED/%282024%29/Ooru-Peru-Bhairavakona-2024/Ooru-Peru-Bhairavakona-2024-1080p-WEBRip-Hindi.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Premalu" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOYkAM7Q_fZZQTTAtkHbd-uZMTxXFkfL7DbA&s" group-title="Southindian Hindi Dubbed Movies",Premalu
-http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI-DUBBED/%282024%29/Premalu-2024/Premalu-2024-1080p-WEBRip-Hindi.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Raayan" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2Q4MjE3ZjYtYzdjMS00MTYyLWExZDctODNmZDBiMDc4Zjg0XkEyXkFqcGc@._V1_.jpg" group-title="Southindian Hindi Dubbed Movies",Raayan
-http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI-DUBBED/%282024%29/Raayan-2024/Raayan-2024-1080p-WEBRip-Hindi.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Siren" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGIzYTA3OTctMjU1OC00YTdmLThmZGMtZTU2MTAzZmJjMzllXkEyXkFqcGc@._V1_QL75_UX161_.jpg" group-title="Southindian Hindi Dubbed Movies",Siren
-http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI-DUBBED/%282024%29/Siren-2024/Siren-2024-WebRip-1080p-Hindi.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Family Star" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjUyZjdmYjMtODgxNC00NGQxLWFkNjEtNDQ4M2ZhN2ZiZGVmXkEyXkFqcGc@._V1_.jpg" group-title="Southindian Hindi Dubbed Movies",The Family Star
-http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI-DUBBED/%282024%29/The-Family-Star-2024/The-Family-Star-2024-1080p-WEBRip-Hindi.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Goat Life" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjJiNjk2MzgtYWIzNy00Yzc0LTg4YzUtYjQ5OGZjZTc1YjU0XkEyXkFqcGc@._V1_.jpg" group-title="Southindian Hindi Dubbed Movies",The Goat Life
-http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI-DUBBED/%282024%29/The-Goat-Life-2024/The-Goat-Life-2024-1080p-WEBRip-Hindi.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Greatest of All Time" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1e/The_Greatest_of_All_Time.jpg" group-title="Southindian Hindi Dubbed Movies",The Greatest of All Time
-http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI-DUBBED/%282024%29/The-Greatest-of-All-Time-2024/The-Greatest-of-All-Time-2024-1080p-WEBRip-Hindi-Tamil.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Vettaiyan" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjExZDc1MzUtNDc3Mi00NDcxLWFmYTAtYzI2MzhlMmE3YzBiXkEyXkFqcGc@._V1_.jpg" group-title="Southindian Hindi Dubbed Movies",Vettaiyan
-http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI-DUBBED/%282024%29/Vettaiyan-2024/Vettaiyan-2024-WebRip-1080p-Hindi-Tamil.mkv
-#EXTINF:-1 tvg-id="" tvg-name="2018" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjBjYzVmOTAtMWI2NC00ODhiLTk4NDYtYmY3YmQxYmU2NTI5XkEyXkFqcGc@._V1_.jpg" group-title="Southindian Hindi Dubbed Movies",2018
-http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI-DUBBED/%282023%29/2018-2023/2018-2023-1080p-WEBRip-Hindi.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adipurush" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzYyMmUxZDEtOWY5OS00N2Q5LWIwMDUtYzBhNGZhYjM2M2Y1XkEyXkFqcGc@._V1_.jpg" group-title="Southindian Hindi Dubbed Movies",Adipurush
-http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI-DUBBED/%282023%29/Adipurush-2023/Adipurush-2023-1080p-WEBDL-Hindi.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Agent" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjgxY2QzZmMtYjhhYi00YmMwLWE2NjAtOTNmZmM2N2U4ZWVmXkEyXkFqcGc@._V1_.jpg" group-title="Southindian Hindi Dubbed Movies",Agent
-http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI-DUBBED/%282023%29/Agent-2023/Agent-2023-1080p-SDTV-Hindi.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Alone" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY3MTQ1Y2MtMmU1Ny00ZjZiLThlNjctYmZlY2Y3NmQ0OTQzXkEyXkFqcGc@._V1_.jpg" group-title="Southindian Hindi Dubbed Movies",Alone
-http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI-DUBBED/%282023%29/Alone-2023/Alone-2023-1080p-WEBDL-Hindi.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Antony" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJsP2W6MvXzNRH2yDqifh-J9eTsUvf-YAotw&s" group-title="Southindian Hindi Dubbed Movies",Antony
-http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI-DUBBED/%282023%29/Antony-2023/Antony-2023-1080p-WEBDL-Hindi.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bagheera" tvg-logo="https://static.toiimg.com/photo/74170512.cms" group-title="Southindian Hindi Dubbed Movies",Bagheera
-http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI-DUBBED/%282023%29/Bagheera-2023/Bagheera-2023-1080p-WEBRip-Hindi.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bhagavanth Kesari" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4b/Bhagavanth_Kesari.jpg" group-title="Southindian Hindi Dubbed Movies",Bhagavanth Kesari
-http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI-DUBBED/%282023%29/Bhagavanth-Kesari-2023/Bhagavanth-Kesari-2023-1080p-WEBRip-Hindi.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bholaa Shankar" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWRmYmQ0ZmEtYThlZS00ZWQ3LTgzODEtMTFmOWMyODQxZTUxXkEyXkFqcGc@._V1_.jpg" group-title="Southindian Hindi Dubbed Movies",Bholaa Shankar
-http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI-DUBBED/%282023%29/Bholaa-Shankar-2023/Bholaa-Shankar-2023-1080p-WEBDL-Hindi.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Boo(Horror)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjdiN2ExYmEtMDk3Ny00YzExLTgwZGItYmUxNWFjMTkzZDEwXkEyXkFqcGc@._V1_.jpg" group-title="Southindian Hindi Dubbed Movies",Boo(Horror)
-http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI-DUBBED/%282023%29/Boo-2023-1080p/Boo-2023-1080p-WEBRip-Hindi.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Southindian Hindi Dubbed Movies",
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Southindian Hindi Dubbed Movies",
 
