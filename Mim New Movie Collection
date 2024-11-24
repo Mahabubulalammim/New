@@ -41,8 +41,84 @@ http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2000-2007/Bhool%20Bhulaiyaa%2
 http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2022/Bhool%20Bhulaiyaa%202%20(2022)/Bhool.Bhulaiyaa.2.2022.WEBRip-2160p.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Bhool Bhulaiyaa 3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/Bhool_Bhulaiyaa_3_poster.jpg/220px-Bhool_Bhulaiyaa_3_poster.jpg" group-title="Hindi Movies",Bhool Bhulaiyaa 3
 http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/_HQ%20S-Print/Bhool%20Bhulaiyaa%203%20(2024)/Bhool-Bhulaiyaa-3-2024-Hindi-HDTC-1080p.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Padman" tvg-logo="" group-title="Hindi Movies",Padman
-http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2018/Padman%20(2018)/Padman%20(2018)%20WEBDL-720p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bloody Ishq" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTJiNTdlYTgtOGM5OC00OTYzLWFjMmQtZjQzMTNmNTVlNzQ1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Bloody Ishq
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2024/Bloody%20Ishq%20(2024)/Bloody%20Ishq%20(2024)%20WEBDL-1080p.mkv
+#EXTINF:-1 tvg-id="" tvg-name="CTRL" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGI5MjMzODQtMDlhMi00MWU0LTk0MzAtZmY4ZmU4NzU1MmY5XkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",CTRL
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2024/CTRL%20(2024)/CTRL%20(2024)%20WEBDL-1080p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chandu Champion" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTBkODE2ZTQtZGQzZi00OWVlLTk0M2UtMjcxMjk5ZTA5N2IzXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Chandu Champion
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2024/Chandu%20Champion%20(2024)/Chandu%20Champion%202024%20AMZN%20Hindi%20(ORG%205.1)%201080p%20WEB-DL%20x264%20ESubs.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chhota Bheem and the Curse of Damyaan" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWQzOTM5NTEtMWE5Yi00Mzg5LWE1NzAtMmFmNjVjMjkwNGU3XkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Chhota Bheem and the Curse of Damyaan
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2024/Chhota%20Bheem%20and%20the%20Curse%20of%20Damyaan%20(2024)/Chhota%20Bheem%20and%20the%20Curse%20of%20Damyaan%20(2024)%20WEBRip-1080p.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Crakk Jeetega. Toh Jiyegaa" tvg-logo="https://m.media-amazon.com/images/M/MV5BODFmOTM1OTgtMzU5MC00ZjY5LTk0NTctMjNhMmRiMjViZjNiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Crakk Jeetega. Toh Jiyegaa
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2024/Crakk%20Jeetega.%20Toh%20Jiyegaa%20(2024)/Crakk%20Jeetega.%20Toh%20Jiyegaa%20(2024)%20WEBRip-1080p.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Crew" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmJlYjk1ZGMtMGUzYS00NWEwLTliNTktOTE3NzRjOGY1Mzg5XkEyXkFqcGc@._V1_QL75_UX480_.jpg" group-title="Hindi Movies",Crew
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2024/Crew%20(2024)/Crew%20(2024)%20WEBDL-1080p.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dange" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjg0ZTRmNzktMzE2Zi00ZWMxLThlZDktZTlkMzdmMjMzZTMyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Dange
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2024/Dange%20(2024)/Dange%20(2024)%20WEBRip-1080p.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dedh Bigha Zameen" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTk3NzUxOTItOWFkMC00YTQxLWIzNDktNTA2ZTRjMzE1NmFiXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Dedh Bigha Zameen
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2024/Dedh%20Bigha%20Zameen%20(2024)/Dedh%20Bigha%20Zameen%20(2024)%20WEBRip-1080p.mkv
+#EXTINF:-1 tvg-id="" tvg-name="https://m.media-amazon.com/images/M/MV5BZmY0N2IwMzItNzU5NC00ZTllLTgyYjMtYmU4OWZkNjc1NjdkXkEyXkFqcGc@._V1_.jpg" tvg-logo="" group-title="Hindi Movies",Do Aur Do Pyaar
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2024/Do%20Aur%20Do%20Pyaar%20(2024)/Do%20Aur%20Do%20Pyaar%202024%20WebRip%201080p%20Hindi%20DD%205.1%20x264.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Do Patti" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjRmMzA2MWYtZGEyMS00YjY4LWJiOTEtNjU1NWMyYTRjM2M3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Do Patti
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2024/Do%20Patti%20(2024)/Do%20Patti%20(2024)%20WEBDL-1080p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fighter" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjk2YjI2ZTUtOGUzMC00ZWNkLThiY2EtMzZjZTk0NDNhYjQyXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Fighter
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2024/Fighter%20(2024)/Fighter%20(2024)%20WEBRip-1080p.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Khel Khel Mein" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTgwMTJkNTItOTk3NS00OTk5LWFhYmItZTk4MjRiZjhjMGQ5XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg" group-title="Hindi Movies",Khel Khel Mein
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2024/Khel%20Khel%20Mein%20(2024)/Khel%20Khel%20Mein%202024%20WebRip%201080p%20Hindi%20DD%205.1%20x264%20ESub.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LSD 2 Love, Sex aur Dhokha 2" tvg-logo="https://static.toiimg.com/photo/101634302.cms" group-title="Hindi Movies",LSD 2 Love, Sex aur Dhokha 2
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2024/LSD%202%20Love%2C%20Sex%20aur%20Dhokha%202%20(2024)/LSD%202%20Love%2C%20Sex%20aur%20Dhokha%202%20(2024)%20WEBRip-1080p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Luv Ki Arrange Marriage" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGYyOTNiYjEtMGE1OC00Y2IzLWFhNDctNjIzMzI2MmU4N2U2XkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Luv Ki Arrange Marriage
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2024/Luv%20Ki%20Arrange%20Marriage%20(2024)/Luv%20Ki%20Arrange%20Marriage%20(2024)%20WEBDL-1080p.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Maidaan" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTJmNzIyYWQtMjk0ZC00ZmJmLWE1ZTEtMTg0ZGIwZTNhOTVkXkEyXkFqcGc@._V1_QL75_UX480_.jpg" group-title="Hindi Movies",Maidaan
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2024/Maidaan%20(2024)/Maidaan%202024%20WebRip%201080p%20Hindi%20DD%205.1%20x264%20ESub%20-%20mkvCinemas.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Main Atal Hoon" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTUwN2VkODUtN2EzNS00NTdhLTg5N2YtNDNkOGU3MjcwMmM4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Main Atal Hoon
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2024/Main%20Atal%20Hoon%20(2024)/Main%20Atal%20Hoon%20(2024)%20WEBRip-1080p.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Merry Christmas" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWYyMzdmYTEtMjMyNS00YzRhLTg3MjQtODlkNGQzNjYyODhjXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Merry Christmas
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2024/Merry%20Christmas%20(2024)/Merry%20Christmas%202024%20WebRip%201080p%20Hindi%20DD%205.1%20x264%20ESub.mkv
+#EXTINF:-1 tvg-id="" tvg-name="https://m.media-amazon.com/images/M/MV5BMDk5OTcwZTEtMjllNC00OWI5LWI2ZGYtZGVmYzkwNWE2MWY1XkEyXkFqcGc@._V1_.jpg" tvg-logo="" group-title="Hindi Movies",Mr. & Mrs. Mahi
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2024/Mr.%20%26%20Mrs.%20Mahi%20(2024)/Mr.%20And%20Mrs.%20Mahi%202024%20WebRip%201080p%20Hindi%20DD%205.1%20x264%20ESub.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Munjya" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Munjya_2024.jpg" group-title="Hindi Movies",Munjya
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2024/Munjhya%20(2024)/Munjya%20(2024)%20WEBRip-1080p.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Murder Mubarak" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmVmZGVmYmYtNTIwOC00NjY0LWE3MWItYTRmNTQxZjU2OTA1XkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Murder Mubarak
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2024/Murder%20Mubarak%20(2024)/Murder%20Mubarak%20(2024)%20WEBRip-1080p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haseen Dillruba" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDg0NGU2ZjgtM2M0YS00NWM2LTkwNjAtYWY5YTY0N2IzYWUwXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Haseen Dillruba
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2021/Haseen%20Dillruba%20(2021)/Haseen%20Dillruba%20(2021)%20WEBDL-1080p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Phir Aayi Hasseen Dillruba" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmM5Zjc2ZmMtOWIwMy00OWY4LTkzZmQtODA5NTVlNDFlNGZlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Phir Aayi Hasseen Dillruba
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2024/Phir%20Aayi%20Hasseen%20Dillruba%20(2024)/Phir%20Aayi%20Hasseen%20Dillruba%20(2024)%20WEBDL-1080p.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ruslaan" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjllMzZjOGYtOTNmNy00YzU4LThmNjItNThjN2RmNWIyODI1XkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Ruslaan
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2024/Ruslaan%20(2024)/Ruslaan%20(2024)%20WEBDL-1080p.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sarfira" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjMwNjQ1MWItMjIzZS00YTg5LThlMjItMTA0NmVkYTUyYWY3XkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Sarfira
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2024/Sarfira%20(2024)/Sarfira%20(2024)%20WEBDL-1080p.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sector 36" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGE0YWU1MmEtN2FhMS00NzBlLWE3MTgtMWZkYjdmNDg5ZTFiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Sector 36
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2024/Sector%2036%20(2024)/Sector%2036%20(2024)%20WEBDL-1080p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Shaitaan" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2Y2MjdhMjItYjI4Yi00NmM3LTk4ZGItZDQ2NmNlZmZhYjAzXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Shaitaan
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2024/Shaitaan%20(2024)/Shaitaan%20(2024)%20WEBDL-1080p.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Srikanth" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjUzODg4YWEtMmVmMC00MTI0LWE0Y2EtOTQ3Y2NhM2Y1MzAxXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Srikanth
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2024/Srikanth%20(2024)/Srikanth%202024%20WebRip%201080p%20Hindi%20DD%205.1%20x264%20ESub.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stree" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKa5I02o0xyltBmaKMlZI0IpMwS7ahk5JhCA&s" group-title="Hindi Movies",Stree
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2018/Stree%20(2018)/Stree%20(2018)%20WEBDL-1080p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Stree 2" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTA1NmUxYzItZmVmNy00YmQxLTk4Y2UtZjVkMWUwMWQ5N2IxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Stree 2
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2024/Stree%202%20(2024)/Stree%202%20Sarkate%20Ka%20Aatank%20(2024)%20WEBRip-1080p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Singham" tvg-logo="https://stat5.bollywoodhungama.in/wp-content/uploads/2016/03/singham-Poster-Feature-306x393.jpg" group-title="Hindi Movies",Singham
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2011/Singham%20(2011)/Singham%20(2011)%20HDTV-720p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Singham Returns" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjBjMjViNjMtYThhYi00YzQ5LTg3ODAtMTE1NTdlMTYzM2U4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Singham Returns
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2014/Singham%20Returns%20(2014)/Singham%20Returns%20(2014)%20Hindi%201080p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Singham Again" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTUyN2I4YWQtZjVkNi00MTY1LThjNjAtYjhkZTI2MWU1YzUxXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Singham Again
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/_HQ%20S-Print/Singham%20Again%20(2024)/Singham-Again-2024-Hindi-HQ-HDTC-1080p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Teri Baaton Mein Aisa Uljha Jiya " tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/Teri_Baaton_Mein_Aisa_Uljha_Jiya_film_poster.jpg" group-title="Hindi Movies",Teri Baaton Mein Aisa Uljha Jiya 
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2024/Teri%20Baaton%20Mein%20Aisa%20Uljha%20Jiya%20(2024)/Teri%20Baaton%20Mein%20Aisa%20Uljha%20Jiya%20(2024)%20WEBDL-1080p.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ulajh" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmJiYTQ4NWYtNDFmYS00NjJlLWJhZDItMGY4OWJiMDE0N2UyXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Ulajh
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2024/Ulajh%20(2024)/Ulajh%20(2024)%20WEBRip-1080p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vedaa" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2ZiOWNjODMtZDUyZS00M2I3LWFiYzYtOTAyYjNhMTM0MzM3XkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Vedaa
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2024/Vedaa%20(2024)/Vedaa%20(2024)%20WEBDL-1080p.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yodha" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjAyYjZmMjQtNGZlNi00ZGQ0LTkxNTUtNWQ2YzA3MWJjYjc2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Yodha
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2024/Yodha%20(2024)/Yodh%202024%20Hindi%20(ORG%205.1)%201080p%20WEB-DL%20x264%20ESubs.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yudhra" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWM0YTZhMTAtMjc0MS00MzhmLTljZWQtZDFkYzFkMGZjZmVhXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Yudhra
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2024/Yudhra%20(2024)/Yudhra%20(2024)%20WEBDL-1080p.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Vicky Vidya Ka Woh Wala Video" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDk0MGZmZjYtZDAzZS00Yjg4LWFkZjItYjU5N2IxODRlYmRhXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Vicky Vidya Ka Woh Wala Video
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/_HQ%20S-Print/Vicky%20Vidya%20Ka%20Woh%20Wala%20Video%20(2024)/Vicky%20Vidya%20ka%20Woh%20Wala%20Video%20(2024)%20Hindi%20PreDVD%201080p%20x264%20AAC.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jigra" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmJhMTc5NDEtN2NkOC00Njc3LWJiMzgtZjhjZWNhZDhmZTE0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Jigra
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/_HQ%20S-Print/Jigra%20(2024)/Jigra%202024%20Hindi%20HDTS%201080p%20x264%20AAC.mkv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
@@ -131,7 +207,11 @@ http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2018/Padman%20(2018)/Padman%2
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
 
 
 
@@ -192,164 +272,126 @@ http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2018/Padman%20(2018)/Padman%2
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="24 Time Story(4k) " tvg-logo="https://m.media-amazon.com/images/M/MV5BOTIxZTQwN2QtOTVmNS00ZDRiLTlhOGEtZGQ1MmJlZDQzODk0XkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_.jpg" group-title="4k Movies",24 Time Story(4k)
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/24%20%282016%29%20%284K%29%20Hindi%20Dubbed/Time%20Story%2024%20%282016%29%20-%204K%20UHD.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Animal(4k)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGViM2M4NmUtMmNkNy00MTQ5LTk5MDYtNmNhODAzODkwOTJlXkEyXkFqcGdeQXVyMTY1NDY4NTIw._V1_.jpg" group-title="4k Movies",Animal(4k)
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/Animal%20%282023%29%202160p%20%284K%29%20Hindi/Animal%20%282023%29%20Hindi%20NF%20WEB-DL%202160p.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Balupu(4k)" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTA4ZmU5YmYtN2JjZC00MTNjLTgwYmYtNmQ4NGRlMjExZTBjXkEyXkFqcGdeQXVyNjE3Mzg5Njk@._V1_.jpg" group-title="4k Movies",Balupu(4k)
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/Balupu%20%282013%29%20%284K%29%20Hindi%20Dubbed/Balupu%20%282013%29%20-%204K%20UHD%20Hindi%20Dubbed.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bengal Tiger(4k)" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjUyYzVjMDEtZGY5Mi00MzJhLWJkZWItYTFlYTMyMzY5MDNiXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_.jpg" group-title="4k Movies",Bengal Tiger(4k)
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/Bengal%20Tiger%20%282015%29%20%284K%29%20Hindi%20Dubbed/Bengal%20Tiger%20%282015%29%20-%204K%20UHD.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bhagavanth Kesari(4k)" tvg-logo="https://resizing.flixster.com/Hf4DZO9kgyRXazZXm4QBYUOKLN0=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzE1MDE1ZDcwLTc2ZDctNGQ3YS05ODRkLWJlYzIwMjNhN2ViYS5qcGc=" group-title="4k Movies",Bhagavanth Kesari(4k)
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/Bhagavanth%20Kesari%20%282023%29%20%284K%29%202160p%20Hindi/Bhagavanth.Kesari.Hindi.2023.2160p.WEB-DL.DDP5.1.H.265.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bholaa(4k)" tvg-logo="https://cdn.123telugu.com/content/wp-content/uploads/2023/01/Bholaa.jpg" group-title="4k Movies",Bholaa(4k)
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/Bholaa%20%282023%29%202160p%20%284K%29%20Hindi/Bholaa%20%282023%29%202160p%20WEB-DL%20Hindi%20DDP5.1%20H264.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bol Bachchan(4k)" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWNhNmJiNTctZWJlZi00ZGIzLTgyYTktYmJmNTlmZTA3NDIzXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg" group-title="4k Movies",Bol Bachchan(4k)
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/Bol%20Bachchan%20%282012%29%20%284K%29%20Hindi/Bol%20Bachchan%20%282012%29%20-%204K%20UHD.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Brahmastra Part One Shiva(4k)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDlhMjZlY2YtZTA1MC00MzQwLTg2ZGUtNWVjNzczOGMwOWZjXkEyXkFqcGdeQXVyMTYyNjAzOTUx._V1_FMjpg_UX1000_.jpg" group-title="4k Movies",Brahmastra Part One Shiva(4k)
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/Brahmastra%20Part%20One%20Shiva%20%282022%29%20%284K%29%20Hindi/Brahmastra%20Part%20One%20Shiva%202022%20Hindi%20WEB-DL%204K%20UHD%20HEVC.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Captain Miller(4k)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/Captain_Miller_film_poster.jpg" group-title="4k Movies",Captain Miller(4k)
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/Captain%20Miller%20%282024%29%202160p%20%284K%29%20Hindi/Captain.Miller.2024.2160p.Hindi%20.WEB-DL.Hindi.DDP5.1.H.265.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Chandu Champion(4k)" tvg-logo="https://preview.redd.it/2nd-poster-of-chandu-champion-is-out-now-v0-eecradi7aq0d1.jpeg?auto=webp&s=78d2e16cfacfb1eac2c80e5506cf9f7d97b7f160" group-title="4k Movies",Chandu Champion(4k)
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/Chandu%20Champion%20%282024%29%202160p%20%284K%29%20Hindi/Chandu.Champion.2024.4K-2160p.HEVC.AMZN.WEB-DL.Hindi.DDP.5.1.ESub.x265.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Crew(4k)" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTZjNDhkMTAtNDhhMC00ZmY1LTk4YjAtZWFkNjc5OTlkYTQwXkEyXkFqcGdeQXVyODgzMzg2MDg@._V1_.jpg" group-title="4k Movies",Crew(4k)
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/Crew%20%282024%29%20Hindi%202160p%20%284K%29/Crew.2024.2160p.NF.WEB-DL.DDP5.1.SDR.H265.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dhamaka(4k)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzUyOWU2M2MtMDU1Yy00M2E1LTg3OTktMGRjYTE2MjkzYzUwXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg" group-title="4k Movies",Dhamaka(4k)
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/Dhamaka%20%282022%29%20%284K%29%20%5BDual%20Audio%5D/Dhamaka.2022.2160p.NF.WEB-DL.Hindi.DD2.0.Telugu.DDP5.1.H.265.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dhoom 3(4k)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f1/Dhoom_3_Film_Poster.jpg" group-title="4k Movies",Dhoom 3(4k)
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/Dhoom%203%20%282013%29%20Hindi%202160p%20%284K%29/Dhoom%203%20%282013%29%20-%204K%20UHD%20BluRay.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Drishyam 2(4k)" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmY2ZDUxNzUtYWZlYy00MThhLWI5NjktZDhjZTU3MDY5YTM3XkEyXkFqcGdeQXVyNTYxMDgzODI@._V1_.jpg" group-title="4k Movies",Drishyam 2(4k)
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/Drishyam%202%20%282022%29%202160p%20%284K%29%20Hindi/Drishyam%202%20%282022%29%202160p%20AMZN%20WEB-DL%20DDP5.1%20HEVC.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dunki(4k)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzQ0NDRhNmItYzllYS00NDdlLTk0YTctZDQ5YmFkYjdkNDcyXkEyXkFqcGdeQXVyNTYwMzA0MTM@._V1_FMjpg_UX1000_.jpg" group-title="4k Movies",Dunki(4k)
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/Dunki%20%282023%29%20Hindi%202160p%20%5B4K%5D/Dunki.2023.2160p.SDR.NF.WEB-DL.DDP5.1.H.265.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Family Star(4k)" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWI2MTBmZmQtMzM5Ny00MDBmLWEzYWMtMzFkMjgzN2UwOTE1XkEyXkFqcGdeQXVyMTQ3Mzk2MDg4._V1_FMjpg_UX1000_.jpg" group-title="4k Movies",Family Star(4k)
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/Family%20Star%20%282024%29%20Hindi%202160p%20%284K%29/The.Family.Star.2024.2160p.JC.WEB-DL.DDP5.1.H.265.Esub.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Fighter(4k)" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjkwN2Q5Y2QtMmE2MC00NzlkLTg2NzQtYjVjYjVmNjE2ZTNiXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX1000_.jpg" group-title="4k Movies",Fighter(4k)
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/Fighter%20%282024%29%202160p%20%284K%29%20Hindi/Fighter%20%282024%29%202160p%20NF%20WEB-DL%20DDP-5.1%20x264.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Gadar 2(4k)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWY1YTVmNmItMGFjZS00N2RhLWI0YjgtMDZlOWFhZWI1Y2YzXkEyXkFqcGdeQXVyMTYzMTU3Njgx._V1_.jpg" group-title="4k Movies",Gadar 2(4k)
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/Gadar%202%20%282023%29%20%284K%29%20Hindi/Gadar.2.2023.2160p.WEB-DL.DD%2B5.1.H.265.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hanuman(4k)" tvg-logo="https://i.pinimg.com/736x/aa/92/13/aa92130b5dcbb96bd933c40ae7d798e2.jpg" group-title="4k Movies",Hanuman(4k)
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/Hanuman%20%282024%29%202160p%20%284K%29%20Hindi/Hanuman%20%282024%29%20Hindi%20%20WEB-DL%20-%204K%20SDR%20-%20ESub.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jai Lava Kusa(4k)" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTk5NzI0Y2ItNmJiNC00MGVmLTllZTQtMDBjZjNhOGY0NGFiXkEyXkFqcGdeQXVyODM1NTI2NDI@._V1_.jpg" group-title="4k Movies",Jai Lava Kusa(4k)
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/Jai%20Lava%20Kusa%20%282017%29%20%284K%29%20Hindi%20Dubbed/Jai%20Lava%20Kusa%20%282017%29%20-%204K%20UHD.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jailer(4k)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzFkNmZkMTctYjRhMS00ODZiLWFlNjQtZmZmN2IzMDJlNmVkXkEyXkFqcGdeQXVyMTY1MzAyNjU4._V1_.jpg" group-title="4k Movies",Jailer(4k)
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/Jailer%20%282023%29%202160p%20%284K%29%20Hindi-Tamil/Jailer.2023.2160p.CBR.AMZN.WEB-DL.DDP5.1.H.265.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jawan(4k)" tvg-logo="https://static.toiimg.com/thumb/imgsize-23456,msid-103060645,width-600,resizemode-4/103060645.jpg" group-title="4k Movies",Jawan(4k)
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/Jawan%20%282023%29%20Hindi%202160p%20%284K%29/Jawan.Extended.Cut.2023.Hindi.2160p.NF.WEB-DL.DD%2B5.1.H.265.mkv
-#EXTINF:-1 tvg-id="" tvg-name="KGF Chapter 1(4k)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjY1MmM2N2ItYjc1NS00Yjc1LTkxYmQtNGJiMjYwMTlmNDE5XkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_.jpg" group-title="4k Movies",KGF Chapter 1(4k)
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/K.G.F%20-%20Chapter%201%20%282019%29%20Hindi%20UHD%20%284K%29%202160p/K.G.F%20-%20Chapter%201%20%282019%29%20Hindi%20-%20UHD%20%284K%29%20-%202160p%20-%20HEVC%20-%20WEB-DL%20-%20%28DD%2B5.1%20-%20640Kbps%29%20-%2020.2GB%20-%20Esub.mkv
-#EXTINF:-1 tvg-id="" tvg-name="KGF Chapter 2(4k)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/K.G.F_Chapter_2.jpg" group-title="4k Movies",KGF Chapter 2(4k)
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/K.G.F%20Chapter%202%20%282022%29%20-%204K/K.G.F%20Chapter%202%20%282022%29%20-%204K%20UHD.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kabzaa(4k)" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDFmNmE2OTYtYmUxOC00ZjE0LWE4ZWEtNzdiMjYxMjIwMzBhXkEyXkFqcGdeQXVyODA4MDA0Mjg@._V1_.jpg" group-title="4k Movies",Kabzaa(4k)
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/Kabzaa%20%282023%29%20%284K%29%20%5BDual%20Audio%5D/Kabzaa.2023.2160p.WEB-DL.DDP5.1.HEV.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kick(4k)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTUyMTg0MTA1OF5BMl5BanBnXkFtZTgwMDg2MjMwMjE@._V1_.jpg" group-title="4k Movies",Kick(4k)
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/Kick%20%282014%29%20-%204K/Kick%20%282014%29%20-%204K.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kill(4k)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeKq4efH_4GAjBE_YtJaY7Cfx-4-qwg7vHBA&s" group-title="4k Movies",Kill(4k)
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/Kill%20%282024%29%20Hindi%202160p%20%20%5B4K%5D/Kill.2024.2160p.AMZN.WEB-DL.DDP5.1.H.265.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kisi Ka Bhai Kisi ki Jaan(4k)" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjk0ZjlhNDctMzAwZC00ZTAyLTliZTItOTRiNjMzNTAxODY3XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg" group-title="4k Movies",Kisi Ka Bhai Kisi ki Jaan(4k)
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/Kisi%20Ka%20Bhai%20Kisi%20Ki%20Jaan%20%282023%29%20%284K%29%20Hindi/Kisi.Ka.Bhai.Kisi.Ki.Jaan.2023.2160p.WEB-DL.DD%2B5.1.H.265.ESub.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Krack(4k)" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzExZTk0ZjctOGY2Yy00YmVhLWJiNWYtNDcyYjEzMTJhOWU3XkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_.jpg" group-title="4k Movies",Krack(4k)
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/Krack%20%282021%29%20Hindi%20%284K%29/Krack.2021.Hindi.2160p.AHA.WEB-DL.Org.TV-DL.DDP2.0.x264.ESub.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Leo(4k)" tvg-logo="https://static.moviecrow.com/gallery/20230921/221109-Leo%20Vijay%20Sanjay%20Dutt%20Poster.jpg" group-title="4k Movies",Leo(4k)
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/Leo%20%282023%29%202160p%20%284K%29%20Hindi/LEO.2023.4K-2160p.SDR.10Bit.HEVC.WEB-DL.Hindi-Tamil.DDP5.1.ESub.x265.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Maharaja(4k)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWJmMmUwZjAtYTM1Ni00ZDY3LWE0ZGItOWQ1ZTYxMTlkZDc1XkEyXkFqcGc@._V1_.jpg" group-title="4k Movies",Maharaja(4k)
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/Maharaja%20%282024%29%202160p%20%284K%29%20%5BDual%20Audio%5D/Maharaja.2024.2160p.NF.WEB-DL.DUAL.DDP5.1.H.265.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Pathaan(4k)" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGI3NzQ5NTctZWQ4Ni00ZGJkLTg5N2UtYTBjNzcyN2EyOTM0XkEyXkFqcGdeQXVyOTI3MzI4MzA@._V1_.jpg" group-title="4k Movies",Pathaan(4k)
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/Pathaan%20%282023%29%202160%20%284K%29%20Hindi/Pathaan.2023.2160p..WEB-DL.DDP5.1.HEVC-.mkv
-#EXTINF:-1 tvg-id="" tvg-name="PK(4k)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYzOTE2NjkxN15BMl5BanBnXkFtZTgwMDgzMTg0MzE@._V1_.jpg" group-title="4k Movies",PK(4k)
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/PK%20%282014%29%20-%204K/PK%20%282014%29%20-%204K%20UHD.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Premalu(4k)" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/88dcec185852421.656ae6cd212da.jpg" group-title="4k Movies",Premalu(4k)
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/Premalu%20%282024%29%202160p%20%20%5BDual%20Audio%5D/Premalu%20%282024%29%20Dual%20Audio%20Hindi%20ORG%20DSNP%202160p.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Pushpa The Rise Part 1(4k)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD9MTNJhmdiEk_mSH7xKRfV1SrXEh0NpV61w&s" group-title="4k Movies",Pushpa The Rise Part 1(4k)
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/Pushpa%20The%20Rise%20-%20Part%201%20%282021%29%20Hindi%20%284K%29%202160p/Pushpa.the.Rise.2021.Hindi.2160p.AMZN.WEB-DL.DDP5.1.HEVC-Telly.mkv
-#EXTINF:-1 tvg-id="" tvg-name="RRR(4k)" tvg-logo="https://m.media-amazon.com/images/M/MV5BODUwNDNjYzctODUxNy00ZTA2LWIyYTEtMDc5Y2E5ZjBmNTMzXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg" group-title="4k Movies",RRR(4k)
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/RRR%204K/RRR.2022.2160p.WEB-DL.DDP5.1.Atmos.HEVC.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Runway 34(4k)" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2YzNjU4MTYtMzY5OS00ODg0LTkxMTUtNjg0YjRkYzI5ZWJjXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg" group-title="4k Movies",Runway 34(4k)
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/Runway%2034%20%282022%29%20Hindi%20%284K%29%202160p/Runway.34.2022.2160p.AMZN.WEB-DL.DDP5.1.HEVC.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Saaho(4k)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzU0ZmFkMWUtZDc4MC00OWVmLWI0MjEtZWZjMzRkZWE4MjgyXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_.jpg" group-title="4k Movies",Saaho(4k)
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/Saaho%202019%204K/Saaho%202019%202160p.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Salaar Part 1(4k)" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWYwMWU2N2QtMjExOC00OWY1LTllYzEtYWZjYzZlY2IwMzVhXkEyXkFqcGdeQXVyNjE0ODgwMDA@._V1_.jpg" group-title="4k Movies",Salaar Part 1(4k)
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/Salaar%20%282023%29%202160p%20%284K%29%20Hindi%20Dubbed/Salaar.Part.1.Ceasefire.2023.Hindi.2160p.WEB-DL.DDP5.1.H.265.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sultan(4k)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDk2MWNhNDgtNjI3ZS00MmQ3LThmYzEtM2VlYjM4M2UyY2IwXkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_.jpg" group-title="4k Movies",Sultan(4k)
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/Sultan%20%282016%29%20Hindi%20%204K/Sultan%204k.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Teri Baaton Mein Aisa Uljha Jiya(4k)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/Teri_Baaton_Mein_Aisa_Uljha_Jiya_film_poster.jpg" group-title="4k Movies",Teri Baaton Mein Aisa Uljha Jiya(4k)
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/Teri%20Baaton%20Mein%20Aisa%20Uljha%20Jiya%20%282024%29%202160p%20%284K%29%20Hindi/Teri.Baaton.Mein.Aisa.Uljha.Jiya.2024.2160p.AMZN.WEB-DL.DDP5.1.H.265.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Tiger 3(4k)" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzQwMGZlYTUtODUwNi00ZjQxLWEzODAtZGU3Zjc0MmNhMzhkXkEyXkFqcGdeQXVyNTkzNDQ4ODc@._V1_FMjpg_UX1000_.jpg" group-title="4k Movies",Tiger 3(4k)
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/Tiger%203%20%282023%29%20Hindi%202160p%20%284K%29/Tiger.3.2023.2160p.AMZN.WEB-DL.DDP5.1.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Yodha(4k)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDdlODdmODItZDAxNi00MjExLWFjOGItMGY3MzFjYzU4NDM3XkEyXkFqcGdeQXVyMTUzNTgzNzM0._V1_FMjpg_UX1000_.jpg" group-title="4k Movies",Yodha(4k)
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/Yodha%20%282024%29%202160p%20%284K%29/Yodha.2024.2160p.Hindi.WEB-DL.DDP5.1.H.265.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Baahubali 2(4k)" tvg-logo="https://static-koimoi.akamaized.net/wp-content/new-galleries/2017/01/bahubali-the-conclusion-presenting-amarendra-baahubali-devasena-1.jpg" group-title="4k Movies",Baahubali 2(4k)
-http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI%20DUBBED/%282017%29/Baahubali%202%20The%20Conclusion%20%282017%29%20BluRay%201080p/Baahubali%202%20-%20The%20Conclusion%202017%20%204k.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ala Vaikunthapurramuloo(4k)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmRkMGMzYTUtM2E2My00YjZlLWFmZjItMDA5M2EwNjNiZTNjXkEyXkFqcGdeQXVyNDY5MTUyNjU@._V1_.jpg" group-title="4k Movies",Ala Vaikunthapurramuloo(4k)
-http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI%20DUBBED/%282020%29/Ala%20Vaikunthapurramuloo%20%282020%29%20Hindi%20Dubbed%204K/Ala.Vaikunthapurramloo.2020.2160p.SUNNXT.WEB-DL.%5BOrg.HIN.DDP2.0%2BTEL.DDP5.1.Atmos%5D.HEVC-ShiNobi.mkv
-#EXTINF:-1 tvg-id="" tvg-name="kalki AD 2898(4k)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM3ZGUwYTEtZTI5NS00ZmMyLTk2YmQtMWU4YjlhZTI3NjRjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="4k Movies",kalki AD 2898(4k)
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/Kalki%202898%20AD%20%282024%29%202160p%20%5B4K%5D%20%5BHindi%20Dubbed%5D/Kalki.2898.AD.Hindi.2024.2160p.NF.WEB-DL.DDP5.1.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bad Newz(4k)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjE2ZWM3NDctNzg4Ny00YjE0LWI4ZTgtODI2ZTc2NGY2NzcyXkEyXkFqcGc@._V1_.jpg" group-title="4k Movies",Bad Newz(4k)
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/Bad%20Newz%20%282024%29%20Hindi%202160p%20%5B4K%5D/Bad.Newz.2024.2160p.AMZN.WEB-DL.DDP5.1.HDR.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Munjya (4k)" tvg-logo="https://images.fandango.com/ImageRenderer/0/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/236412/Munjya-V-Heartree-Poster.jpg" group-title="4k Movies",Munjya (4k)
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/Munjya%20%282024%29%20Hindi%202160p%20%5B4K%5D/Munjya.2024.4K-2160p.HS.WEB-DL.DDPA5.1.HEVC.x265.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Raayan(4k)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Raayan_poster.jpg" group-title="4k Movies",Raayan(4k)
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/Raayan%20%282024%29%202160p%20WEB-DL%20%5B4K%5D%20%5BDual%20Audio%5D/Raayan.2024.4K-2160p.SDR.WEB-DL.Hindi.DDP5.1-Tamil.DDP5.1.HEVC.x265.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Stree(4k)" tvg-logo="https://images.firstpost.com/wp-content/uploads/2018/07/stree-int.jpg" group-title="4k Movies",Stree(4k)
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/4K%20Movies/Stree%20%282018%29%20Hindi%202160p%20%5B4K%5D/Stree%20%282018%29%20Hindi%20%282160p%20x265%20HEVC%2010bit%20DDP%205.1%20ESub%29.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha" tvg-logo="" group-title="4k Movies",Star Jalsha
-#EXTINF:-1 tvg-id="" tvg-name="Stree 2 (4k)" tvg-logo="https://images.app.goo.gl/RTeM4pHvkF8oya54A" group-title="4k Movies",Stree 2 (4k)
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2024/Stree%202%20%282024%29%20Hindi%201080p%20WEBRip/Stree%202%202024%20WebRip%201080p%20Hindi%20DD%205.1%20x264%20ESub.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha" tvg-logo="" group-title="4k Movies",Star Jalsha
 
-#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha" tvg-logo="" group-title="4k Movies",Star Jalsha
+#EXTINF:-1 tvg-id="" tvg-name="PK (4K)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYzOTE2NjkxN15BMl5BanBnXkFtZTgwMDgzMTg0MzE@._V1_.jpg" group-title="4K Movies",PK (4K)
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/4K%20Movies/%20PK%20(2014)%20(4K/PK%20(2014)%20-%204K%20UHD.mkv
+#EXTINF:-1 tvg-id="" tvg-name="2.0 (4K)" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDNmNjJjYzYtZWQwMC00ZmQ2LWFmMGUtYzUxMWY2MjEwNjM0XkEyXkFqcGc@._V1_.jpg" group-title="4K Movies",2.0 (4K)
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/4K%20Movies/2.0%20(2018)%20(4K)/2.0.2018.WEBDL-2160p.mkv
+#EXTINF:-1 tvg-id="" tvg-name="12th Fail (4K)" tvg-logo="https://stat5.bollywoodhungama.in/wp-content/uploads/2023/11/12th-Fail.jpeg" group-title="4K Movies",12th Fail (4K)
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/4K%20Movies/12th%20Fail%20(2023)%202160p%20(4K)/12th.Fail.2023.2160p.DSNP.WEB-DL.DD%2B5.1.HEVC.mkv
+#EXTINF:-1 tvg-id="" tvg-name="24 Time Story (4k)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDNlNGYxZGQtN2I2Yi00OWQyLWFmOTItOWMzMDU4MmJkYmQ0XkEyXkFqcGc@._V1_.jpg" group-title="4K Movies",24 Time Story (4k)
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/4K%20Movies/24%20(2016)%20(4K)%20Hindi%20Dubbed/Time%20Story%2024%20(2016)%20-%204K%20UHD.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal (4K)" tvg-logo="https://stat4.bollywoodhungama.in/wp-content/uploads/2023/01/Animal.jpg" group-title="4K Movies",Animal (4K)
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/4K%20Movies/Animal%20(2023)%20(4k)/Animal%20(20232)%20-Hindi%20NF%20WEB-DL%202160p.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Balupu (4K)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTRjZDNlN2UtNWEzOS00MDU4LThkODAtNjczNTU1YWFiOGMyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="4K Movies",Balupu (4K)
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/4K%20Movies/Balupu%20(2013)%20(4K)%20Hindi%20Dubbed/Balupu%20(2013)%20-%204K%20UHD%20Hindi%20Dubbed.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bengal Tiger (4K)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2d/Bengal_Tiger_Telugu_film_poster.jpg" group-title="4K Movies",Bengal Tiger (4K)
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/4K%20Movies/Bengal%20Tiger%20(2015)%20(4K)%20Hindi%20Dubbed/Bengal%20Tiger%20(2015)%20-%204K%20UHD.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bhagavanth Kesari (4K)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4b/Bhagavanth_Kesari.jpg" group-title="4K Movies",Bhagavanth Kesari (4K)
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/4K%20Movies/Bhagavanth%20Kesari%20(2023)%20(4K)/Bhagavanth.Kesari.Hindi.2023.2160p.WEB-DL.DDP5.1.H.265.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bholaa (4K)" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/292275d62a45348b219898870ce3af5a7d4f8e14cb2ae9efbd430daa6e59afeb.jpg" group-title="4K Movies",Bholaa (4K)
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/4K%20Movies/Bholaa%20(2023)%202160p%20(4K)%20Hindi/Bholaa%20(2023)%202160p%20WEB-DL%20Hindi%20DDP5.1%20H264.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bol Bachchan (4K)" tvg-logo="https://media-cache.cinematerial.com/p/500x/nkuu3qjj/bol-bachchan-indian-movie-poster.jpg?v=1456618274" group-title="4K Movies",Bol Bachchan (4K)
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/4K%20Movies/Bol%20Bachchan%20(2012)%20(4K)%20Hindi/Bol%20Bachchan%20(2012)%20-%204K%20UHD.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Brahmastra Part One Shiva (4K)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ea/Brahmastra_Part_One_Shiva.jpg" group-title="4K Movies",Brahmastra Part One Shiva (4K)
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/4K%20Movies/Brahmastra%20Part%20One%20Shiva%20(2022)%20(4K)%20Hindi/Brahmastra%20Part%20One%20Shiva%202022%20Hindi%20WEB-DL%204K%20UHD%20HEVC.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dhamaka (4K)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmU3ZjI0MWYtMjNiZS00N2IwLWE0YTMtZDM0ZDU3OTZmNWUwXkEyXkFqcGc@._V1_QL75_UX480_.jpg" group-title="4K Movies",Dhamaka (4K)
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/4K%20Movies/Dhamaka%20(2022)%20(4K)%20%5BDual%20Audio%5D/Dhamaka.2022.2160p.NF.WEB-DL.Hindi.DD2.0.Telugu.DDP5.1.H.265.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dhoom 3 (4K)" tvg-logo="https://stat5.bollywoodhungama.in/wp-content/uploads/2016/05/74461428.jpg" group-title="4K Movies",Dhoom 3 (4K)
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/4K%20Movies/Dhoom%203%20(2013)%20(4K)/Dhoom%203%20(2013)%20-%204K%20UHD%20BluRay.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dishoom (4K)" tvg-logo="https://lh5.googleusercontent.com/proxy/KYYUQgia-bDEGGs_gZ6LrJhASDpMKXUG19vW37yunFBWiQdcwt4SQVt6XSFzAvyy_3VZBK7mebp1xVyIrhIUAnHLJRVhY8bg-PK4q5tjnLahlPvcFzLXAQ" group-title="4K Movies",Dishoom (4K)
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/4K%20Movies/Dishoom%20(2016)%20(4k)/Dishoom%20(2016)%20-%204K%20UHD.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Drishyam 2 (4K)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Drishyam_2_2022_film_poster.jpg/220px-Drishyam_2_2022_film_poster.jpg" group-title="4K Movies",Drishyam 2 (4K)
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/4K%20Movies/Drishyam%202%20(2022)%20(4K)/Drishyam%202%20(2022)%202160p%20AMZN%20WEB-DL%20DDP5.1%20HEVC.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fighter (4K)" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGUxYmIxZmYtZWE4OC00ZjQ4LWI1MzYtMTM4MGM1Zjk1Yzg2XkEyXkFqcGc@._V1_.jpg" group-title="4K Movies",Fighter (4K)
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/4K%20Movies/Fighter%20(2024)%20(4k)/Fighter%20(2024)%202160p%2010bit%20%5B60FPS%5D%20WEBRIP.x265.Hindi.DDP.5.1.Esub.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gadar 2 (4K)" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjM4YjliZDYtM2E5NS00MTA0LWFjYTktYTg3YTYwZjY4MmVlXkEyXkFqcGc@._V1_.jpg" group-title="4K Movies",Gadar 2 (4K)
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/4K%20Movies/Gadar%202%20(2023)%20(4K)%20Hindi/Gadar.2.2023.2160p.WEB-DL.DD%2B5.1.H.265.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jai Lava Kusa (4K)" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWU0ODEyY2YtZjZjZS00MWJiLTljYjktYTIwNzU4MWM4ZTZlXkEyXkFqcGc@._V1_.jpg" group-title="4K Movies",Jai Lava Kusa (4K)
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/4K%20Movies/Jai%20Lava%20Kusa%20(2017)%20(4K)%20Hindi%20Dubbed/Jai%20Lava%20Kusa%20(2017)%20-%204K%20UHD.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jailer (4K)" tvg-logo="https://stat4.bollywoodhungama.in/wp-content/uploads/2023/05/Jailer.jpg" group-title="4K Movies",Jailer (4K)
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/4K%20Movies/Jailer%20(2023)%202160p%20(4K)%20Hindi-Tamil/Jailer.2023.2160p.CBR.AMZN.WEB-DL.DDP5.1.H.265.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jawan (4K)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTE3ZGVjYTUtNjY5Mi00ZTZjLWIyZWUtMzMxZDE3ZTViMmNmXkEyXkFqcGc@._V1_.jpg" group-title="4K Movies",Jawan (4K)
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/4K%20Movies/Jawan%20(2023)%20Hindi%202160p%20(4K)/Jawan.Extended.Cut.2023.Hindi.2160p.NF.WEB-DL.DD%2B5.1.H.265.mkv
+#EXTINF:-1 tvg-id="" tvg-name="K.G.F - Chapter 1 (4K)" tvg-logo="https://im.jdmagicbox.com/comp/jd_social/news/2019feb08/image-445123-b678c8l6vh.jpg" group-title="4K Movies",K.G.F - Chapter 1 (4K)
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/4K%20Movies/K.G.F%20-%20Chapter%201%20(2019)%20Hindi%20UHD%20(4K)%202160p/K.G.F%20-%20Chapter%201%20(2019)%20Hindi%20-%20UHD%20(4K)%20-%202160p%20-%20HEVC%20-%20WEB-DL%20-%20(DD%2B5.1%20-%20640Kbps)%20-%2020.2GB%20-%20Esub.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kabzaa (4K)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTcyZTVhYTgtNWNiNi00NjkwLThkZjAtMDA3OTY5NzRkODMzXkEyXkFqcGc@._V1_.jpg" group-title="4K Movies",Kabzaa (4K)
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/4K%20Movies/Kabzaa%20(2023)%20(4K)%20%5BDual%20Audio%5D/Kabzaa.2023.2160p.WEB-DL.DDP5.1.HEV.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kick (4K)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Kick_%282014_film%29_Official_release_poster.jpg" group-title="4K Movies",Kick (4K)
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/4K%20Movies/Kick%20(2014)%20-%204K/Kick%20(2014)%20-%204K.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kisi Ka Bhai Kisi Ki Jaan (4K)" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWE0N2Y3YTgtY2ZkZi00NDc0LWI1Y2MtN2UzOTM3NTc0NTE0XkEyXkFqcGc@._V1_.jpg" group-title="4K Movies",Kisi Ka Bhai Kisi Ki Jaan (4K)
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/4K%20Movies/Kisi%20Ka%20Bhai%20Kisi%20Ki%20Jaan%20(2023)%20(4K)%20Hindi/Kisi.Ka.Bhai.Kisi.Ki.Jaan.2023.2160p.WEB-DL.DD%2B5.1.H.265.ESub.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Krack (4K)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmYwMjJhMWMtM2NiOS00ZDY4LThmN2QtMjFlZTY5YmFiZTFiXkEyXkFqcGc@._V1_.jpg" group-title="4K Movies",Krack (4K)
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/4K%20Movies/Krack%20(2021)%20Hindi%20(4K)/Krack.2021.Hindi.2160p.AHA.WEB-DL.Org.TV-DL.DDP2.0.x264.ESub.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nayak-The Real Hero (4K)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/Nayak_The_Real_Hero_poster.jpg" group-title="4K Movies",Nayak-The Real Hero (4K)
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/4K%20Movies/Nayak%20The%20Real%20Hero%20(2001)%20(4k)/Nayak_%20The%20Real%20Hero%20Full%20Movie%204K%20-.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pathaan (4K)" tvg-logo="https://w0.peakpx.com/wallpaper/407/193/HD-wallpaper-pathan-movie-angry-look-movie-poster-actor-shahrukh-khan.jpg" group-title="4K Movies",Pathaan (4K)
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/4K%20Movies/Pathaan%20(2023)%202160%20(4K)%20Hindi/Pathaan.2023.2160p..WEB-DL.DDP5.1.HEVC-.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ponniyin Selvan Part Two (4K)" tvg-logo="https://media5.bollywoodhungama.in/wp-content/uploads/2023/06/Ponniyin-Selvan-II-starring-Vikram-Karthi-Jayam-Ravi-Trisha-and-Aishwarya-Rai-Bachchan-arrives-on-Prime-Video-on-June-2-322x322.jpg" group-title="4K Movies",Ponniyin Selvan Part Two (4K)
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/4K%20Movies/Ponniyin%20Selvan%20Part%20Two%20(2023)%202160p%20(4K)%20Hindi%20Dubbed/Ponniyin%20Selvan-%20Part-2%20(2023)%20-%204K%20UHD%20(DDP).mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pushpa The Rise - Part 1 (4K)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKhb57ifdxW5OIBcXU1sjdr0vxxYPcl6GHQcQObCOv6_2F5fFKSzal9XmLAmh5aOU4rGI&usqp=CAU" group-title="4K Movies",Pushpa The Rise - Part 1 (4K)
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/4K%20Movies/Pushpa%20The%20Rise%20-%20Part%201%20(2021)%20Hindi%20(4K)%202160p/Pushpa.the.Rise.2021.Hindi.2160p.AMZN.WEB-DL.DDP5.1.HEVC-Telly.mkv
+#EXTINF:-1 tvg-id="" tvg-name="RRR (4K)" tvg-logo="https://media5.bollywoodhungama.in/wp-content/uploads/2022/04/RRR-8-322x402.jpg" group-title="4K Movies",RRR (4K)
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/4K%20Movies/RRR%204K/RRR.2022.2160p.WEB-DL.DDP5.1.Atmos.HEVC.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Runway 34 (4K)" tvg-logo="https://stat4.bollywoodhungama.in/wp-content/uploads/2022/04/Runway-34.jpeg" group-title="4K Movies",Runway 34 (4K)
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/4K%20Movies/Runway%2034%20(2022)%20Hindi%20(4K)%202160p/Runway.34.2022.2160p.AMZN.WEB-DL.DDP5.1.HEVC.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Saaho (4K)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6b/Saaho_poster.jpg" group-title="4K Movies",Saaho (4K)
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/4K%20Movies/Saaho%20(2019)%20(4K)/Saaho%202019%202160p.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Singham (4K)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBy71rQTq9yaWjBvGgfTYa5z85WFopPa7dkg&s" group-title="4K Movies",Singham (4K)
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/4K%20Movies/Singham%20(2011)%20(4k)/Singham%202011%20BluRay%20Hindi%204k%20Ultra%20HD.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sooryavanshi (4K)" tvg-logo="https://wallpapercave.com/wp/wp12654120.jpg" group-title="4K Movies",Sooryavanshi (4K)
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/4K%20Movies/Sooryavanshi%20(2021)%20(4k)/Sooryavanshi%20(2021).4K.SDR.WEBRip.HEVC.Multi.DDP%205.1.Esub-DUS-IcTv.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sultan (4K)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmM4NzJjNTQtZGU0Mi00NmJhLTkxMWQtYThiYjA2YjlhMjRkXkEyXkFqcGc@._V1_.jpg" group-title="4K Movies",Sultan (4K)
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/4K%20Movies/Sultan%20(2016)%20(4k)/Sultan%204k.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tiger 3 (4K)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjM4ZGVhZmItMDZmMS00OTBkLWE0N2QtODczZjdmODA0Yzc2XkEyXkFqcGc@._V1_.jpg" group-title="4K Movies",Tiger 3 (4K)
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/4K%20Movies/Tiger%203%20(2023)%20(4k)/Tiger.3.2023.2160p.AMZN.WEB-DL.DDP5.1.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Vaah! Life Ho Toh Aisi! (4K)" tvg-logo="https://stat5.bollywoodhungama.in/wp-content/uploads/2016/03/Vaah-Life-Ho-To-Aisi.jpg" group-title="4K Movies",Vaah! Life Ho Toh Aisi! (4K)
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/4K%20Movies/Vaah!%20Life%20Ho%20Toh%20Aisi!%20(2005)%20(4k)/Vaah%20Life%20Ho%20Toh%20Aisi%20(2005)%20-%204K%20UHD.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Vikram Vedha hindi dubbed (4K)" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2U2YzA4ZTItODBjYy00ZmJmLThmODgtYTVjZGQ5ZmRlMGZhXkEyXkFqcGc@._V1_.jpg" group-title="4K Movies",Vikram Vedha hindi dubbed (4K)
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/4K%20Movies/Vikram%20Vedha%20(2017)%20(4K)%20Hindi%20Dubbed/Vikram%20Vedha%20(2017)%20-%204K%20UHD.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Vikram Vedha (4K)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTczODBiYTctOWZhNC00NDEzLWI2ODMtMTI2MTQ2ZGJkNTU0XkEyXkFqcGc@._V1_.jpg" group-title="4K Movies",Vikram Vedha (4K)
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/4K%20Movies/Vikram%20Vedha%20(2022)%204K/Vikram%20Vedha%20(2022)%20-%204K%20UHD.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Waltair Veerayya (4K)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7C7YrfuPAkzbu4kKrHf6ursl72evr3YK_VA&s" group-title="4K Movies",Waltair Veerayya (4K)
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/4K%20Movies/Waltair%20Veerayya%20(2023)%20(4K)%20Hindi%20-Telugu/Waltair.Veerayya.2023.2160p.NF.WEB-DL.Hindi.Telugu.DDP5.1.H.265.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Welcome (4K)" tvg-logo="https://stat4.bollywoodhungama.in/wp-content/uploads/2016/03/50352143.jpg" group-title="4K Movies",Welcome (4K)
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/4K%20Movies/Welcome%20(2007)%20(4k)/Welcome%20(2007)%20-%204K%20UHD.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K Movies",
 
-#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha" tvg-logo="" group-title="4k Movies",Star Jalsha
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K Movies",
 
-#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha" tvg-logo="" group-title="4k Movies",Star Jalsha
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K Movies",
 
-#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha" tvg-logo="" group-title="4k Movies",Star Jalsha
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K Movies",
 
-#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha" tvg-logo="" group-title="4k Movies",Star Jalsha
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K Movies",
 
-#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha" tvg-logo="" group-title="4k Movies",Star Jalsha
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K Movies",
 
-#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha" tvg-logo="" group-title="4k Movies",Star Jalsha
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K Movies",
 
-#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha" tvg-logo="" group-title="4k Movies",Star Jalsha
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K Movies",
 
-#EXTINF:-1 tvg-id="" tvg-name="Raavan(4k)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjc0ZTRjM2EtMTU5ZC00ZDNlLWFjMjEtZmUxMTE1N2JhZGI1XkEyXkFqcGdeQXVyMTIzNDQ1NTM2._V1_.jpg" group-title="4k Movies",Raavan(4k)
-http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282022%29/Raavan%20%282022%29%204K/Raavan%20%282022%29%20-%204K%20UHD.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Iron Man(4k)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTczNTI2ODUwOF5BMl5BanBnXkFtZTcwMTU0NTIzMw@@._V1_FMjpg_UX1000_.jpg" group-title="4k Movies",Iron Man(4k)
-http://server2.ftpbd.net/FTP-2/English%20Movies/English%20Movies%20-4K/4K%20Film%20Series/Marvel%27s%20Avengers%20MCU%20Movies%20%282008-2022%29%202160p%20%5BDual%20Audio%5D/Iron%20Man%20%282008%29%202160p%20UHD%20HDR%20REMASTERED%2010bit%20Bluray%20x265%20HEVC%20%5BOrg%20DDP%205.1%20Hindi%20%20Dolby%20TrueHD%20Atmos%207.1%20English%5D%20MSubs.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Iron Man 2(4k)" tvg-logo="https://i.pinimg.com/originals/f0/9f/79/f09f793b5cc11cde8f9b1a6faa9a69d7.jpg" group-title="4k Movies",Iron Man 2(4k)
-http://server2.ftpbd.net/FTP-2/English%20Movies/English%20Movies%20-4K/4K%20Film%20Series/Marvel%27s%20Avengers%20MCU%20Movies%20%282008-2022%29%202160p%20%5BDual%20Audio%5D/Iron%20Man%202%20%282010%29%2010Bit%20%5B60FPS%5D%20%20Bluray%20%5BOrg%20BD%205.1%20Hindi%20%20DD%205.1%20English%5D.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Iron Man 3(4k)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjE5MzcyNjk1M15BMl5BanBnXkFtZTcwMjQ4MjcxOQ@@._V1_.jpg" group-title="4k Movies",Iron Man 3(4k)
-http://server2.ftpbd.net/FTP-2/English%20Movies/English%20Movies%20-4K/4K%20Film%20Series/Marvel%27s%20Avengers%20MCU%20Movies%20%282008-2022%29%202160p%20%5BDual%20Audio%5D/Iron%20Man%203%20%282013%29%202160p%20UHD%20HDR%20REMASTERED%20Bluray%20%20%5BOrg%20DDP%205.1%20Hindi%20%20Dolby%20TrueHD%20Atmos%207.1%20English%5D%20MSubs.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Avengers(4k)" tvg-logo="https://i.ebayimg.com/images/g/wy8AAOSwGMFcv5s2/s-l500.jpg" group-title="4k Movies",The Avengers(4K)
-http://server2.ftpbd.net/FTP-2/English%20Movies/English%20Movies%20-4K/4K%20Film%20Series/Marvel%27s%20Avengers%20MCU%20Movies%20%282008-2022%29%202160p%20%5BDual%20Audio%5D/The%20Avengers%20%282012%29%202160p%204K%20BluRay%20HDR%20%20%5BHindi%20DD5.1%20640Kbps%20%2B%20English%207.1%5D%20Esub.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Avengers Age of Ultron(4k)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM4OGJmNWMtOTM4Ni00NTE3LTg3MDItZmQxYjc4N2JhNmUxXkEyXkFqcGdeQXVyNTgzMDMzMTg@._V1_.jpg" group-title="4k Movies",Avengers Age of Ultron(4k)
-http://server2.ftpbd.net/FTP-2/English%20Movies/English%20Movies%20-4K/4K%20Film%20Series/Marvel%27s%20Avengers%20MCU%20Movies%20%282008-2022%29%202160p%20%5BDual%20Audio%5D/Avengers%20%20Age%20of%20Ultron%20%282015%29%202160p%20BluRay%204K%20UHD%20SDR%20HEVC%20%5BOrg%20Hindi%20BD%205.1Ch%20640Kbps%20%20English%20AAC%207.1%5D%20ESubs.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Avengers Infinity War(4k)" tvg-logo="https://images-cdn.ubuy.co.in/63c3a3453f4c3d2a11120db3-avengers-infinity-war-framed-movie.jpg" group-title="4k Movies",Avengers Infinity War(4k)
-http://server2.ftpbd.net/FTP-2/English%20Movies/English%20Movies%20-4K/4K%20Film%20Series/Marvel%27s%20Avengers%20MCU%20Movies%20%282008-2022%29%202160p%20%5BDual%20Audio%5D/Avengers%20%20Infinity%20War%20%282018%29%202160p%20BluRay%20SDR%20%5BHindi%20DD5.1%20640Kbps%20English%207.1%5D%20Esubs.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Avengers EndGame(4k)" tvg-logo="https://m.media-amazon.com/images/I/81ai6zx6eXL._AC_SL1304_.jpg" group-title="4k Movies",Avengers EndGame(4k)
-http://server2.ftpbd.net/FTP-2/English%20Movies/English%20Movies%20-4K/4K%20Film%20Series/Marvel%27s%20Avengers%20MCU%20Movies%20%282008-2022%29%202160p%20%5BDual%20Audio%5D/Avengers%20%20Endgame%20%282019%29%202160p%20UHD%20HDR%20%7B60FPS%7D%20BluRay%2010bit%20HEVC%20%5BOrg%20DSNP%20Hindi%20DD%205.1Ch%20192Kbps%20%20English%20AAC%207.1%5D%20ESubs.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Spiderman no way home(4k)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFSc1RahIO7el3g27kdH6q0fMYZSsxA03YPA&s" group-title="4k Movies",Spiderman no way home(4k)
-http://server2.ftpbd.net/FTP-2/English%20Movies/English%20Movies%20-4K/%282021%29/Spider-Man%20No%20Way%20Home%20%282021%29%20%5B2160p%5D%20%5B4K%5D%20BluRay/Spider-Man.No.Way.Home.2021.2160p.4K.BluRay.x265.10bit.AAC5.1-%5BYTS.MX%5D.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha" tvg-logo="" group-title="4k Movies",Star Jalsha
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K Movies",
 
-#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha" tvg-logo="" group-title="4k Movies",Star Jalsha
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K Movies",
 
-#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha" tvg-logo="" group-title="4k Movies",Star Jalsha
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K Movies",
 
-#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha" tvg-logo="" group-title="4k Movies",Star Jalsha
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K Movies",
 
-#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha" tvg-logo="" group-title="4k Movies",Star Jalsha
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K Movies",
 
-#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha" tvg-logo="" group-title="4k Movies",Star Jalsha
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K Movies",
 
-#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha" tvg-logo="" group-title="4k Movies",Star Jalsha
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K Movies",
 
-#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha" tvg-logo="" group-title="4k Movies",Star Jalsha
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K Movies",
 
-#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha" tvg-logo="" group-title="4k Movies",Star Jalsha
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K Movies",
 
-#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha" tvg-logo="" group-title="4k Movies",Star Jalsha
+
+
+
 
 
 
