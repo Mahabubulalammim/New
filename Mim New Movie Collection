@@ -744,70 +744,18 @@ http://xtv.ooo:8080/live/Jawad1994/03112371534/245898.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Jalsha" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/Star_Jalsha_2019.png/revision/latest/scale-to-width-down/200?cb=20240319074532" group-title="Live Tv",Star Jalsha 
 http://103.205.133.71/StarJalshaFHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Colors" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Colors_HD.svg/revision/latest/scale-to-width-down/250?cb=20210207143514" group-title="Live Tv",Colors
-http://103.205.133.71/colorshd/tracks-v1a1/mono.m3u8
+http://103.205.133.71/Colorshindi456665/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Max" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX.png" group-title="Live Tv",Sony Max
+http://103.205.133.71/SonyMaxFHD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Gold Hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Star_Gold_2020.svg/800px-Star_Gold_2020.svg.png" group-title="Live Tv",Star Gold Hd
+https://webott.viatv.com.np/v0t1/StarGoldHD.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cinema hd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq_a5GUKWmket0zm6U8agmoe2rAha7PFYW3JmYF_x0FhXcNiskUpKyTCka&s=10" group-title="Live Tv",Zee Cinema hd
+http://103.205.133.71/ZeeCinemaFHD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Jalsa Movies Hd" tvg-logo="" group-title="Live Tv",Jalsa Movies Hd
 
 #EXTINF:-1 tvg-id="" tvg-name="Jalsa Movies Hd" tvg-logo="" group-title="Live Tv",Jalsa Movies Hd
 
+#EXTINF:-1 tvg-id="" tvg-name="Jalsa Movies Hd" tvg-logo="" group-title="Live Tv",Jalsa Movies Hd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Bigg Boss E1" tvg-logo="" group-title="Bigg Boss",Bigg Boss E1
-http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2018%201080p/Bigg.Boss.S18E01.1080p.WEB-DL.AAC2.0.x264.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bigg Boss E2" tvg-logo="" group-title="Bigg Boss",Bigg Boss E2
-http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2018%201080p/Bigg.Boss.S18E02.1080p.WEB-DL.AAC2.0.x264.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bigg Boss E3" tvg-logo="" group-title="Bigg Boss",Bigg Boss E3
-http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2018%201080p/Bigg.Boss.S18E03.1080p.WEB-DL.AAC2.0.x264.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bigg Boss E4" tvg-logo="" group-title="Bigg Boss",Bigg Boss E4
-http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2018%201080p/Bigg.Boss.S18E04.1080p.WEB-DL.AAC2.0.x264.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bigg Boss E5" tvg-logo="" group-title="Bigg Boss",Bigg Boss E5
-http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2018%201080p/Bigg.Boss.S18E05.1080p.WEB-DL.AAC2.0.x264.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bigg Boss E6" tvg-logo="" group-title="Bigg Boss",Bigg Boss E6
-http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2018%201080p/Bigg.Boss.S18E06.1080p.WEB-DL.AAC2.0.x264.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bigg Boss E7" tvg-logo="" group-title="Bigg Boss",Bigg Boss E7
-http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2018%201080p/Bigg.Boss.S18E07.1080p.WEB-DL.AAC2.0.x264.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bigg Boss E8" tvg-logo="" group-title="Bigg Boss",Bigg Boss E8
-http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2018%201080p/Bigg.Boss.S18E08.1080p.WEB-DL.AAC2.0.x264.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bigg Boss E9" tvg-logo="" group-title="Bigg Boss",Bigg Boss E9
-http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2018%201080p/Bigg.Boss.S18E09.1080p.WEB-DL.AAC2.0.x264.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bigg Boss E10" tvg-logo="" group-title="Bigg Boss",Bigg Boss E10
-http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2018%201080p/Bigg.Boss.S18E10.1080p.WEB-DL.AAC2.0.x264.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bigg Boss E11" tvg-logo="" group-title="Bigg Boss",Bigg Boss E11
-http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2018%201080p/Bigg.Boss.S18E11.1080p.WEB-DL.AAC2.0.x264.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bigg Boss E12" tvg-logo="" group-title="Bigg Boss",Bigg Boss E12
-http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2018%201080p/Bigg.Boss.S18E12.1080p.WEB-DL.AAC2.0.x264.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bigg Boss E13" tvg-logo="" group-title="Bigg Boss",Bigg Boss E13
-http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2018%201080p/Bigg.Boss.S18E13.1080p.WEB-DL.AAC2.0.x264.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bigg Boss E14" tvg-logo="" group-title="Bigg Boss",Bigg Boss E14
-http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2018%201080p/Bigg-Boss-S18-E14-1080p-WEB-DL.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bigg Boss E15" tvg-logo="" group-title="Bigg Boss",Bigg Boss E15
-http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2018%201080p/Bigg-Boss-S18-E15-1080p-WEB-DL.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bigg Boss E16" tvg-logo="" group-title="Bigg Boss",Bigg Boss E16
-http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2018%201080p/Bigg-Boss-S18-E16-1080p-WEB-DL.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bigg Boss E17" tvg-logo="" group-title="Bigg Boss",Bigg Boss E17
-http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg%20Boss%20%28TV%20Series%202006%E2%80%93%20%29/Season%2018%201080p/Bigg-Boss-S18-E17-1080p-WEB-DL.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bigg Boss E18" tvg-logo="" group-title="Bigg Boss",Bigg Boss E18
-http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg-Boss-%28TV-Series-2006%E2%80%93-%29/Season-18-1080p/Bigg-Boss-S18-E18-1080p-WEB-DL.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bigg Boss E19" tvg-logo="" group-title="Bigg Boss",Bigg Boss E19
-http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg-Boss-%28TV-Series-2006%E2%80%93-%29/Season-18-1080p/Bigg-Boss-S18-E19-1080p-WEB-DL.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bigg Boss E20" tvg-logo="" group-title="Bigg Boss",Bigg Boss E20
-http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg-Boss-%28TV-Series-2006%E2%80%93-%29/Season-18-1080p/Bigg-Boss-S18-E20-1080p-WEBDL.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bigg Boss E21" tvg-logo="" group-title="Bigg Boss",Bigg Boss E21
-http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg-Boss-%28TV-Series-2006%E2%80%93-%29/Season-18-1080p/Bigg-Boss-S18-E21-1080p-WEBDL.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bigg Boss E22" tvg-logo="" group-title="Bigg Boss",Bigg Boss E22
-http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg-Boss-%28TV-Series-2006%E2%80%93-%29/Season-18-1080p/Bigg-Boss-S18-E22-1080p-WEBDL.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bigg Boss E23" tvg-logo="" group-title="Bigg Boss",Bigg Boss E23
-http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg-Boss-%28TV-Series-2006%E2%80%93-%29/Season-18-1080p/Bigg-Boss-S18-E23-1080p-WEBDL.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bigg Boss E24" tvg-logo="" group-title="Bigg Boss",Bigg Boss E24
-http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg-Boss-%28TV-Series-2006%E2%80%93-%29/Season-18-1080p/Bigg-Boss-S18-E24-1080p-WEBDL.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bigg Boss E25" tvg-logo="" group-title="Bigg Boss",Bigg Boss E25
-http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg-Boss-%28TV-Series-2006%E2%80%93-%29/Season-18-1080p/Bigg-Boss-S18-E25-1080p-WEBDL.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bigg Boss E26" tvg-logo="" group-title="Bigg Boss",Bigg Boss E26
-http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/Bigg-Boss-%28TV-Series-2006%E2%80%93-%29/Season-18-1080p/Bigg-Boss-S18-E26-1080p-WEBDL.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Bigg Boss E8" tvg-logo="" group-title="Bigg Boss",Bigg Boss E8
-
-#EXTINF:-1 tvg-id="" tvg-name="Bigg Boss E8" tvg-logo="" group-title="Bigg Boss",Bigg Boss E8
-
-#EXTINF:-1 tvg-id="" tvg-name="Bigg Boss E8" tvg-logo="" group-title="Bigg Boss",Bigg Boss E8
-
-#EXTINF:-1 tvg-id="" tvg-name="Bigg Boss E8" tvg-logo="" group-title="Bigg Boss",Bigg Boss E8
