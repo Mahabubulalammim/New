@@ -5,9 +5,6 @@ https://drive.google.com/file/d/1klrntX1ueTiHqk0lbJ5yoQoQ9u9H4c5K/view
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="om shanti om" tvg-logo="" group-title="Hindi Movies",om shanti om
-http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2000-2007/Om%20Shanti%20Om%20(2007)/Om%20Shanti%20Om%20(2007)%201080p.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
 
@@ -23,6 +20,8 @@ http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2000-2007/Om%20Shanti%20Om%20
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
 
+#EXTINF:-1 tvg-id="" tvg-name="Sikandar Ka Muqaddar" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzZhNWEzNTktMDA1YS00ZmYyLTkwNjgtYTJiMmU2YjZiYjBhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Sikandar Ka Muqaddar
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2024/Sikandar%20Ka%20Muqaddar%20(2024)/Sikandar%20Ka%20Muqaddar%20(2024)%20WEBDL-1080p.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Ae Watan Mere Watan" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDZlMTNjZmItYzljOS00MWNmLTk2ZGMtOTNjN2E0NWI5NGI1XkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Ae Watan Mere Watan
 http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2024/Ae%20Watan%20Mere%20Watan%20(2024)/Ae%20Watan%20Mere%20Watan%20(2024)%20WEBRip-1080p.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Adbhut(Horror)" tvg-logo="https://akm-img-a-in.tosshub.com/indiatoday/images/story/202408/adbhut--featuring-nawazuddin--will-release-on-september-15-235251652-1x1.jpg?VersionId=E4Br2SdhI8WTdwMUHOy4YnPxIVQDItZV" group-title="Hindi Movies",Adbhut(Horror)
@@ -137,6 +136,96 @@ http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2024/Yudhra%20(2024)/Yudhra%2
 http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/_HQ%20S-Print/Vicky%20Vidya%20Ka%20Woh%20Wala%20Video%20(2024)/Vicky%20Vidya%20ka%20Woh%20Wala%20Video%20(2024)%20Hindi%20PreDVD%201080p%20x264%20AAC.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Jigra" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmJhMTc5NDEtN2NkOC00Njc3LWJiMzgtZjhjZWNhZDhmZTE0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Jigra
 http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/_HQ%20S-Print/Jigra%20(2024)/Jigra%202024%20Hindi%20HDTS%201080p%20x264%20AAC.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Khichdi The Movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmY3NjMwOWUtMWZmYi00YzY5LWI2ZmYtMGI4NmZiZDE0YWYzXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Khichdi The Movie
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2010/Khichdi%20The%20Movie%20(2010)/Khichdi%20The%20Movie%20(2010).mp4
+#EXTINF:-1 tvg-id="" tvg-name="Khichdi 2" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDcwOGViODMtZjdmYS00NTRiLTlmNjctOWNjY2RiYzgxYzNiXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Khichdi 2
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2023/%20Khichdi%202%20(2023)%20/Khichdi%202%20Mission%20Paanthukistan%202023%20WebRip%201080p%20Hindi%20DD%205.1%20x264.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mrs. Chatterjee vs. Norway" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmMwMDM5ZmEtNzkyZi00MjY3LWJiMzMtMWVjMWYxMzFiMzIxXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Mrs. Chatterjee vs. Norway
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2023/%20Mrs.%20Chatterjee%20vs.%20Norway%20(2023)%20/Mrs.Chatterjee.vs.Norway.2023.1080p.Hindi.WEB-DL.5.1.ESub.x264.mkv
+#EXTINF:-1 tvg-id="" tvg-name="8 A.M. Metro" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjk1ODM1ZWQtNjcwYy00Mzc1LTg3YTktYWU0YWQwOGJlMzg4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",8 A.M. Metro
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2023/8%20A.M.%20Metro%20(2023)/8.A.M.Metro.2023.1080p.Hindi.WEB-DL.5.1.ESub.x264.mp4
+#EXTINF:-1 tvg-id="" tvg-name="12th Fail" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTE3OTIxZDYtNjA0NC00N2YxLTg1NGQtOTYxNmZkMDkwOWNjXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",12th Fail
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2023/12th%20Fail%20(2023)/12th%20Fail%20(2023)%20WEBRip-1080p.mkv
+#EXTINF:-1 tvg-id="" tvg-name="1920 Horrors of the Heart(Horror)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDVmYjc4M2YtYjUwYi00NmIyLTk0NWUtNDMxMzlmMzdlYmVlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",1920 Horrors of the Heart(Horror)
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2023/1920%20Horrors%20of%20the%20Heart%20(2023)/1920%20Horrors%20of%20the%20Heart%202023%20WebRip%201080p%20Hindi%20DD%205.1%20x264%20ESub.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aankh Micholi" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGU0MDJiOTgtYmU0OS00MmZkLWI3MDctNmY2NzMwOGVlZjgwXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Aankh Micholi
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2023/Aankh%20Micholi%20(2023)/Aankh%20Micholi%20(2023)%20HDTV-1080p.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Adipurush" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA2ODRkMGUtNzUxNC00MmM5LTk3YjQtNTkxNTFlNzFiMjNiXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Adipurush
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2023/Adipurush%20(2023)/Adipurush%20(2023)%20WEBRip-1080p.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal" tvg-logo="https://m.media-amazon.com/images/M/MV5BZThmNDg1NjUtNWJhMC00YjA3LWJiMjItNmM4ZDQ5ZGZiN2Y2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Animal
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2023/Animal%20(2023)/Animal.2023.1080p.WEBRip.x264.AAC5.1.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bheed " tvg-logo="https://m.media-amazon.com/images/M/MV5BMzgxODA3YmMtYjQ1ZS00ZmRlLTk5ZTEtMGJjMmEyZmY0MDFiXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Bheed 
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2023/Bheed%20(2023)/Bheed%202023%20WebRip%201080p%20Hindi%20DD%205.1%20x264%20MSubs.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bholaa" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjgxNzY1MjktOTg4Ny00NzU5LWEzNmItMGQyZWYwMjhhNmQxXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Bholaa
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2023/Bholaa%20(2023)/Bholaa%20(2023)%20WEBRip-1080p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bloody Daddy" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWNlNTdjYTUtMGI4Zi00ZjE0LWJhOGQtNTdiN2Y2Yzk3MTI3XkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Bloody Daddy
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2023/Bloody%20Daddy%20(2023)/Bloody.Daddy.2023.WEBDL-1080p.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chatrapathi" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2ZiMGMyMzMtZWU1Ni00OGYyLWE2NmEtMmE3NDViM2U4NzM0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Chatrapathi
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2023/Chatrapathi%20(2023)/Chatrapathi%202023%20WebRip%201080p%20Hindi%20DD%205.1%20x264%20ESub.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chhatriwali" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzJiNjljYTktNzcyNC00ZTQxLWE5OWQtZTU0YjczNTA4MDQ0XkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Chhatriwali
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2023/Chhatriwali%20(2023)/Chhatriwali%20(2023)%20WEBDL-1080p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chor Nikal Ke Bhaga" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTgwMmVlZjgtMDhjMC00ZGU2LTgyNGEtOGM1ZDQ0Y2VmZjdlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Chor Nikal Ke Bhaga
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2023/Chor%20Nikal%20Ke%20Bhaga%20(2023)/Chor.Nikal.Ke.Bhaga.2023.WEB-DL.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dream Girl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeB_jibY9Ku09gaK6NywbsIMU10e8zcCENCA&s" group-title="Hindi Movies",Dream Girl
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2019/Dream%20Girl%20(2019)/Dream%20Girl.2019.Hindi.1080p.WEB-DL.x264.AAC%20-DDR%5BEtHD%5D.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dream Girl 2" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTA5YTRmZTktYzcxNi00YjRkLTkxMzgtMDVhY2ExNjE4M2VmXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Dream Girl 2
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2023/Dream%20Girl%202%20(2023)/Dream%20Girl%202%20(2023)%20WEBDL-1080p.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pathaan" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDdkNTY1MDQtY2I5MC00OTFlLTg5OWQtZWE2YzE5NWFiMDgzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Pathaan
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2023/Pathaan%20(2023)/Pathaan%20(2023)%20Remux-1080p.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jawan" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGExNGI1NDktOWI2Mi00NDM3LWIxMmQtNTQxYTgzMzI0MTA1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Jawan
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2023/Jawan%20(2023)/Jawan%20(2023)%20Remux-1080p.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dunki" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-rNKHqPJGryf4MSzt5Xyhye3-eVO8tBphXA&s" group-title="Hindi Movies",Dunki
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2023/Dunki%20(2023)/Dunki%20(2023)-Hindi%20NF%20WEB-DL%201080p.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Faraaz" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwSLghQ658yF_4_fdSUgr-kMPoqz_SOA0UlQ&s" group-title="Hindi Movies",Faraaz
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2023/Faraaz%20(2023)/Faraaz%20(2023)%20WEBRip-1080p.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fukrey" tvg-logo="https://m.media-amazon.com/images/M/MV5BODI5MzQ2NDg0MV5BMl5BanBnXkFtZTcwNTEwMzI1OQ@@._V1_.jpg" group-title="Hindi Movies",Fukrey
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2013/Fukrey%20(2013)/Fukrey%20(2013)%20(1080p%20BluRay%20x265%20Natty).mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fukrey Returns " tvg-logo="https://m.media-amazon.com/images/M/MV5BMTg2NDQzNjg0M15BMl5BanBnXkFtZTgwNjg5ODQ1NDM@._V1_.jpg" group-title="Hindi Movies",Fukrey Returns 
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2017/Fukrey%20Returns%20(2017)/Fukrey%20Returns%20(2017).mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fukrey 3" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDk1OGVjMWEtN2UwNy00MDlhLWFhMWEtMTAzYTlkZGZkYTcwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Fukrey 3
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2023/Fukrey%203%20(2023)%20Hindi%201080p%20WEB-DL/Fukrey.3.2023.1080p.AMZN.WEB-DL.DDP5.1.x264.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fursat" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmU5OWJjMjAtYTJmYS00MWIwLTg3ZWQtODQ2YjU0NWFmMTY2XkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Fursat
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2023/Fursat%20(2023)/Fursat%20(2023)%20WEBDL-1080p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gadar 2" tvg-logo="https://m.media-amazon.com/images/M/MV5BODJkYjUzODctYmE0NS00NmJiLTljZGMtYmMxYzUxOTliZGY1XkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Gadar 2
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2023/Gadar%202%20(2023)/Gadar%202%20(2023)%20WEBRip-1080p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ganapath" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmI4OGY2ODYtN2I0YS00YjM4LTkzNTctMDRkN2Q5N2VkMTYxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Ganapath
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2023/Ganapath%20(2023)/Ganapath%20(2023)%20WEBDL-1080p.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ghoomer" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDYzNThlYTUtYTFhMS00NWMxLTk2MTQtMjY1NTA3YjhlMzM5XkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Ghoomer
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2023/Ghoomer%20(2023)/Ghoomer%20(2023)%20WEBDL-1080p.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gumraah" tvg-logo="https://m.media-amazon.com/images/M/MV5BODhiZWE2NDEtMDIwMy00MzFkLTk2ZWUtOWM5ODY2Y2VkYWZlXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Gumraah
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2023/Gumraah%20(2023)/Gumraah%202023%20WebRip%20Hindi%201080p.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Haddi" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTVjNGViMDctN2E0Yi00NWZlLTlhZjctYmIyZmU1NDE4ZjUyXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Haddi
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2023/Haddi%20(2023)/Haddi%20(2023)%20WEBDL-1080p.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jaane Jaan" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGIzNTI0ODktMWE1NS00MTdlLWJlZjYtN2ExNTFlMTBhOWEwXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Jaane Jaan
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2023/Jaane%20Jaan%20(2023)%20Hindi%201080p%20WEB-DL/Jaane.Jaan.2023.1080p.NF.WEB-DL.DDP5.1.x264.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kill" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjI1ZjM3NjUtYTc1Ni00ODJmLWI5YjQtMWZiZTAyNTFiZGY1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Kill
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2023/Kill%20(2023)/Kill%20(2024)%20Bluray-1080p.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kisi Ka Bhai Kisi Ki Jaan" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiUZJZ4ZeC-Rhm_71OuiWXsAjleHoN1DV9jA&s" group-title="Hindi Movies",Kisi Ka Bhai Kisi Ki Jaan
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2023/Kisi%20Ka%20Bhai%20Kisi%20Ki%20Jaan%20(2023)/Kisi%20Ka%20Bhai%20Kisi%20Ki%20Jaan%202023%20WebRip%201080p%20Hindi%20DD%205.1%20x264%20ESub.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kuttey" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDQyOWI0ZjctZTc0OS00NzBmLWE3NjAtYTU0ZjRhNDhiMThmXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Kuttey
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2023/Kuttey%20(2023)/Kuttey.2023.1080p.WEB-DL.DDP5.1.H.264.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Laapataa Ladies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/52/Laapataa_Ladies_poster.jpg" group-title="Hindi Movies",Laapataa Ladies
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2023/Laapataa%20Ladies%20(2023)/Laapataa%20Ladies%202023%20WebRip%201080p%20Hindi%20DD%205.1%20x264%20MSubs.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lust Stories" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDzJsgKYQpaGVKM3GLM9iDQ4QE9IQc6_YPDg&s" group-title="Hindi Movies",Lust Stories
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2018/Lust%20Stories%20(2018)/Lust%20Stories%202018%20Hindi%201080p%20NF%20WEB-DL%20DD%205.1%20x264%20ESub%20%5BMW%5D.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lust Stories 2" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDM3ZGI5MWUtMTViOS00OGVkLWIwNzUtNTQ5OTgxMThiMzI2XkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Lust Stories 2
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2023/Lust%20Stories%202%20(2023)/Lust%20Stories%202%202023%20WebRip%201080p%20Hindi%20DD%205.1%20x264%20MSubs.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mission Majnu" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzA0NDhiYzQtZTM5NC00OTQ5LThiNDQtNmRiMTk0MGU1ZTYzXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Mission Majnu
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2023/Mission%20Majnu%20(2023)/Mission.Majnu.2023.1080p.WEB-DL.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mission Raniganj" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2Q3NGI4MzctZDNjMy00NTJiLTkwNTgtNzU2ZDk5ZTNiMmRlXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Mission Raniganj
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2023/Mission%20Raniganj%20(2023)/Mission%20Raniganj%20(2023)%20WEBRip-1080p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mrs Undercover" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjQ1NDM2YWUtM2RiNi00YmM4LWJhM2QtZTQ2ZTkyZjdmZDUzXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Mrs Undercover
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2023/Mrs%20Undercover%20(2023)/Mrs%20Undercover%20(2023)%201080p.WEB-DL%2B5.1%20H.264.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Music School" tvg-logo="https://stat4.bollywoodhungama.in/wp-content/uploads/2023/05/Music-School.jpg" group-title="Hindi Movies",Music School
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2023/Music%20School%20(2023)%20/Music%20School%20(2023)%20WEBDL-1080p.mkv
+#EXTINF:-1 tvg-id="" tvg-name="OMG Oh My God!" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzhmY2E3MDctYjAzOS00ZmQyLTk2M2QtODg0MWU0Y2VjNWRkXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",OMG Oh My God!
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2012/OMG%20Oh%20My%20God!%20(2012)/OMG%20Oh%20My%20God!%20(2012)%20Bluray-720p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OMG 2" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmIwMTA0Y2ItNjVmZi00MjNhLTgwOTMtZjk3NjI1MTM5M2YyXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",OMG 2
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2023/OMG%202%20(2023)/OMG%202%202023%20WebRip%201080p%20Hindi%20DD%205.1%20x264%20MSubs.mkv
+#EXTINF:-1 tvg-id="" tvg-name="One Friday Night" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzVmMTc3MmItMGQ5ZS00YjBhLThlZTEtNjk5MDI0OTI4Y2EyXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",One Friday Night
+http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2023/One%20Friday%20Night%20(2023)/One%20Friday%20Night%20(2023)%20WEBDL-1080p%20Proper.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
@@ -248,11 +337,10 @@ http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/_HQ%20S-Print/Jigra%20(2024)/
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Southindian Hindi Dubbed Movies",
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Southindian Hindi Dubbed Movies",
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Southindian Hindi Dubbed Movies",
-
-
+#EXTINF:-1 tvg-id="" tvg-name="Geethanjali Malli Vachindi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/27/Geethanjali_Malli_Vachindi_poster.jpg" group-title="Southindian Hindi Dubbed Movies",Geethanjali Malli Vachindi
+http://cdn.dflix.live:5050/d/Movies/South%20Indian%20Dubbed%20Movies/2024/Geethanjali%20Malli%20Vachindi%20(2024)/Geethanjali-Malli-Vachindi-2024-WebRip-1080p-Hindi.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lucky Baskhar" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjEzN2ZjYjUtZTI3NC00MzMyLWJiNDAtMDBiZGEzNTBiY2RkXkEyXkFqcGc@._V1_.jpg" group-title="Southindian Hindi Dubbed Movies",Lucky Baskhar
+http://cdn.dflix.live:5050/d/Movies/South%20Indian%20Dubbed%20Movies/2024/Lucky%20Baskhar%20(2024)/Lucky.Baskhar.2024.1080p.NF.WEB-DL.DUAL.DDP5.mkv
 #EXTINF:-1 tvg-id="" tvg-name="A-R-M" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Ajayante_Randam_Moshanam.jpg" group-title="Southindian Hindi Dubbed Movies",A-R-M
 http://cdn.dflix.live:5050/d/Movies/South%20Indian%20Dubbed%20Movies/2024/A-R-M%20(2024)/A-R-M-2024-WEBRip-Hindi-Malayalam.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Aavesham" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjJjY2IxMDYtN2U0My00MzFiLWJlYzItYmJkMDg1MTg3MjhmXkEyXkFqcGc@._V1_.jpg" group-title="Southindian Hindi Dubbed Movies",Aavesham
@@ -311,7 +399,7 @@ http://cdn.dflix.live:5050/d/Movies/South%20Indian%20Dubbed%20Movies/2024/Hanu-M
 http://cdn.dflix.live:5050/d/Movies/South%20Indian%20Dubbed%20Movies/2024/Harom%20Hara%20(2024)/Harom%20Hara%202024%20WebRip%201080p%20Hindi%20DD%205.1%20x264%20ESub.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Indian 2" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjM2M2Y2OTgtNDliOC00NTg0LTgzOGEtYTkwNmQzYmUwNThjXkEyXkFqcGc@._V1_QL75_UX480_.jpg" group-title="Southindian Hindi Dubbed Movies",Indian 2
 http://cdn.dflix.live:5050/d/Movies/South%20Indian%20Dubbed%20Movies/2024/Indian%202%20(2024)/Hindustani%202%20-%20Indian%202%202024%20WebRip%201080p%20Hindi%20DD%205.1%20x264%20ESub.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kalki 2898 - AD" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTU0MzFmNjAtYjk1YS00N2JlLThjMjYtZjM4ZDY4NTBlNDM5XkEyXkFqcGc@._V1_.jpg" group-title="Southindian Hindi Dubbed Movies",Kalki 2898 - AD
+#EXTINF:-1 tvg-id="" tvg-name="Kalki 2898 - AD(Hindi Dubbed)" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTU0MzFmNjAtYjk1YS00N2JlLThjMjYtZjM4ZDY4NTBlNDM5XkEyXkFqcGc@._V1_.jpg" group-title="Southindian Hindi Dubbed Movies",Kalki 2898 - AD(Hindi Dubbed)
 http://cdn.dflix.live:5050/d/Movies/South%20Indian%20Dubbed%20Movies/2024/Kalki%202898%20-%20AD%20(2024)/Kalki%202898-AD%20(2024)%20WEBRip-1080p.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Lover" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDU1YzljYzUtZjhjMS00YzNiLThjOGMtOWRlNTk2YjA4YjM2XkEyXkFqcGc@._V1_.jpg" group-title="Southindian Hindi Dubbed Movies",Lover
 http://cdn.dflix.live:5050/d/Movies/South%20Indian%20Dubbed%20Movies/2024/Lover%20(2024)/Lover.2024.1080p.WEB.mkv
@@ -353,7 +441,7 @@ http://cdn.dflix.live:5050/d/Movies/South%20Indian%20Dubbed%20Movies/2022/Ponniy
 http://cdn.dflix.live:5050/d/Movies/South%20Indian%20Dubbed%20Movies/2023/%20Ponniyin%20Selvan%20Part%20Two%20(2023)%20/Ponniyin%20Selvan%20II%202023%20WebRip%201080p%20Hindi%20DD%205.1%20x264%20ESub.mkv
 #EXTINF:-1 tvg-id="" tvg-name="2018" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjBjYzVmOTAtMWI2NC00ODhiLTk4NDYtYmY3YmQxYmU2NTI5XkEyXkFqcGc@._V1_.jpg" group-title="Southindian Hindi Dubbed Movies",2018
 http://cdn.dflix.live:5050/d/Movies/South%20Indian%20Dubbed%20Movies/2023/2018%20(2023)/2018%202023%20WebRip%201080p%20Hindi%20Malayalam%20AAC%202.0%20x264%20ESub.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adipurush" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzYyMmUxZDEtOWY5OS00N2Q5LWIwMDUtYzBhNGZhYjM2M2Y1XkEyXkFqcGc@._V1_.jpg" group-title="Southindian Hindi Dubbed Movies",Adipurush
+#EXTINF:-1 tvg-id="" tvg-name="Adipurush(Hindi Dubbed)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzYyMmUxZDEtOWY5OS00N2Q5LWIwMDUtYzBhNGZhYjM2M2Y1XkEyXkFqcGc@._V1_.jpg" group-title="Southindian Hindi Dubbed Movies",Adipurush(Hindi Dubbed)
 http://cdn.dflix.live:5050/d/Movies/South%20Indian%20Dubbed%20Movies/2023/Adipurush%20(2023)%201080p%20WEB-DL%20%5BHindi%20Dubbed%5D/Adipurush.2023.1080p.WEB-DL.DDP5.1.H.264.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Alone" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY3MTQ1Y2MtMmU1Ny00ZjZiLThlNjctYmZlY2Y3NmQ0OTQzXkEyXkFqcGc@._V1_.jpg" group-title="Southindian Hindi Dubbed Movies",Alone
 http://cdn.dflix.live:5050/d/Movies/South%20Indian%20Dubbed%20Movies/2023/Alone%20(2023)/Alone%20(2023)%20WEBDL-1080p.mp4
