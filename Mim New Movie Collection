@@ -698,8 +698,8 @@ http://cdn.dflix.live:5050/d/Movies/Indian%20Bangla%20Movies/2022/Mini%20(2022)%
 http://cdn.dflix.live:5050/d/Movies/Indian%20Bangla%20Movies/2022/Projapati%20(2022)/Projapati%20(2022)-Bengali%20WEB-DL%201080p.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Raavan" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjMwZWYxMjEtYzc5ZC00MWY1LWE0ZTctMzRkZDY4YWVjODZjXkEyXkFqcGc@._V1_.jpg" group-title="Kalkata Bangla Movies",Raavan
 http://cdn.dflix.live:5050/d/Movies/Indian%20Bangla%20Movies/2022/Raavan%20(2022)/Raavan%20(2022)%20WEBDL-1080p.mkv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kalkata Bangla Movies",
-
+#EXTINF:-1 tvg-id="" tvg-name="Bindhass" tvg-logo="" group-title="Kalkata Bangla Movies",Bindhass
+http://cdn.dflix.live:5050/d/Movies/Indian%20Bangla%20Movies/2014/Bindaas%20(2014)/Bindaas%20(2014).mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kalkata Bangla Movies",
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kalkata Bangla Movies",
@@ -853,7 +853,6 @@ http://cdn.dflix.live:5050/d/Movies/Indian%20Bangla%20Movies/2022/Raavan%20(2022
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="The Great Indian Kapil Show",
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="The Great Indian Kapil Show",
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="The Great Indian Kapil Show",
 
