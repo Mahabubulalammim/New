@@ -934,17 +934,25 @@ http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/FIFA%20World%20Cup%20Fi
 #EXTINF:-1 tvg-id="" tvg-name="Star Jalsha hd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPtKlL3IqL6UpPRukXghrsvIifMISkNkpKL6JP1OKq68DQK23F78WR2Sk&s=10" group-title="Live Tv",Star Jalsha hd
 http://xtv.ooo:8080/live/Jawad1994/03112371534/245898.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Jalsha" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/Star_Jalsha_2019.png/revision/latest/scale-to-width-down/200?cb=20240319074532" group-title="Live Tv",Star Jalsha 
-http://103.205.133.71/StarJalshaFHD/tracks-v1a1/mono.m3u8
+http://38.96.178.201/live/STARJALSHA/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Colors" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Colors_HD.svg/revision/latest/scale-to-width-down/250?cb=20210207143514" group-title="Live Tv",Colors
 http://stvlive.net:8080/colorshd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony Max" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX.png" group-title="Live Tv",Sony Max
 http://103.205.133.71/SonyMaxFHD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Gold Hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Star_Gold_2020.svg/800px-Star_Gold_2020.svg.png" group-title="Live Tv",Star Gold Hd
-https://webott.viatv.com.np/v0t1/StarGoldHD.stream/playlist.m3u8
+http://38.96.178.201/live/StarGold/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Zee Cinema hd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq_a5GUKWmket0zm6U8agmoe2rAha7PFYW3JmYF_x0FhXcNiskUpKyTCka&s=10" group-title="Live Tv",Zee Cinema hd
 http://103.205.133.71/ZeeCinemaFHD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Plus Hd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkcjUjjwnU5_zPkio-ky5diX1cK9dTvfr27JpMH457CsaiiFLkoKotsG0&s=10" group-title="Live Tv",Star Plus Hd
-https://webott.viatv.com.np/v0t1/StarPlusHD.stream/playlist.m3u8
+http://38.96.178.201/live/StarPlus/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jalsa Movies Hd" tvg-logo="" group-title="Live Tv",Jalsa Movies Hd
+http://38.96.178.201/live/JalshaMovies/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Colors Bangla" tvg-logo="" group-title="Live Tv",Colors Bangla
+http://38.96.178.201/live/ColorsBangla/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sangeet Bangla" tvg-logo="" group-title="Live Tv",Sangeet Bangla
+http://38.96.178.201/live/SangeetBangla/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Hd" tvg-logo="" group-title="Live Tv",Sony Hd
+http://38.96.178.201/live/SonyHD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Jalsa Movies Hd" tvg-logo="" group-title="Live Tv",Jalsa Movies Hd
 
 #EXTINF:-1 tvg-id="" tvg-name="Jalsa Movies Hd" tvg-logo="" group-title="Live Tv",Jalsa Movies Hd
@@ -959,4 +967,6 @@ https://webott.viatv.com.np/v0t1/StarPlusHD.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Jalsa Movies Hd" tvg-logo="" group-title="Live Tv",Jalsa Movies Hd
 
+#EXTINF:-1 tvg-id="" tvg-name="Jalsa Movies Hd" tvg-logo="" group-title="Live Tv",Jalsa Movies Hd
 
+#EXTINF:-1 tvg-id="" tvg-name="Jalsa Movies Hd" tvg-logo="" group-title="Live Tv",Jalsa Movies Hd
