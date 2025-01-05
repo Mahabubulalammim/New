@@ -4,9 +4,10 @@ https://drive.google.com/file/d/1klrntX1ueTiHqk0lbJ5yoQoQ9u9H4c5K/view
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movi
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+#EXTINF:-1 tvg-id="x" tvg-logo="x" group-title="Group3",Channel 3 (Group1,Group2)
+http://cdn.dflix.live:5050/d/Movies/South%20Indian%20Dubbed%20Movies/2024/Bagheera%20(2024)/Bagheera%20(2024)%20UNCUT%201080p%20WEBRip%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BKannada%205.1%5D%20-DMV.mkv
 
 #EXTINF:-1 tvg-id="x" tvg-logo="x" group-title="Group3",Channel 1 (Group3)
 http://cdn.dflix.live:5050/d/Movies/English%20Movies/2019/Girls%20Guns%20and%20Blood%20(2019)/Girls.Guns.and.Blood.2019.1080p.WEB-DL.mp4
