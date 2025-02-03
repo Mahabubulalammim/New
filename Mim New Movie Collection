@@ -505,15 +505,15 @@ http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2022/Vikram%20Vedha%20(2022)/
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Southindian Hindi Dubbed Movies",
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Southindian Hindi Dubbed Movies",
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjExZDlkNmMtZDUyZS00MjMxLTgxNDYtNWRhYzA4NzU0NjE2XkEyXkFqcGc@._V1_QL75_UX174_.jpg" group-title="Southindian Hindi Dubbed Movies",UI
+http://cdn.dflix.live:5050/d/Movies/South%20Indian%20Dubbed%20Movies/2024/UI%20(2024)/UI-2024-WEBRip-1080p-Hindi.mkv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6a/Game_Changer_Telugu.jpg" group-title="Southindian Hindi Dubbed Movies",Game Changer
 http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/_HQ%20S-Print/Game%20Changer%20(2025)/Game%20Changer%202025%20Hindi%20Dubbed%20ORG%20DD2.0%20PRE-HDRip%201080p.mkv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Southindian Hindi Dubbed Movies",Rangasthalam
 http://cdn.dflix.live:5050/d/Movies/South%20Indian%20Dubbed%20Movies/2016-2020/Rangasthalam%201985%20(2018)%20/Rangasthalam.1080p.WEB-DL.Hindi.HQ.Dub-Tamil.ESub.x264-HDHub4u.One.mkv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.cinematerial.com/p/297x/txafq1tz/mr-bachchan-indian-movie-poster-md.jpg?v=1723191358" group-title="Southindian Hindi Dubbed Movies",Mr Bachchan
 http://cdn.dflix.live:5050/d/Movies/South%20Indian%20Dubbed%20Movies/2024/Mr%20Bachchan%20(2024)/Mr-Bachchan-2024-Hindi-Telugu-1080p-WEBDL.mkv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Southindian Hindi Dubbed Movies",Marco
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGUyNzM5MzctMDQwYy00N2M5LTg3MTQtZTBmNGU2YmU2MDM2XkEyXkFqcGc@._V1_.jpg" group-title="Southindian Hindi Dubbed Movies",Marco
 http://cdn.dflix.live:5050/d/Movies/South%20Indian%20Dubbed%20Movies/2024/Marco%20(2024)/Marco-2024-Hindi-1080p-WEBDL.mkv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2mQ77xyBdOwTigGb-9FYYoWbjWEPXfO4_Q-DqJi5WzSLrAW5waiXVWh0&s=10" group-title="Southindian Hindi Dubbed Movies",Sookshmadarshini
 http://cdn.dflix.live:5050/d/Movies/South%20Indian%20Dubbed%20Movies/2024/Sookshmadarshini%20(2024)/Sookshmadarshini%20(2024)%20WEBDL-1080p.mkv
@@ -1047,6 +1047,102 @@ http://cdn.dflix.live:5050/d/Movies/Indian%20Bangla%20Movies/2019/Satyanweshi%20
 http://cdn.dflix.live:5050/d/Movies/Indian%20Bangla%20Movies/2019/Shesh%20Theke%20Shuru%20(2019)/Shesh%20Theke%20Shuru%20%5B2019%5D%20Bengali%20Movie%201080p%20Untouched%20WebdL.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2M4ZGViYTQtMWRkNC00NmVhLWJkZTItMjAzOWVmNzUyMzg2XkEyXkFqcGc@._V1_.jpg" group-title="Kalkata Bangla Movies",Vinci Da
 http://cdn.dflix.live:5050/d/Movies/Indian%20Bangla%20Movies/2019/Vinci%20Da%20(2019)/Vinci%20Da%20%5B2019%5D%20Bangla%20Movie%20-%20HDRip%20%5Bx264%20-%20AAC(2Ch)%5D1.02GB%5BPherarim%5D.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDgxMTc1NzktMGU0Ny00Mjc4LWJiZTItYmM2MzkwZTczMjZhXkEyXkFqcGc@._V1_.jpg" group-title="Kalkata Bangla Movies",Aami Ashbo Phirey
+http://cdn.dflix.live:5050/d/Movies/Indian%20Bangla%20Movies/2018/Aami%20Ashbo%20Phirey%20(2018)/Aami%20Ashbo%20Phirey%20(2018)%20720p%20WebHD.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/25/Official_Poster_of_Amazon_Obhijaan.jpg" group-title="Kalkata Bangla Movies",Amazon Obhijaan
+http://cdn.dflix.live:5050/d/Movies/Indian%20Bangla%20Movies/2018/Amazon%20Obhijaan%20(2018)/Amazon%20Obhijaan%20(2018).mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGY3ODM2ZGEtYzFiYi00YzQ5LWIwYmMtOWM4MDhmZWJlM2Y2XkEyXkFqcGc@._V1_.jpg" group-title="Kalkata Bangla Movies",Ami Vs Tumi
+http://cdn.dflix.live:5050/d/Movies/Indian%20Bangla%20Movies/2018/Ami%20Vs%20Tumi%20(2018)/Ami%20Vs%20Tumi%20(2018).mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTBjNzQ3NzEtODQ3Ny00MTYyLWFlMzAtMWM0NzJmNzRmZDg1XkEyXkFqcGc@._V1_.jpg" group-title="Kalkata Bangla Movies",Bagh Bandi Khela
+http://cdn.dflix.live:5050/d/Movies/Indian%20Bangla%20Movies/2018/Bagh%20Bandi%20Khela%20(2018)/Bagh%20Bandi%20Khela%202018%20Bengali%201080p%20WEB-DL%20H264%20AAC.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/36/Boss_%282013_Bengali_film%29_poster.jpg" group-title="Kalkata Bangla Movies",Boss
+http://cdn.dflix.live:5050/d/Movies/Indian%20Bangla%20Movies/2013/Boss%20Born%20to%20Rule%20(2013)/Boss%20Born%20to%20Rule%20(2013).mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGMzMmRhMjktY2MwOC00OTBlLWE1NWItODY5ZmU4MjE5NzE1XkEyXkFqcGc@._V1_.jpg" group-title="Kalkata Bangla Movies",Boss 2
+http://cdn.dflix.live:5050/d/Movies/Indian%20Bangla%20Movies/2018/Boss%202%20Back%20to%20Rule%20(2018)/Boss%202%20Back%20to%20Rule%20(2018).mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBmCY2miVwKnv1uktcruzM__L1R5rUqOW28A&s" group-title="Kalkata Bangla Movies",Byomkesh Gotro
+http://cdn.dflix.live:5050/d/Movies/Indian%20Bangla%20Movies/2018/Byomkesh%20Gotro%20(2018)/Byomkesh%20Gotro%20(2019)%20Bengali%201080p%20WEB-DL.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDk4NGYwODItMjY2OS00MWI1LWI1MGUtNTE4MmJjZWU5Njk2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Kalkata Bangla Movies",Crisscross
+http://cdn.dflix.live:5050/d/Movies/Indian%20Bangla%20Movies/2018/Crisscross%20(2018)/Crisscross%20(2018)%20720p%20WEB-DL.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGMwZGFhNDQtOTgyNi00NDJiLTk3YTAtZGNmNzhiYmFkMmJmXkEyXkFqcGc@._V1_.jpg" group-title="Kalkata Bangla Movies",Ek Je Chhilo Raja
+http://cdn.dflix.live:5050/d/Movies/Indian%20Bangla%20Movies/2018/Ek%20Je%20Chhilo%20Raja%20(2018)/Ek%20Je%20Chhilo%20Raja%20(2018)%20Bengali%20720p%20WEB-DL%20H264%20AAC.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWIzMTI3OWQtMDgzOC00ODYxLWI0MDQtZDUzOWQxZDZhNTYwXkEyXkFqcGc@._V1_.jpg" group-title="Kalkata Bangla Movies",Fidaa
+http://cdn.dflix.live:5050/d/Movies/Indian%20Bangla%20Movies/2018/Fidaa%20(2018)/Fidaa%202018%20%5BBengali%5D%201080p%20WEB-DL%20x264%20AAC%20ESub.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTn37UrAfZ88igUzQOSC8H6oIGoGimpWcdew&s" group-title="Kalkata Bangla Movies",Generation Aami
+http://cdn.dflix.live:5050/d/Movies/Indian%20Bangla%20Movies/2018/Generation%20Aami%20(2018)/Generation.Aami.2018.1080p.HOICHOI.WEB-DL.Bengali.AAC2.0.H.264.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTlhMTQ2MGItMDVjYS00M2QyLWFhMmYtYzZkMDMwMWJlNmI2XkEyXkFqcGc@._V1_.jpg" group-title="Kalkata Bangla Movies",Guptodhoner Sondhane
+http://cdn.dflix.live:5050/d/Movies/Indian%20Bangla%20Movies/2018/Guptodhoner%20Sondhane%20(2018)/Guptodhoner%20Sondhane%20(2018).mp4
+#EXTINF:-1 tvg-id="" tvg-name="https://upload.wikimedia.org/wikipedia/en/b/b4/Haami_poster.jpg" tvg-logo="" group-title="Kalkata Bangla Movies",Haami 
+http://cdn.dflix.live:5050/d/Movies/Indian%20Bangla%20Movies/2018/Haami%20(2018)/Haami%20(2018).mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTc2NGRiMDctMTc0Ni00YzIzLTk0N2EtYTg4ODVmODkwMTkyXkEyXkFqcGc@._V1_.jpg" group-title="Kalkata Bangla Movies",Inspector Notty K
+http://cdn.dflix.live:5050/d/Movies/Indian%20Bangla%20Movies/2018/Inspector%20Notty%20K%20(2018)/Inspector%20Notty%20K%20(2018)%20Bengali%201080p.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmZhN2E2NjAtNDdkYi00YTk3LTkyMTgtZDRhMDNhNGY3MWFjXkEyXkFqcGc@._V1_.jpg" group-title="Kalkata Bangla Movies",Kabir
+http://cdn.dflix.live:5050/d/Movies/Indian%20Bangla%20Movies/2018/Kabir%20(2018)/Kabir%20(2018).mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDEzMGYxMWEtODMwMy00ODc2LWIyYWQtMjk3YjhiNDQzMmI1XkEyXkFqcGc@._V1_.jpg" group-title="Kalkata Bangla Movies",Kishore Kumar Junior
+http://cdn.dflix.live:5050/d/Movies/Indian%20Bangla%20Movies/2018/Kishore%20Kumar%20Junior%20(2018)/Kishore%20Kumar%20Junior%20(2018)%20Bengali%20720p%20WEB%20RIP.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzA5YTg5NmItMjg1ZS00NjMyLWI4ZDktZmEzZDMwZGYwMjViXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Kalkata Bangla Movies",Raja Rani Raji
+http://cdn.dflix.live:5050/d/Movies/Indian%20Bangla%20Movies/2018/Raja%20Rani%20Raji%20(2018)/Raja%20Rani%20Raji%20(2018)%20Bengali%20720p%20Untouched%20WEBHD%20AAC%20-%201.8GB.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFC96fh_Hcr3vKWmtCaN8q61FDy20ZqUZlbw&s" group-title="Kalkata Bangla Movies",Sultan
+http://cdn.dflix.live:5050/d/Movies/Indian%20Bangla%20Movies/2018/Sultan%20(2018)/Sultan%20(2018).mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTikWBvB6Ko245xit9IscR8J_6oDNAmipLow&s" group-title="Kalkata Bangla Movies",Rosogolla
+http://cdn.dflix.live:5050/d/Movies/Indian%20Bangla%20Movies/2018/Rosogolla%20(2018)/Rosogolla%20(2018)%20720P%20WEB-DL.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCI-yGc7V5-B9vXuoHCVAjJTyg1ArDA2fa1w&s" group-title="Kalkata Bangla Movies",Total Dadagiri
+http://cdn.dflix.live:5050/d/Movies/Indian%20Bangla%20Movies/2018/Total%20Dadagiri%20(2018)/Total%20Dadagiri%20(2018).mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.toiimg.com/thumb/msid-65541168,width-400,resizemode-4/65541168.jpg" group-title="Kalkata Bangla Movies",Villain
+http://cdn.dflix.live:5050/d/Movies/Indian%20Bangla%20Movies/2018/Villain%20(2018)/Villain.2018.x264.720p.AVC.DD.2.0.ESUBS.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Ami_Je_Ke_Tomar_-_Poster.jpg" group-title="Kalkata Bangla Movies",Ami Je Ke Tomar
+http://cdn.dflix.live:5050/d/Movies/Indian%20Bangla%20Movies/2017/Ami%20Je%20Ke%20Tomar%20(2017)/Ami%20Je%20Ke%20Tomar%20(2017).mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.toiimg.com/photo/61263626.cms" group-title="Kalkata Bangla Movies",Bishorjon
+http://cdn.dflix.live:5050/d/Movies/Indian%20Bangla%20Movies/2017/Bishorjon%20(2017)/Bishorjon%20(2017).mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7FZl6epkVZZ70aWectyFYBXHclLdCU7HfWA&s" group-title="Kalkata Bangla Movies",Bolo Dugga Maiki
+http://cdn.dflix.live:5050/d/Movies/Indian%20Bangla%20Movies/2017/Bolo%20Dugga%20Maiki%20(2017)/Bolo%20Dugga%20Maiki%20(2017).mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsmnZYYQ_zzZYDLthMbzsqDLfxRouu5mhikA&s" group-title="Kalkata Bangla Movies",Chaamp
+http://cdn.dflix.live:5050/d/Movies/Indian%20Bangla%20Movies/2017/Chaamp%20(2017)/Chaamp%20(2017).mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWJiYzkzMzktMjZkYi00ZDgxLTgzNGYtYTZiNzFiNTdmMjIzXkEyXkFqcGc@._V1_.jpg" group-title="Kalkata Bangla Movies",Dekh Kemon Lage
+http://cdn.dflix.live:5050/d/Movies/Indian%20Bangla%20Movies/2017/Dekh%20Kemon%20Lage%20(2017)/Dekh.Kemon.Lage.2017.HDTV.NBD.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.toiimg.com/photo/61264331.cms" group-title="Kalkata Bangla Movies",Jawker Dhan
+http://cdn.dflix.live:5050/d/Movies/Indian%20Bangla%20Movies/2017/Jawker%20Dhan%20(2017)%20720p%20WEBDL/Jawker.Dhan.2017.Bengali.720p.WEBRip.H264.AAC.HCSub.BLAZE.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBLQWjNrXKYDCWu5e3Yw59fRbTiO_4GVNUrQ&s" group-title="Kalkata Bangla Movies",Yeti Obhijaan
+http://cdn.dflix.live:5050/d/Movies/Indian%20Bangla%20Movies/2017/Yeti%20Obhijaan%20(2017)/Yeti%20Obhijaan%202017%20%5BBengali%5D%201080p%20WEB-DL%20x264%20AAC%20ESub.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.toiimg.com/photo/msid-61258553/61258553.jpg?63299" group-title="Kalkata Bangla Movies",Abhimaan
+http://cdn.dflix.live:5050/d/Movies/Indian%20Bangla%20Movies/2016/Abhimaan%20(2016)/Abhimaan%20(2016)%20WEBDL-1080p.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTFROVBy5378nhZacKFacKlzyhEMzNfF1s_g&s" group-title="Kalkata Bangla Movies",Gangster
+http://cdn.dflix.live:5050/d/Movies/Indian%20Bangla%20Movies/2016/Gangster%20(2016)/Gangster%20(2016).mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8xn2FUe7qjeMaxs7nnvQC1eFxFr2X-UT67g&s" group-title="Kalkata Bangla Movies",Googly
+http://cdn.dflix.live:5050/d/Movies/Indian%20Bangla%20Movies/2016/Googly%20(2019)/Googly%20(2019)%20Bengali%20WEB-DL%201080p.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREd-JPBfWTIdzSLzaVEC4CWg1-E69qRf3CMA&s" group-title="Kalkata Bangla Movies",Haripada Bandwala
+http://cdn.dflix.live:5050/d/Movies/Indian%20Bangla%20Movies/2016/Haripada%20Bandwala%20(2016)/Haripada%20Bandwala%20(2016).mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.toiimg.com/photo/61244736.cms" group-title="Kalkata Bangla Movies",Hero 420
+http://cdn.dflix.live:5050/d/Movies/Indian%20Bangla%20Movies/2016/Hero%20420%20(2016)/Hero%20420%20(2016)%20Bengali%20WEB-DL%20-%201080P.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/90246495648787.5e9c8cfdbfadf.jpg" group-title="Kalkata Bangla Movies",JaanBaaz
+http://cdn.dflix.live:5050/d/Movies/Indian%20Bangla%20Movies/2016/JaanBaaz%20(2019)/JaanBaaz%202019.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRk9LLPMS8NY2FZYRoYZbqd4a-Leco8D0rjw&s" group-title="Kalkata Bangla Movies",Jio Pagla
+http://cdn.dflix.live:5050/d/Movies/Indian%20Bangla%20Movies/2016/Jio%20Pagla%20(2017)/Jio.Pagla.2017.Bengali.1080p.WEB-DL.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQ4MjE3NDM2MV5BMl5BanBnXkFtZTgwNTYzMzg1MDI@._V1_.jpg" group-title="Kalkata Bangla Movies",Kelor Kirti
+http://cdn.dflix.live:5050/d/Movies/Indian%20Bangla%20Movies/2016/Kelor%20Kirti%20(2016)/Kelor%20Kirti%20(2016).mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGQyYjVlMjctN2FhMy00ZDhmLThkYzQtZTQ1MjlhMTJiOGMyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Kalkata Bangla Movies",Love Aaj Kal Porshu
+http://cdn.dflix.live:5050/d/Movies/Indian%20Bangla%20Movies/2016/Love%20Aaj%20Kal%20Porshu%20(2020)/Love%20Aaj%20Kal%20Porshu%20(2020)%20WEB-DL%201080P.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGZhZDM4MmItMjU0MS00NjUyLWE0YjItMDg3MzI4MDZlZWFmXkEyXkFqcGc@._V1_QL75_UX188_.jpg" group-title="Kalkata Bangla Movies",Ki Kore Toke Bolbo
+http://cdn.dflix.live:5050/d/Movies/Indian%20Bangla%20Movies/2016/Ki%20Kore%20Toke%20Bolbo%20(2016)/Ki%20Kore%20Toke%20Bolbo%20(2016).mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.toiimg.com/photo/65244662.cms" group-title="Kalkata Bangla Movies",Naqaab
+http://cdn.dflix.live:5050/d/Movies/Indian%20Bangla%20Movies/2016/Naqaab%20(2018)/Naqaab%20(2018)%20Bengali%201080p.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIN5Wu7xKL6VVcO2iqmRO2n5OEVMeBurzYYg&s" group-title="Kalkata Bangla Movies",Password
+http://cdn.dflix.live:5050/d/Movies/Indian%20Bangla%20Movies/2016/Password%20(2019)/Password%20(2019)%20Bengali%20720p%20WEB-DL%20x264%20AAC%201.2GB(3kmovies.com).mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/Power_%282016_film%29.jpg/220px-Power_%282016_film%29.jpg" group-title="Kalkata Bangla Movies",Power
+http://cdn.dflix.live:5050/d/Movies/Indian%20Bangla%20Movies/2016/Power%20(2016)/Power%20(2016).mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdUGrxS1WKX_Xac5oo5zqG0VjgOgPBMLDqUA&s" group-title="Kalkata Bangla Movies",Praktan
+http://cdn.dflix.live:5050/d/Movies/Indian%20Bangla%20Movies/2016/Praktan%20(2016)/Praktan%20(2016).mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.moviebuff.com/d61a9ce8-dc6e-45d5-8b0a-c8cad488f78e?w=1000" group-title="Kalkata Bangla Movies",Prem Ki Bujhini
+http://cdn.dflix.live:5050/d/Movies/Indian%20Bangla%20Movies/2016/Prem%20Ki%20Bujhini%20(2016)/Prem%20Ki%20Bujhini%20Indian%20Bangla%20Movie%20(2016)%20720p%20Webrip%20H264%20AAC.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBrA9BXhoVaEDfqFuDJJ1V7MXfQqcRncCTEGhfX1iNHfM4F5Mmjk1w1zMBXjA_OD2MDoE&usqp=CAU" group-title="Kalkata Bangla Movies",Sahaj Pather Gappo
+http://cdn.dflix.live:5050/d/Movies/Indian%20Bangla%20Movies/2016/Sahaj%20Pather%20Gappo%20(2016)/Sahaj%20Pather%20Gappo%20Colours%20of%20Innocence%20(2016)%20Bengali%20720p%20UNCUT%20Bluray.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/Shaheb_Bibi_Golaam_poster.jpg" group-title="Kalkata Bangla Movies",Saheb Bibi Golaam
+http://cdn.dflix.live:5050/d/Movies/Indian%20Bangla%20Movies/2016/Saheb%20Bibi%20Golaam%20(2016)/Saheb.Bibi.Golaam(2016).mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjZiNTBhZDctODJhMC00OGI3LWEyOGUtMmUzYTZlOWU0ZTE2XkEyXkFqcGc@._V1_.jpg" group-title="Kalkata Bangla Movies",Sweet Heart
+http://cdn.dflix.live:5050/d/Movies/Indian%20Bangla%20Movies/2016/Sweet%20Heart%20(2016)/Sweet%20Heart%20(2016).mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmFlN2RhZWQtMzIyNS00ZTY3LWE4MmEtNzIyNzE2MzhlZjFlXkEyXkFqcGc@._V1_.jpg" group-title="Kalkata Bangla Movies",Thammar Boyfriend
+http://cdn.dflix.live:5050/d/Movies/Indian%20Bangla%20Movies/2016/Thammar%20Boyfriend%20(2016)/Thammar.Boyfriend.2016.720p.WebDL.NBD.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/Zulfiqar_poster.jpg" group-title="Kalkata Bangla Movies",Zulfiqar
+http://cdn.dflix.live:5050/d/Movies/Indian%20Bangla%20Movies/2016/Zulfiqar%20(2016)/Zulfiqar%20(2016).mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kalkata Bangla Movies",
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kalkata Bangla Movies",
@@ -1061,7 +1157,11 @@ http://cdn.dflix.live:5050/d/Movies/Indian%20Bangla%20Movies/2019/Vinci%20Da%20(
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kalkata Bangla Movies",
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kalkata Bangla Movies",
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kalkata Bangla Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kalkata Bangla Movies",
 
 
 
