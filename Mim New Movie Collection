@@ -1396,7 +1396,7 @@ http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/FIFA%20World%20Cup%20Fi
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Star Jalsha hd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPtKlL3IqL6UpPRukXghrsvIifMISkNkpKL6JP1OKq68DQK23F78WR2Sk&s=10" group-title="Live Tv",Star Jalsha hd
-http://103.111.120.94:8080/roarzone/bk/30/tracks-v1a1/mono.m3u8?token=b92666da4371b1162e6eb9a5e633f8b3b07da165-c448234f25cd78ac202445cea252b971-1739099149-1739088349
+http://172.17.50.112:84/ant1003/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Live Tv",Zee Bangla
 http://103.111.120.94:8080/roarzone/bk/34/tracks-v1a1/mono.m3u8?token=e90d7d9ec0751fb538d813c4f5b7825c6a32796c-6340adebabbed79901cc166a7bbb526a-1739099274-1739088474
 #EXTINF:-1 tvg-id="" tvg-name="Colors" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Colors_HD.svg/revision/latest/scale-to-width-down/250?cb=20210207143514" group-title="Live Tv",Colors
