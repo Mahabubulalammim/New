@@ -1372,8 +1372,8 @@ http://cdn.dflix.live:5050/d/Movies/English%20Dubbed%20Movies/Movie%20Series/Pir
 http://cdn.dflix.live:5050/d/Movies/English%20Dubbed%20Movies/Movie%20Series/Final%20Destination%20Collection%20(2000-2011)%201080p%20BluRay%20%5BDual%20Audio%5D/Final%20Destination%202000%201080p%20BluRay%20x264%20Dual%20Audio%20%5BHindi%20DD%205.1%20-%20English%20DD%205.1%5D%20ESub%20%5BMW%5D.mkv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hollywood Hindi Movies",final destination 2
 http://cdn.dflix.live:5050/d/Movies/English%20Dubbed%20Movies/Movie%20Series/Final%20Destination%20Collection%20(2000-2011)%201080p%20BluRay%20%5BDual%20Audio%5D/Final%20Destination%202%202003%201080p%20BluRay%20x264%20Dual%20Audio%20%5BHindi%20DD%205.1%20-%20English%20DD%205.1%5D%20ESub%20%5BMW%5D.mkv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hollywood Hindi Movies",
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2paiG_-R6KZylc17gjG-VC5WH-GtSWGabVJWPfa-jHwJMWiC_PRV5wcQ&s=10" group-title="Hollywood Hindi Movies",London Fields
+http://cdn.dflix.live:5050/d/Movies/English%20Movies/2018/London%20Fields%20(2018)/London.Fields.2018.720p.WEB-DL.mp4
 
 
 
