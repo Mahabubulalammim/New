@@ -1412,12 +1412,24 @@ http://cdn.dflix.live:5050/d/Movies/English%20Dubbed%20Movies/Movie%20Series/Mar
 http://cdn.dflix.live:5050/d/Movies/English%20Dubbed%20Movies/Movie%20Series/Marvel%20Cinematic%20Universe%20(2008-2019)%201080p%20Bluray%20%5BDual%20Audio%5D/19.Avengers%20-%20Infinity%20War%20(2018)%201080p%20Bluray%20%5BHindi%20%2B%20English%5D.mkv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/I/81ai6zx6eXL._AC_SL1304_.jpg" group-title="Hollywood Hindi Movies",Avengers Endgame
 http://cdn.dflix.live:5050/d/Movies/English%20Dubbed%20Movies/Movie%20Series/Marvel%20Cinematic%20Universe%20(2008-2019)%201080p%20Bluray%20%5BDual%20Audio%5D/22.Avengers%20Endgame%20(2019)%201080p%20BluRay%20%5BHindi%20%2B%20English%5D.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWM0OWVmNTEtNWVkOS00MzgyLTkyMzgtMmE2ZTZiNjY4MmFiXkEyXkFqcGc@._V1_.jpg" group-title="Hollywood Hindi Movies",Spider-Man
+http://cdn.dflix.live:5050/d/Movies/English%20Dubbed%20Movies/Movie%20Series/SpiderMan%20Movie%20Collection%20(2002%20-%202017)%201080p%20%20%5BDual%20Audio%5D/1.%20Spider-Man%202002%201080p%20BluRay%20x264%20Dual%20Audio%20%5BHindi%202.0%20-%20English%202.0%5D%20ESub%20%5BMW%5D.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGQ0YTQyYTgtNWI2YS00NTE2LWJmNDItNTFlMTUwNmFlZTM0XkEyXkFqcGc@._V1_.jpg" group-title="Hollywood Hindi Movies",Spider-Man 2
+http://cdn.dflix.live:5050/d/Movies/English%20Dubbed%20Movies/Movie%20Series/SpiderMan%20Movie%20Collection%20(2002%20-%202017)%201080p%20%20%5BDual%20Audio%5D/2.%20Spider-Man%202%202004%201080p%20BluRay%20x264%20Dual%20Audio%20%5BHindi%202.0%20-%20English%202.0%5D%20ESub%20%5BMW%5D.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BODE2NzNhMDctYjUzMC00Y2M5LWI2Y2EtODJkZTFjN2Y5ODlmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hollywood Hindi Movies",Spider-Man 3
+http://cdn.dflix.live:5050/d/Movies/English%20Dubbed%20Movies/Movie%20Series/SpiderMan%20Movie%20Collection%20(2002%20-%202017)%201080p%20%20%5BDual%20Audio%5D/3.%20Spider-Man%203%202007%201080p%20BluRay%20x264%20Dual%20Audio%20%5BHindi%202.0%20-%20English%202.0%5D%20ESub%20%5BMW%5D.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjMyOTM4MDMxNV5BMl5BanBnXkFtZTcwNjIyNzExOA@@._V1_.jpg" group-title="Hollywood Hindi Movies",The Amazing Spiderman
+http://cdn.dflix.live:5050/d/Movies/English%20Dubbed%20Movies/Movie%20Series/SpiderMan%20Movie%20Collection%20(2002%20-%202017)%201080p%20%20%5BDual%20Audio%5D/4.%20The%20Amazing%20Spiderman%202012%201080p%20BluRay%20x264%20Dual%20Audio%20%5BHindi%20DD%205.1%20-%20English%202.0%5D%20ESub%20%5BMW%5D.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://artofthemovies.co.uk/cdn/shop/products/IMG_9426.jpg?v=1663776906" group-title="Hollywood Hindi Movies",The Amazing Spider-Man 2
+http://cdn.dflix.live:5050/d/Movies/English%20Dubbed%20Movies/Movie%20Series/SpiderMan%20Movie%20Collection%20(2002%20-%202017)%201080p%20%20%5BDual%20Audio%5D/5.%20The%20Amazing%20Spider-Man%202%202014%201080p%20BluRay%20x264%20Dual%20Audio%20%5BHindi%20DD%205.1%20-%20English%202.0%5D%20ESub%20%5BMW%5D.mkv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BODY2MTAzOTQ4M15BMl5BanBnXkFtZTgwNzg5MTE0MjI@._V1_.jpg" group-title="Hollywood Hindi Movies",Spider-Man - Homecoming 
 http://cdn.dflix.live:5050/d/Movies/English%20Dubbed%20Movies/Movie%20Series/Marvel%20Cinematic%20Universe%20(2008-2019)%201080p%20Bluray%20%5BDual%20Audio%5D/16.Spider-Man%20-%20Homecoming%20(2017)%201080p%20Bluray%20%5BHindi%20%2B%20English%5D.mkv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzNhNTE0NWQtN2E1Ny00NjcwLTg1YTctMGY1NmMwODJmY2NmXkEyXkFqcGc@._V1_.jpg" group-title="Hollywood Hindi Movies",Spider-Man Far from Home
 http://cdn.dflix.live:5050/d/Movies/English%20Dubbed%20Movies/Movie%20Series/Marvel%20Cinematic%20Universe%20(2008-2019)%201080p%20Bluray%20%5BDual%20Audio%5D/23.Spider-Man%20Far%20from%20Home%20(2019)%20BluRay%201080p%20%5BHindi%20%2B%20English%5D.mkv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hollywood Hindi Movies",
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmFiZGZjMmEtMTA0Ni00MzA2LTljMTYtZGI2MGJmZWYzZTQ2XkEyXkFqcGc@._V1_.jpg" group-title="Hollywood Hindi Movies",Spider-Man No Way Home
+http://cdn.dflix.live:5050/d/Movies/English%20Movies/2021/Spider-Man%20No%20Way%20Home%20(2021)/Spider-Man%20No%20Way%20Home%20(2021)%20Bluray-1080p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTk5ODk1NDkxMF5BMl5BanBnXkFtZTcwNTA5OTY0OQ@@._V1_.jpg" group-title="Hollywood Hindi Movies",Man Of Steel 
+http://cdn.dflix.live:5050/d/Movies/English%20Dubbed%20Movies/2015-1900/Man%20Of%20Steel%20(2013)%20/Man%20Of%20Steel%20(2013)%201080p%20BluRay%20x264%20%5BDual%20Audio%5D%20%5BHindi%20DD%205.1%20%2B%20English%20DD%205.1%5D.mkv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hollywood Hindi Movies",
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hollywood Hindi Movies",
