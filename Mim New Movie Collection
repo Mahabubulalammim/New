@@ -1672,25 +1672,27 @@ http://10.90.90.201:8082/SONY-MAX/tracks-v1a1/mono.m3u8?token=e800700550c8fa149a
 http://10.90.90.201:8082/STAR-GOLD/tracks-v1a1/mono.m3u8?token=eada61a7f8fdda2d77aee07822557ab90cceba3d-0d790121991e7edae9c412d4ab5589d9-1740380074-1740369274
 #EXTINF:-1 tvg-id="" tvg-name="Zee Cinema hd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq_a5GUKWmket0zm6U8agmoe2rAha7PFYW3JmYF_x0FhXcNiskUpKyTCka&s=10" group-title="Live Tv",Zee Cinema hd
 http://10.90.90.201:8082/ZEE-CINEMA/tracks-v1a1/mono.m3u8?token=b2767cafdf020ed38d2ccd00209e6dfdefcb0ce9-0c9e62e7ef79314698ed953e904740d7-1740380130-1740369330
-#EXTINF:-1 tvg-id="" tvg-name="Star Plus Hd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkcjUjjwnU5_zPkio-ky5diX1cK9dTvfr27JpMH457CsaiiFLkoKotsG0&s=10" group-title="Live Tv",Star Plus Hd
-http://103.111.120.94:8080/roarzone/bk/67/tracks-v1a1/mono.m3u8?token=45a5d64b5241f339af761878df1b2260bea8313c-b091dc606392c020610895bf51e543c7-1739099669-1739088869
-#EXTINF:-1 tvg-id="" tvg-name="Jalsa Movies Hd" tvg-logo="" group-title="Live Tv",Jalsa Movies Hd
-http://10.90.90.201:8082/SONY-ART/index.m3u8?token=8ba991dbe179b946464f3d02f758b7bf5d25197f-1f3f5241b1da7414056309ce594e7cf2-1740380271-1740369471
-#EXTINF:-1 tvg-id="" tvg-name="Colors Bangla" tvg-logo="" group-title="Live Tv",Colors Bangla
-http://10.90.90.201:8082/JALSHA-MOVIES/tracks-v1a1/mono.m3u8?token=3f3fe8efd458ba346d4fa8179df2d6c7ce92cf33-2716d650022c983ee8900f81b8083b3a-1740380237-1740369437
-#EXTINF:-1 tvg-id="" tvg-name="Sangeet Bangla" tvg-logo="" group-title="Live Tv",Sangeet Bangla
-http://38.96.178.201/live/SangeetBangla/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony Hd" tvg-logo="" group-title="Live Tv",Sony Hd
-http://38.96.178.201/live/SonyHD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Live Tv",Sony Aath
-http://103.111.120.94:8080/roarzone/bk/33/tracks-v1a1/mono.m3u8?token=86a9918023d81ae6e7d5e70a73206f5ac80c4311-157336b5a0f75b0929c1613cb6cd85ce-1739099498-1739088698
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Live Tv",Gtv
-http://103.111.120.94:8080/roarzone/bk/1/tracks-v1a1/mono.m3u8?token=d2104e90d2585a3435a55d6291ba920f07e72cb0-3f46f17a48bef068e480b52734706db0-1739099747-1739088947
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Live Tv",Tsports
-http://103.111.120.94:8080/roarzone/bk/102/tracks-v1a1/2025/02/09/08/21/26-05600.ts?token=91158dcf619c7006df4464989743e1ff041c9aac-348be6cacf85abfd3d4f64e897ee86f7-1739099792-1739088992
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Live Tv",and picture hd
 http://10.90.90.201:8082/AND-PICTURE/tracks-v1a1/mono.m3u8?token=5fb013aeb137d9fdcc0a92e086e7359c7ab3fe8a-d3b1ce9550572106d9c86c732667eb31-1740380187-1740369387
 #EXTINF:-1 tvg-id="" tvg-name="Jalsa Movies Hd" tvg-logo="" group-title="Live Tv",Jalsa Movies Hd
+http://10.90.90.201:8082/SONY-ART/index.m3u8?token=8ba991dbe179b946464f3d02f758b7bf5d25197f-1f3f5241b1da7414056309ce594e7cf2-1740380271-1740369471
+#EXTINF:-1 tvg-id="" tvg-name="Jalsa Movies Hd" tvg-logo="" group-title="Live Tv",zee bangla cinema
+http://10.90.90.201:8082/STAR-PLUS/tracks-v1a1/mono.m3u8?token=67c0583b6135508a6a1066bd29247aae112b5407-5978a920432d1288e16dafec0ee3587f-1740380785-1740369985
+#EXTINF:-1 tvg-id="" tvg-name="Colors Bangla" tvg-logo="" group-title="Live Tv",Colors Bangla
+http://10.90.90.201:8082/JALSHA-MOVIES/tracks-v1a1/mono.m3u8?token=3f3fe8efd458ba346d4fa8179df2d6c7ce92cf33-2716d650022c983ee8900f81b8083b3a-1740380237-1740369437
+#EXTINF:-1 tvg-id="" tvg-name="Sony Hd" tvg-logo="" group-title="Live Tv",Sony Hd
+http://10.90.90.201:8082/SONY-ENT/tracks-v1a1/mono.m3u8?token=850a0093d4ba47eec9db7a7fcb60a4e77e2e6001-0dd813647630657702d22628882d5052-1740380545-1740369745
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Live Tv",Sony Aath
+http://10.90.90.201:8082/ZEE-BANGLA-CINEMA/tracks-v1a1/mono.m3u8?token=1f513d7f05cbb20490bd3e2510db4a670c92b46c-82171f2cbd5ec2265d72aa527a0ff748-1740380603-1740369803
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Live Tv",Gtv
+http://10.90.90.201:8082/GTV/tracks-v1a1/mono.m3u8?token=db276532e2a20efd0285d793567d4a7c93a30ed5-32b7aa36106aea3e6ef905ef2f4b60c6-1740380633-1740369833
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Live Tv",Tsports
+http://10.90.90.201:8082/T-SPORTS/tracks-v1a1/mono.m3u8?token=8ca5565b8f6d1c328950f90ee42585a12306caf8-d96b80068eb4b585d41f51501ed5c273-1740380653-1740369853
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Live Tv",and picture hd
+http://10.90.90.201:8082/AND-PICTURE/tracks-v1a1/mono.m3u8?token=5fb013aeb137d9fdcc0a92e086e7359c7ab3fe8a-d3b1ce9550572106d9c86c732667eb31-1740380187-1740369387
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Live Tv",Star Movies
+http://10.90.90.201:8082/STAR-MOVIE/tracks-v1a1/mono.m3u8?token=48b1609eeb6161f5c8118f53bcf5e4d71139b6e9-92e98d739abfb578c7d4c45f24db2e20-1740380695-1740369895
+#EXTINF:-1 tvg-id="" tvg-name="Jalsa Movies Hd" tvg-logo="" group-title="Live Tv",Somoy Tv
 
 #EXTINF:-1 tvg-id="" tvg-name="Jalsa Movies Hd" tvg-logo="" group-title="Live Tv",Jalsa Movies Hd
 
@@ -1699,3 +1701,10 @@ http://10.90.90.201:8082/AND-PICTURE/tracks-v1a1/mono.m3u8?token=5fb013aeb137d9f
 #EXTINF:-1 tvg-id="" tvg-name="Jalsa Movies Hd" tvg-logo="" group-title="Live Tv",Jalsa Movies Hd
 
 #EXTINF:-1 tvg-id="" tvg-name="Jalsa Movies Hd" tvg-logo="" group-title="Live Tv",Jalsa Movies Hd
+
+#EXTINF:-1 tvg-id="" tvg-name="Jalsa Movies Hd" tvg-logo="" group-title="Live Tv",Jalsa Movies Hd
+
+#EXTINF:-1 tvg-id="" tvg-name="Jalsa Movies Hd" tvg-logo="" group-title="Live Tv",Jalsa Movies Hd
+
+#EXTINF:-1 tvg-id="" tvg-name="Jalsa Movies Hd" tvg-logo="" group-title="Live Tv",Jalsa Movies Hd
+
