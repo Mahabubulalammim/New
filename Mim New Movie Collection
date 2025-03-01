@@ -906,8 +906,8 @@ http://cdn.dflix.live:5050/d/Movies/South%20Indian%20Dubbed%20Movies/2023/Thuniv
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kalkata Bangla Movies",
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kalkata Bangla Movies",
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsZbiJPbuJw3EP0o2AaqbhzEABC_ZXkxW_DVHWGLTnFwzhZkgPtY-6SUFZ&s=10" group-title="Kalkata Bangla Movies",Shontaan
+http://cdn.dflix.live:5050/d/Movies/Indian%20Bangla%20Movies/2024/Shontaan%20(2024)/Shontaan%20(2024)%20Bengali%20Hoichoi%20WEB-DL%201080p.mkv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5b/Khadaan_poster.jpg" group-title="Kalkata Bangla Movies",Khadaan
 http://cdn.dflix.live:5050/d/Movies/Indian%20Bangla%20Movies/2024/Khadaan%20(2024)/Khadaan%20(2024)%20%20Bengali%20CAMRIP%201080p.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Abar Bibaho Obhijaan" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2I0MzdjZjMtMjllOC00NTlkLTg5ZmYtNjZiNmEzODQxOTkzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Kalkata Bangla Movies",Abar Bibaho Obhijaan
