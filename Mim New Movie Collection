@@ -488,8 +488,8 @@ http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2022/Vikram%20Vedha%20(2022)/
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Southindian Hindi Dubbed Movies",
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Southindian Hindi Dubbed Movies",
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbXAtK9YOxKhzAenpl6qO4tXcUjlkR57acZlpGBqBCHDeznZYLnoCDCEo&s=10 " group-title="Southindian Hindi Dubbed Movies",Marco
+http://cdn.dflix.live:5050/d/Movies/South%20Indian%20Dubbed%20Movies/2024/Marco%20(2024)/Marco-2024-Hindi-1080p-WEBDL.mkv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjExZDlkNmMtZDUyZS00MjMxLTgxNDYtNWRhYzA4NzU0NjE2XkEyXkFqcGc@._V1_QL75_UX174_.jpg" group-title="Southindian Hindi Dubbed Movies",UI
 http://cdn.dflix.live:5050/d/Movies/South%20Indian%20Dubbed%20Movies/2024/UI%20(2024)/UI-2024-WEBRip-1080p-Hindi.mkv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6a/Game_Changer_Telugu.jpg" group-title="Southindian Hindi Dubbed Movies",Game Changer
