@@ -1663,13 +1663,13 @@ http://server3.ftpbd.net/FTP-3/Awards%20%26%20TV%20Shows/FIFA%20World%20Cup%20Fi
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Star Jalsha hd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPtKlL3IqL6UpPRukXghrsvIifMISkNkpKL6JP1OKq68DQK23F78WR2Sk&s=10" group-title="Live Tv",Star Jalsha hd
-http://10.90.90.201:8082/STAR-JALSHA/tracks-v1a1/mono.m3u8?token=d42e2c4f3ef6fba13a546141e12ec98c508bfee6-f2d6fab3f78a992d399837179ff38395-1740379874-1740369074
+http://tv.ebox.live:8083/StarJalshaHD/tracks-v1a1/mono.m3u8?token=6d4e4a107827d3cd1d18a72562b639901e5c401b-fb4e40fdb7d54f2e6c291e7bf11ed998-1742411691-1742400891
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Live Tv",Zee Bangla
-http://10.90.90.201:8082/ZEE-BANGLA/tracks-v1a1/mono.m3u8?token=1d29bf201e5b6895aed64502f1dc67d6602c5d16-12dfdf46323974c4adb9765d0b28ff92-1740379979-1740369179
+http://tv.ebox.live:8083/ZeeBanglaHD/tracks-v1a1/mono.m3u8?token=1707c704d72d5a244d6b100b4a2d357c7f24018f-61b6b0d8024d850d19af80a467ebb5c2-1742411742-1742400942
 #EXTINF:-1 tvg-id="" tvg-name="Colors" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Colors_HD.svg/revision/latest/scale-to-width-down/250?cb=20210207143514" group-title="Live Tv",Colors
 http://10.90.90.201:8082/COLORS-HIN/tracks-v1a1/mono.m3u8?token=6444f1dd2cc4e18a393e39beed3071fcd0fc0fb1-0532fccb782afe5cffa1d451508499a1-1740380158-1740369358
 #EXTINF:-1 tvg-id="" tvg-name="Sony Max" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX.png" group-title="Live Tv",Sony Max
-http://10.90.90.201:8082/SONY-MAX/tracks-v1a1/mono.m3u8?token=e800700550c8fa149aefd926916100d3b5152e61-bb97569c7e00c5ac1d5f69b41f6e65ef-1740380102-1740369302
+http://tv.ebox.live:8083/SonyMaxHD/tracks-v1a1/mono.m3u8?token=7933d2867e96c64dbd68d6a9b30298858c083856-cb08a1c67384eba364671954f898cfdb-1742411826-1742401026
 #EXTINF:-1 tvg-id="" tvg-name="Star Gold Hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Star_Gold_2020.svg/800px-Star_Gold_2020.svg.png" group-title="Live Tv",Star Gold Hd
 http://10.90.90.201:8082/STAR-GOLD/tracks-v1a1/mono.m3u8?token=eada61a7f8fdda2d77aee07822557ab90cceba3d-0d790121991e7edae9c412d4ab5589d9-1740380074-1740369274
 #EXTINF:-1 tvg-id="" tvg-name="Zee Cinema hd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq_a5GUKWmket0zm6U8agmoe2rAha7PFYW3JmYF_x0FhXcNiskUpKyTCka&s=10" group-title="Live Tv",Zee Cinema hd
@@ -1677,7 +1677,7 @@ http://10.90.90.201:8082/ZEE-CINEMA/tracks-v1a1/mono.m3u8?token=b2767cafdf020ed3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Live Tv",and picture hd
 http://10.90.90.201:8082/AND-PICTURE/tracks-v1a1/mono.m3u8?token=5fb013aeb137d9fdcc0a92e086e7359c7ab3fe8a-d3b1ce9550572106d9c86c732667eb31-1740380187-1740369387
 #EXTINF:-1 tvg-id="" tvg-name="Jalsa Movies Hd" tvg-logo="" group-title="Live Tv",Jalsa Movies Hd
-http://10.90.90.201:8082/SONY-ART/index.m3u8?token=8ba991dbe179b946464f3d02f758b7bf5d25197f-1f3f5241b1da7414056309ce594e7cf2-1740380271-1740369471
+http://tv.ebox.live:8083/StarJalshaMovies/tracks-v1a1/mono.m3u8?token=71a64c88404e46f75f66c991ee37a507ab1f52fa-2e37b0fe22cd2845b3139e03777a7320-1742411716-1742400916
 #EXTINF:-1 tvg-id="" tvg-name="Jalsa Movies Hd" tvg-logo="" group-title="Live Tv",zee bangla cinema
 http://10.90.90.201:8082/STAR-PLUS/tracks-v1a1/mono.m3u8?token=67c0583b6135508a6a1066bd29247aae112b5407-5978a920432d1288e16dafec0ee3587f-1740380785-1740369985
 #EXTINF:-1 tvg-id="" tvg-name="Colors Bangla" tvg-logo="" group-title="Live Tv",Colors Bangla
@@ -1687,9 +1687,9 @@ http://10.90.90.201:8082/SONY-ENT/tracks-v1a1/mono.m3u8?token=850a0093d4ba47eec9
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Live Tv",Sony Aath
 http://10.90.90.201:8082/ZEE-BANGLA-CINEMA/tracks-v1a1/mono.m3u8?token=1f513d7f05cbb20490bd3e2510db4a670c92b46c-82171f2cbd5ec2265d72aa527a0ff748-1740380603-1740369803
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Live Tv",Gtv
-http://10.90.90.201:8082/GTV/tracks-v1a1/mono.m3u8?token=db276532e2a20efd0285d793567d4a7c93a30ed5-32b7aa36106aea3e6ef905ef2f4b60c6-1740380633-1740369833
+http://tv.ebox.live:8083/live-5/tracks-v1a1/mono.m3u8?token=fb410e8c71943a6f7201714a5546535ce4b62c45-7863736e3c7cbd2dd559d3f430d7ab8f-1742411805-1742401005
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Live Tv",Tsports
-http://10.90.90.201:8082/T-SPORTS/tracks-v1a1/mono.m3u8?token=8ca5565b8f6d1c328950f90ee42585a12306caf8-d96b80068eb4b585d41f51501ed5c273-1740380653-1740369853
+http://tv.ebox.live:8083/TSportsHD/tracks-v1a1/mono.m3u8?token=5f4d28242da9e0337b76a047f24c8b61f6eae6f4-181b63ca6367c79357bf8ac03033f7b8-1742411779-1742400979
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Live Tv",and picture hd
 http://10.90.90.201:8082/AND-PICTURE/tracks-v1a1/mono.m3u8?token=5fb013aeb137d9fdcc0a92e086e7359c7ab3fe8a-d3b1ce9550572106d9c86c732667eb31-1740380187-1740369387
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Live Tv",Star Movies
