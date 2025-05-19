@@ -956,8 +956,8 @@ http://cdn.dflix.live:5050/d/Movies/South%20Indian%20Dubbed%20Movies/2023/Thuniv
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kalkata Bangla Movies",
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kalkata Bangla Movies",
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmExYjhlZTMtMWNhNS00OTJlLWIyNDAtODA4MzNjMGMyNzc4XkEyXkFqcGc@._V1_.jpg" group-title="Kalkata Bangla Movies",Kabuliwala
+http://cdn.dflix.live:5050/d/Movies/Indian%20Bangla%20Movies/2023/Kabuliwala%20(2023)/Kabuliwala%20(2023)%20WEB-DL%20%5BBengali%5D%20AMZN%201080p%20ESub.mkv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsZbiJPbuJw3EP0o2AaqbhzEABC_ZXkxW_DVHWGLTnFwzhZkgPtY-6SUFZ&s=10" group-title="Kalkata Bangla Movies",Shontaan
 http://cdn.dflix.live:5050/d/Movies/Indian%20Bangla%20Movies/2024/Shontaan%20(2024)/Shontaan%20(2024)%20Bengali%20Hoichoi%20WEB-DL%201080p.mkv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5b/Khadaan_poster.jpg" group-title="Kalkata Bangla Movies",Khadaan
