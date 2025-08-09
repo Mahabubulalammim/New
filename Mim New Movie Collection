@@ -1748,7 +1748,7 @@ https://live.dinesh29.com.np/stream/jiotvplus/starjalsha/master.m3u8
 #http://38.96.178.201/live/STARJALSHA/index.m3u8
 https://tvsen5.aynaott.com/gUX8BJmNc2yF/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Live Tv",Zee Bangla
-http://tv.ebox.live:8083/ZeeBanglaHD/tracks-v1a1/mono.m3u8?token=1707c704d72d5a244d6b100b4a2d357c7f24018f-61b6b0d8024d850d19af80a467ebb5c2-1742411742-1742400942
+http://smart.bengaldigital.live/Zee-Bangla/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Colors" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Colors_HD.svg/revision/latest/scale-to-width-down/250?cb=20210207143514" group-title="Live Tv",Colors
 http://10.90.90.201:8082/COLORS-HIN/tracks-v1a1/mono.m3u8?token=6444f1dd2cc4e18a393e39beed3071fcd0fc0fb1-0532fccb782afe5cffa1d451508499a1-1740380158-1740369358
 #EXTINF:-1 tvg-id="" tvg-name="Sony Max" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX.png" group-title="Live Tv",Sony Max
@@ -1759,10 +1759,10 @@ http://10.90.90.201:8082/STAR-GOLD/tracks-v1a1/mono.m3u8?token=eada61a7f8fdda2d7
 http://10.90.90.201:8082/ZEE-CINEMA/tracks-v1a1/mono.m3u8?token=b2767cafdf020ed38d2ccd00209e6dfdefcb0ce9-0c9e62e7ef79314698ed953e904740d7-1740380130-1740369330
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Live Tv",and picture hd
 http://10.90.90.201:8082/AND-PICTURE/tracks-v1a1/mono.m3u8?token=5fb013aeb137d9fdcc0a92e086e7359c7ab3fe8a-d3b1ce9550572106d9c86c732667eb31-1740380187-1740369387
-#EXTINF:-1 tvg-id="" tvg-name="Jalsa Movies Hd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRILnLhGr-_EabZBCgKgo5_qG8jRDStjyokxg&s" group-title="Live Tv",Jalsa Movies
-https://live.dinesh29.com.np/stream/jiotvplus/starjalsha/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jalsa Movies Hd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRILnLhGr-_EabZBCgKgo5_qG8jRDStjyokxg&s" group-title="Live Tv",Jalsa Movies Sd
+https://live.dinesh29.com.np/stream/jiotvplus/jalshamovies/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Jalsa Movies Hd" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/200/-/Jalsa_Movies_HD.png" group-title="Live Tv",Jalsa Movies Hd
-http://tvsen5.aynaott.com/gUX8BJmNc2yF/tracks-v1a1/mono.ts.m3u8
+https://tiger-hub.vercel.app/Jalsha_movies/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Jalsa Movies Hd" tvg-logo="" group-title="Live Tv",zee bangla cinema
 http://10.90.90.201:8082/STAR-PLUS/tracks-v1a1/mono.m3u8?token=67c0583b6135508a6a1066bd29247aae112b5407-5978a920432d1288e16dafec0ee3587f-1740380785-1740369985
 #EXTINF:-1 tvg-id="" tvg-name="Colors Bangla" tvg-logo="" group-title="Live Tv",Colors Bangla
