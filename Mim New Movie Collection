@@ -1808,7 +1808,7 @@ http://195.181.169.162/COLORS_HD/index.m3u8?token=test
 #EXTINF:-1 tvg-id="" tvg-name="Sony Max" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX.png" group-title="Live Tv",Sony Max
 https://tataplay.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Live Tv",Star Gold HD
-http://182.176.185.207:7500/play/a06p/index.m3u8
+https://tiger-hub.vercel.app/Star-Gold/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Gold Hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Star_Gold_2020.svg/800px-Star_Gold_2020.svg.png" group-title="Live Tv",Star Gold
 https://live.dinesh29.com.np/stream/jiotvplus/stargold/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Zee Cinema hd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq_a5GUKWmket0zm6U8agmoe2rAha7PFYW3JmYF_x0FhXcNiskUpKyTCka&s=10" group-title="Live Tv",Zee Cinema hd
