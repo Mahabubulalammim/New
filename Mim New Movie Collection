@@ -1822,7 +1822,7 @@ https://live.dinesh29.com.np/stream/jiotvplus/stargold/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Zee Cinema hd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq_a5GUKWmket0zm6U8agmoe2rAha7PFYW3JmYF_x0FhXcNiskUpKyTCka&s=10" group-title="Live Tv",Zee Cinema hd
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105540/ZeeCinemaHDELE/index-connected.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Live Tv",and picture hd
-http://10.90.90.201:8082/AND-PICTURE/tracks-v1a1/mono.m3u8?token=5fb013aeb137d9fdcc0a92e086e7359c7ab3fe8a-d3b1ce9550572106d9c86c732667eb31-1740380187-1740369387
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105174/ANDPicturesHDELE/index-connected.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="Sony Hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Live Tv",Sony Hd
 https://tataplay.slivcdn.com/hls/live/2011671/SETHD/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony Hd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="Live Tv",Star Plus
