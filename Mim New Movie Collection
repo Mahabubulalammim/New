@@ -1823,7 +1823,7 @@ https://live.dinesh29.com.np/stream/jiotvplus/stargold/master.m3u8
 http://182.176.185.207:7500/play/a06p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Zee Cinema hd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq_a5GUKWmket0zm6U8agmoe2rAha7PFYW3JmYF_x0FhXcNiskUpKyTCka&s=10" group-title="Live Tv",Zee Cinema hd
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105540/ZeeCinemaHDELE/index-connected.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Live Tv",& picture hd
+#EXTINF:-1 tvg-id="0-9-9z5543514" tvg-name="" tvg-logo="" group-title="Live Tv",and picture hd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 https://z5ak-cmaflive.zee5.com/cmaf/live/2104969/AndPriveHDELENEW/index-connected.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="Sony Hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Live Tv",Sony Hd
