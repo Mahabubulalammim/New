@@ -1742,8 +1742,22 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709-audio_113392_eng=113200-vid
 https://tvsen6.aynaott.com/btvctg/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThFvDYe3XVqLCsdNRaTzvfI8VO6FKxhIQfKw&s" group-title="Live Tv",ATN Bangla
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ATN_News_logo.svg/1200px-ATN_News_logo.svg.png" group-title="Live Tv",ATN News
+https://tvsen6.aynaott.com/atnnews/index.m3u8?e=1750361658&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=6c92857362c666e97327aa62d0c7c16e
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png" group-title="Live Tv",Channel I HD
 https://tvsen6.aynaott.com/channeli/index.m3u8?e=1750361566&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=2500904c028b659ebc77930013048b9c
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/SOMOY_TV_Logo.svg/1200px-SOMOY_TV_Logo.svg.png" group-title="Live Tv",Somoy TV
+https://tvsen6.aynaott.com/somoytv/index.m3u8?e=1750361563&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=26815086c392d0cae22bfab62de91cbb
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/Independent_Television_Logo.svg" group-title="Live Tv",Independent TV
+https://tvsen6.aynaott.com/independenttv/index.m3u8?e=1750361643&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=161fdcab42a6737968f3628f29dc26e3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Logo_of_Channel_24_%28Bangladesh%29.svg/800px-Logo_of_Channel_24_%28Bangladesh%29.svg.png" group-title="Live Tv",Channel 24
+https://tvsen6.aynaott.com/channel24/index.m3u8?e=1750361656&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=5cc482ae53647ece9ab708e8a21232ff
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/Ekattor_TV_logo.svg" group-title="Live Tv",Ekattor TV
+https://tvsen6.aynaott.com/ekattorbdtv/index.m3u8?e=1750361582&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=19df1f1396305b78bbb5b655e06cfee6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/736x/cc/01/40/cc0140a38fbaf157ee3a3bb416a3f812.jpg" group-title="Live Tv",Jamuna TV
+https://tvsen6.aynaott.com/jamunatv/index.m3u8?e=1750361488&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=4518f8d8bfeee7bf3d52f12d7b026b1d
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Live Tv",RTV HD
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.seeklogo.com/logo-png/39/1/ekushe-tv-etv-logo-png_seeklogo-396361.png" group-title="Live Tv",ETV
 https://tvsen6.aynaott.com/etv/index.m3u8?e=1750361651&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=9ea90bf54b30adaac55aa9275da9247e
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png" group-title="Live Tv",NTV
@@ -1811,10 +1825,14 @@ https://tiger-hub.vercel.app/Jalsha_movies/tracks-v1a1/mono.ts.m3u8
 http://smart.bengaldigital.live/Zee-Bangla-Cinema/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Colors Bangla" tvg-logo="" group-title="Live Tv",Colors Bangla
 https://tvsen5.aynaott.com/u3LkNQ7UHhFX/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/BanglaCinema.jpeg/revision/latest?cb=20191207094555" group-title="Live Tv",Colors Bangla Cinema
+https://tiger-hub.vercel.app/Colors-bangla-cinema/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Colors" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Colors_HD.svg/revision/latest/scale-to-width-down/250?cb=20210207143514" group-title="Live Tv",Colors
 http://195.181.169.162/COLORS_HD/index.m3u8?token=test
 #EXTINF:-1 tvg-id="" tvg-name="Sony Max" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX.png" group-title="Live Tv",Sony Max
 https://tataplay.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX2.png" group-title="Live Tv",Sony MAX 2
+https://tataplay.slivcdn.com/hls/live/2011908/MAX2/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Live Tv",Star Gold HD
 https://tiger-hub.vercel.app/Star-Gold/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Gold Hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Star_Gold_2020.svg/800px-Star_Gold_2020.svg.png" group-title="Live Tv",Star Gold
@@ -1823,11 +1841,19 @@ https://live.dinesh29.com.np/stream/jiotvplus/stargold/master.m3u8
 http://182.176.185.207:7500/play/a06p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Zee Cinema hd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq_a5GUKWmket0zm6U8agmoe2rAha7PFYW3JmYF_x0FhXcNiskUpKyTCka&s=10" group-title="Live Tv",Zee Cinema hd
 http://smart.bengaldigital.live/ZeeCinema/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png" group-title="Live Tv",COLORS CINEPLEX HD
+https://mxon-xtreme.vercel.app/live/803.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png" group-title="Live Tv",Colors Cineplex Bollywood
+http://66.102.120.18:8000/play/a01a/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Live Tv",and picture hd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/pictures-hd4628.logowik.com.webp" group-title="Live Tv",& picture hd
+https://tiger-hub.vercel.app/&Picture/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony Hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Live Tv",Sony Hd
 https://tataplay.slivcdn.com/hls/live/2011671/SETHD/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="Live Tv",Star Plus HD
-https://tiger-hub.vercel.app/Star-plus/tracks-v1a1/mono.ts.m3u8
+#https://tiger-hub.vercel.app/Star-plus/tracks-v1a1/mono.ts.m3u8
+https://mxon-xtreme.vercel.app/live/1924.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony Hd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="Live Tv",Star Plus SD
 https://live.dinesh29.com.np/stream/jiotvplus/starplus/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Sab_new.png" tvg-logo="" group-title="Live Tv",SONY SAB HD
@@ -1837,9 +1863,19 @@ https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/1200px-T_Sports_logo.svg.png" group-title="Live Tv",Tsports
 https://tvsen6.aynaott.com/tsportsfhd/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Live Tv",Star Movies
-https://live.dinesh29.com.np/stream/jiotvplus/starmovieshd/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Jalsa Movies Hd" tvg-logo="" group-title="Live Tv",Somoy Tv
-
+https://mxon-xtreme.vercel.app/live/2080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jalsa Movies Hd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOj28_xNqgA8eEXNgn3bVk9Ck6SrCNdoAjOQ&s" group-title="Live Tv",Sony Sports Ten 1 HD
+https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jalsa Movies Hd" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sony_Sports_Ten_2.png/revision/latest?cb=20221025084500" group-title="Live Tv",Sony Sports Ten 2 HD
+https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jalsa Movies Hd" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Sony_Sports_Ten_3.png/revision/latest/scale-to-width-down/460?cb=20221025085433" group-title="Live Tv",Sony Sports Ten 3 HD
+https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jalsa Movies Hd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT55VoBYYH9Ut5nwCojJvsC4wxaOuPLsgxeKg&s" group-title="Live Tv",Sony Sports Ten 4 HD
+https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jalsa Movies Hd" tvg-logo="" group-title="Live Tv",Sony Sports Ten 5 HD
+https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jalsa Movies Hd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHnj7BX8yGPS5qGWeme3Q_1uD_h7iSFmk03g&s" group-title="Live Tv",PTV Sports
+http://filex.me:8080/live/444476/444476/453434.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Jalsa Movies Hd" tvg-logo="" group-title="Live Tv",Jalsa Movies Hd
 
 #EXTINF:-1 tvg-id="" tvg-name="Jalsa Movies Hd" tvg-logo="" group-title="Live Tv",Jalsa Movies Hd
@@ -1853,4 +1889,5 @@ https://live.dinesh29.com.np/stream/jiotvplus/starmovieshd/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Jalsa Movies Hd" tvg-logo="" group-title="Live Tv",Jalsa Movies Hd
 
 #EXTINF:-1 tvg-id="" tvg-name="Jalsa Movies Hd" tvg-logo="" group-title="Live Tv",Jalsa Movies Hd
+
 
