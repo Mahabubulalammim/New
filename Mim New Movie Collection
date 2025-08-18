@@ -1816,7 +1816,9 @@ https://live.dinesh29.com.np/stream/jiotvplus/starjalsha/master.m3u8
 #http://38.96.178.201/live/STARJALSHA/index.m3u8
 https://tvsen5.aynaott.com/gUX8BJmNc2yF/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Live Tv",Zee Bangla
-http://smart.bengaldigital.live/Zee-Bangla/index.m3u8
+https://tiger-hub.vercel.app/Zee-bangla/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy7xlHSdOyYb2vpgqEg5szjn_yNHhCbseLnw&s" group-title="Live Tv",Sun Bangla
+http://smart.bengaldigital.live/sun-bangla-paid/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Jalsa Movies Hd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRILnLhGr-_EabZBCgKgo5_qG8jRDStjyokxg&s" group-title="Live Tv",Jalsa Movies Sd
 https://live.dinesh29.com.np/stream/jiotvplus/jalshamovies/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Jalsa Movies Hd" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/200/-/Jalsa_Movies_HD.png" group-title="Live Tv",Jalsa Movies Hd
@@ -1860,6 +1862,14 @@ https://live.dinesh29.com.np/stream/jiotvplus/starplus/master.m3u8
 https://tataplay.slivcdn.com/hls/live/2011749/SABHD/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Sony_Aath_new.png" group-title="Live Tv",Sony Aath
 https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Hum_TV_2013.png" group-title="Live Tv",Hum TV
+http://app.hughag.store/api/4518a8c92f/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Live Tv",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Live Tv",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Live Tv",
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/1200px-T_Sports_logo.svg.png" group-title="Live Tv",Tsports
 https://tvsen6.aynaott.com/tsportsfhd/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Live Tv",Star Movies
