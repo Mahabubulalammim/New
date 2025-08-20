@@ -1854,8 +1854,7 @@ https://tiger-hub.vercel.app/&Picture/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony Hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Live Tv",Sony Hd
 https://tataplay.slivcdn.com/hls/live/2011671/SETHD/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="Live Tv",Star Plus HD
-#https://tiger-hub.vercel.app/Star-plus/tracks-v1a1/mono.ts.m3u8
-https://mxon-xtreme.vercel.app/live/1924.m3u8
+https://portal-to-m3u-07.iptv07india.workers.dev/play.m3u8?id=3070
 #EXTINF:-1 tvg-id="" tvg-name="Sony Hd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="Live Tv",Star Plus SD
 https://live.dinesh29.com.np/stream/jiotvplus/starplus/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Sab_new.png" tvg-logo="" group-title="Live Tv",SONY SAB HD
