@@ -1865,8 +1865,8 @@ https://tvsen6.aynaott.com/Goldmines/index.m3u8?e=1753741248&u=9a031201-22d8-4f7
 https://tvsen6.aynaott.com/GoldminesBollywood/index.m3u8?e=1753741248&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=9f6bd64fef29a5b9fa302efa045f3028
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Live Tv",Goldmines Movies
 https://tvsen6.aynaott.com/GoldminesMovies/index.m3u8?e=1753741248&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=006ccbc9277b06988d2b5bd06073f241
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Live Tv",
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Live Tv",Discovery HD
+https://tvsen6.aynaott.com/discovery_hd_bangla/index.m3u8?e=1753741240&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=34d7b0c19081575434647d295f60ea41
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Live Tv",
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/1200px-T_Sports_logo.svg.png" group-title="Live Tv",Tsports
