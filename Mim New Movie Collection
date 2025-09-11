@@ -1867,10 +1867,19 @@ https://tvsen6.aynaott.com/GoldminesBollywood/index.m3u8?e=1753741248&u=9a031201
 https://tvsen6.aynaott.com/GoldminesMovies/index.m3u8?e=1753741248&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=006ccbc9277b06988d2b5bd06073f241
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Live Tv",Discovery HD
 https://tvsen6.aynaott.com/discovery_hd_bangla/index.m3u8?e=1753741240&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=34d7b0c19081575434647d295f60ea41
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Live Tv",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Live Tv",B4u Music
+https://tvsen6.aynaott.com/b4umusic/index.m3u8?e=1753741247&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=1df77761ea63b6181d11e016ab05f6f0
+#EXTINF:-1 tvg-id="" tvg-name="Jalsa Movies Hd" tvg-logo="" group-title="Live Tv",Shemaroo Tv
+https://tvsen6.aynaott.com/ShemarooTV/index.m3u8?e=1753741250&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=32517bac2c9f4235a8e9d6e057945663
+#EXTINF:-1 tvg-id="" tvg-name="Jalsa Movies Hd" tvg-logo="" group-title="Live Tv",9xm
+https://tvsen6.aynaott.com/9xm/index.m3u8?e=1753741251&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=307bcc06df8b3ff1f35fde6a798b9f6b
+#EXTINF:-1 tvg-id="" tvg-name="Jalsa Movies Hd" tvg-logo="" group-title="Live Tv",Jalsa Movies Hd
+
+#EXTINF:-1 tvg-id="" tvg-name="Jalsa Movies Hd" tvg-logo="" group-title="Live Tv",Jalsa Movies Hd
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/1200px-T_Sports_logo.svg.png" group-title="Live Tv",Tsports
-https://tvsen6.aynaott.com/tsportsfhd/tracks-v1a1/mono.ts.m3u8
+https://tvsen5.aynaott.com/tsports/index.m3u8?e=1753741240&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=b0a46f6a8044d14caad16465ee9c680f
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Live Tv",Star Movies
 https://mxon-xtreme.vercel.app/live/2080.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Jalsa Movies Hd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOj28_xNqgA8eEXNgn3bVk9Ck6SrCNdoAjOQ&s" group-title="Live Tv",Sony Sports Ten 1 HD
