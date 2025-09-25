@@ -1810,6 +1810,7 @@ http://tvsen5.aynaott.com/gUX8BJmNc2yF/tracks-v1a1/mono.ts.m3u8
 https://live.dinesh29.com.np/stream/jiotvplus/starjalsha/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Jalsha HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPtKlL3IqL6UpPRukXghrsvIifMISkNkpKL6JP1OKq68DQK23F78WR2Sk&s=10" group-title="Live Tv",Star Jalsha HD
 http://103.89.248.22:8082/Star_jalsha/tracks-v1/index.fmp4.m3u8?token=8e4230c7835d2b4a51725e6056ec28284afc9004-287f4d039e8da936fbb55b43ddf445f7-1758816938-1758806138
+http://103.89.248.22:8082/Star_jalsha/tracks-a1/seg-0-90699.hls.fmp4?token=56779bbd59d27ecacffb35a516a24be3ec4ad546-1c0da3c40fbed2f14bf16d38ada956c0-1758817226-1758806426
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Live Tv",Zee Bangla
 http://103.89.248.22:8082/zee-bangla/tracks-v1/index.fmp4.m3u8?token=bf0d6b1292b13f9d4e9f4d86ff9dded61a1555bc-1c23757551c344ccd00d47f4df543ef9-1758815050-1758804250
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy7xlHSdOyYb2vpgqEg5szjn_yNHhCbseLnw&s" group-title="Live Tv",Sun Bangla
