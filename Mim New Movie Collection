@@ -1809,19 +1809,19 @@ http://tvsen5.aynaott.com/gUX8BJmNc2yF/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Jalsha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="Live Tv",Star Jalsha
 https://live.dinesh29.com.np/stream/jiotvplus/starjalsha/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Jalsha HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPtKlL3IqL6UpPRukXghrsvIifMISkNkpKL6JP1OKq68DQK23F78WR2Sk&s=10" group-title="Live Tv",Star Jalsha HD
-http://filex.me:8080//live/1234567890/1234567890/522665.ts
+http://103.89.248.10:8082/Star_jalsha/tracks-v1/index.fmp4.m3u8?token=2e4fbb2a69076e21a40f05087591f5162ed18833-7ae943fcf8295a7d7155ca923932e1ac-1758815995-1758805195
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Live Tv",Zee Bangla
-https://tvsen5.aynaott.com/PNEb3v2q6GBk/index.m3u8
+http://103.89.248.22:8082/zee-bangla/tracks-v1/index.fmp4.m3u8?token=bf0d6b1292b13f9d4e9f4d86ff9dded61a1555bc-1c23757551c344ccd00d47f4df543ef9-1758815050-1758804250
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy7xlHSdOyYb2vpgqEg5szjn_yNHhCbseLnw&s" group-title="Live Tv",Sun Bangla
 http://smart.bengaldigital.live/sun-bangla-paid/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Jalsa Movies Hd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRILnLhGr-_EabZBCgKgo5_qG8jRDStjyokxg&s" group-title="Live Tv",Jalsa Movies Sd
 https://live.dinesh29.com.np/stream/jiotvplus/jalshamovies/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Jalsa Movies Hd" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/200/-/Jalsa_Movies_HD.png" group-title="Live Tv",Jalsa Movies Hd
-https://tiger-hub.vercel.app/Jalsha_movies/tracks-v1a1/mono.ts.m3u8
+http://103.89.248.22:8082/JALSHA-MOVIES/tracks-a1/seg-0-90680.hls.fmp4?token=e9607508b9824da868b3b628ebb3700a34ef3491-71fa41ce597a73ada9eb0d271dcdc161-1758815076-1758804276
 #EXTINF:-1 tvg-id="" tvg-name="Jalsa Movies Hd" tvg-logo="" group-title="Live Tv",zee bangla cinema
 http://smart.bengaldigital.live/Zee-Bangla-Cinema/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Colors Bangla" tvg-logo="" group-title="Live Tv",Colors Bangla
-https://tvsen5.aynaott.com/u3LkNQ7UHhFX/tracks-v1a1/mono.ts.m3u8
+http://103.89.248.14:8082/Colors-Bangla/tracks-v1/index.fmp4.m3u8?token=edf09c56d6a8116eba2f4bc267076dba04d2e3d2-0b0c82578a657cbf72667220b9058354-1758815608-1758804808
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/BanglaCinema.jpeg/revision/latest?cb=20191207094555" group-title="Live Tv",Colors Bangla Cinema
 https://tiger-hub.vercel.app/Colors-bangla-cinema/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Colors" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Colors_HD.svg/revision/latest/scale-to-width-down/250?cb=20210207143514" group-title="Live Tv",Colors
