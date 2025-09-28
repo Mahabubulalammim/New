@@ -1,6 +1,27 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282025%29/Lokah%20Chapter%20One-Chandra%20%282025%29%201080p%20HDTC%20%5BMulti%20Audio%5D/a_AL_.jpg" group-title="Movies",Lokah Chapter 1
+http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282025%29/Lokah%20Chapter%20One-Chandra%20%282025%29%201080p%20HDTC%20%5BMulti%20Audio%5D/Lokah%20Chapter%201%20%282025%29%201080p%20HDTC%20x265%20HEVC%20ESub%20%5BMulti%20Audio%5D%5BHindi%20%28Clean%29%2BMalayalam%2BMulti%20CAM%5D%20-HDHub.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282025%29/Kingdom%20%282025%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="Movies",Kingdom
+http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282025%29/Kingdom%20%282025%29%201080p%20%5BDual%20Audio%5D/Kingdom%20a.k.a%20Saamrajya%20%282025%29%20UNCUT%201080p%20DS4K%20WEBRip%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BTelugu%205.1%5D%20-DMV.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282025%29/Robinhood%20%282025%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="Movies",Robinhood
+http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282025%29/Robinhood%20%282025%29%201080p%20%5BDual%20Audio%5D/Robinhood%20%282025%29%20UNCUT%201080p%20WEBRip%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BTelugu%205.1%5D%20-HDHub.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282025%29/Dragon%20%282025%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="Movies",Dragon
+http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282025%29/Dragon%20%282025%29%201080p%20%5BDual%20Audio%5D/Dragon%20%282025%29%20UNCUT%201080p%20WEBRip%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BTamil%205.1%5D%20-DMV.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/1200px-ATN_Bangla.svg.png" group-title="LIVE Tv",ATN Bangla
 http://10.20.30.40:8088/202/tracks-v1a1/mono.m3u8?token=29d7829d923720a76364e5dfa2c6025bbb9e79b1-f30abc75097224068449427545af4428-1759045879-1759042279
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ATN_News_logo.svg/1200px-ATN_News_logo.svg.png" group-title="LIVE Tv",ATN NEWS
