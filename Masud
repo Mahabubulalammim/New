@@ -1,9 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LIVE Tv",Sports
-http://10.20.30.40:8088/101/tracks-v1a1/mono.m3u8?token=949185660fb812f6b2482d513999beae58e39602-adba1c9e0fcc1e90823d71cce474ad89-1759045696-1759042096
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/1200px-T_Sports_logo.svg.png" group-title="LIVE Tv",TSports
-http://10.20.30.40:8088/102/tracks-v1a1/mono.m3u8?token=6bc92a49f0ce7be1b4bbbcbdf60196950764f7da-93fd78801603ee5de2ecbb6be08f9f9b-1759045821-1759042221
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/1200px-ATN_Bangla.svg.png" group-title="LIVE Tv",ATN Bangla
 http://10.20.30.40:8088/202/tracks-v1a1/mono.m3u8?token=29d7829d923720a76364e5dfa2c6025bbb9e79b1-f30abc75097224068449427545af4428-1759045879-1759042279
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ATN_News_logo.svg/1200px-ATN_News_logo.svg.png" group-title="LIVE Tv",ATN NEWS
@@ -52,33 +49,36 @@ http://10.20.30.40:8088/408/tracks-v1a1/mono.m3u8?token=bb041c72fe027ade155b7cd6
 http://10.20.30.40:8088/801/tracks-v1a1/mono.m3u8?token=edb071fbd18ac1ce489efbf8b82ce9b946455439-23a83a5772fc526c1b729aaba312406b-1759047072-1759043472
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/2560px-National_Geographic_Channel.svg.png" group-title="LIVE Tv",National Geography 
 http://10.20.30.40:8088/802/tracks-v1a1/mono.m3u8?token=7869845df6c49cb8d7b236dbc800a602a0aeb121-19e51661930a9d4e62f9ec04b55817cf-1759047108-1759043508
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ae/Sangeet_Bangla_logo_2018.png.webp/revision/latest/scale-to-width-down/250?cb=20240322135006" group-title="LIVE Tv",Sangeet Bangla
+http://10.20.30.40:8088/702/tracks-v1a1/mono.m3u8?token=5ec2c7fb1953b9deaba107df039cbed8dcc6aa73-5f78d1862ca65406c0ff818727306311-1759049376-1759045776
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/Mastiii_2016.png/revision/latest?cb=20240318192049" group-title="LIVE Tv",Masti
+http://10.20.30.40:8088/703/tracks-v1a1/mono.m3u8?token=090fa58ca927a8abdff7340b9f4346ac82c77d1b-15735ff19e60440e29c93d5ff820e5cc-1759049528-1759045928
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/B4U_Music_logo.png" group-title="LIVE Tv",B4U
+http://10.20.30.40:8088/701/tracks-v1a1/2025/09/28/07/58/24-05600.ts?token=3405a519ed3f2f956dce8b3c5c28ae30eb8f2866-c85743255a0e698f7b1bd71e0f7185b9-1759049600-1759046000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/9xm_red.svg/revision/latest?cb=20210508163434" group-title="LIVE Tv",9xm
+http://10.20.30.40:8088/704/tracks-v1a1/mono.m3u8?token=205fc6d67cbf4c19a72df7995d12e1718336660c-57815cd2b3b9f504daf3dab6ec4b10f1-1759049677-1759046077
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9cS6pFMvEWBeTOpYKe-gAtOBUbylm2fnawgc3FUhoKA&s=10" group-title="LIVE Tv",Nick
+http://10.20.30.40:8088/601/tracks-v1a1/mono.m3u8?token=01349874dbeb1f6d237de52c34dd47a567070020-cc79e3f62fa3ae1be865cc4127985d2f-1759049742-1759046142
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqbCPTWJge-eVY-5KHwaujdL-A0xMDd1SiXbt4t8X-zA&s=10" group-title="LIVE Tv",Disney Jr
+http://10.20.30.40:8088/602/tracks-v1a1/mono.m3u8?token=02f105c28b4c9f334ee35b17838029c9e06fec99-5f49d72d961343c46891f3521258456a-1759049815-1759046215
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png" group-title="LIVE Tv",Star Sports 1
+http://10.20.30.40:8088/110/tracks-v1a1/mono.m3u8?token=37cfb18e311f2cedb8d65465a73987a9ad83ceed-ba31b88bfda282d628a0297ae2bdebe9-1759049926-1759046326
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/STAR_Sports_2_logo.png/revision/latest?cb=20150719162835" group-title="LIVE Tv",Star Sports 2
+http://10.20.30.40:8088/115/tracks-v1a1/mono.m3u8?token=a319ca70a96ee81f1213e9380167109bb977d1a4-ac6a143dfd0573f0a3be1edcc3bbaec4-1759050008-1759046408
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png  " group-title="LIVE Tv",Sony Sports 1
+http://10.20.30.40:8088/119/tracks-v1a1/mono.m3u8?token=0dd9026af509d823396eb8b741554bb733ca80be-ae4abf6818b9189b9388927f6e34b35e-1759050099-1759046499
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LIVE Tv",Sony Sports 2
+http://10.20.30.40:8088/120/tracks-v1a1/mono.m3u8?token=d2dc884a492aca3a3071adcd62b157c66df8dac4-93c9fee5c73345d560b1445b05600c06-1759050204-1759046604
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVNVTrEegxS7G9uvj0Q1mD3x5MC21ueSFzJYfBfrvZoA&s=10" group-title="LIVE Tv",Sony Sports 3
+http://10.20.30.40:8088/121/tracks-v1a1/2025/09/28/08/09/12-05600.ts?token=2827c466c303d872a9a77fa74b1dd9ca271894e1-32c6ba9e1217baf76d2bf23eb43397a6-1759050248-1759046648
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Star-sports-select-1.png/revision/latest/scale-to-width-down/200?cb=20230128174436" group-title="LIVE Tv",Star Sports select 1
+http://10.20.30.40:8088/123/tracks-v1a1/mono.m3u8?token=b334fc72518923c7390c9a397b478462fb2ce211-495d0cce1c441335cdd93d847733c927-1759050361-1759046761
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Star-sports-select-2.png/revision/latest?cb=20230128175646" group-title="LIVE Tv",Star Sports select 2
+http://10.20.30.40:8088/124/tracks-v1a1/mono.m3u8?token=1cef9b5cc502fa3fced6db1f0b3662fd1cc2be6f-dee4a73edd8c4cbeb759689394cc19df-1759050478-1759046878
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LIVE Tv",Sports
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LIVE Tv",Sports
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LIVE Tv",Sports
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LIVE Tv",Sports
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LIVE Tv",Sports
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LIVE Tv",Sports
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LIVE Tv",Sports
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LIVE Tv",Sports
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LIVE Tv",Sports
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LIVE Tv",Sports
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LIVE Tv",Sports
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LIVE Tv",Sports
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LIVE Tv",Sports
-
+http://10.20.30.40:8088/101/tracks-v1a1/mono.m3u8?token=949185660fb812f6b2482d513999beae58e39602-adba1c9e0fcc1e90823d71cce474ad89-1759045696-1759042096
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/1200px-T_Sports_logo.svg.png" group-title="LIVE Tv",TSports
+http://10.20.30.40:8088/102/tracks-v1a1/mono.m3u8?token=6bc92a49f0ce7be1b4bbbcbdf60196950764f7da-93fd78801603ee5de2ecbb6be08f9f9b-1759045821-1759042221
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LIVE Tv",Sports
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LIVE Tv",Sports
