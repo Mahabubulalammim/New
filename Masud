@@ -22,6 +22,8 @@ http://10.20.30.40:8088/206/tracks-v1a1/mono.m3u8?token=123fdad238f265aad1597fc0
 http://10.20.30.40:8088/210/tracks-v1a1/mono.m3u8?token=dd60775b7bb21b6cfc202f543322bec156b38453-3f4a51e2c4cb10a44570ecc746efedc3-1759046255-1759042655
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LIVE Tv",Boishakhi tv
 http://10.20.30.40:8088/211/tracks-v1a1/mono.m3u8?token=202898a300e0783a5509877a68d4ed1e074c166a-cdec9863ce860b3cfb990aa7a431dbd6-1759046367-1759042767
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LIVE Tv",Gtv
+http://10.20.30.40:8088/106/tracks-v1a1/mono.m3u8?token=c2873f230f4a79a3b6e47fa75532883f3b96c0e7-db4a95141878345b86168080be8e7ab7-1759047290-1759043690
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LIVE Tv",Banglavision 
 http://10.20.30.40:8088/212/tracks-v1a1/mono.m3u8?token=7664bb15073cd9247d829318edc54d7190763479-f8b0c4606da277a483fedd9fb075f96b-1759046513-1759042913
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LIVE Tv",Star Jalsha
