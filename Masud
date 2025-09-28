@@ -2,55 +2,55 @@
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LIVE Tv",Sports
 http://10.20.30.40:8088/101/tracks-v1a1/mono.m3u8?token=949185660fb812f6b2482d513999beae58e39602-adba1c9e0fcc1e90823d71cce474ad89-1759045696-1759042096
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LIVE Tv",TSports
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/1200px-T_Sports_logo.svg.png" group-title="LIVE Tv",TSports
 http://10.20.30.40:8088/102/tracks-v1a1/mono.m3u8?token=6bc92a49f0ce7be1b4bbbcbdf60196950764f7da-93fd78801603ee5de2ecbb6be08f9f9b-1759045821-1759042221
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LIVE Tv",ATN Bangla
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/1200px-ATN_Bangla.svg.png" group-title="LIVE Tv",ATN Bangla
 http://10.20.30.40:8088/202/tracks-v1a1/mono.m3u8?token=29d7829d923720a76364e5dfa2c6025bbb9e79b1-f30abc75097224068449427545af4428-1759045879-1759042279
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LIVE Tv",ATN NEWS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ATN_News_logo.svg/1200px-ATN_News_logo.svg.png" group-title="LIVE Tv",ATN NEWS
 http://10.20.30.40:8088/203/tracks-v1a1/mono.m3u8?token=8753dc03ff00a463ade15c36008e31fbeb65b9af-0766024887879c6893505646fa35a827-1759045955-1759042355
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LIVE Tv",Ekattar Tv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/1200px-Ekattor_TV_logo.svg.png" group-title="LIVE Tv",Ekattar Tv
 http://10.20.30.40:8088/201/tracks-v1a1/mono.m3u8?token=63d1a64b8d6b3b20aad333846dd1c62133342c18-bb485b6c05f75e0d3a9dfe9c811eac53-1759045995-1759042395
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LIVE Tv",Somoy Tv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/SOMOY_TV_Logo.svg/1200px-SOMOY_TV_Logo.svg.png" group-title="LIVE Tv",Somoy Tv
 http://10.20.30.40:8088/205/tracks-v1a1/mono.m3u8?token=2960e3471399bd57ea353a3d8a909b332e13ca42-c1e5a5cc53a129aff3acfb79b99d6286-1759046033-1759042433
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LIVE Tv",NTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png" group-title="LIVE Tv",NTv
 http://10.20.30.40:8088/208/tracks-v1a1/mono.m3u8?token=63b5992e17df1d79bbe5d1cf101e6a3f96370622-f00f5cc1bf515556dff9c6927912739e-1759046095-1759042495
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LIVE Tv",Jamuna Tv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://jamunagroup.com.bd/company-images/1662487622-mdshamimislam.png" group-title="LIVE Tv",Jamuna Tv
 http://10.20.30.40:8088/209/tracks-v1a1/mono.m3u8?token=e9c314b5884b0296ec7b5bad7f8f97769f3c6cad-822ec3b053f94587a6249a274f10119f-1759046131-1759042531
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LIVE Tv",Masranga
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="LIVE Tv",Masranga
 http://10.20.30.40:8088/206/tracks-v1a1/mono.m3u8?token=123fdad238f265aad1597fc0b0420fdce2473d60-02f63bddc1f853d23efb8211e884b90e-1759046213-1759042613
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LIVE Tv",RTv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/1200px-Rtv_bangladesh.svg.png" group-title="LIVE Tv",RTv
 http://10.20.30.40:8088/210/tracks-v1a1/mono.m3u8?token=dd60775b7bb21b6cfc202f543322bec156b38453-3f4a51e2c4cb10a44570ecc746efedc3-1759046255-1759042655
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LIVE Tv",Boishakhi tv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/1200px-Boishakhi_TV_logo.svg.png" group-title="LIVE Tv",Boishakhi tv
 http://10.20.30.40:8088/211/tracks-v1a1/mono.m3u8?token=202898a300e0783a5509877a68d4ed1e074c166a-cdec9863ce860b3cfb990aa7a431dbd6-1759046367-1759042767
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LIVE Tv",Gtv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Logo_of_GTV_%28Bangladesh%29.svg/1200px-Logo_of_GTV_%28Bangladesh%29.svg.png" group-title="LIVE Tv",Gtv
 http://10.20.30.40:8088/106/tracks-v1a1/mono.m3u8?token=c2873f230f4a79a3b6e47fa75532883f3b96c0e7-db4a95141878345b86168080be8e7ab7-1759047290-1759043690
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LIVE Tv",Banglavision 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWZ4HABUfBspJP_SKv50y-95Cje1Aba52me1mB_AlQHg&s=10" group-title="LIVE Tv",Banglavision 
 http://10.20.30.40:8088/212/tracks-v1a1/mono.m3u8?token=7664bb15073cd9247d829318edc54d7190763479-f8b0c4606da277a483fedd9fb075f96b-1759046513-1759042913
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LIVE Tv",Star Jalsha
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="LIVE Tv",Star Jalsha
 http://10.20.30.40:8088/302/tracks-v1a1/mono.m3u8?token=f8708f16373baff168f7aaae4cb56faa857400ac-3779b0e20f846ff800b626a922cc4281-1759046567-1759042967
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LIVE Tv",Zee Bangla
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png" group-title="LIVE Tv",Zee Bangla
 http://10.20.30.40:8088/301/tracks-v1a1/mono.m3u8?token=32941edd2514c72dcd82452d9c1c0250270a8240-73fdc1d29e6e462597b07a3fe8df552d-1759046623-1759043023
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LIVE Tv",Colors Bangla
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Colors_Bangla.png" group-title="LIVE Tv",Colors Bangla
 http://10.20.30.40:8088/304/tracks-v1a1/mono.m3u8?token=9e6f7524de5d33e38036c934ed298f6d072b5dd0-21b59951283359e216aabe0446b714c3-1759046663-1759043063
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LIVE Tv"Zee Bangla Cinema
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbInmhLWOVoGBWaxS-UJbu5alCS3Z8jPqHhvTP_z8-Gw&s=10" group-title="LIVE Tv"Zee Bangla Cinema
 http://10.20.30.40:8088/305/tracks-v1a1/mono.m3u8?token=cf27c3229d25f5bbc9cc5716f43470b2733252a9-589fc09450827b8e7acc6cfbc8028ce3-1759046713-1759043113
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LIVE Tv",Jalsha Movies
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdyBwrsl0xyznh50S7mAoUmepjRO3ZXexzQ4phPAaxLQ4sN46lHfR5nEyE&s=10" group-title="LIVE Tv",Jalsha Movies
 http://10.20.30.40:8088/303/status.json?token=2b1a27ab6c9e50495501a3639bd239b47e3477bc-07d011566e4e85d385b16e567f8ba880-1759047175-1759043575
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LIVE Tv",Sony Tv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/SETindialogo_new.png" group-title="LIVE Tv",Sony Tv
 http://10.20.30.40:8088/403/tracks-v1a1/mono.m3u8?token=b0a8be9763f81f5788a314d5a102f22abaeb9455-304a131538c87cc01b75742f03a01fda-1759046778-1759043178
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LIVE Tv",Star Plus
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="LIVE Tv",Star Plus
 http://10.20.30.40:8088/401/tracks-v1a1/mono.m3u8?token=6eaa717019660d8f9a1e8d500203ec51cf403e2d-0cd55ec1ce8d062b9e4936ddb50a2fa1-1759046859-1759043259
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LIVE Tv",Colors
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Colors_TV_logo.svg" group-title="LIVE Tv",Colors
 http://10.20.30.40:8088/405/tracks-v1a1/mono.m3u8?token=e0ac67e40ff4deaf000d2d1c70bb4ff98d965693-8fee28ac9d24d5d0c12b4444b428a07f-1759046892-1759043292
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LIVE Tv",Star Gold
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Star_Gold_2020.svg" group-title="LIVE Tv",Star Gold
 http://10.20.30.40:8088/402/tracks-v1a1/mono.m3u8?token=3badc3db5b4470db860a914bb6b1de96c05a17df-5d9bd12e9f7cabb093b89e01a6fa026c-1759046930-1759043330
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LIVE Tv",& Pictures 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDJdDpH0Yww4dMQu5Kt0xvq6X5FRJiHu4u0TocfL1Czg&s=10" group-title="LIVE Tv",& Pictures 
 http://10.20.30.40:8088/407/tracks-v1/mono.m3u8?token=4be7aafab5dbff96c921effccae2b3b3c5864fda-e281e0351a966a9187aecfd5871f1760-1759046970-1759043370
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LIVE Tv",Star Gold Thrill
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/b/bb/Star_Gold_Thrills.png" group-title="LIVE Tv",Star Gold Thrill
 http://10.20.30.40:8088/408/tracks-v1a1/mono.m3u8?token=bb041c72fe027ade155b7cd689ff88ca5e1b1656-31f958271590c0ef05ed206d74af270a-1759047012-1759043412
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LIVE Tv",Discovery
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.worldvectorlogo.com/logos/discovery-channel-4.svg" group-title="LIVE Tv",Discovery
 http://10.20.30.40:8088/801/tracks-v1a1/mono.m3u8?token=edb071fbd18ac1ce489efbf8b82ce9b946455439-23a83a5772fc526c1b729aaba312406b-1759047072-1759043472
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LIVE Tv",National Geography 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/2560px-National_Geographic_Channel.svg.png" group-title="LIVE Tv",National Geography 
 http://10.20.30.40:8088/802/tracks-v1a1/mono.m3u8?token=7869845df6c49cb8d7b236dbc800a602a0aeb121-19e51661930a9d4e62f9ec04b55817cf-1759047108-1759043508
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LIVE Tv",Sports
