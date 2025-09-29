@@ -53,7 +53,7 @@ http://10.20.30.40:8088/304/tracks-v1a1/mono.m3u8?token=9e6f7524de5d33e38036c934
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbInmhLWOVoGBWaxS-UJbu5alCS3Z8jPqHhvTP_z8-Gw&s=10" group-title="LIVE Tv"Zee Bangla Cinema
 http://10.20.30.40:8088/305/tracks-v1a1/mono.m3u8?token=cf27c3229d25f5bbc9cc5716f43470b2733252a9-589fc09450827b8e7acc6cfbc8028ce3-1759046713-1759043113
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdyBwrsl0xyznh50S7mAoUmepjRO3ZXexzQ4phPAaxLQ4sN46lHfR5nEyE&s=10" group-title="LIVE Tv",Jalsha Movies
-http://10.20.30.40:8088/303/status.json?token=2b1a27ab6c9e50495501a3639bd239b47e3477bc-07d011566e4e85d385b16e567f8ba880-1759047175-1759043575
+http://10.20.30.40:8088/303/tracks-v1a1/mono.m3u8?token=c2aa3b1f22a725f8f06bc6499bb78139a1b2fdfe-da9035c329288b26582e87810ce5ae0b-1759167545-1759163945
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/SETindialogo_new.png" group-title="LIVE Tv",Sony Tv
 http://10.20.30.40:8088/403/tracks-v1a1/mono.m3u8?token=b0a8be9763f81f5788a314d5a102f22abaeb9455-304a131538c87cc01b75742f03a01fda-1759046778-1759043178
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="LIVE Tv",Star Plus
