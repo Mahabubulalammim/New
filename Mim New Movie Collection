@@ -1805,7 +1805,7 @@ https://tvsen6.aynaott.com/globaltvhd/index.m3u8?e=1750361548&u=8be812d7-3211-46
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://svf.in/wp-content/uploads/2019/04/sangeet-bangla.jpg" group-title="Live Tv",Sangeet Bangla
 https://cdn-4.pishow.tv/live/1143/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Jalsha hd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPtKlL3IqL6UpPRukXghrsvIifMISkNkpKL6JP1OKq68DQK23F78WR2Sk&s=10" group-title="Live Tv",Star Jalsha hd
-https://live.dinesh29.com.np/stream/jiotvplus/starjalshahd/master.m3u8
+http://103.89.248.22:8082/Star_jalsha/tracks-a1/seg-0-72817.hls.fmp4?token=c27689e2be3decfa0af0468693cc8632463c2bdc-b8b2dc9991b4255ca6d7f90ec6b73fac-1760460369-1760449569
 #EXTINF:-1 tvg-id="" tvg-name="Star Jalsha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="Live Tv",Star Jalsha
 https://live.dinesh29.com.np/stream/jiotvplus/starjalsha/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Jalsha HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPtKlL3IqL6UpPRukXghrsvIifMISkNkpKL6JP1OKq68DQK23F78WR2Sk&s=10" group-title="Live Tv",Star Jalsha HD
