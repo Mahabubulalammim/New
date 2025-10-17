@@ -1805,14 +1805,13 @@ https://tvsen6.aynaott.com/globaltvhd/index.m3u8?e=1750361548&u=8be812d7-3211-46
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://svf.in/wp-content/uploads/2019/04/sangeet-bangla.jpg" group-title="Live Tv",Sangeet Bangla
 https://cdn-4.pishow.tv/live/1143/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Jalsha hd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPtKlL3IqL6UpPRukXghrsvIifMISkNkpKL6JP1OKq68DQK23F78WR2Sk&s=10" group-title="Live Tv",Star Jalsha hd
-http://103.89.248.22:8082/Star_jalsha/tracks-v1/index.fmp4.m3u8?token=c27689e2be3decfa0af0468693cc8632463c2bdc-b8b2dc9991b4255ca6d7f90ec6b73fac-1760460369-1760449569
-http://103.89.248.22:8082/Star_jalsha/tracks-a1/index.fmp4.m3u8?token=c27689e2be3decfa0af0468693cc8632463c2bdc-b8b2dc9991b4255ca6d7f90ec6b73fac-1760460369-1760449569
+https://bongoflixbd.top/stream.php?id=f07177e9-d1a9-48b4-8e2e-1718d098bbfb
 #EXTINF:-1 tvg-id="" tvg-name="Star Jalsha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="Live Tv",Star Jalsha
 https://live.dinesh29.com.np/stream/jiotvplus/starjalsha/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Jalsha HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPtKlL3IqL6UpPRukXghrsvIifMISkNkpKL6JP1OKq68DQK23F78WR2Sk&s=10" group-title="Live Tv",Star Jalsha HD
 http://103.89.248.22:8082/Star_jalsha/tracks-v1/index.fmp4.m3u8?token=56779bbd59d27ecacffb35a516a24be3ec4ad546-1c0da3c40fbed2f14bf16d38ada956c0-1758817226-1758806426
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Live Tv",Zee Bangla
-http://103.89.248.22:8082/zee-bangla/tracks-v1/index.fmp4.m3u8?token=bf0d6b1292b13f9d4e9f4d86ff9dded61a1555bc-1c23757551c344ccd00d47f4df543ef9-1758815050-1758804250
+https://bongoflixbd.top/stream.php?id=890a1a92-0602-4c2d-93ca-a2c43e7aec54
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy7xlHSdOyYb2vpgqEg5szjn_yNHhCbseLnw&s" group-title="Live Tv",Sun Bangla
 http://smart.bengaldigital.live/sun-bangla-paid/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Jalsa Movies Hd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRILnLhGr-_EabZBCgKgo5_qG8jRDStjyokxg&s" group-title="Live Tv",Jalsa Movies Sd
@@ -1851,7 +1850,7 @@ https://tiger-hub.vercel.app/&Picture/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony Hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Live Tv",Sony Hd
 https://tataplay.slivcdn.com/hls/live/2011671/SETHD/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="Live Tv",Star Plus HD
-https://live.dinesh29.com.np/stream/jiotvplus/starplushd/master.m3u8
+https://bongoflixbd.top/stream.php?id=74524e79-5f3a-4824-8202-b9e346acb9a4
 #EXTINF:-1 tvg-id="" tvg-name="Sony Hd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="Live Tv",Star Plus SD
 https://live.dinesh29.com.np/stream/jiotvplus/starplus/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Sab_new.png" tvg-logo="" group-title="Live Tv",SONY SAB HD
