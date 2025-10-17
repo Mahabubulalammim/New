@@ -1805,9 +1805,9 @@ https://tvsen6.aynaott.com/globaltvhd/index.m3u8?e=1750361548&u=8be812d7-3211-46
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://svf.in/wp-content/uploads/2019/04/sangeet-bangla.jpg" group-title="Live Tv",Sangeet Bangla
 https://cdn-4.pishow.tv/live/1143/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Jalsha hd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPtKlL3IqL6UpPRukXghrsvIifMISkNkpKL6JP1OKq68DQK23F78WR2Sk&s=10" group-title="Live Tv",Star Jalsha hd
-https://bongoflixbd.top/stream.php?id=f07177e9-d1a9-48b4-8e2e-1718d098bbfb
+https://tvsen7.aynascope.net/sjhdbd/tracks-v1a1/mono.ts.m3u8?e=1760729791&token=3ea7a07ced2f50b30fe1613ee1857c0a&u=5448cf91-5746-4e78-a357-d45dca5c1ab9
 #EXTINF:-1 tvg-id="" tvg-name="Star Jalsha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="Live Tv",Star Jalsha
-https://live.dinesh29.com.np/stream/jiotvplus/starjalsha/master.m3u8
+http://filex.tv:8080/live/uk1212/123456/499653.ts
 #EXTINF:-1 tvg-id="" tvg-name="Star Jalsha HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPtKlL3IqL6UpPRukXghrsvIifMISkNkpKL6JP1OKq68DQK23F78WR2Sk&s=10" group-title="Live Tv",Star Jalsha HD
 http://103.89.248.22:8082/Star_jalsha/tracks-v1/index.fmp4.m3u8?token=56779bbd59d27ecacffb35a516a24be3ec4ad546-1c0da3c40fbed2f14bf16d38ada956c0-1758817226-1758806426
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Live Tv",Zee Bangla
@@ -1821,7 +1821,7 @@ http://103.89.248.22:8082/JALSHA-MOVIES/tracks-a1/seg-0-90680.hls.fmp4?token=e96
 #EXTINF:-1 tvg-id="" tvg-name="Jalsa Movies Hd" tvg-logo="" group-title="Live Tv",zee bangla cinema
 http://smart.bengaldigital.live/Zee-Bangla-Cinema/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Colors Bangla" tvg-logo="" group-title="Live Tv",Colors Bangla
-http://103.89.248.14:8082/Colors-Bangla/tracks-v1/index.fmp4.m3u8?token=edf09c56d6a8116eba2f4bc267076dba04d2e3d2-0b0c82578a657cbf72667220b9058354-1758815608-1758804808
+https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/BanglaCinema.jpeg/revision/latest?cb=20191207094555" group-title="Live Tv",Colors Bangla Cinema
 https://tiger-hub.vercel.app/Colors-bangla-cinema/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Colors" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Colors_HD.svg/revision/latest/scale-to-width-down/250?cb=20210207143514" group-title="Live Tv",Colors
