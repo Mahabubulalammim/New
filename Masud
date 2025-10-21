@@ -3,8 +3,8 @@
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cds1.discoveryftp.net/Movies/Hindi/2025/Baaghi%204/poster.jpg" group-title="Movies",Baaghi 4
+http://cds1.discoveryftp.net/Movies/Hindi/2025/Baaghi%204/Baaghi-4.2025.1080p.Hindi.WEB-DL.5.1.ESub.x264.mkv?md5=O_efKpXifwwxeuxAC_sqLw&expires=1761072263
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cds1.discoveryftp.net/Movies/Hindi/2025/Ek%20Deewane%20Ki%20Deewaniyat/poster.jpg" group-title="Movies",Ek Deewane ki Ek Deewaniyat
 http://cds1.discoveryftp.net/Movies/Hindi/2025/Ek%20Deewane%20Ki%20Deewaniyat/Ek.Deewane.ki.Deewaniyat.2025.V2.1080p.HDTC.Hindi-Line.x264.mkv?md5=FFrwqnKcwezlU23roIpolg&expires=1761072140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cds1.discoveryftp.net/Movies/Hindi/2025/Thamma/poster.jpg" group-title="Movies",Thama
