@@ -1,13 +1,22 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cds1.discoveryftp.net/Movies/Hindi/2025/Baaghi%204/poster.jpg" group-title="Movies",Baaghi 4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTM5OTFhY2EtMDBhNy00MjViLTgzOTktMzgzY2ZiYjU3NWMzXkEyXkFqcGc@._V1_.jpg" group-title="Movies", Vash Level 2
-http://ftp.timepassbd.live/timepassbd-data/ftp4/MOVIES/SOUTH%20INDIAN%20MOVIES/2025/Vash%20Level%202%20%282025%29/Vash%20Level%202%20%282025%29%201080p%20WEB-DL%20%5BDual%20Audio%5D%20%5BHindi%2BGujarati%5D%20H264.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtgK8bIFPkiZ9FrfVMjtb-_LzB5KLp8lSDj5HSgmHuggINDBzsMnvTpnIu&s=10" group-title="Movies",Sunny Sanskari Ki Tulsi Kumari
+https://fmftp.net/api/stream/video/stream?type=movies&id=20198
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cds1.discoveryftp.net/Movies/Hindi/2025/Thamma/poster.jpg" group-title="Movies",Thamma
 https://fmftp.net/api/stream/video/stream?type=movies&id=20262
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282025%29/Lokah%20Chapter%20One-Chandra%20%282025%29%201080p%20HDTC%20%5BMulti%20Audio%5D/a_AL_.jpg" group-title="Movies",Lokah Chapter 1
