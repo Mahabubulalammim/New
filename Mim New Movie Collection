@@ -10,9 +10,9 @@ https://drive.google.com/file/d/1klrntX1ueTiHqk0lbJ5yoQoQ9u9H4c5K/view
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cds1.discoveryftp.net/Movies/Hindi/2025/Baaghi%204/poster.jpg" group-title="Hindi Movies",Baaghi 4
-http://cds1.discoveryftp.net/Movies/Hindi/2025/Baaghi%204/Baaghi-4.2025.1080p.Hindi.WEB-DL.5.1.ESub.x264.mkv?md5=O_efKpXifwwxeuxAC_sqLw&expires=1761072263
+https://fmftp.net/api/stream/video/stream?type=movies&id=20096
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cds1.discoveryftp.net/Movies/Hindi/2025/Thamma/poster.jpg" group-title="Hindi Movies",Thama
-http://cds1.discoveryftp.net/Movies/Hindi/2025/Thamma/Thamma.2025.1080p.V2-HDTC.Hindi-Line.x264.mkv?md5=DWwLENThUKp4Kq2JbKknqg&expires=1761083928
+https://fmftp.net/api/stream/video/stream?type=movies&id=20262
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",Saiyaara
 https://server3.ftpbd.net/FTP-3/Hindi%20Movies/2025/Saiyaara-2025/Saiyaara-2025-1080p-Hindi-WEBRip.mkv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",Maa
