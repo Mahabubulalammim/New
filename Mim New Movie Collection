@@ -7,6 +7,16 @@ https://drive.google.com/file/d/1klrntX1ueTiHqk0lbJ5yoQoQ9u9H4c5K/view
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media5.bollywoodhungama.in/wp-content/uploads/2024/01/Mastiii4.jpeg" group-title="Hindi Movies",Masti 4
+https://fmftp.net/api/stream/video/stream?type=movies&id=20364
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt6mUM-Gi7GhC8uD7BP2D75iao3WupXSCLvbZen5GcOw&s=10" group-title="Hindi Movies",De De Pyaar De 2
+https://fmftp.net/api/stream/video/stream?type=movies&id=20329
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://stat5.bollywoodhungama.in/wp-content/uploads/2025/08/Jatadhara-3.jpg" group-title="Hindi Movies",Jatadhara
+https://fmftp.net/api/stream/video/stream?type=movies&id=20331
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ38796NBC_mg9Kp0E6A_YNCuRIBf4VR2rcMlOJ8YUXvyG49Lqk9GjH2Io&s=10" group-title="Hindi Movies",The Girlfriend 
+https://fmftp.net/api/stream/video/stream?type=movies&id=20332
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2010/Badmaash%20Company%20(2010)/poster.jpg" group-title="Hindi Movies",Badmaash Company 
 http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2010/Badmaash%20Company%20(2010)/Badmaash.Company.2010.Bluray-1080p.mkv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cds1.discoveryftp.net/Movies/Hindi/2025/Baaghi%204/poster.jpg" group-title="Hindi Movies",Baaghi 4
