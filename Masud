@@ -13,6 +13,8 @@
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWJrRSqR_E6efhpDAhpmKrxqUT-VA4Px1A96X8AxnImgJzLCjIbYizRXxJ&s=10" group-title="Hindi Movies",Tere Ishk Mein
+https://fmftp.net/api/stream/video/stream?type=movies&id=20400
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media5.bollywoodhungama.in/wp-content/uploads/2024/01/Mastiii4.jpeg" group-title="Hindi Movies",Masti 4
 https://fmftp.net/api/stream/video/stream?type=movies&id=20364
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt6mUM-Gi7GhC8uD7BP2D75iao3WupXSCLvbZen5GcOw&s=10" group-title="Hindi Movies",De De Pyaar De 2
