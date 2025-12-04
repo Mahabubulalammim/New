@@ -1626,8 +1626,8 @@ http://cdn.dflix.live:5050/d/Movies/English%20Dubbed%20Movies/2023/Burning%20Bet
 http://cdn.dflix.live:5050/d/Movies/English%20Dubbed%20Movies/2020/365%20Days%20(2020)/365%20Days%20(2020)%20WEBDL-1080p%20Dual%20Audio.mkv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hollywood Hindi Movies",365 days 2
 http://cdn.dflix.live:5050/d/Movies/English%20Dubbed%20Movies/2022/365%20Days%20This%20Day%20(2022)/365.Days.This.Day.2022.1080p.WEB-DL.Hindi-English.x264.5.1.mkv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hollywood Hindi Movies",A good Lowyar Wife
-https://fmftp.net/api/stream/video/stream?type=movies&id=825
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hollywood Hindi Movies",Intimate stranger 
+https://fmftp.net/api/stream/video/stream?type=movies&id=559
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hollywood Hindi Movies",Love Leason
 https://fmftp.net/api/stream/video/stream?type=movies&id=575
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hollywood Hindi Movies",Bad Guy
