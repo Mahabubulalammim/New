@@ -1552,8 +1552,8 @@ http://cdn.dflix.live:5050/d/Movies/English%20Dubbed%20Movies/2024/Deadpool%20%2
 http://cdn.dflix.live:5050/d/Movies/English%20Movies/2000/Malena%20(2000)/Malena%20(2000).mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hollywood Hindi Movies",Deadpool & Wolverine
 http://cdn.dflix.live:5050/d/Movies/English%20Dubbed%20Movies/2024/Deadpool%20%26%20Wolverine%20(2024)/Deadpool%20And%20Wolverine%20(2024)%201080p%20BluRay%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hollywood Hindi Movies",
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hollywood Hindi Movies",Love Leason
+https://fmftp.net/api/stream/video/stream?type=movies&id=575
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hollywood Hindi Movies",
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hollywood Hindi Movies",
