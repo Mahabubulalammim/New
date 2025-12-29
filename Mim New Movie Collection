@@ -1856,13 +1856,13 @@ https://tvsen6.aynaott.com/globaltvhd/index.m3u8?e=1750361548&u=8be812d7-3211-46
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://svf.in/wp-content/uploads/2019/04/sangeet-bangla.jpg" group-title="Live Tv",Sangeet Bangla
 https://cdn-4.pishow.tv/live/1143/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Jalsha hd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPtKlL3IqL6UpPRukXghrsvIifMISkNkpKL6JP1OKq68DQK23F78WR2Sk&s=10" group-title="Live Tv",Star Jalsha hd
-http://103.89.248.10:8082/Star_jalsha/preview.mp4?token=b5ce84b69115d768b5b4075b19021d3c1d71c279-f2989dde6176de282962304ae3aac562-1767008056-1766997256
+https://tvsen1.aynaott.com/gUX8BJmNc2yF/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Jalsha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="Live Tv",Star Jalsha
-http://filex.tv:8080/live/uk1212/123456/499653.ts
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/23218.ts
 #EXTINF:-1 tvg-id="" tvg-name="Star Jalsha HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPtKlL3IqL6UpPRukXghrsvIifMISkNkpKL6JP1OKq68DQK23F78WR2Sk&s=10" group-title="Live Tv",Star Jalsha HD
 http://103.89.248.22:8082/Star_jalsha/tracks-v1/index.fmp4.m3u8?token=56779bbd59d27ecacffb35a516a24be3ec4ad546-1c0da3c40fbed2f14bf16d38ada956c0-1758817226-1758806426
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Live Tv",Zee Bangla
-https://bongoflixbd.top/stream.php?id=890a1a92-0602-4c2d-93ca-a2c43e7aec54
+https://tvsen1.aynaott.com/PNEb3v2q6GBk/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy7xlHSdOyYb2vpgqEg5szjn_yNHhCbseLnw&s" group-title="Live Tv",Sun Bangla
 http://smart.bengaldigital.live/sun-bangla-paid/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Jalsa Movies Hd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRILnLhGr-_EabZBCgKgo5_qG8jRDStjyokxg&s" group-title="Live Tv",Jalsa Movies Sd
@@ -1875,8 +1875,20 @@ http://smart.bengaldigital.live/Zee-Bangla-Cinema/index.m3u8
 https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/BanglaCinema.jpeg/revision/latest?cb=20191207094555" group-title="Live Tv",Colors Bangla Cinema
 https://tiger-hub.vercel.app/Colors-bangla-cinema/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Live Tv",Sony Hd
+https://tataplay.slivcdn.com/hls/live/2011671/SETHD/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Colors" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Colors_HD.svg/revision/latest/scale-to-width-down/250?cb=20210207143514" group-title="Live Tv",Colors
-http://103.89.248.10:8082/Colors-HD/preview.mp4?token=dcceb3596970c83ffd33f851c8ccb962b0dbacd5-053c862cd154c069972785823dcedfc7-1767008167-1766997367
+http://103.140.254.2:3500/live/144.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="Live Tv",Star Plus HD
+https://bongoflixbd.top/stream.php?id=74524e79-5f3a-4824-8202-b9e346acb9a4
+#EXTINF:-1 tvg-id="" tvg-name="Sony Hd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="Live Tv",Star Plus SD
+https://live.dinesh29.com.np/stream/jiotvplus/starplus/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Sab_new.png" tvg-logo="" group-title="Live Tv",SONY SAB HD
+https://tataplay.slivcdn.com/hls/live/2011749/SABHD/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Sony_Aath_new.png" group-title="Live Tv",Sony Aath
+https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Hum_TV_2013.png" group-title="Live Tv",Hum TV
+http://app.hughag.store/api/4518a8c92f/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony Max" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX.png" group-title="Live Tv",Sony Max
 https://tataplay.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX2.png" group-title="Live Tv",Sony MAX 2
@@ -1898,18 +1910,6 @@ http://66.102.120.18:8000/play/a01a/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/pictures-hd4628.logowik.com.webp" group-title="Live Tv",& picture hd
 https://tiger-hub.vercel.app/&Picture/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony Hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Live Tv",Sony Hd
-https://tataplay.slivcdn.com/hls/live/2011671/SETHD/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="Live Tv",Star Plus HD
-https://bongoflixbd.top/stream.php?id=74524e79-5f3a-4824-8202-b9e346acb9a4
-#EXTINF:-1 tvg-id="" tvg-name="Sony Hd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="Live Tv",Star Plus SD
-https://live.dinesh29.com.np/stream/jiotvplus/starplus/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Sab_new.png" tvg-logo="" group-title="Live Tv",SONY SAB HD
-https://tataplay.slivcdn.com/hls/live/2011749/SABHD/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Sony_Aath_new.png" group-title="Live Tv",Sony Aath
-https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Hum_TV_2013.png" group-title="Live Tv",Hum TV
-http://app.hughag.store/api/4518a8c92f/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Live Tv",Goldmines
 https://tvsen6.aynaott.com/Goldmines/index.m3u8?e=1753741248&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=f41a27d784c976576740a2d60821316a
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Live Tv",Goldmines Bollywood
