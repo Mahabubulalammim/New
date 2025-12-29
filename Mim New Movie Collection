@@ -1856,8 +1856,7 @@ https://tvsen6.aynaott.com/globaltvhd/index.m3u8?e=1750361548&u=8be812d7-3211-46
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://svf.in/wp-content/uploads/2019/04/sangeet-bangla.jpg" group-title="Live Tv",Sangeet Bangla
 https://cdn-4.pishow.tv/live/1143/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Jalsha hd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPtKlL3IqL6UpPRukXghrsvIifMISkNkpKL6JP1OKq68DQK23F78WR2Sk&s=10" group-title="Live Tv",Star Jalsha hd
-http://103.240.44.26/Star-Jasha-HD/tracks-a1/index.fmp4.m3u8 
-http://103.240.44.26/Star-Jasha-HD/tracks-v1/index.fmp4.m3u8
+http://103.89.248.10:8082/Star_jalsha/preview.mp4?token=b5ce84b69115d768b5b4075b19021d3c1d71c279-f2989dde6176de282962304ae3aac562-1767008056-1766997256
 #EXTINF:-1 tvg-id="" tvg-name="Star Jalsha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="Live Tv",Star Jalsha
 http://filex.tv:8080/live/uk1212/123456/499653.ts
 #EXTINF:-1 tvg-id="" tvg-name="Star Jalsha HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPtKlL3IqL6UpPRukXghrsvIifMISkNkpKL6JP1OKq68DQK23F78WR2Sk&s=10" group-title="Live Tv",Star Jalsha HD
@@ -1869,7 +1868,7 @@ http://smart.bengaldigital.live/sun-bangla-paid/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Jalsa Movies Hd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRILnLhGr-_EabZBCgKgo5_qG8jRDStjyokxg&s" group-title="Live Tv",Jalsa Movies Sd
 https://live.dinesh29.com.np/stream/jiotvplus/jalshamovies/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Jalsa Movies Hd" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/200/-/Jalsa_Movies_HD.png" group-title="Live Tv",Jalsa Movies Hd
-http://103.89.248.22:8082/JALSHA-MOVIES/tracks-a1/seg-0-90680.hls.fmp4?token=e9607508b9824da868b3b628ebb3700a34ef3491-71fa41ce597a73ada9eb0d271dcdc161-1758815076-1758804276
+http://103.89.248.10:8082/JALSHA-MOVIES/preview.mp4?token=abf50982f298296c8f0a6f4ed3f7cb1fe266b717-5f8bca2b2fbff8978729a65124367064-1767008118-1766997318
 #EXTINF:-1 tvg-id="" tvg-name="Jalsa Movies Hd" tvg-logo="" group-title="Live Tv",zee bangla cinema
 http://smart.bengaldigital.live/Zee-Bangla-Cinema/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Colors Bangla" tvg-logo="" group-title="Live Tv",Colors Bangla
@@ -1877,7 +1876,7 @@ https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/BanglaCinema.jpeg/revision/latest?cb=20191207094555" group-title="Live Tv",Colors Bangla Cinema
 https://tiger-hub.vercel.app/Colors-bangla-cinema/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Colors" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Colors_HD.svg/revision/latest/scale-to-width-down/250?cb=20210207143514" group-title="Live Tv",Colors
-http://filex.me:8080//live/1234567890/1234567890/499616.ts
+http://103.89.248.10:8082/Colors-HD/preview.mp4?token=dcceb3596970c83ffd33f851c8ccb962b0dbacd5-053c862cd154c069972785823dcedfc7-1767008167-1766997367
 #EXTINF:-1 tvg-id="" tvg-name="Sony Max" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX.png" group-title="Live Tv",Sony Max
 https://tataplay.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX2.png" group-title="Live Tv",Sony MAX 2
