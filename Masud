@@ -1,7 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",
 
@@ -61,6 +60,33 @@ http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282023%29/12th%20Fail%20%28202
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTkwZTFjYjItZTdlYi00OGQ3LTg4NWItOTc4MGY0MmI4YjU0XkEyXkFqcGc@._V1_QL75_UX123_.jpg" group-title="Web Series",Episode 1 - Gyaarah Gyaarah
+https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19586
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTkwZTFjYjItZTdlYi00OGQ3LTg4NWItOTc4MGY0MmI4YjU0XkEyXkFqcGc@._V1_QL75_UX123_.jpg" group-title="Web Series",Episode 2 - Gyaarah Gyaarah
+https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19587
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTkwZTFjYjItZTdlYi00OGQ3LTg4NWItOTc4MGY0MmI4YjU0XkEyXkFqcGc@._V1_QL75_UX123_.jpg" group-title="Web Series",Episode 3 - Gyaarah Gyaarah
+https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19588
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTkwZTFjYjItZTdlYi00OGQ3LTg4NWItOTc4MGY0MmI4YjU0XkEyXkFqcGc@._V1_QL75_UX123_.jpg" group-title="Web Series",Episode 4 - Gyaarah Gyaarah
+https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19589
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTkwZTFjYjItZTdlYi00OGQ3LTg4NWItOTc4MGY0MmI4YjU0XkEyXkFqcGc@._V1_QL75_UX123_.jpg" group-title="Web Series",Episode 5 - Gyaarah Gyaarah
+https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19590
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTkwZTFjYjItZTdlYi00OGQ3LTg4NWItOTc4MGY0MmI4YjU0XkEyXkFqcGc@._V1_QL75_UX123_.jpg" group-title="Web Series",Episode 6 - Gyaarah Gyaarah
+https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19591
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTkwZTFjYjItZTdlYi00OGQ3LTg4NWItOTc4MGY0MmI4YjU0XkEyXkFqcGc@._V1_QL75_UX123_.jpg" group-title="Web Series",Episode 7 - Gyaarah Gyaarah
+https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19592
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTkwZTFjYjItZTdlYi00OGQ3LTg4NWItOTc4MGY0MmI4YjU0XkEyXkFqcGc@._V1_QL75_UX123_.jpg" group-title="Web Series",Episode 8 - Gyaarah Gyaarah
+https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19593
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Web Series",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Web Series",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Web Series",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Web Series",
+
 
 
 
