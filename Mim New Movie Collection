@@ -548,8 +548,8 @@ https://fmftp.net/api/stream/video/stream?type=movies&id=20461
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Southindian Hindi Dubbed Movies",
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Southindian Hindi Dubbed Movies",
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Southindian Hindi Dubbed Movies",Akhanda 2
+http://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Akhanda%202%20Thaandavam%20%282025%29%20Hindi%20720p%20HDTS%20x264%20%5BDDN%5D/Akhanda%202%20Thaandavam%20%282025%29%20Hindi%20720p%20HDTS%20x264%20%5BDDN%5D.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwHCAxxdjgrfEi_2alBSedS7UwQ_IFz39oUzzCoH3qS0oomLkv7kPCv5X5&s=10" group-title="Southindian Hindi Dubbed Movies",Idli Kadai
 https://fmftp.net/api/stream/video/stream?type=movies&id=20299
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Southindian Hindi Dubbed Movies",Mirai
