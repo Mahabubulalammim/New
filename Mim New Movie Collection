@@ -3,23 +3,7 @@
 https://drive.google.com/file/d/1klrntX1ueTiHqk0lbJ5yoQoQ9u9H4c5K/view
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTkwZTFjYjItZTdlYi00OGQ3LTg4NWItOTc4MGY0MmI4YjU0XkEyXkFqcGc@._V1_QL75_UX123_.jpg" group-title="Web Series",Episode 1 - Gyaarah Gyaarah
-https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19586
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTkwZTFjYjItZTdlYi00OGQ3LTg4NWItOTc4MGY0MmI4YjU0XkEyXkFqcGc@._V1_QL75_UX123_.jpg" group-title="Web Series",Episode 2 - Gyaarah Gyaarah
-https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19587
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTkwZTFjYjItZTdlYi00OGQ3LTg4NWItOTc4MGY0MmI4YjU0XkEyXkFqcGc@._V1_QL75_UX123_.jpg" group-title="Web Series",Episode 3 - Gyaarah Gyaarah
-https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19588
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTkwZTFjYjItZTdlYi00OGQ3LTg4NWItOTc4MGY0MmI4YjU0XkEyXkFqcGc@._V1_QL75_UX123_.jpg" group-title="Web Series",Episode 4 - Gyaarah Gyaarah
-https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19589
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTkwZTFjYjItZTdlYi00OGQ3LTg4NWItOTc4MGY0MmI4YjU0XkEyXkFqcGc@._V1_QL75_UX123_.jpg" group-title="Web Series",Episode 5 - Gyaarah Gyaarah
-https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19590
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTkwZTFjYjItZTdlYi00OGQ3LTg4NWItOTc4MGY0MmI4YjU0XkEyXkFqcGc@._V1_QL75_UX123_.jpg" group-title="Web Series",Episode 6 - Gyaarah Gyaarah
-https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19591
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTkwZTFjYjItZTdlYi00OGQ3LTg4NWItOTc4MGY0MmI4YjU0XkEyXkFqcGc@._V1_QL75_UX123_.jpg" group-title="Web Series",Episode 7 - Gyaarah Gyaarah
-https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19592
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTkwZTFjYjItZTdlYi00OGQ3LTg4NWItOTc4MGY0MmI4YjU0XkEyXkFqcGc@._V1_QL75_UX123_.jpg" group-title="Web Series",Episode 8 - Gyaarah Gyaarah
-https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19593
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Web Series",
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
@@ -1376,6 +1360,28 @@ http://cdn.dflix.live:5050/d/TV%20Series%20Hindi/Panchayat/Season%201/Panchayat.
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Panchayet S1",Ep-8
 http://cdn.dflix.live:5050/d/TV%20Series%20Hindi/Panchayat/Season%201/Panchayat.S01E08.Jab.Jaago.Tabhi.Savera.1080p.AMZN.WEB-DL.DD%2B5.1.x264-Telly.mkv
 
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTkwZTFjYjItZTdlYi00OGQ3LTg4NWItOTc4MGY0MmI4YjU0XkEyXkFqcGc@._V1_QL75_UX123_.jpg" group-title="Web Series",Episode 1 - Gyaarah Gyaarah
+https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19586
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTkwZTFjYjItZTdlYi00OGQ3LTg4NWItOTc4MGY0MmI4YjU0XkEyXkFqcGc@._V1_QL75_UX123_.jpg" group-title="Web Series",Episode 2 - Gyaarah Gyaarah
+https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19587
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTkwZTFjYjItZTdlYi00OGQ3LTg4NWItOTc4MGY0MmI4YjU0XkEyXkFqcGc@._V1_QL75_UX123_.jpg" group-title="Web Series",Episode 3 - Gyaarah Gyaarah
+https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19588
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTkwZTFjYjItZTdlYi00OGQ3LTg4NWItOTc4MGY0MmI4YjU0XkEyXkFqcGc@._V1_QL75_UX123_.jpg" group-title="Web Series",Episode 4 - Gyaarah Gyaarah
+https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19589
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTkwZTFjYjItZTdlYi00OGQ3LTg4NWItOTc4MGY0MmI4YjU0XkEyXkFqcGc@._V1_QL75_UX123_.jpg" group-title="Web Series",Episode 5 - Gyaarah Gyaarah
+https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19590
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTkwZTFjYjItZTdlYi00OGQ3LTg4NWItOTc4MGY0MmI4YjU0XkEyXkFqcGc@._V1_QL75_UX123_.jpg" group-title="Web Series",Episode 6 - Gyaarah Gyaarah
+https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19591
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTkwZTFjYjItZTdlYi00OGQ3LTg4NWItOTc4MGY0MmI4YjU0XkEyXkFqcGc@._V1_QL75_UX123_.jpg" group-title="Web Series",Episode 7 - Gyaarah Gyaarah
+https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19592
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTkwZTFjYjItZTdlYi00OGQ3LTg4NWItOTc4MGY0MmI4YjU0XkEyXkFqcGc@._V1_QL75_UX123_.jpg" group-title="Web Series",Episode 8 - Gyaarah Gyaarah
+https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19593
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Web Series",
 
 
 
