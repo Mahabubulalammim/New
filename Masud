@@ -14,8 +14,6 @@
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmYwNDViZDctMzdmMi00N2UzLWI2NTktMjU3MjQ3ZDRlMWMwXkEyXkFqcGc@._V1_.jpg" group-title="Movies",Mastiii 4
-https://fmftp.net/api/stream/video/stream?type=movies&id=20364
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Kis_Kisko_Pyaar_Karoon_2.jpg/250px-Kis_Kisko_Pyaar_Karoon_2.jpg" group-title="Movies",Kis Kisko Pyaar Karoon 2
 https://fmftp.net/api/stream/video/stream?type=movies&id=20454
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2ZiZTY3YTUtMjQzNC00N2Q1LWE3MDAtODhiYjAxMGI0YjRmXkEyXkFqcGc@._V1_.jpg" group-title="Movies",Ikkis
@@ -40,7 +38,7 @@ https://fmftp.net/api/stream/video/stream?type=movies&id=20198
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/69/Kantara-_Chapter_1_poster.jpg/250px-Kantara-_Chapter_1_poster.jpg" group-title="Movies",Kantara A Legend Chapter 1
 https://fmftp.net/api/stream/video/stream?type=movies&id=20192
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cds1.discoveryftp.net/Movies/Hindi/2025/Thamma/poster.jpg" group-title="Movies",Thamma
-https://fmftp.net/api/stream/video/stream?type=movies&id=20262
+https://fmftp.net/api/stream/video/stream?type=movies&id=20265
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282025%29/Lokah%20Chapter%20One-Chandra%20%282025%29%201080p%20HDTC%20%5BMulti%20Audio%5D/a_AL_.jpg" group-title="Movies",Lokah Chapter 1
 http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282025%29/Lokah%20Chapter%20One-Chandra%20%282025%29%201080p%20HDTC%20%5BMulti%20Audio%5D/Lokah%20Chapter%201%20%282025%29%201080p%20HDTC%20x265%20HEVC%20ESub%20%5BMulti%20Audio%5D%5BHindi%20%28Clean%29%2BMalayalam%2BMulti%20CAM%5D%20-HDHub.mkv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282025%29/Kingdom%20%282025%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="Movies",Kingdom
