@@ -10,8 +10,8 @@ https://drive.google.com/file/d/1klrntX1ueTiHqk0lbJ5yoQoQ9u9H4c5K/view
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",Border 2
 https://fmftp.net/api/stream/video/stream?type=movies&id=20565
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",Rahu Ketu
+https://fmftp.net/api/stream/video/stream?type=movies&id=20564
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
@@ -536,7 +536,8 @@ https://fmftp.net/api/stream/video/stream?type=movies&id=20271
 https://fmftp.net/api/stream/video/stream?type=movies&id=20354
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bmdb.com.bd/wp-content/uploads/2023/05/noor.jpg" group-title="Bangla Movies",Noor
 https://fmftp.net/api/stream/video/stream?type=movies&id=20461
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bangla Movies",
+https://fmftp.net/api/stream/video/stream?type=movies&id=20529
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Southindian Hindi Dubbed Movies",
