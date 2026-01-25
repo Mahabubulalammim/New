@@ -536,7 +536,7 @@ https://fmftp.net/api/stream/video/stream?type=movies&id=20271
 https://fmftp.net/api/stream/video/stream?type=movies&id=20354
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bmdb.com.bd/wp-content/uploads/2023/05/noor.jpg" group-title="Bangla Movies",Noor
 https://fmftp.net/api/stream/video/stream?type=movies&id=20461
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bangla Movies",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bangla Movies",Aatka
 https://fmftp.net/api/stream/video/stream?type=movies&id=20529
 
 
