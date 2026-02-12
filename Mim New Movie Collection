@@ -16,8 +16,8 @@ https://fmftp.net/api/stream/video/stream?type=movies&id=20564
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",Nerkonda Paarvai
+http://172.16.172.166:8088//Nerkonda.Paarvai.2019.1080p.UNCUT.WEB-DL.[Hindi-Tamil].x264/Nerkonda%20Paarvai%20(2019)%20WEBDL-1080p.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDdiY2EzZjAtY2YxNC00Yjg2LTliNzEtOGNjYTk5YmU4YzA0XkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Tu Meri Main Tera Main Tera Tu Meri
 https://fmftp.net/api/stream/video/stream?type=movies&id=20493
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Dhurandhar_poster.jpg/250px-Dhurandhar_poster.jpg" group-title="Hindi Movies",Dhurandar
