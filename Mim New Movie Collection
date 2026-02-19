@@ -1980,3 +1980,83 @@ https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Jalsa Movies Hd" tvg-logo="" group-title="Live Tv",Jalsa Movies Hd
 
 
+
+
+
+http://103.175.73.12:8080/live/684/684_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EKTV", Channel 686
+http://103.175.73.12:8080/live/686/686_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EKTV", Channel 687
+http://103.175.73.12:8080/live/687/687_0.m3u8
+#EXTINF:-1 group-title="EKTV", Channel 688
+http://103.175.73.12:8080/live/688/688_0.m3u8
+#EXTINF:-1 group-title="EKTV", Channel 689
+http://103.175.73.12:8080/live/689/689_0.m3u8
+#EXTINF:-1 group-title="EKTV", Channel 690
+http://103.175.73.12:8080/live/690/690_0.m3u8
+#EXTINF:-1 group-title="EKTV", Channel 691
+http://103.175.73.12:8080/live/691/691_0.m3u8
+#EXTINF:-1 group-title="EKTV", Channel 692
+http://103.175.73.12:8080/live/692/692_0.m3u8
+#EXTINF:-1 group-title="EKTV", Channel 693
+http://103.175.73.12:8080/live/693/693_0.m3u8
+#EXTINF:-1 group-title="EKTV", Channel 694
+http://103.175.73.12:8080/live/694/694_0.m3u8
+#EXTINF:-1 group-title="EKTV", Channel 695
+http://103.175.73.12:8080/live/695/695_0.m3u8
+#EXTINF:-1 group-title="EKTV", Channel 697
+http://103.175.73.12:8080/live/697/697_0.m3u8
+#EXTINF:-1 group-title="EKTV", Channel 698
+http://103.175.73.12:8080/live/698/698_0.m3u8
+#EXTINF:-1 group-title="EKTV", Channel 699
+http://103.175.73.12:8080/live/699/699_0.m3u8
+#EXTINF:-1 group-title="EKTV", Channel 700
+http://103.175.73.12:8080/live/700/700_0.m3u8
+#EXTINF:-1 group-title="EKTV", Channel 701
+http://103.175.73.12:8080/live/701/701_0.m3u8
+#EXTINF:-1 group-title="EKTV", Channel 702
+http://103.175.73.12:8080/live/702/702_0.m3u8
+#EXTINF:-1 group-title="EKTV", Channel 704
+http://103.175.73.12:8080/live/704/704_0.m3u8
+#EXTINF:-1 group-title="EKTV", Channel 705
+http://103.175.73.12:8080/live/705/705_0.m3u8
+#EXTINF:-1 group-title="EKTV", Channel 706
+http://103.175.73.12:8080/live/706/706_0.m3u8
+#EXTINF:-1 group-title="EKTV", Channel 707
+http://103.175.73.12:8080/live/707/707_0.m3u8
+#EXTINF:-1 group-title="EKTV", Channel 708
+http://103.175.73.12:8080/live/708/708_0.m3u8
+#EXTINF:-1 group-title="EKTV", Channel 709
+http://103.175.73.12:8080/live/709/709_0.m3u8
+#EXTINF:-1 group-title="EKTV", Channel 710
+http://103.175.73.12:8080/live/710/710_0.m3u8
+#EXTINF:-1 group-title="EKTV", Channel 711
+http://103.175.73.12:8080/live/711/711_0.m3u8
+#EXTINF:-1 group-title="EKTV", Channel 712
+http://103.175.73.12:8080/live/712/712_0.m3u8
+#EXTINF:-1 group-title="EKTV", Channel 713
+http://103.175.73.12:8080/live/713/713_0.m3u8
+#EXTINF:-1 group-title="EKTV", Channel 714
+http://103.175.73.12:8080/live/714/714_0.m3u8
+#EXTINF:-1 group-title="EKTV", Channel 715
+http://103.175.73.12:8080/live/715/715_0.m3u8
+#EXTINF:-1 group-title="EKTV", Channel 716
+http://103.175.73.12:8080/live/716/716_0.m3u8
+#EXTINF:-1 group-title="EKTV", Channel 718
+http://103.175.73.12:8080/live/718/718_0.m3u8
+#EXTINF:-1 group-title="EKTV", Channel 724
+http://103.175.73.12:8080/live/724/724_0.m3u8
+#EXTINF:-1 group-title="EKTV", Channel 728
+http://103.175.73.12:8080/live/728/728_0.m3u8
+#EXTINF:-1 group-title="EKTV", Channel 730
+http://103.175.73.12:8080/live/730/730_0.m3u8
+#EXTINF:-1 group-title="EKTV", Channel 732
+http://103.175.73.12:8080/live/732/732_0.m3u8
+#EXTINF:-1 group-title="EKTV", Channel 734
+http://103.175.73.12:8080/live/734/734_0.m3u8
+#EXTINF:-1 group-title="EKTV", Channel 736
+http://103.175.73.12:8080/live/736/736_0.m3u8
+#EXTINF:-1 group-title="EKTV", Channel 738
+http://103.175.73.12:8080/live/738/738_0.m3u8
+#EXTINF:-1 group-title="EKTV", Channel 740
+http://103.175.73.12:8080/live/740/740_0.m3u8
