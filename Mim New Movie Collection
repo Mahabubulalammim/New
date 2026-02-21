@@ -1982,7 +1982,32 @@ https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
 
 
 
-
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 193
+http://103.175.73.12:8080/live/193/193_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 194
+http://103.175.73.12:8080/live/194/194_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 373
+http://103.175.73.12:8080/live/373/373_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 195
+http://103.175.73.12:8080/live/195/195_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 196
+http://103.175.73.12:8080/live/196/196_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 198
+http://103.175.73.12:8080/live/198/198_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 246
+http://103.175.73.12:8080/live/246/246_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 250
+http://103.175.73.12:8080/live/250/250_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 252
+http://103.175.73.12:8080/live/252/252_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 253
+http://103.175.73.12:8080/live/253/253_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 254
+http://103.175.73.12:8080/live/254/254_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 374
+http://103.175.73.12:8080/live/374/374_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 379
+http://103.175.73.12:8080/live/379/379_0.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 1
 http://103.175.73.12:8080/live/1/1_0.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 3
@@ -1993,16 +2018,14 @@ http://103.175.73.12:8080/live/5/5_0.m3u8
 http://103.175.73.12:8080/live/7/7_0.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 9
 http://103.175.73.12:8080/live/9/9_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 10
-http://103.175.73.12:8080/live/10/10_0.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 11
 http://103.175.73.12:8080/live/11/11_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 10
+http://103.175.73.12:8080/live/10/10_0.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 12
 http://103.175.73.12:8080/live/12/12_0.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 13
 http://103.175.73.12:8080/live/13/13_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 14
-http://103.175.73.12:8080/live/14/14_0.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 15
 http://103.175.73.12:8080/live/15/15_0.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 17
@@ -2035,8 +2058,30 @@ http://103.175.73.12:8080/live/34/34_0.m3u8
 http://103.175.73.12:8080/live/35/35_0.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 36
 http://103.175.73.12:8080/live/36/36_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 14
+http://103.175.73.12:8080/live/14/14_0.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 37
 http://103.175.73.12:8080/live/37/37_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 264
+http://103.175.73.12:8080/live/264/264_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 265
+http://103.175.73.12:8080/live/265/265_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 266
+http://103.175.73.12:8080/live/266/266_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 267
+http://103.175.73.12:8080/live/267/267_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 268
+http://103.175.73.12:8080/live/268/268_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 269
+http://103.175.73.12:8080/live/269/269_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 270
+http://103.175.73.12:8080/live/270/270_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 271
+http://103.175.73.12:8080/live/271/271_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 272
+http://103.175.73.12:8080/live/272/272_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 273
+http://103.175.73.12:8080/live/273/273_0.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 38
 http://103.175.73.12:8080/live/38/38_0.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 39
@@ -2055,6 +2100,24 @@ http://103.175.73.12:8080/live/44/44_0.m3u8
 http://103.175.73.12:8080/live/46/46_0.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 47
 http://103.175.73.12:8080/live/47/47_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 149
+http://103.175.73.12:8080/live/149/149_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 153
+http://103.175.73.12:8080/live/153/153_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 154
+http://103.175.73.12:8080/live/154/154_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 155
+http://103.175.73.12:8080/live/155/155_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 156
+http://103.175.73.12:8080/live/156/156_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 157
+http://103.175.73.12:8080/live/157/157_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 158
+http://103.175.73.12:8080/live/158/158_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 159
+http://103.175.73.12:8080/live/159/159_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 161
+http://103.175.73.12:8080/live/161/161_0.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 51
 http://103.175.73.12:8080/live/51/51_0.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 52
@@ -2075,36 +2138,8 @@ http://103.175.73.12:8080/live/61/61_0.m3u8
 http://103.175.73.12:8080/live/62/62_0.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 63
 http://103.175.73.12:8080/live/63/63_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 64
-http://103.175.73.12:8080/live/64/64_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 65
-http://103.175.73.12:8080/live/65/65_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 67
-http://103.175.73.12:8080/live/67/67_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 69
-http://103.175.73.12:8080/live/69/69_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 70
-http://103.175.73.12:8080/live/70/70_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 72
-http://103.175.73.12:8080/live/72/72_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 73
-http://103.175.73.12:8080/live/73/73_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 74
-http://103.175.73.12:8080/live/74/74_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 76
-http://103.175.73.12:8080/live/76/76_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 78
-http://103.175.73.12:8080/live/78/78_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 80
-http://103.175.73.12:8080/live/80/80_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 82
-http://103.175.73.12:8080/live/82/82_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 83
-http://103.175.73.12:8080/live/83/83_0.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 113
 http://103.175.73.12:8080/live/113/113_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 116
-http://103.175.73.12:8080/live/116/116_0.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 121
 http://103.175.73.12:8080/live/121/121_0.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 122
@@ -2127,8 +2162,6 @@ http://103.175.73.12:8080/live/129/129_0.m3u8
 http://103.175.73.12:8080/live/130/130_0.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 131
 http://103.175.73.12:8080/live/131/131_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 132
-http://103.175.73.12:8080/live/132/132_0.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 133
 http://103.175.73.12:8080/live/133/133_0.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 135
@@ -2145,27 +2178,6 @@ http://103.175.73.12:8080/live/143/143_0.m3u8
 http://103.175.73.12:8080/live/144/144_0.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 145
 http://103.175.73.12:8080/live/145/145_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 149
-http://103.175.73.12:8080/live/149/149_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 153
-http://103.175.73.12:8080/live/153/153_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 154
-http://103.175.73.12:8080/live/154/154_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 155
-http://103.175.73.12:8080/live/155/155_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 156
-http://103.175.73.12:8080/live/156/156_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 157
-http://103.175.73.12:8080/live/157/157_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 158
-http://103.175.73.12:8080/live/158/158_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 159
-http://103.175.73.12:8080/live/159/159_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 161
-http://103.175.73.12:8080/live/161/161_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 164
-http://103.175.73.12:8080/live/164/164_0.m3u8
-http://103.175.73.12:8080/live/172/172_0.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 173
 http://103.175.73.12:8080/live/173/173_0.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 174
@@ -2186,18 +2198,6 @@ http://103.175.73.12:8080/live/181/181_0.m3u8
 http://103.175.73.12:8080/live/188/188_0.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 189
 http://103.175.73.12:8080/live/189/189_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 193
-http://103.175.73.12:8080/live/193/193_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 194
-http://103.175.73.12:8080/live/194/194_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 195
-http://103.175.73.12:8080/live/195/195_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 196
-http://103.175.73.12:8080/live/196/196_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 198
-http://103.175.73.12:8080/live/198/198_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 246
-http://103.175.73.12:8080/live/246/246_0.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 247
 http://103.175.73.12:8080/live/247/247_0.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 250
@@ -2218,26 +2218,6 @@ http://103.175.73.12:8080/live/257/257_0.m3u8
 http://103.175.73.12:8080/live/258/258_0.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 261
 http://103.175.73.12:8080/live/261/261_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 264
-http://103.175.73.12:8080/live/264/264_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 265
-http://103.175.73.12:8080/live/265/265_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 266
-http://103.175.73.12:8080/live/266/266_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 267
-http://103.175.73.12:8080/live/267/267_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 268
-http://103.175.73.12:8080/live/268/268_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 269
-http://103.175.73.12:8080/live/269/269_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 270
-http://103.175.73.12:8080/live/270/270_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 271
-http://103.175.73.12:8080/live/271/271_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 272
-http://103.175.73.12:8080/live/272/272_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 273
-http://103.175.73.12:8080/live/273/273_0.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 274
 http://103.175.73.12:8080/live/274/274_0.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 277
@@ -2288,10 +2268,6 @@ http://103.175.73.12:8080/live/352/352_0.m3u8
 http://103.175.73.12:8080/live/354/354_0.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 368
 http://103.175.73.12:8080/live/368/368_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 373
-http://103.175.73.12:8080/live/373/373_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 374
-http://103.175.73.12:8080/live/374/374_0.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 375
 http://103.175.73.12:8080/live/375/375_0.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 378
@@ -2338,3 +2314,29 @@ http://103.175.73.12:8080/live/673/673_0.m3u8
 http://103.175.73.12:8080/live/688/688_0.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 695
 http://103.175.73.12:8080/live/695/695_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 64
+http://103.175.73.12:8080/live/64/64_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 65
+http://103.175.73.12:8080/live/65/65_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 67
+http://103.175.73.12:8080/live/67/67_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 69
+http://103.175.73.12:8080/live/69/69_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 70
+http://103.175.73.12:8080/live/70/70_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 72
+http://103.175.73.12:8080/live/72/72_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 73
+http://103.175.73.12:8080/live/73/73_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 74
+http://103.175.73.12:8080/live/74/74_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 76
+http://103.175.73.12:8080/live/76/76_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 78
+http://103.175.73.12:8080/live/78/78_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 80
+http://103.175.73.12:8080/live/80/80_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 82
+http://103.175.73.12:8080/live/82/82_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live Tv", Channel 83
+http://103.175.73.12:8080/live/83/83_0.m3u8
