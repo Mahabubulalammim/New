@@ -2,8 +2,15 @@
 
 
 
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",pengadi setan
+https://fmftp.net/api/stream/video/stream?type=movies&id=18007
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",in the tall grass
+https://fmftp.net/api/stream/video/stream?type=movies&id=18005
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",Sewu Dino
+https://fmftp.net/api/stream/video/stream?type=movies&id=18019
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",The Bluff
 https://fmftp.net/api/stream/video/stream?type=movies&id=20644
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",Thudarum
