@@ -6,8 +6,8 @@
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",Bhooth Bangla
+https://fmftp.net/api/stream/video/stream?type=movies&id=20813
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",Pati Patni Aur Woh Do
 https://fmftp.net/api/stream/video/stream?type=movies&id=20885
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",Jana Nayagan
