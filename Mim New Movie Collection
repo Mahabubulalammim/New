@@ -18,7 +18,7 @@ EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
 
 EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
 
-EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",Michael
 https://fmftp.net/api/stream/video/stream?type=movies&id=1259
@@ -551,7 +551,14 @@ http://cdn.dflix.live:5050/d/Movies/Hindi%20Movies/2022/Vikram%20Vedha%20(2022)/
 
 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR61CLvbrWYyHyFxExpSnG3UGQThxqRPnvB0QzoTGmyGg&s=10" group-title="Movies",Bonolota Express
+https://fmftp.net/api/stream/video/stream?type=movies&id=20909
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGM2ZWUyNDItMzQxYi00NDU5LThhOTEtODQzODgxNmMzYWVlXkEyXkFqcGc@._V1_.jpg" group-title="Movies",Prince Once Upon a Time in Dhaka
+https://fmftp.net/api/stream/video/stream?type=movies&id=20886
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTX_rL_SAYs1-gu7bjMQHKhNs7x0drjilkfYJNCZjiio1LCvVE1Lg_UXrf&s=10" group-title="Movies",Domm
+https://fmftp.net/api/stream/video/stream?type=movies&id=20887
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTliMTg2MWMtZmM2NS00MWFmLTg1NjMtYTdmZmM4ZjEyZGZkXkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg" group-title="Movies",Rakkhosh
+https://fmftp.net/api/stream/video/stream?type=movies&id=20888
 #EXTINF:-1 tvg-id="" tvg-name="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUcQdXpnYMlIpy2vHYkNH_ftU5HGbsStJNt0NuojPB_40YVQYQctqERCw&s=10" tvg-logo="" group-title="Bangla Movies",Grehoprobesh
 https://fmftp.net/api/stream/video/stream?type=movies&id=20271
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQrtbZXO-irYq2Y5p_5s0-6ZmJLIsYZNcsoMgLDuxwrDD9zmWLkMhQhhvu&s=10" group-title="Bangla Movies",Neel Chakra
@@ -560,6 +567,7 @@ https://fmftp.net/api/stream/video/stream?type=movies&id=20354
 https://fmftp.net/api/stream/video/stream?type=movies&id=20461
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bangla Movies",Aatka
 https://fmftp.net/api/stream/video/stream?type=movies&id=20529
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Southindian Hindi Dubbed Movies",
