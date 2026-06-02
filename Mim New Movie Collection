@@ -173,6 +173,20 @@ EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV
 https://fmftp.net/api/stream/video/stream?type=movies&id=20098
 EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWViYzgzNzQtMTA0YS00NmRhLWFhZDEtNzEzMjM5OTA4NzRhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Bangla Movies",Borbaad
 https://fmftp.net/api/stream/video/stream?type=movies&id=18616
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGRlNWFmNmItZjFkMy00OGRkLWEyMzUtNDZlMDIxMjRlN2M2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Bangla Movies",Daagi
+https://fmftp.net/api/stream/video/stream?type=movies&id=18619
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/72/Chokkor_302_official_logo.jpg" group-title="Bangla Movies",Chokkor 302
+https://fmftp.net/api/stream/video/stream?type=movies&id=18623
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGI2NjI2MzAtNTkwYi00NWRlLWIwN2ItYTYyYTc3YjE0NjdlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Bangla Movies",Jongli
+https://fmftp.net/api/stream/video/stream?type=movies&id=18624
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzdlMDUyZGItYTBkYS00OWJjLTkyMjYtZGE0ZDVjYmQ1ZWJjXkEyXkFqcGc@._V1_.jpg" group-title="Bangla Movies",Toofan
+https://fmftp.net/api/stream/video/stream?type=movies&id=18641
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzhhMjAyMmItZTAwNS00ZmI1LThlZmMtYWE0ZmE0N2FiMmExXkEyXkFqcGc@._V1_.jpg" group-title="Bangla Movies",Last Defenders of Monogamy
+https://fmftp.net/api/stream/video/stream?type=movies&id=18639
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDc5YjcxYmEtOWYzMy00YjE2LThiMTEtZmYyYzI2NGFjMzk1XkEyXkFqcGc@._V1_.jpg" group-title="Bangla Movies",Antaratma
+https://fmftp.net/api/stream/video/stream?type=movies&id=20459
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b4/Hubba_film_poster.jpg" group-title="Bangla Movies",Hubba
+https://fmftp.net/api/stream/video/stream?type=movies&id=18648
 EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bangla Movies",
 
 EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bangla Movies",
@@ -188,7 +202,6 @@ EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bangla Movies",
 EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bangla Movies",
 
 EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bangla Movies",
-
 
 
 
