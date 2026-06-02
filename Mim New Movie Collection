@@ -68,6 +68,12 @@ EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV
 https://fmftp.net/api/stream/video/stream?type=movies&id=20811
 EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWVmYmJhOTMtMzlhOS00ZDgwLWE3OGUtMGJmZTI3MjRiZmJhXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",The Raja Saab
 https://fmftp.net/api/stream/video/stream?type=movies&id=20608
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5e/Ikkis_Poster.jpg" group-title="Hindi Movies",Ikkis
+https://fmftp.net/api/stream/video/stream?type=movies&id=20505
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjZkNmI4MWUtMDAzNS00OTAzLWJmNDYtMDBkMGQyZWRiMzVjXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Ek Din
+https://fmftp.net/api/stream/video/stream?type=movies&id=20855
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmEwNTU4MzEtY2Y4Ni00ZWRmLThhMGMtMDE5MTZmMDIzMGVjXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Raja Shivaji
+https://fmftp.net/api/stream/video/stream?type=movies&id=20867
 EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
 
 EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
@@ -82,32 +88,26 @@ EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
 
 EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
 
-EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
-
-EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
-
-EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
 
 
 
 
 
 
-
-EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Southindian Hindi Dubbed",
-
-EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Southindian Hindi Dubbed",
-
-EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Southindian Hindi Dubbed",
-
-EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Southindian Hindi Dubbed",
-
-EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Southindian Hindi Dubbed",
-
-EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Southindian Hindi Dubbed",
-
-EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Southindian Hindi Dubbed",
-
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTBiYWQyMWQtYTQwMC00NmZiLWFkOWYtNmNlNjM4NDlkNjQ4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Southindian Hindi Dubbed",Sathi Leelavathi
+https://fmftp.net/api/stream/video/stream?type=movies&id=20918
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDUzOGQyNTEtZDlhOC00OTRlLThiNzMtMWI5NDliYWVhMTllXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Southindian Hindi Dubbed",Kara
+https://fmftp.net/api/stream/video/stream?type=movies&id=20915
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5FJuZJLGDzsBPlFyMwDOgLeCva0vmlRMT5g&s" group-title="Southindian Hindi Dubbed",Madhuvidhu
+https://fmftp.net/api/stream/video/stream?type=movies&id=20904
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTk2NjNmYjUtMGEzNS00ZDFiLWE5NmItMDAzZDAyNDYwYTA1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Southindian Hindi Dubbed",TN 2026
+https://fmftp.net/api/stream/video/stream?type=movies&id=20919
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTA2YzhlYTUtMGJmMS00MjlmLWExMjYtOWEzOTBmMTViMWQyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Southindian Hindi Dubbed",Dacoit
+https://fmftp.net/api/stream/video/stream?type=movies&id=20794
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzZkN2FlMTQtZTI1MC00OGE4LTgxNDktOTdjNTlhYzVkN2MwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Southindian Hindi Dubbed",Mohiniyattam
+https://fmftp.net/api/stream/video/stream?type=movies&id=20869
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGViNGU3MWUtNDY0Zi00ZTJiLTg0MDUtZGNkN2ZkNjYwOWJhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Southindian Hindi Dubbed",Love Insurance Kompany
+https://fmftp.net/api/stream/video/stream?type=movies&id=20868
 EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Southindian Hindi Dubbed",
 
 EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Southindian Hindi Dubbed",
