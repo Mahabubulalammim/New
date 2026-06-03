@@ -247,3 +247,25 @@ https://fmftp.net/api/stream/video/stream?type=tv_shows&id=26011
 
 #EXTINF:-1 group-title="Web Series → Nishir Daak → Season 1",Episode 3
 https://fmftp.net/api/stream/video/stream?type=tv_shows&id=26012
+
+
+# =========================
+# SERIES: Nishir Daak
+# SEASON 1
+# =========================
+
+#EXTINF:-1 group-title="Web Series | Nishir Daak | Season 1",S01E01 - Episode 1
+https://fmftp.net/api/stream/video/stream?type=tv_shows&id=26010
+
+#EXTINF:-1 group-title="Web Series | Nishir Daak | Season 1",S01E02 - Episode 2
+https://fmftp.net/api/stream/video/stream?type=tv_shows&id=26011
+
+#EXTINF:-1 group-title="Web Series | Nishir Daak | Season 1",S01E03 - Episode 3
+https://fmftp.net/api/stream/video/stream?type=tv_shows&id=26011
+
+#EXTINF:-1 group-title="Web Series | Nishir Daak | Season 1",S01E04 - Episode 4
+http://example.com/mh_s1e04.m3u8
+
+#EXTINF:-1 group-title="Web Series | Nishir Daak | Season 1",S01E05 - Episode 5
+http://example.com/mh_s1e05.m3u8
+
