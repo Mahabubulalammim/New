@@ -1,8 +1,8 @@
 #EXTM3U
 
 
-
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",Arjun Son O/f Vyjayanthi
+https://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI-DUBBED/%282025%29/Arjun-Son-Of-Vyjayanthi-2025/Arjun-Son-Of-Vyjayanthi-2025-1080p-WEBDL-Hindi-HQ-Studio-Dub_reencoded.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",Patriot
 https://fmftp.net/api/stream/video/stream?type=movies&id=20934
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR61CLvbrWYyHyFxExpSnG3UGQThxqRPnvB0QzoTGmyGg&s=10" group-title="Movies",Bonolota Express
