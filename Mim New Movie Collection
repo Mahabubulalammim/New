@@ -244,35 +244,67 @@ https://fmftp.net/api/stream/video/stream?type=movies&id=18648
 
 
 
-#EXTM3U
-
-#EXTINF:-1 group-title="Web Series → Nishir Daak → Season 1",Episode 1
-https://fmftp.net/api/stream/video/stream?type=tv_shows&id=26010
-
-#EXTINF:-1 group-title="Web Series → Nishir Daak → Season 1",Episode 2
-https://fmftp.net/api/stream/video/stream?type=tv_shows&id=26011
-
-#EXTINF:-1 group-title="Web Series → Nishir Daak → Season 1",Episode 3
-https://fmftp.net/api/stream/video/stream?type=tv_shows&id=26012
 
 
-# =========================
-# SERIES: Nishir Daak
-# SEASON 1
-# =========================
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZThmNDg1NjUtNWJhMC00YjA3LWJiMjItNmM4ZDQ5ZGZiN2Y2XkEyXkFqcGc@._V1_.jpg" group-title="4K Hindi Movies",Animal
+https://server3.ftpbd.net/FTP-3/Hindi%20Movies/Hindi-4K-Movies/Animal-2023/Animal%20%282023%29%20Hindi%20NF%20WEB-DL%202160p_h264_reencoded.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Article_370_film_poster.jpeg/250px-Article_370_film_poster.jpeg" group-title="4K Hindi Movies",Article 370
+https://server3.ftpbd.net/FTP-3/Hindi%20Movies/Hindi-4K-Movies/Article-370-2024/Article.370.2024.2160p.NF.WEB-DL.DDP5.1.HEVC_reencoded.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2QxNGM0OTItMjE1MS00ZjRiLTg3ZTItMTg1NGMyNmRiMjc4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="4K Hindi Movies",Bad Newz
+https://server3.ftpbd.net/FTP-3/Hindi%20Movies/Hindi-4K-Movies/Bad-Newz-2024/Bad.Newz.2024.2160p.AMZN.WEB-DL.DDP5.1.HDR_h264_reencoded.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjNjYzk0NDMtNjU3NC00ZTRhLTkwNmMtN2FhYzc5MmNiNjg4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="4K Hindi Movies",Bajirao Mastani
+https://server3.ftpbd.net/FTP-3/Hindi%20Movies/Hindi-4K-Movies/Bajirao-Mastani-2015/Bajirao-Mastani-2015-4K-BluRay_reencoded.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzMzYzZiNWYtZDNlMy00YzIwLTk3YWYtYmMyZjc3NGQ5ZTk5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="4K Hindi Movies",Bholaa
+https://server3.ftpbd.net/FTP-3/Hindi%20Movies/Hindi-4K-Movies/Bholaa-2023-4K/Bholaa%20%282023%29%202160p%20WEB-DL%20Hindi%20DDP5.1%20H264_h264_reencoded.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/Bol_Bachchan.jpg" group-title="4K Hindi Movies",Bol Bachchan
+https://server3.ftpbd.net/FTP-3/Hindi%20Movies/Hindi-4K-Movies/Bol-Bachchan-2012-4K/Bol-Bachchan-2012-2160p-BluRay_reencoded.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://resizing.flixster.com/Pqi5P6v8Vu_hAAh3O9edOTpM7H0=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzkzODFmYWI3LTA0OTAtNGZmNy05NGI5LWYzMGUxY2M0NDhkMC5qcGc=" group-title="4K Hindi Movies",Brahmastra Part One Shiva
+https://server3.ftpbd.net/FTP-3/Hindi%20Movies/Hindi-4K-Movies/Brahmastra-Part-One-Shiva-2022-4K/Brahmastra%20Part%20One%20Shiva%202022%20Hindi%20WEB-DL%204K%20UHD%20HEVC_h264_reencoded.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/Chandu_Champion_film_poster.jpg" group-title="4K Hindi Movies",Chandu Champion
+https://server3.ftpbd.net/FTP-3/Hindi%20Movies/Hindi-4K-Movies/Chandu-Champion-2024-4K/Chandu.Champion.2024.4K-2160p.HEVC.AMZN.WEB-DL.Hindi.DDP.5.1.ESub.x265_h264_reencoded.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWI4N2Y5NWUtNzEwOC00YjYzLWEzY2ItN2YwYTIxYzBjZGZmXkEyXkFqcGc@._V1_.jpg" group-title="4K Hindi Movies",Chhaava
+https://server3.ftpbd.net/FTP-3/Hindi%20Movies/Hindi-4K-Movies/Chhaava-2025-4K/Chhaava-2025-2160p-WEBDL-Hindi_reencoded.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmJlYjk1ZGMtMGUzYS00NWEwLTliNTktOTE3NzRjOGY1Mzg5XkEyXkFqcGc@._V1_.jpg" group-title="4K Hindi Movies",Crew
+https://server3.ftpbd.net/FTP-3/Hindi%20Movies/Hindi-4K-Movies/Crew-2024-4K/Crew.2024.2160p.NF.WEB-DL.DDP5.1.SDR.H265_h264_reencoded.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDIxODBmZjYtYWM3Ny00N2U1LWI3M2ItMzZkNmQ4NWYyNDFlXkEyXkFqcGc@._V1_.jpg" group-title="4K Hindi Movies",Dhoom 3
+https://server3.ftpbd.net/FTP-3/Hindi%20Movies/Hindi-4K-Movies/Dhoom-3-2013-4K/Dhoom%203%20%282013%29%20-%204K%20UHD%20BluRay_reencoded.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTA3MDQ3ODAtNjcyMi00ODQ3LWEyZDMtMjliMzM0MGU3N2ZhXkEyXkFqcGc@._V1_.jpg" group-title="4K Hindi Movies",Dhurandhar
+https://server3.ftpbd.net/FTP-3/Hindi%20Movies/Hindi-4K-Movies/Dhurandhar-2025-4K/Dhurandhar-2025-2160p-Hindi-WEBDL_reencoded.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzdkNjAxNWMtNWY3My00NTI1LTg2YWQtOGI3MDA0NzdhMjEyXkEyXkFqcGc@._V1_.jpg" group-title="4K Hindi Movies",Dhurandhar The Revenge
+https://server3.ftpbd.net/FTP-3/Hindi%20Movies/Hindi-4K-Movies/Dhurandhar-The-Revenge-2026-4K/Dhurandhar-The-Revenge-2026-2160p-Hindi-WEBDL_reencoded.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDgxYmY0ZjYtMzBlZS00NDViLWJlN2UtMjgwNGFjZmRiMmQxXkEyXkFqcGc@._V1_.jpg" group-title="4K Hindi Movies",Drishyam 2
+https://server3.ftpbd.net/FTP-3/Hindi%20Movies/Hindi-4K-Movies/Drishyam-2-2022-4K/Drishyam%202%20%282022%29%202160p%20AMZN%20WEB-DL%20DDP5.1%20HEVC_h264_reencoded.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K Hindi Movies",
 
-#EXTINF:-1 group-title="Web Series | Nishir Daak | Season 1",S01E01 - Episode 1
-https://fmftp.net/api/stream/video/stream?type=tv_shows&id=26010
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K Hindi Movies",
 
-#EXTINF:-1 group-title="Web Series | Nishir Daak | Season 1",S01E02 - Episode 2
-https://fmftp.net/api/stream/video/stream?type=tv_shows&id=26011
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K Hindi Movies",
 
-#EXTINF:-1 group-title="Web Series | Nishir Daak | Season 1",S01E03 - Episode 3
-https://fmftp.net/api/stream/video/stream?type=tv_shows&id=26011
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K Hindi Movies",
 
-#EXTINF:-1 group-title="Web Series | Nishir Daak | Season 1",S01E04 - Episode 4
-http://example.com/mh_s1e04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K Hindi Movies",
 
-#EXTINF:-1 group-title="Web Series | Nishir Daak | Season 1",S01E05 - Episode 5
-http://example.com/mh_s1e05.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K Hindi Movies",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
