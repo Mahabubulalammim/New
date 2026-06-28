@@ -1,250 +1,278 @@
+
 #EXTM3U
+#EXTINF:0,tvg-logo="https://i.ibb.co/8YJPCnv/FB-IMG-1676125032376.jpg",Md.Mahabubul Alam Mim
+https://drive.google.com/file/d/1klrntX1ueTiHqk0lbJ5yoQoQ9u9H4c5K/view
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",Arjun Son O/f Vyjayanthi
-https://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI-DUBBED/%282025%29/Arjun-Son-Of-Vyjayanthi-2025/Arjun-Son-Of-Vyjayanthi-2025-1080p-WEBDL-Hindi-HQ-Studio-Dub_reencoded.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",Patriot
-https://fmftp.net/api/stream/video/stream?type=movies&id=20934
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR61CLvbrWYyHyFxExpSnG3UGQThxqRPnvB0QzoTGmyGg&s=10" group-title="Movies",Bonolota Express
-https://fmftp.net/api/stream/video/stream?type=movies&id=20909
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGM2ZWUyNDItMzQxYi00NDU5LThhOTEtODQzODgxNmMzYWVlXkEyXkFqcGc@._V1_.jpg" group-title="Movies",Prince Once Upon a Time in Dhaka
-https://fmftp.net/api/stream/video/stream?type=movies&id=20886
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTX_rL_SAYs1-gu7bjMQHKhNs7x0drjilkfYJNCZjiio1LCvVE1Lg_UXrf&s=10" group-title="Movies",Domm
-https://fmftp.net/api/stream/video/stream?type=movies&id=20887
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTliMTg2MWMtZmM2NS00MWFmLTg1NjMtYTdmZmM4ZjEyZGZkXkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg" group-title="Movies",Rakkhosh
-https://fmftp.net/api/stream/video/stream?type=movies&id=20888
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",Patriot
-https://fmftp.net/api/stream/video/stream?type=movies&id=20934
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",Bhooth Bangla
-https://fmftp.net/api/stream/video/stream?type=movies&id=20813
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",Pati Patni Aur Woh Do
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY5ODUxNDctZGJjNC00OTk0LWIzMzAtMWQ5NTAyMGZhY2NmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Welcome to the Jungle
+https://fmftp.net/api/stream/video/stream?type=movies&id=20993
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjFr3ysBEwmNVIrABKyFOTUsLPTYll79z_rph6tHz8Tvx9qrts8Z9S-fE&s=10" group-title="Hindi Movies",Cocktail 2
+https://fmftp.net/api/stream/video/stream?type=movies&id=20977
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWE1OTg5ZDMtYjllZC00YzE2LTg1N2UtZmI0OTBmMWE3NzFkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Hai Jawani Toh Ishq Hona Hai
+https://fmftp.net/api/stream/video/stream?type=movies&id=20935
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzIwMzcwNzEtYzU4ZS00ZjhjLWFlYTAtMzc4Y2RjMDFjNDNlXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Chand Mera Dil
+https://fmftp.net/api/stream/video/stream?type=movies&id=20914
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGEyMzAxZTEtNTMzZi00NTU5LTg2OTktNzM2YTYxMzdkODE3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",System
+https://fmftp.net/api/stream/video/stream?type=movies&id=20901
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2VlMTM0OTEtYmU1My00ODBhLTk2MzItMDlkMDRiZjcwYWQ1XkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Aakhri Sawal
+https://fmftp.net/api/stream/video/stream?type=movies&id=20899
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmE0ZTA5MTgtNTE4NC00NThmLWFiM2EtZTI2MTc2Y2FmZjkwXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Pati Patni Aur Woh Do
 https://fmftp.net/api/stream/video/stream?type=movies&id=20885
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",Jana Nayagan
-https://fmftp.net/api/stream/video/stream?type=movies&id=20854
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",Pallichattambi
-https://fmftp.net/api/stream/video/stream?type=movies&id=20826
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",Sambhavam Adhyayam Onnu
-https://fmftp.net/api/stream/video/stream?type=movies&id=20797
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",pengadi setan
-https://fmftp.net/api/stream/video/stream?type=movies&id=18007
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",in the tall grass
-https://fmftp.net/api/stream/video/stream?type=movies&id=18005
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",Sewu Dino
-https://fmftp.net/api/stream/video/stream?type=movies&id=18019
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",The Bluff
-https://fmftp.net/api/stream/video/stream?type=movies&id=20644
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",Thudarum
-https://fmftp.net/api/stream/video/stream?type=movies&id=1557
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",Border 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDg2MzhlN2YtYzU5ZC00OTZlLTgwNzctMjJmMzQ1ODQ1NDY2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Kartavya
+https://fmftp.net/api/stream/video/stream?type=movies&id=20884
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGM5M2I0YWEtMjNlOS00ZmIwLThiYjYtODA5ODAzYTc3ZDU5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Indian Institute of Zombies
+https://fmftp.net/api/stream/video/stream?type=movies&id=20900
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGEyMDRmYTMtZjNhYy00Mjc0LTg4NDItYWE5NzE1ZDE3NjM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Daadi Ki Shaadi
+https://fmftp.net/api/stream/video/stream?type=movies&id=20898
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwFGZcW1fZ9wmGZeEkAUnpI1iIR9EgduJYUA&s" group-title="Hindi Movies",Ginny Wedss Sunny 2
+https://fmftp.net/api/stream/video/stream?type=movies&id=20850
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2Y3NjRhYmMtNWVjMy00ZmE1LWJkNGYtNDY3Y2I3NjkzOGE0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Bhooth Bangla
+https://fmftp.net/api/stream/video/stream?type=movies&id=20813
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Toaster_film_poster.jpg/250px-Toaster_film_poster.jpg" group-title="Hindi Movies",Toaster
+https://fmftp.net/api/stream/video/stream?type=movies&id=20795
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDU1ZTQ3YjctMGZjMi00MjAzLWE1NTQtOWVhNDBjZjQ3YzIxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Everybody Loves Sohrab Handa
+https://fmftp.net/api/stream/video/stream?type=movies&id=20791
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzdkNjAxNWMtNWY3My00NTI1LTg2YWQtOGI3MDA0NzdhMjEyXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Dhurandhar The Revenge
+https://fmftp.net/api/stream/video/stream?type=movies&id=20702
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWVjYWQzZTQtNTI2MC00NzlmLTg3MjUtNGZlYzViNjcyODU4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Subedaar
+https://fmftp.net/api/stream/video/stream?type=movies&id=20672
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzNiZmRlMzctNTRmYi00OTk1LWFhZGMtMTE2NjM3NDNlZGNmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Nukkad Naatak
+https://fmftp.net/api/stream/video/stream?type=movies&id=20830
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BODA0ZWI5YTktZmE3Ny00NTUyLWEwZGMtNjEyMWZhZDhmNGRlXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",The Kerala Story 2 Goes Beyond
+https://fmftp.net/api/stream/video/stream?type=movies&id=20673
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTFjODQwNWYtMzMyOC00MzhhLWE1OTgtYmZjMzNjYjBhOTllXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Accused
+https://fmftp.net/api/stream/video/stream?type=movies&id=20654
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWJkNDFjMDctOGVhYS00ZGE1LWIzY2YtMzBiNjQwMjVhNmQ5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Assi
+https://fmftp.net/api/stream/video/stream?type=movies&id=20812
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5c/DDSM_Poster.jpg" group-title="Hindi Movies",Do Deewane Seher Mein
+https://fmftp.net/api/stream/video/stream?type=movies&id=20655
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTNiNzcxMDQtY2RlOS00MjAxLWIyN2MtNTYyMmIyMDM0ZDJhXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Lucky
+https://fmftp.net/api/stream/video/stream?type=movies&id=20639
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTQzZTgyODItYzg5My00YzhhLWFlYzctYTljM2E5NWI5NDcyXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",O' Romeo
+https://fmftp.net/api/stream/video/stream?type=movies&id=20640
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTI0NmU5MTItY2RjNC00MzRiLThkMzEtNGFhMTAxZDU1MDdiXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Tu Yaa Main
+https://fmftp.net/api/stream/video/stream?type=movies&id=20641
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjM1OWU5N2QtMTQwYy00N2Q5LTg5NjUtYWZhOTgwZjkxOWFlXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Vadh 2
+https://fmftp.net/api/stream/video/stream?type=movies&id=20769
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTU5NzQwMTktZTVhOC00MjllLThjZDEtMGNkYjgwNWFhMmVmXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Bhabiji Ghar Par Hain - Fun on the Run
+https://fmftp.net/api/stream/video/stream?type=movies&id=20605
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWZjMzgxMjctZDMzYi00MmMxLThiZmMtZjk3ZDAxZjcwZDE3XkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Mardaani 3
+https://fmftp.net/api/stream/video/stream?type=movies&id=20577
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjA4MTQxZjUtMDI2NC00ZWE1LWFiMzAtYTIwYTA5ZTYyMjgzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Hotspot 2 Much
+https://fmftp.net/api/stream/video/stream?type=movies&id=20637
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjQ5MzQ5ZDAtOTlkMi00YmIwLWI3MzctZGM5OGQ5OWU2MjJiXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Border 2
 https://fmftp.net/api/stream/video/stream?type=movies&id=20565
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies"Dabbe
-https://fmftp.net/api/stream/video/stream?type=movies&id=18030
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",Sewu Dino
-https://fmftp.net/api/stream/video/stream?type=movies&id=18019
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjM0NGRiYzctNzZhMS00NmU2LWJkZDItZTQxNGVhN2RkNTA1XkEyXkFqcGc@._V1_.jpg" group-title="Movies",Akhanda 2
-http://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Akhanda%202%20Thaandavam%20%282025%29%20Hindi%20720p%20HDTS%20x264%20%5BDDN%5D/Akhanda%202%20Thaandavam%20%282025%29%20Hindi%20720p%20HDTS%20x264%20%5BDDN%5D.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2UzNDZiM2EtYjk2MS00NGE5LTliYzktNGQxYWE5ZGUxOWE4XkEyXkFqcGc@._V1_.jpg" group-title="Movies",Ek Deewane Ki Deewaniyat
-http://ftp.ctgfun.com/Indian/Hindi%20Movies/Ek%20Deewane%20Ki%20Deewaniyat%20%282025%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Ek%20Deewane%20Ki%20Deewaniyat%20%282025%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Kis_Kisko_Pyaar_Karoon_2.jpg/250px-Kis_Kisko_Pyaar_Karoon_2.jpg" group-title="Movies",Kis Kisko Pyaar Karoon 2
-http://ftp.ctgfun.com/Indian/Hindi%20Movies/Kis%20Kisko%20Pyaar%20Karoon%202%20%282025%29%20Hindi%20720p%20HDTS%20x264%20%5BDDN%5D/Kis%20Kisko%20Pyaar%20Karoon%202%20%282025%29%20Hindi%20720p%20HDTS%20x264%20%5BDDN%5D.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2ZiZTY3YTUtMjQzNC00N2Q1LWE3MDAtODhiYjAxMGI0YjRmXkEyXkFqcGc@._V1_.jpg" group-title="Movies",Ikkis
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjc4ZmY1ZGEtZmRmYi00OTQzLTliY2MtMzhkNGFjYjM4ZTdhXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Mcoca
+https://fmftp.net/api/stream/video/stream?type=movies&id=20576
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzJlYjZkMDUtM2MzMi00NmVhLWJhYWYtYzI4NTA4ZGIxZjM3XkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Rahu Ketu
+https://fmftp.net/api/stream/video/stream?type=movies&id=20564
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWUyZTBjYTctMGQyNS00Mjg0LTg5ZTMtZDA1YmEyZDIxZjRlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Happy Patel Khatarnak Jasoos
+https://fmftp.net/api/stream/video/stream?type=movies&id=20563
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjZjYjhmOTUtNDg2MS00YjcwLTg4NzMtMWY1OTA4NWU0MDVkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Toh, Ti ani Fuji
+https://fmftp.net/api/stream/video/stream?type=movies&id=20811
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWVmYmJhOTMtMzlhOS00ZDgwLWE3OGUtMGJmZTI3MjRiZmJhXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",The Raja Saab
+https://fmftp.net/api/stream/video/stream?type=movies&id=20608
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5e/Ikkis_Poster.jpg" group-title="Hindi Movies",Ikkis
 https://fmftp.net/api/stream/video/stream?type=movies&id=20505
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWFlOWQ1OTctYjQ5NC00NDQ2LWFmNmQtMDNlOWFjNzExY2VkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Movies",Tu Meri Main Tera Main Tera Tu Meri
-http://ftp.ctgfun.com/Indian/Hindi%20Movies/Tu%20Meri%20Main%20Tera%20Main%20Tera%20Tu%20Meri%20%282025%29%20Hindi%20720p%20HDTS%20x264%20%5BDDN%5D/Tu%20Meri%20Main%20Tera%20Main%20Tera%20Tu%20Meri%20%282025%29%20Hindi%20720p%20HDTS%20x264%20%5BDDN%5D.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTNmNjM0OTktNmQ5NC00MWY1LWE4MDEtYWM0MjU4M2U0NTdiXkEyXkFqcGc@._V1_.jpg" group-title="Movies",Dhurandhar
-http://ftp.ctgfun.com/Indian/Hindi%20Movies/Dhurandhar%20%282025%29%20Hindi%20720p%20HDTS%20x264%20%5BDDN%5D/Dhurandhar%20%282025%29%20Hindi%20720p%20HDTS%20x264%20%5BDDN%5D.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWJrRSqR_E6efhpDAhpmKrxqUT-VA4Px1A96X8AxnImgJzLCjIbYizRXxJ&s=10" group-title="Hindi Movies",Tere Ishk Mein
-http://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Tere%20Ishk%20Mein%20%282025%29%20Hindi%20Tamil%20720p%20HDTS%20x264%20%5BDDN%5D/Tere%20Ishk%20Mein%20%282025%29%20Hindi%20Tamil%20720p%20HDTS%20x264%20%5BDDN%5D.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media5.bollywoodhungama.in/wp-content/uploads/2024/01/Mastiii4.jpeg" group-title="Hindi Movies",Masti 4
-http://ftp.ctgfun.com/Indian/Hindi%20Movies/Mastiii%204%20%282025%29%20Hindi%20720p%20HDTS%20x264%20%5BDDN%5D/Mastiii%204%20%282025%29%20Hindi%20720p%20HDTS%20x264%20%5BDDN%5D.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt6mUM-Gi7GhC8uD7BP2D75iao3WupXSCLvbZen5GcOw&s=10" group-title="Hindi Movies",De De Pyaar De 2
-http://ftp.ctgfun.com/Indian/Hindi%20Movies/De%20De%20Pyaar%20De%202%20%282025%29%20Hindi%20720p%20HDTS%20x264%20%5BDDN%5D/De%20De%20Pyaar%20De%202%20%282025%29%20Hindi%20720p%20HDTS%20x264%20%5BDDN%5D.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://stat5.bollywoodhungama.in/wp-content/uploads/2025/08/Jatadhara-3.jpg" group-title="Hindi Movies",Jatadhara
-https://fmftp.net/api/stream/video/stream?type=movies&id=20331
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ38796NBC_mg9Kp0E6A_YNCuRIBf4VR2rcMlOJ8YUXvyG49Lqk9GjH2Io&s=10" group-title="Hindi Movies",The Girlfriend 
-https://fmftp.net/api/stream/video/stream?type=movies&id=20332
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjZkNmI4MWUtMDAzNS00OTAzLWJmNDYtMDBkMGQyZWRiMzVjXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Ek Din
+https://fmftp.net/api/stream/video/stream?type=movies&id=20855
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmEwNTU4MzEtY2Y4Ni00ZWRmLThhMGMtMDE5MTZmMDIzMGVjXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Raja Shivaji
+https://fmftp.net/api/stream/video/stream?type=movies&id=20867
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtgK8bIFPkiZ9FrfVMjtb-_LzB5KLp8lSDj5HSgmHuggINDBzsMnvTpnIu&s=10" group-title="Movies",Sunny Sanskari Ki Tulsi Kumari
-http://ftp.ctgfun.com/Indian/Hindi%20Movies/Sunny%20Sanskari%20ki%20Tulsi%20Kumari%20%282025%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Sunny%20Sanskari%20ki%20Tulsi%20Kumari%20%282025%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/69/Kantara-_Chapter_1_poster.jpg/250px-Kantara-_Chapter_1_poster.jpg" group-title="Movies",Kantara A Legend Chapter 1
-https://fmftp.net/api/stream/video/stream?type=movies&id=20192
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cds1.discoveryftp.net/Movies/Hindi/2025/Thamma/poster.jpg" group-title="Movies",Thamma
-http://ftp.ctgfun.com/Indian/Hindi%20Movies/Thamma%20%282025%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Thamma%20%282025%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282025%29/Lokah%20Chapter%20One-Chandra%20%282025%29%201080p%20HDTC%20%5BMulti%20Audio%5D/a_AL_.jpg" group-title="Movies",Lokah Chapter 1
-http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282025%29/Lokah%20Chapter%20One-Chandra%20%282025%29%201080p%20HDTC%20%5BMulti%20Audio%5D/Lokah%20Chapter%201%20%282025%29%201080p%20HDTC%20x265%20HEVC%20ESub%20%5BMulti%20Audio%5D%5BHindi%20%28Clean%29%2BMalayalam%2BMulti%20CAM%5D%20-HDHub.mkv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282025%29/Kingdom%20%282025%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="Movies",Kingdom
-http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282025%29/Kingdom%20%282025%29%201080p%20%5BDual%20Audio%5D/Kingdom%20a.k.a%20Saamrajya%20%282025%29%20UNCUT%201080p%20DS4K%20WEBRip%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BTelugu%205.1%5D%20-DMV.mkv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282025%29/Robinhood%20%282025%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="Movies",Robinhood
-http://ftp.timepassbd.live/timepassbd-data/ftp4/MOVIES/SOUTH%20INDIAN%20MOVIES/2025/Robinhood%20%282025%29%20/Robinhood.2025.UNCUT.1080p.DS4K.WEB.DL.Hindi.5.1-Telugu.5.1.ESub.x264-TimepassBD.mkv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282025%29/Dragon%20%282025%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="Movies",Dragon
-http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282025%29/Dragon%20%282025%29%201080p%20%5BDual%20Audio%5D/Dragon%20%282025%29%20UNCUT%201080p%20WEBRip%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BTamil%205.1%5D%20-DMV.mkv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGM1N2ZiZTYtNDA5MS00NmE5LThhYzctNWNhMDdjOGMwNGQ0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Movies",Odela 2
-http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282025%29/Odela%202%20%282025%29%201080p%20%5BDual%20Audio%5D/Odela%202%20%282025%29%20UNCUT%201080p%20DS4K%20WEBRip%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BTelugu%205.1%5D%20-DMV.mkv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282024%29/Ayalaan%20%282024%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="Movies",Ayalaan
-http://cds1.discoveryftp.net/Movies/Tamil/2024/Ayalaan/Ayalaan%20%282024%29%20Dual%20Audio%20%5BHindi%20HQ-Tamil%5D%20WEB-DL%201080p%20Dual.mkv?md5=oQNG_SeFiia_JAwTIZFlaA&expires=1759350497
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Son%20of%20Sardaar%202%20%282025%29%201080p/a_AL_.jpg" group-title="Movies",Son Of Sardaar 2
-http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Son%20of%20Sardaar%202%20%282025%29%201080p/Son%20of%20Sardaar%202%20%282025%29%20Hindi%201080p%20NF%20WEBRip%20x264%20DD5.1%20ESub%20-%20mkvCinemas.mkv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Sitaare%20Zameen%20Par%20%282025%29%201080p/a_AL_.jpg" group-title="Movies",Sitaare Zameen Par
-http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Sitaare%20Zameen%20Par%20%282025%29%201080p/Sitaare%20Zameen%20Par%20%282025%29%20Hindi%201080p%20GPlay%20WEBRip%20x264%20DD5.1%20MSubs%20-%20mkvCinemas.mkv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Fateh%20%282025%29%201080p/a_AL_.jpg" group-title="Movies",Fateh
-http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Fateh%20%282025%29%201080p/Fateh%20%282025%29%20Hindi%201080p%20HS%20WEBRip%20x264%20DD5.1%20ESub%20-%20mkvCinemas.mkv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Dhadak%202%20%282025%29%201080p/a_AL_.jpg" group-title="Movies",Dhadak 2
-http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Dhadak%202%20%282025%29%201080p/Dhadak%202%20%282025%29%20Hindi%201080p%20NF%20WEBRip%20x264%20DD5.1%20ESub%20-%20mkvCinemas.mkv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282023%29/12th%20Fail%20%282023%29%201080p/a_AL_.jpg" group-title="Movies",12th Fail
-http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282023%29/12th%20Fail%20%282023%29%201080p/12th%20Fail%20%282023%29%20Hindi%201080p%20DSNP%20WEBRip%20x264%20DD5.1%20ESub%20-%20mkvCinemas.mkv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
 
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTkwZTFjYjItZTdlYi00OGQ3LTg4NWItOTc4MGY0MmI4YjU0XkEyXkFqcGc@._V1_QL75_UX123_.jpg" group-title="Web Series",Episode 1 - Gyaarah Gyaarah
-https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19586
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTkwZTFjYjItZTdlYi00OGQ3LTg4NWItOTc4MGY0MmI4YjU0XkEyXkFqcGc@._V1_QL75_UX123_.jpg" group-title="Web Series",Episode 2 - Gyaarah Gyaarah
-https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19587
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTkwZTFjYjItZTdlYi00OGQ3LTg4NWItOTc4MGY0MmI4YjU0XkEyXkFqcGc@._V1_QL75_UX123_.jpg" group-title="Web Series",Episode 3 - Gyaarah Gyaarah
-https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19588
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTkwZTFjYjItZTdlYi00OGQ3LTg4NWItOTc4MGY0MmI4YjU0XkEyXkFqcGc@._V1_QL75_UX123_.jpg" group-title="Web Series",Episode 4 - Gyaarah Gyaarah
-https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19589
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTkwZTFjYjItZTdlYi00OGQ3LTg4NWItOTc4MGY0MmI4YjU0XkEyXkFqcGc@._V1_QL75_UX123_.jpg" group-title="Web Series",Episode 5 - Gyaarah Gyaarah
-https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19590
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTkwZTFjYjItZTdlYi00OGQ3LTg4NWItOTc4MGY0MmI4YjU0XkEyXkFqcGc@._V1_QL75_UX123_.jpg" group-title="Web Series",Episode 6 - Gyaarah Gyaarah
-https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19591
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTkwZTFjYjItZTdlYi00OGQ3LTg4NWItOTc4MGY0MmI4YjU0XkEyXkFqcGc@._V1_QL75_UX123_.jpg" group-title="Web Series",Episode 7 - Gyaarah Gyaarah
-https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19592
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTkwZTFjYjItZTdlYi00OGQ3LTg4NWItOTc4MGY0MmI4YjU0XkEyXkFqcGc@._V1_QL75_UX123_.jpg" group-title="Web Series",Episode 8 - Gyaarah Gyaarah
-https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19593
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Web Series",
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Web Series",
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Web Series",
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Web Series",
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Mansion 24",1
-https://fmftp.net/api/stream/video/stream?type=tv_shows&id=20273
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Mansion 24",2
-https://fmftp.net/api/stream/video/stream?type=tv_shows&id=20274
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Mansion 24",3
-https://fmftp.net/api/stream/video/stream?type=tv_shows&id=20276
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Mansion 24",4
-https://fmftp.net/api/stream/video/stream?type=tv_shows&id=20277
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Mansion 24",5
-https://fmftp.net/api/stream/video/stream?type=tv_shows&id=20278
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Mansion 24",6
-https://fmftp.net/api/stream/video/stream?type=tv_shows&id=20279
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Movies",
 
 
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/1200px-ATN_Bangla.svg.png" group-title="LIVE Tv",ATN Bangla
-http://10.20.30.40:8088/202/tracks-v1a1/mono.m3u8?token=29d7829d923720a76364e5dfa2c6025bbb9e79b1-f30abc75097224068449427545af4428-1759045879-1759042279
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ATN_News_logo.svg/1200px-ATN_News_logo.svg.png" group-title="LIVE Tv",ATN NEWS
-http://10.20.30.40:8088/203/tracks-v1a1/mono.m3u8?token=8753dc03ff00a463ade15c36008e31fbeb65b9af-0766024887879c6893505646fa35a827-1759045955-1759042355
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/1200px-Ekattor_TV_logo.svg.png" group-title="LIVE Tv",Ekattar Tv
-http://10.20.30.40:8088/201/tracks-v1a1/mono.m3u8?token=63d1a64b8d6b3b20aad333846dd1c62133342c18-bb485b6c05f75e0d3a9dfe9c811eac53-1759045995-1759042395
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/SOMOY_TV_Logo.svg/1200px-SOMOY_TV_Logo.svg.png" group-title="LIVE Tv",Somoy Tv
-http://10.20.30.40:8088/205/tracks-v1a1/mono.m3u8?token=2960e3471399bd57ea353a3d8a909b332e13ca42-c1e5a5cc53a129aff3acfb79b99d6286-1759046033-1759042433
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png" group-title="LIVE Tv",NTv
-http://10.20.30.40:8088/208/tracks-v1a1/mono.m3u8?token=63b5992e17df1d79bbe5d1cf101e6a3f96370622-f00f5cc1bf515556dff9c6927912739e-1759046095-1759042495
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://jamunagroup.com.bd/company-images/1662487622-mdshamimislam.png" group-title="LIVE Tv",Jamuna Tv
-http://10.20.30.40:8088/209/tracks-v1a1/mono.m3u8?token=e9c314b5884b0296ec7b5bad7f8f97769f3c6cad-822ec3b053f94587a6249a274f10119f-1759046131-1759042531
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="LIVE Tv",Masranga
-http://10.20.30.40:8088/206/tracks-v1a1/mono.m3u8?token=123fdad238f265aad1597fc0b0420fdce2473d60-02f63bddc1f853d23efb8211e884b90e-1759046213-1759042613
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/1200px-Rtv_bangladesh.svg.png" group-title="LIVE Tv",RTv
-http://10.20.30.40:8088/210/tracks-v1a1/mono.m3u8?token=dd60775b7bb21b6cfc202f543322bec156b38453-3f4a51e2c4cb10a44570ecc746efedc3-1759046255-1759042655
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/1200px-Boishakhi_TV_logo.svg.png" group-title="LIVE Tv",Boishakhi tv
-http://10.20.30.40:8088/211/tracks-v1a1/mono.m3u8?token=202898a300e0783a5509877a68d4ed1e074c166a-cdec9863ce860b3cfb990aa7a431dbd6-1759046367-1759042767
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Logo_of_GTV_%28Bangladesh%29.svg/1200px-Logo_of_GTV_%28Bangladesh%29.svg.png" group-title="LIVE Tv",Gtv
-http://10.20.30.40:8088/106/tracks-v1a1/mono.m3u8?token=c2873f230f4a79a3b6e47fa75532883f3b96c0e7-db4a95141878345b86168080be8e7ab7-1759047290-1759043690
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWZ4HABUfBspJP_SKv50y-95Cje1Aba52me1mB_AlQHg&s=10" group-title="LIVE Tv",Banglavision 
-http://10.20.30.40:8088/212/tracks-v1a1/mono.m3u8?token=7664bb15073cd9247d829318edc54d7190763479-f8b0c4606da277a483fedd9fb075f96b-1759046513-1759042913
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="LIVE Tv",Star Jalsha
-http://10.20.30.40:8088/302/tracks-v1a1/mono.m3u8?token=f8708f16373baff168f7aaae4cb56faa857400ac-3779b0e20f846ff800b626a922cc4281-1759046567-1759042967
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png" group-title="LIVE Tv",Zee Bangla
-http://10.20.30.40:8088/301/tracks-v1a1/mono.m3u8?token=32941edd2514c72dcd82452d9c1c0250270a8240-73fdc1d29e6e462597b07a3fe8df552d-1759046623-1759043023
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Colors_Bangla.png" group-title="LIVE Tv",Colors Bangla
-http://10.20.30.40:8088/304/tracks-v1a1/mono.m3u8?token=9e6f7524de5d33e38036c934ed298f6d072b5dd0-21b59951283359e216aabe0446b714c3-1759046663-1759043063
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbInmhLWOVoGBWaxS-UJbu5alCS3Z8jPqHhvTP_z8-Gw&s=10" group-title="LIVE Tv"Zee Bangla Cinema
-http://10.20.30.40:8088/305/tracks-v1a1/mono.m3u8?token=cf27c3229d25f5bbc9cc5716f43470b2733252a9-589fc09450827b8e7acc6cfbc8028ce3-1759046713-1759043113
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdyBwrsl0xyznh50S7mAoUmepjRO3ZXexzQ4phPAaxLQ4sN46lHfR5nEyE&s=10" group-title="LIVE Tv",Jalsha Movies
-http://10.20.30.40:8088/303/tracks-v1a1/mono.m3u8?token=c2aa3b1f22a725f8f06bc6499bb78139a1b2fdfe-da9035c329288b26582e87810ce5ae0b-1759167545-1759163945
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/SETindialogo_new.png" group-title="LIVE Tv",Sony Tv
-http://10.20.30.40:8088/403/tracks-v1a1/mono.m3u8?token=b0a8be9763f81f5788a314d5a102f22abaeb9455-304a131538c87cc01b75742f03a01fda-1759046778-1759043178
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="LIVE Tv",Star Plus
-http://10.20.30.40:8088/401/tracks-v1a1/mono.m3u8?token=6eaa717019660d8f9a1e8d500203ec51cf403e2d-0cd55ec1ce8d062b9e4936ddb50a2fa1-1759046859-1759043259
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Colors_TV_logo.svg" group-title="LIVE Tv",Colors
-http://10.20.30.40:8088/405/tracks-v1a1/mono.m3u8?token=e0ac67e40ff4deaf000d2d1c70bb4ff98d965693-8fee28ac9d24d5d0c12b4444b428a07f-1759046892-1759043292
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Star_Gold_2020.svg" group-title="LIVE Tv",Star Gold
-http://10.20.30.40:8088/402/tracks-v1a1/mono.m3u8?token=3badc3db5b4470db860a914bb6b1de96c05a17df-5d9bd12e9f7cabb093b89e01a6fa026c-1759046930-1759043330
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDJdDpH0Yww4dMQu5Kt0xvq6X5FRJiHu4u0TocfL1Czg&s=10" group-title="LIVE Tv",& Pictures 
-http://10.20.30.40:8088/407/tracks-v1/mono.m3u8?token=4be7aafab5dbff96c921effccae2b3b3c5864fda-e281e0351a966a9187aecfd5871f1760-1759046970-1759043370
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/b/bb/Star_Gold_Thrills.png" group-title="LIVE Tv",Star Gold Thrill
-http://10.20.30.40:8088/408/tracks-v1a1/mono.m3u8?token=bb041c72fe027ade155b7cd689ff88ca5e1b1656-31f958271590c0ef05ed206d74af270a-1759047012-1759043412
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.worldvectorlogo.com/logos/discovery-channel-4.svg" group-title="LIVE Tv",Discovery
-http://10.20.30.40:8088/801/tracks-v1a1/mono.m3u8?token=edb071fbd18ac1ce489efbf8b82ce9b946455439-23a83a5772fc526c1b729aaba312406b-1759047072-1759043472
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/2560px-National_Geographic_Channel.svg.png" group-title="LIVE Tv",National Geography 
-http://10.20.30.40:8088/802/tracks-v1a1/mono.m3u8?token=7869845df6c49cb8d7b236dbc800a602a0aeb121-19e51661930a9d4e62f9ec04b55817cf-1759047108-1759043508
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ae/Sangeet_Bangla_logo_2018.png.webp/revision/latest/scale-to-width-down/250?cb=20240322135006" group-title="LIVE Tv",Sangeet Bangla
-http://10.20.30.40:8088/702/tracks-v1a1/mono.m3u8?token=5ec2c7fb1953b9deaba107df039cbed8dcc6aa73-5f78d1862ca65406c0ff818727306311-1759049376-1759045776
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/Mastiii_2016.png/revision/latest?cb=20240318192049" group-title="LIVE Tv",Masti
-http://10.20.30.40:8088/703/tracks-v1a1/mono.m3u8?token=090fa58ca927a8abdff7340b9f4346ac82c77d1b-15735ff19e60440e29c93d5ff820e5cc-1759049528-1759045928
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/B4U_Music_logo.png" group-title="LIVE Tv",B4U
-http://10.20.30.40:8088/701/tracks-v1a1/2025/09/28/07/58/24-05600.ts?token=3405a519ed3f2f956dce8b3c5c28ae30eb8f2866-c85743255a0e698f7b1bd71e0f7185b9-1759049600-1759046000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/9xm_red.svg/revision/latest?cb=20210508163434" group-title="LIVE Tv",9xm
-http://10.20.30.40:8088/704/tracks-v1a1/mono.m3u8?token=205fc6d67cbf4c19a72df7995d12e1718336660c-57815cd2b3b9f504daf3dab6ec4b10f1-1759049677-1759046077
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9cS6pFMvEWBeTOpYKe-gAtOBUbylm2fnawgc3FUhoKA&s=10" group-title="LIVE Tv",Nick
-http://10.20.30.40:8088/601/tracks-v1a1/mono.m3u8?token=01349874dbeb1f6d237de52c34dd47a567070020-cc79e3f62fa3ae1be865cc4127985d2f-1759049742-1759046142
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqbCPTWJge-eVY-5KHwaujdL-A0xMDd1SiXbt4t8X-zA&s=10" group-title="LIVE Tv",Disney Jr
-http://10.20.30.40:8088/602/tracks-v1a1/mono.m3u8?token=02f105c28b4c9f334ee35b17838029c9e06fec99-5f49d72d961343c46891f3521258456a-1759049815-1759046215
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png" group-title="LIVE Tv",Star Sports 1
-http://10.20.30.40:8088/110/tracks-v1a1/mono.m3u8?token=37cfb18e311f2cedb8d65465a73987a9ad83ceed-ba31b88bfda282d628a0297ae2bdebe9-1759049926-1759046326
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/STAR_Sports_2_logo.png/revision/latest?cb=20150719162835" group-title="LIVE Tv",Star Sports 2
-http://10.20.30.40:8088/115/tracks-v1a1/mono.m3u8?token=a319ca70a96ee81f1213e9380167109bb977d1a4-ac6a143dfd0573f0a3be1edcc3bbaec4-1759050008-1759046408
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png  " group-title="LIVE Tv",Sony Sports 1
-http://10.20.30.40:8088/119/tracks-v1a1/mono.m3u8?token=0dd9026af509d823396eb8b741554bb733ca80be-ae4abf6818b9189b9388927f6e34b35e-1759050099-1759046499
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LIVE Tv",Sony Sports 2
-http://10.20.30.40:8088/120/tracks-v1a1/mono.m3u8?token=d2dc884a492aca3a3071adcd62b157c66df8dac4-93c9fee5c73345d560b1445b05600c06-1759050204-1759046604
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVNVTrEegxS7G9uvj0Q1mD3x5MC21ueSFzJYfBfrvZoA&s=10" group-title="LIVE Tv",Sony Sports 3
-http://10.20.30.40:8088/121/tracks-v1a1/2025/09/28/08/09/12-05600.ts?token=2827c466c303d872a9a77fa74b1dd9ca271894e1-32c6ba9e1217baf76d2bf23eb43397a6-1759050248-1759046648
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Star-sports-select-1.png/revision/latest/scale-to-width-down/200?cb=20230128174436" group-title="LIVE Tv",Star Sports select 1
-http://10.20.30.40:8088/123/tracks-v1a1/mono.m3u8?token=b334fc72518923c7390c9a397b478462fb2ce211-495d0cce1c441335cdd93d847733c927-1759050361-1759046761
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Star-sports-select-2.png/revision/latest?cb=20230128175646" group-title="LIVE Tv",Star Sports select 2
-http://10.20.30.40:8088/124/tracks-v1a1/mono.m3u8?token=1cef9b5cc502fa3fced6db1f0b3662fd1cc2be6f-dee4a73edd8c4cbeb759689394cc19df-1759050478-1759046878
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LIVE Tv",Sports
-http://10.20.30.40:8088/101/tracks-v1a1/mono.m3u8?token=949185660fb812f6b2482d513999beae58e39602-adba1c9e0fcc1e90823d71cce474ad89-1759045696-1759042096
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/1200px-T_Sports_logo.svg.png" group-title="LIVE Tv",TSports
-http://10.20.30.40:8088/102/tracks-v1a1/mono.m3u8?token=6bc92a49f0ce7be1b4bbbcbdf60196950764f7da-93fd78801603ee5de2ecbb6be08f9f9b-1759045821-1759042221
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LIVE Tv",Sports
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LIVE Tv",Sports
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LIVE Tv",Sports
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LIVE Tv",Sports
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Southindian Hindi Dubbed",
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LIVE Tv",Sports
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Southindian Hindi Dubbed",
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LIVE Tv",Sports
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Southindian Hindi Dubbed",
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LIVE Tv",Sports
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2Y5NjY0NzktZjc2MS00YWMyLThlNDAtYWY3YWZlNGM5YjA2XkEyXkFqcGc@._V1_.jpg" group-title="Southindian Hindi Dubbed",Blast
+https://fmftp.net/api/stream/video/stream?type=movies&id=20984
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDQwM2QwMDEtMDk5MC00NmNlLThjMGMtY2IwZDhmZTU1MzFmXkEyXkFqcGc@._V1_.jpg" group-title="Southindian Hindi Dubbed",Ugly Story
+https://fmftp.net/api/stream/video/stream?type=movies&id=20933
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTY4NWY2MWQtMGFkMi00MDViLWEwZDgtNGMyZjA3MmYzMWU5XkEyXkFqcGc@._V1_.jpg" group-title="Southindian Hindi Dubbed",Karuppu
+https://fmftp.net/api/stream/video/stream?type=movies&id=20948
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWYzZDRhNTgtZGI1MS00NGZiLTkwNzYtMzE2NzlmZjE2MmRhXkEyXkFqcGc@._V1_.jpg" group-title="Southindian Hindi Dubbed",Arjun S/O Vyjayanthi
+https://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI-DUBBED/%282025%29/Arjun-Son-Of-Vyjayanthi-2025/Arjun-Son-Of-Vyjayanthi-2025-1080p-WEBDL-Hindi-HQ-Studio-Dub_reencoded.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjZiM2VjZTUtZTI5My00MjhmLWJjMGEtMzU1MmRhYTY2NjdlXkEyXkFqcGc@._V1_.jpg" group-title="Southindian Hindi Dubbed",Peddi
+https://fmftp.net/api/stream/video/stream?type=movies&id=20931
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTBiYWQyMWQtYTQwMC00NmZiLWFkOWYtNmNlNjM4NDlkNjQ4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Southindian Hindi Dubbed",Sathi Leelavathi
+https://fmftp.net/api/stream/video/stream?type=movies&id=20918
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDUzOGQyNTEtZDlhOC00OTRlLThiNzMtMWI5NDliYWVhMTllXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Southindian Hindi Dubbed",Kara
+https://fmftp.net/api/stream/video/stream?type=movies&id=20915
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5FJuZJLGDzsBPlFyMwDOgLeCva0vmlRMT5g&s" group-title="Southindian Hindi Dubbed",Madhuvidhu
+https://fmftp.net/api/stream/video/stream?type=movies&id=20904
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTk2NjNmYjUtMGEzNS00ZDFiLWE5NmItMDAzZDAyNDYwYTA1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Southindian Hindi Dubbed",TN 2026
+https://fmftp.net/api/stream/video/stream?type=movies&id=20919
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTA2YzhlYTUtMGJmMS00MjlmLWExMjYtOWEzOTBmMTViMWQyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Southindian Hindi Dubbed",Dacoit
+https://fmftp.net/api/stream/video/stream?type=movies&id=20794
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzZkN2FlMTQtZTI1MC00OGE4LTgxNDktOTdjNTlhYzVkN2MwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Southindian Hindi Dubbed",Mohiniyattam
+https://fmftp.net/api/stream/video/stream?type=movies&id=20869
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGViNGU3MWUtNDY0Zi00ZTJiLTg0MDUtZGNkN2ZkNjYwOWJhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Southindian Hindi Dubbed",Love Insurance Kompany
+https://fmftp.net/api/stream/video/stream?type=movies&id=20868
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Southindian Hindi Dubbed",
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LIVE Tv",Sports
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Southindian Hindi Dubbed",
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LIVE Tv",Sports
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Southindian Hindi Dubbed",
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LIVE Tv",Sports
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Southindian Hindi Dubbed",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Southindian Hindi Dubbed",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Southindian Hindi Dubbed",
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bangla Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bangla Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bangla Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bangla Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjExOGFmYTYtMzE3NS00ODY2LTg4N2YtN2YxOTE0NzYzZWIwXkEyXkFqcGc@._V1_.jpg" group-title="Bangla Movies",Ghumpori
+https://fmftp.net/api/stream/video/stream?type=movies&id=18621
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDQ3ZDM2ZjEtMjFjMy00NDljLWI2ZDktNDFkODYwMzFkOGNhXkEyXkFqcGc@._V1_.jpg" group-title="Bangla Movies",Cha Gorom
+https://fmftp.net/api/stream/video/stream?type=movies&id=20809
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmY0M2I1NjYtODU4Zi00MmIyLTk0OWUtMDlhN2JmNzFmOWI1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Bangla Movies",Bonolota Express
+https://fmftp.net/api/stream/video/stream?type=movies&id=20909
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTliMTg2MWMtZmM2NS00MWFmLTg1NjMtYTdmZmM4ZjEyZGZkXkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg" group-title="Bangla Movies",Rakkhosh
+https://fmftp.net/api/stream/video/stream?type=movies&id=20888
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDY5MTJmNDEtMjM5Zi00NmEwLWI5YjgtMzc2MmRhYTYyMDRmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Bangla Movies",Domm
+https://fmftp.net/api/stream/video/stream?type=movies&id=20887
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjg2MGQyYmYtNWY4My00Yjc2LTgwZmItMzRkYjQ3ZDVmNmIwXkEyXkFqcGc@._V1_.jpg" group-title="Bangla Movies",Prince Once Upon a Time in Dhaka
+https://fmftp.net/api/stream/video/stream?type=movies&id=20886
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/Jazz_City_2026_poster.jpg" group-title="Bangla Movies",Jazz City
+https://fmftp.net/api/stream/video/stream?type=movies&id=20706
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzczZThkYmItMjk4YS00NDU3LWIwNzItMzkzYWIwODE0ZTQ3XkEyXkFqcGc@._V1_.jpg" group-title="Bangla Movies",Ekshathe Alada
+https://fmftp.net/api/stream/video/stream?type=movies&id=20704
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjk4NmJkZjgtMDAwNS00N2EwLTllZDktNTkzZDA2MTZkYTRkXkEyXkFqcGc@._V1_.jpg" group-title="Bangla Movies",Cactus
+https://fmftp.net/api/stream/video/stream?type=movies&id=20703
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTNiZjM4NzctMWFmOC00MGI4LWJjMDctZjIwNDY5ZjIwNmQ2XkEyXkFqcGc@._V1_.jpg" group-title="Bangla Movies",Djinner Bachcha
+https://fmftp.net/api/stream/video/stream?type=movies&id=20656
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTFkN2IwMjctYzBmNC00NDZlLThiYjUtZDdhMDI3NWZhNTZlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Bangla Movies",Aatka
+https://fmftp.net/api/stream/video/stream?type=movies&id=20529
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFkDrZ0O6BCvMBRI8nDs8bDrpL-gpn5XDPxw&s" group-title="Bangla Movies",Jackpot
+https://fmftp.net/api/stream/video/stream?type=movies&id=20708
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTAwODc4NDYtOGI3MS00Nzc1LTk2MzctZTE3MzM2OThkMTE5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Bangla Movies",Dimlight
+https://fmftp.net/api/stream/video/stream?type=movies&id=20460
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/Noor_2025_film.jpg/250px-Noor_2025_film.jpg" group-title="Bangla Movies",Noor
+https://fmftp.net/api/stream/video/stream?type=movies&id=20461
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDZhYjMwMmEtM2NmOS00OWQxLWI5ZTUtYjJiNGJkNjY1MDA5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Bangla Movies",Neel Chokro
+https://fmftp.net/api/stream/video/stream?type=movies&id=20354
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTViZjY5MWItYWVhMy00ODdmLTg3ZjUtNjE2Y2IyODM0YzQ0XkEyXkFqcGc@._V1_.jpg" group-title="Bangla Movies",Tomar Jonno Mon
+https://fmftp.net/api/stream/video/stream?type=movies&id=20358
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbHGinJgclavls6-dqn0jISlax3MJ2BeNAFQ&s" group-title="Bangla Movies",Shortcut
+https://fmftp.net/api/stream/video/stream?type=movies&id=20355
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmMwZTk1MDctMjM1My00YTA5LTg0YmYtZWE5Y2Q4N2JhZGQ1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Bangla Movies",Taandob
+https://fmftp.net/api/stream/video/stream?type=movies&id=20021
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTgzM2IyZGQtOWEyNC00MmQyLTg5ZTAtMzlhZjlhMGJlNzZhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Bangla Movies",Utshob
+https://fmftp.net/api/stream/video/stream?type=movies&id=20022
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY1Y2Q3MzMtMzFiZi00OGEwLTg5OGMtZThmZmYyNjlkODEyXkEyXkFqcGc@._V1_.jpg" group-title="Bangla Movies",Insaaf: Tale of Legends
+https://fmftp.net/api/stream/video/stream?type=movies&id=20098
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWViYzgzNzQtMTA0YS00NmRhLWFhZDEtNzEzMjM5OTA4NzRhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Bangla Movies",Borbaad
+https://fmftp.net/api/stream/video/stream?type=movies&id=18616
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGRlNWFmNmItZjFkMy00OGRkLWEyMzUtNDZlMDIxMjRlN2M2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Bangla Movies",Daagi
+https://fmftp.net/api/stream/video/stream?type=movies&id=18619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/72/Chokkor_302_official_logo.jpg" group-title="Bangla Movies",Chokkor 302
+https://fmftp.net/api/stream/video/stream?type=movies&id=18623
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGI2NjI2MzAtNTkwYi00NWRlLWIwN2ItYTYyYTc3YjE0NjdlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Bangla Movies",Jongli
+https://fmftp.net/api/stream/video/stream?type=movies&id=18624
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzdlMDUyZGItYTBkYS00OWJjLTkyMjYtZGE0ZDVjYmQ1ZWJjXkEyXkFqcGc@._V1_.jpg" group-title="Bangla Movies",Toofan
+https://fmftp.net/api/stream/video/stream?type=movies&id=18641
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzhhMjAyMmItZTAwNS00ZmI1LThlZmMtYWE0ZmE0N2FiMmExXkEyXkFqcGc@._V1_.jpg" group-title="Bangla Movies",Last Defenders of Monogamy
+https://fmftp.net/api/stream/video/stream?type=movies&id=18639
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDc5YjcxYmEtOWYzMy00YjE2LThiMTEtZmYyYzI2NGFjMzk1XkEyXkFqcGc@._V1_.jpg" group-title="Bangla Movies",Antaratma
+https://fmftp.net/api/stream/video/stream?type=movies&id=20459
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b4/Hubba_film_poster.jpg" group-title="Bangla Movies",Hubba
+https://fmftp.net/api/stream/video/stream?type=movies&id=18648
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTVhYmNhNTgtN2UwMi00NjYwLWE5ZDYtNjhiZGZmOGQ2MGQxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Bangla Movies",Surongo
+https://fmftp.net/api/stream/video/stream?type=movies&id=18651
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bangla Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bangla Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bangla Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bangla Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bangla Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bangla Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bangla Movies",
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-eB8lmSUI6pCh_dsexHng6Ha6qNxQce-TgQ&s" group-title="Bangla Movies",Taarkata
+https://fmftp.net/api/stream/video/stream?type=movies&id=20938
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjQ5MDI5YTEtYmJkMi00MjczLTg0NzMtN2Y5MGEyZDlmMTdlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Kalkata Bangla Movies",Pariah Volume 1 Every Street Dog Has a Name
+https://fmftp.net/api/stream/video/stream?type=movies&id=18649
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjMwYTQ5ZTktODVjMC00ZmRmLTgzM2YtMzM5MDljM2IwODU0XkEyXkFqcGc@._V1_.jpg" group-title="Kalkata Bangla Movies",Grihapravesh
+https://fmftp.net/api/stream/video/stream?type=movies&id=20271
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTk3ODhkZTgtNTVkMC00NTRmLWIzMjctNzY0YmIxZGFjOTY4XkEyXkFqcGc@._V1_.jpg" group-title="Kalkata Bangla Movies",Shontaan
+https://fmftp.net/api/stream/video/stream?type=movies&id=18637
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kalkata Bangla Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kalkata Bangla Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kalkata Bangla Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kalkata Bangla Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kalkata Bangla Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kalkata Bangla Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kalkata Bangla Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kalkata Bangla Movies",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kalkata Bangla Movies",
